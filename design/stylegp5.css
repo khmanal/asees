@@ -1,0 +1,63 @@
+.cal_fond_tableau {
+	font-family: arial;
+	font-size: 8pt;
+	text-decoration: none;
+	background-image: url(calendrier/cyclesfondgp5.jpg);
+	background-repeat: repeat;
+}
+
+#cal_seq15 {
+	width: 830px;
+}
+
+#cal_cci15 {
+	margin-left: 410px;
+}
+
+#cal_seq17 {
+	width: 500px;
+}
+
+#cal_cci17 {
+	margin-left: -2px;
+}
+
+#cal_seq18 {
+	width: 700px;
+}
+
+#cal_cci18 {
+	margin-left: 275px;
+}
+
+#cal_seq19 {
+	width: 730px;
+}
+
+#cal_cci19 {
+	margin-left: 274px;
+}
+
+#cal_seq20 {
+	width: 650px;
+}
+
+#cal_cci20 {
+	margin-left: 206px;
+}
+
+#cal_seq21, #cal_seq22 {
+	width: 600px;
+}
+
+#cal_cci21, #cal_cci22 {
+	margin-left: 138px;
+}
+
+#cal_seq24 {
+	width: 500px;
+}
+
+#cal_cci24 {
+	margin-left: 70px;
+}

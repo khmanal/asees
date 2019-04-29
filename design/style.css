@@ -1,0 +1,115 @@
+body {	font-size: 10pt; font-family: arial; text-decoration: none; 	background-color: #eeeeee; background-image: url(fondegra.gif); background-repeat: repeat-x;}
+a:link { color: #333333; text-decoration: none;	}
+a:visited { color: #333333; text-decoration: none;}
+a:hover {color: #820082;text-decoration: underline;}
+
+a:link img { border: 0px solid #7685B5 }
+a:visited img { border: 0px solid #888888 }
+TD {font-size: 10pt; text-decoration: none;}
+.tablefond {background-color:#E9E9E9; text-align: left;}
+.tablesousbande { background-color:#000000;}
+.tablerub1{ background-color:#B44A3E;}
+.tablerub2{ background-color:#E4422D;}
+.tablerub3{ background-color:#FF734D;}
+.tablerub4{ background-color:#EE966C;}
+.tablesousrubtitre{ color: #000000;font-size: 9pt; background-color:#DFDFDF;font-weight: bold;}
+.tablesousrubfond{ background-color:#F0F0F0;}
+
+.newstitre { font-size: 8pt; text-decoration: none; }
+.newsauteur { font-size: 8pt; text-decoration: none; background-color:#DFDFDF;}
+
+.tablannexe { background-color:#666666;}
+.fondpuce{ background-image:url(design/fondpuce.gif)}
+
+.tablelisttitre{ background-color:#CCCCCC;}
+.tableliste1{ background-color:#F3F3F3;}
+.tableliste2{ background-color:#E4E4E4;}
+
+
+
+.savoirplus1 {  color: #B44A3E; font-size: 9pt; font-weight: bold; }
+.savoirplus2 {  color: #E4422D;font-size: 9pt; font-weight: bold; }
+.savoirplus3 {  color: #FF734D;font-size: 9pt; font-weight: bold; }
+.savoirplus4 {  color: #EE966C; font-size: 9pt;font-weight: bold;  }
+	
+.infomenu { color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration: none; }
+a.infomenu:link { color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration: underline; }
+a.infomenu:hover  { color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration: underline;}
+a.infomenu:visited{ color: #FFFFFF; font-size: 8pt; font-family: Arial, Helvetica, sans-serif; text-decoration: none;  }
+
+.titrerubrique {color: #FFFFFF;	font-family: arial;	font-size: 10pt; text-decoration: none;	font-weight: bold; }
+.titresousrub {	color: #ffffff;	font-family: arial;	font-size: 9pt; text-decoration: none;	font-weight: bold; }
+.plusinfo {color: ##00CC00; font-family: arial; font-size: 9pt; text-decoration: none; font-weight: bold;}
+.styleformulaire {color: #000000; font-family: arial; font-size: 9pt; text-decoration: none; font-weight: bold;}
+
+
+#master{
+	z-index:3;
+	margin: auto auto 0 auto;
+	top:8px;
+	padding:0px;
+	margin-left:auto;
+	margin-right:auto;
+	width: 800px;
+	/*height: 600px;
+	margin-top: 0px; */
+	border: 0px;
+	/*border-bottom:0;*/
+	 
+}
+
+/* bandeau */
+
+
+.bandeau {background-image: url(bandeaubas.jpg); background-repeat: no-repeat;background-color:#000000;}
+
+/* calendriers */
+.cal_date_full1 {background-color:#F3F3F3;font-family: arial;	font-size: 8pt; text-decoration: none;font-weight: bold;}
+.cal_date_week1 {background-color:#F3F3F3;font-family: arial;	font-size: 8pt; text-decoration: none;}
+.cal_date_full2 {background-color:#E4E4E4;font-family: arial;	font-size: 8pt; text-decoration: none;font-weight: bold;}
+.cal_date_week2 {background-color:#E4E4E4;font-family: arial;	font-size: 8pt; text-decoration: none;}
+.cal_fond_cycle {background-color:#CCCCCC;	font-family: arial;	font-size: 8pt; text-decoration: none;font-weight: none;}
+.cal_fond_etude {background-color: #D7E0FB;	font-family: arial;	font-size: 8pt; text-decoration: none;}
+.cal_fond_formulaire {background-color:#E0F3FC; font-family: arial;font-size: 8pt; text-decoration: none;}
+.cal_fond_sqr {background-color:#BEDFEF; font-family: arial;	font-size: 8pt; text-decoration: none;}
+.cal_fond_tutorat {background-color:#D0D5F4; font-family: arial;font-size: 8pt; text-decoration: none;}
+.cal_fond_tableau {font-family: arial;font-size: 8pt; text-decoration: none;background-image: url(cyclesfond.jpg); background-repeat: repeat;}
+.cal_discipline {font-family: arial;	font-size: 8pt; text-align: left; text-decoration: none;font-weight: bold;}
+.cal_font {font-family: arial;	font-size: 8pt; text-align: center; text-decoration: none;font-weight: none;}
+
+/* homaepage DVD */
+
+#container {
+	z-index:3;
+	margin: auto auto 0 auto;
+	top:8px;
+	padding:0px;
+	width: 800px;
+	height: 600px;
+	margin-top: 0px; 
+	border: 0px;
+	/*border-bottom:0;*/
+	 
+}
+#back {
+	z-index:1;
+	position:absolute; 
+	margin: 0 0 0 0;
+	margin-left:0px; 
+	top:8px;
+	padding:0px;
+	border: 0px;
+	/*border-bottom:0;*/
+	 
+}
+
+#menu {
+
+ position:relative;
+ z-index:2; 
+ margin-left: 29px; 
+ margin-top: 260px; 
+ left: 11px; 
+ top: 116px;"
+ 
+ }

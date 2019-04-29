@@ -1,0 +1,1735 @@
+body {	font-size: 10pt; font-family: arial; text-decoration: none; background-color: #ffffff; background-image: none; background-repeat: repeat-x;}
+a:link { color: #333333; text-decoration: none;	}
+a:visited { color: #333333; text-decoration: none;}
+a:hover {color: #e30716;text-decoration: none;}
+
+a:link img { border: 0px solid #7685B5 }
+a:visited img { border: 0px solid #888888 }
+TD {font-size: 10pt; text-decoration: none;}
+.tablefond {background-color:#E9E9E9; text-align: left;}
+.tablesousbande { background-color:#000000;}
+.tablerub1{ background-color:#e30716;}
+.tablerub2{ background-color:#e30716;}
+.tablerub3{ background-color:#e30716;}
+.tablerub4{ background-color:#e30716;}
+.tablesousrubtitre{ color: #000000;font-size: 9pt; background-color:#DFDFDF;font-weight: bold;}
+.tablesousrubfond{ background-color:#F0F0F0;}
+
+
+.tablannexe { background-color:#666666;}
+.fondpuce{ background-image:url(fondpuce.gif)}
+
+.tablelisttitre{ background-color:#CCCCCC;}
+.tableliste1{ background-color:#F3F3F3;}
+.tableliste2{ background-color:#E4E4E4;}
+.layercontenttext { background-color:#F3F3F3; padding: 10px 10px 10px 10px;}
+
+.rubsoustitre { color:#009900;font-size: 10pt;font-weight: bold;}
+.rubsoustitrepuce { color:#009900;font-size: 10pt;font-weight: bold;background: url(triangle.png) no-repeat ; padding-left: 14px;}
+
+
+.tabledocintertitre {
+color: #666666;
+font-size: 16px;
+padding-left: 10px;
+}
+
+.tabledoctitre { background-color:#FFFFFF; /* color:#e30716 */;font-size:18px;padding-top:4px;padding-bottom:4px;font-weight:none; clear:both;padding-left:10px;border-top-left-radius:5px;border-top-right-radius:5px;margin-bottom:1px;border-bottom: 1px solid #cccccc;
+}
+.tabledoc1 { padding-top:10px;background-color:#FFFFFF;width:950px;height:90px; clear:both;margin-top:1px;border-bottom:1px dotted #aaaaaa;}
+.tabledoc2 { padding-top:10px;background-color:#FFFFFF;width:950px;height:90px; clear:both;margin-top:1px;border-bottom:1px dotted #aaaaaa;}
+.tabledoc3 { padding-top:10px;background-color:#FFFFFF;width:950px;height:90px; clear:both;margin-top:1px;border-bottom:1px dotted #aaaaaa;border-top:1px dotted #aaaaaa;}
+
+.filtextintro { float:left; margin-top:24px;}
+.filaction { float:right; margin-top:24px;margin-right:20px;}
+
+.tableleft { float:left;width:760px;padding-left:8px;}
+.tableright { float:right;width:76px;padding-right:10px;margin-top:-70px;}
+.tablepreview1 { float:right;
+	height:90px;
+	margin-top:-2px;
+	width:150px;
+	margin-right: 10px;
+
+/* background-image: url(preview.jpg);background-repeat: no-repeat; */
+}
+.tablepreview2 { float:right;width:80px;height:90px;margin-top:-2px;
+/* background-image: url(preview2.jpg);background-repeat: no-repeat; */
+}
+.titredoc { font-weight: bold;}
+
+
+
+.buttonactionA a {
+font-size:12px;
+background-color: #e30716;
+color: #FFFFFF;
+padding: 2px 6px;
+border: 1px solid #e30716;
+border-radius: 5px;
+clear:both;
+float:right;
+margin-bottom:5px;
+width:130px;
+text-align:center;
+font-weight:bold;
+}
+
+.buttonactionB a {
+font-size:12px;
+color: #555555;
+border: 1px solid #CCCCCC;
+/*
+color: #e30716;
+border: 1px solid #e30716;
+*/
+padding: 2px 6px;
+border-radius: 5px;
+clear:both;
+float:right;
+margin-bottom:5px;
+width:130px;
+text-align:center;
+}
+
+
+.timecourslabel {
+	font-size:11px;font-weight:normal;margin-right:4px;
+}
+
+
+.savoirplus1 {  color: #e30716; font-size: 9pt; font-weight: bold; }
+.savoirplus2 {  color: #e30716;font-size: 9pt; font-weight: bold; }
+.savoirplus3 {  color: #e30716;font-size: 9pt; font-weight: bold; }
+.savoirplus4 {  color: #e30716; font-size: 9pt;font-weight: bold;  }
+
+.savoirpluspuce1 { color: #e30716; font-size: 9pt; font-weight: bold; background: url(localise/pucetxt1.gif) no-repeat ; padding-left: 14px; }
+.savoirpluspuce3 { color: #e30716; font-size: 9pt; font-weight: bold; background: url(localise/pucetxt3.gif) no-repeat ; padding-left: 14px; }
+.savoirpluspuceinvert1 { background-color:#e30716;color: #ffffff; font-size: 9pt; font-weight: bold; padding-left: 8px;padding-right: 8px; }
+.savoirpluspuceinvert3 { background-color:#e30716;color: #ffffff; font-size: 9pt; font-weight: bold; padding-left: 8px;padding-right: 8px; }
+
+
+.infomenu { color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-decoration: none;}
+a.infomenu:link { color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration: underline;}
+a.infomenu:hover  { color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration: underline;}
+a.infomenu:visited { color: #FFFFFF; font-size: 8pt; font-family: Arial, Helvetica, sans-serif; text-decoration: none;}
+
+.titrerubrique {color: #FFFFFF;	font-family: arial;	font-size: 10pt; text-decoration: none;	font-weight: bold; }
+.titresousrub {	color: #ffffff;	font-family: arial;	font-size: 9pt; text-decoration: none;	font-weight: bold; }
+.plusinfo {color: ##00CC00; font-family: arial; font-size: 9pt; text-decoration: none; font-weight: bold;}
+.styleformulaire {color: #000000; font-family: arial; font-size: 9pt; text-decoration: none; font-weight: bold;}
+
+/* zone gnrale de la page */
+
+#layergeneral {
+	/* align center */
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:12px;
+	margin-bottom:12px;
+	width:980px;
+	background-color:#FFFFFF;
+	text-align: left;
+	padding:10px;
+}
+
+
+
+
+/* ---- STYLES DE LA HOMEPAGE */
+
+#layerhome {
+	background-image: url(home/homepage.jpg);
+	background-repeat: no-repeat;
+	background-color:#ffffff;
+	width:800px;
+	height:600px;
+	clear:both; /*Force retour gauche sous les float */
+}
+
+/* zone cliquable menupresent */
+#menupresent{    /* bloc image en arrire-plan */
+	position:relative;
+	float:left;
+	margin-left:224px;
+	margin-top:180px;
+	background-color:#000000;
+	width:291px;
+	height:44px;
+	  /*background:url(menu_present.gif) top left no-repeat;*/
+}
+
+
+#menupresent a span { /* contenu masqu mais accessible sans CSS*/
+	position: absolute;
+	left: -1500em;
+	top: -1500em;
+	text-indent: -1500em;
+}
+
+/* zone cliquable menuinfo */
+#menuinfo{    /* bloc image en arrire-plan */
+	position:relative;
+	left:430px;
+	top:180px;
+	width :310px;
+	height: 40px;
+	/* background:url(menu_faculte.gif) top left no-repeat; */
+}
+
+#menuinfoclic {    /* zone cliquable */
+	float: left;
+	width :310px;
+	height: 40px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+#menuinfo a span { /* contenu masqu mais accessible sans CSS*/
+	position: absolute;
+	left: -1500em;
+	top: -1500em;
+	text-indent: -1500em;
+}
+
+/* zone cliquable gosearch*/
+#gosearch{    /* bloc image en arrire-plan */
+	position: relative;
+	right:15px;
+	top:200px;
+	width:81px;
+	height:19px;
+	background:url(search/recherceico.jpg) top left no-repeat;
+	float:right;
+}
+
+#gosearchclic {    /* zone cliquable */
+	float: left;
+	width : 81px;
+	height: 19px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+#gosearch a span { /* contenu masqu mais accessible sans CSS*/
+	position: absolute;
+	left: -1500em;
+	top: -1500em;
+	text-indent: -1500em;
+}
+/* zone cliquable menufac */
+/* zone cliquable menufac */
+#menufac{    /* bloc image en arrire-plan */
+	position:relative;
+	left:25px;
+	top:294px;
+	width:452px;
+	height:43px;
+	background:url(home/calendrier.jpg) top left no-repeat;
+	float:left;
+}
+
+#menufacclic {    /* zone cliquable */
+	float: left;
+	width : 452px;
+	height: 43px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+#menufac a span { /* contenu masqu mais accessible sans CSS*/
+	position: absolute;
+	left: -1500em;
+	top: -1500em;
+	text-indent: -1500em;
+}
+/* zone cliquable menufac */
+#menufil{    /* bloc image en arrire-plan */
+	position:relative;
+	left:20px;
+	top:300px;
+	width:570px;
+	height:56px;
+	background:url(home/filieres.jpg) top left no-repeat;
+	float:left;
+}
+
+#menufilclic {    /* zone cliquable */
+	float: left;
+	width : 570px;
+	height: 56px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+#menufil a span { /* contenu masqu mais accessible sans CSS*/
+	position: absolute;
+	left: -1500em;
+	top: -1500em;
+	text-indent: -1500em;
+}
+/* zone cliquable menuref */
+#menuref{    /* bloc image en arrire-plan */
+	position:relative;
+	left:310px;
+	top:305px;
+	width : 452px;
+	height: 56px;
+	background:url(home/modalites.jpg) top left no-repeat;
+	float:left;clear:left;
+}
+
+#menurefclic {    /* zone cliquable */
+	float: left;
+	width : 452px;
+	height: 56px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+#menuref a span { /* contenu masqu mais accessible sans CSS*/
+	position: absolute;
+	left: -1500em;
+	top: -1500em;
+	text-indent: -1500em;
+}
+/* ---- STYLES DU HEADER GENERAL */
+
+#layerheader {
+background-color:#FFFFFF;
+height:30px;
+clear:both; /*Force retour gauche sous les float */
+display:block;
+}
+
+
+
+/* ------- mheader top -------------- */
+
+#mnavtop {
+	height:30px;
+}
+
+#mnavtopconnect {
+	width:250px;
+	float:right;
+	white-space: nowrap;
+}
+
+#mnavtopsites {
+	float:right;
+	width:200px;
+	white-space: nowrap;
+}
+
+/* -------- MICONS --------------------- */
+
+
+.micon_cell {
+ margin-top: 10px;
+ margin-right:10px;
+}
+
+.micon_text {
+padding-top:2px;
+ font-weight: bold;
+}
+
+.micon {
+    height:20px;
+    width:20px;
+    cursor: hand;
+    cursor: pointer;
+    float:left;
+    vertical-align: baseline;
+    margin-left:0px;
+    margin-right:4px;
+
+}
+
+.miconmini {
+    height:10px;
+    width:10px;
+    cursor: hand;
+    cursor: pointer;
+    float:left;
+    vertical-align: baseline;
+    margin-left:0px;
+    margin-right:4px;
+}
+
+.miconmax {
+    height:70px;
+    width:70px;
+    cursor: hand;
+    cursor: pointer;
+    float:left;
+    vertical-align: baseline;
+    margin-left:0px;
+    margin-right:4px;
+}
+
+.miconmaxsup {
+	cursor: pointer;
+  cursor: hand;
+	float: left;
+	height: 90px;
+	width: 90px;
+	margin-left: 0;
+	margin-right: 10px;
+	vertical-align: baseline;
+}
+
+.micon_follow {
+    background: #ffffff url("nav/icon_follow.png") no-repeat;
+    background-size: 100%;
+}
+.micon_user {
+    background: #ffffff url("nav/icon_user.png") no-repeat;
+    background-size: 100%;
+}
+.micon_list {
+    background: #ffffff url("nav/icon_list.png") no-repeat;
+    background-size: 100%;
+}
+
+
+.micon_list {
+    background: #ffffff url("nav/icon_list.png") no-repeat;
+    background-size: 100%;
+}
+
+.micon_multimedia {
+	background: transparent url("nav/icon_multimedia.png") no-repeat scroll 0 0 / 100% auto;
+
+}
+
+
+/* ---- STYLES DES MENUS GROUPS*/
+
+#menugroupline1 {    /* bloc image en arrire-plan */
+	width :800px;
+	height:33px;
+	position:relative;
+	left:25px;
+	top:307px;
+	/* clear:both; */
+	float:left;
+}
+
+#menugroupline2 {    /* bloc image en arrire-plan */
+	width :500px;
+	height:33px;
+	position:relative;
+	left:50px;
+	top:250px;
+	/* clear:both; */
+	float:left;
+}
+/* group */
+#menugroup1 {    /* bloc image en arri�re-plan */
+width : 94px;
+height: 32px;
+background: url(home/groupe01.jpg) top left no-repeat ;
+float:left;
+}
+
+#menugroup1clic {    /* zone cliquable */
+float: left;
+width : 94px;
+height: 32px;
+margin-left: 0px;
+margin-top: 0px;
+}
+#menugroup1 a span { /* contenu masqu� mais accessible sans CSS*/
+position: absolute;
+left: -1500em;
+top: -1500em;
+text-indent: -1500em;
+}
+/* group */
+#menugroup2 {    /* bloc image en arri�re-plan */
+width : 94px;
+height: 32px;
+background: url(home/groupe02.jpg) top left no-repeat ;
+float:left;
+}
+
+#menugroup2clic {    /* zone cliquable */
+float: left;
+width : 94px;
+height: 32px;
+margin-left: 0px;
+margin-top: 0px;
+}
+#menugroup2 a span { /* contenu masqu� mais accessible sans CSS*/
+position: absolute;
+left: -1500em;
+top: -1500em;
+text-indent: -1500em;
+}
+/* group */
+#menugroup3 {    /* bloc image en arri�re-plan */
+width : 94px;
+height: 32px;
+background: url(home/groupe03.jpg) top left no-repeat ;
+float:left;
+}
+
+#menugroup3clic {    /* zone cliquable */
+float: left;
+width : 94px;
+height: 32px;
+margin-left: 0px;
+margin-top: 0px;
+}
+#menugroup3 a span { /* contenu masqu� mais accessible sans CSS*/
+position: absolute;
+left: -1500em;
+top: -1500em;
+text-indent: -1500em;
+}
+/* group */
+#menugroup4 {    /* bloc image en arri�re-plan */
+width : 94px;
+height: 32px;
+background: url(home/groupe04.jpg) top left no-repeat ;
+float:left;
+}
+
+#menugroup4clic {    /* zone cliquable */
+float: left;
+width : 94px;
+height: 32px;
+margin-left: 0px;
+margin-top: 0px;
+}
+#menugroup4 a span { /* contenu masqu� mais accessible sans CSS*/
+position: absolute;
+left: -1500em;
+top: -1500em;
+text-indent: -1500em;
+}
+/* group */
+#menugroup5 {    /* bloc image en arri�re-plan */
+width : 94px;
+height: 32px;
+background: url(home/groupe05.jpg) top left no-repeat ;
+float:left;
+}
+
+#menugroup5clic {    /* zone cliquable */
+float: left;
+width : 94px;
+height: 32px;
+margin-left: 0px;
+margin-top: 0px;
+}
+#menugroup5 a span { /* contenu masqu� mais accessible sans CSS*/
+position: absolute;
+left: -1500em;
+top: -1500em;
+text-indent: -1500em;
+}
+/* group */
+#menugroup6 {    /* bloc image en arri�re-plan */
+width : 94px;
+height: 32px;
+background: url(home/groupe06.jpg) top left no-repeat ;
+float:left;
+}
+
+#menugroup6clic {    /* zone cliquable */
+float: left;
+width : 94px;
+height: 32px;
+margin-left: 0px;
+margin-top: 0px;
+}
+#menugroup6 a span { /* contenu masqu� mais accessible sans CSS*/
+position: absolute;
+left: -1500em;
+top: -1500em;
+text-indent: -1500em;
+}
+/* group */
+#menugroup7 {    /* bloc image en arri�re-plan */
+display:none;
+width : 94px;
+height: 32px;
+background: url(home/groupe07.jpg) top left no-repeat ;
+float:left;
+}
+
+#menugroup7clic {    /* zone cliquable */
+display:none;
+float: left;
+width : 94px;
+height: 32px;
+margin-left: 0px;
+margin-top: 0px;
+}
+#menugroup7 a span { /* contenu masqu� mais accessible sans CSS*/
+display:none;
+position: absolute;
+left: -1500em;
+top: -1500em;
+text-indent: -1500em;
+}
+/* group */
+#menugroup8 {    /* bloc image en arri�re-plan */
+display:none;
+width : 94px;
+height: 32px;
+background: url(home/groupe08.jpg) top left no-repeat ;
+float:left;
+}
+
+#menugroup8clic {    /* zone cliquable */
+display:none;
+float: left;
+width : 94px;
+height: 32px;
+margin-left: 0px;
+margin-top: 0px;
+}
+#menugroup8 a span { /* contenu masqu� mais accessible sans CSS*/
+display:none;		
+position: absolute;
+left: -1500em;
+top: -1500em;
+text-indent: -1500em;
+}
+
+
+
+/* ---- STYLES DU BANDEAU GENERAL */
+/* zone du bandeau d�fini dans localise.css */
+#layerbandeau {
+height:170px;
+width:980px;
+background-image: url(header/header.jpg);
+background-repeat: no-repeat;
+clear:both;
+margin-top:8px;
+}
+
+/* ---------------- STYLES DES MENUS SOUS BANDEAU  */
+/* style des bandes de menu sous le bandeau  */
+
+#topmenu {
+	clear: both;
+	font-weight: bold;
+	font-size: 10px;
+	/* background: url(topmenu/topmenu.gif); */
+	width: 980px;
+	color: #333333;
+	/* padding-top: 2px; */
+	font-family: arial, helvetica, sans-serif;
+	height:18px;
+	text-decoration: none;
+	background-color:#ffffff;
+	margin-bottom:10px;
+}
+
+#topmenu a, #topmenu a:visited {
+	text-decoration: none;
+}
+
+#topmenu a:hover {
+	text-decoration: none;
+}
+
+#topmenuleft {
+	padding-left: 0px;
+	float: left;
+	padding-top: 3px;
+}
+
+#topmenuleft a, #topmenuleft a:visited {
+	font-size: 10px;
+	color: #333333;
+	font-family: arial, helvetica, sans-serif;
+	text-decoration: none;
+	background: none no-repeat 0px 0px;
+	border-right: 1px dotted #aaaaaa;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+#topmenuleft a:hover {
+	text-decoration: none;
+}
+
+#topmenuright {
+	font-size: 10px;
+	padding-right: 10px;
+	float: right;
+	padding-top: 3px;
+}
+
+#topmenuright a, #topmenuright a:visited {
+	margin-top: 1px;
+	padding-left: 8px;
+	padding-right: 8px;
+	border-left: 1px dotted #aaaaaa;
+	color: #333333;
+	font-family: arial, helvetica, sans-serif;
+	text-decoration: none
+}
+
+#topmenuright a:hover {
+	text-decoration: none;
+}
+
+.topmenupuce {
+}
+
+/* ---- STYLES DU CONTENU */
+/* les colonnes sont dfinies dans localise.css partie styles communs */
+/* cadres des colonnes */
+
+#layercol1 {
+	float:left;
+	padding-right: 8px;
+	padding-left: 8px;
+	margin-left:8px;
+	margin-bottom:10px;
+	margin-top:10px;
+	width:750px;
+	background: url(localise/linepoint1.gif) repeat-y;
+}
+
+#layercol1 ul {
+	list-style-position:outside;
+	list-style-image:url(localise/pucetxt1.gif);
+	margin-left:18px;
+}
+
+#layercol2 {
+	float:left;
+	padding-right: 8px;
+	padding-left: 8px;
+	margin-right:0;
+	margin-left:8px;
+	margin-bottom:10px;
+	margin-top:10px;
+	width:750px;
+	background: url(localise/linepoint2.gif) repeat-y;
+}
+
+#layercol2 ul {
+	list-style-position:outside;
+	list-style-image:url(localise/pucetxt2.gif);
+	margin-left:18px;
+}
+
+#layercol3 {
+	float:left;
+	padding-right: 8px;
+	padding-left: 8px;
+	margin-right:0;
+	margin-left:8px;
+	margin-bottom:10px;
+	margin-top:10px;
+	width:950px;
+	/* border-left: 1px dashed #e30716;	*/
+}
+
+#layercol3 ul {
+	list-style-position:outside;
+	list-style-image:url(localise/pucetxt3.gif);
+	margin-left:18px;
+}
+
+
+#layercolneo, #layercolneo2 {
+	float:left;
+	padding-right: 8px;
+	padding-left: 8px;
+	margin-right:0;
+	margin-left:8px;
+	margin-bottom:10px;
+	margin-top:10px;
+	width:950px;
+	/* border-left: 1px dashed #e30716;	*/
+
+}
+
+#layercolneo ul {
+	list-style-position:outside;
+	list-style-image:url(pucetxtneo.png);
+	margin-left:18px;
+}
+#layercolneo2 ul {
+	list-style-position:outside;
+	list-style-image:url(pucetxt.png);
+	margin-left:18px;
+}
+/* ---- STYLES SOUS TITRES */
+
+#layerrubrique2 {
+	padding-left:20px;
+	padding-right:20px;
+	background-color:#e30716;
+	color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+	border-radius: 2px;
+	display:inline;
+}
+
+
+#layersousrubrique2 {
+	/* background-color:#e30716; */
+	margin-top:16px;
+	margin-bottom:16px;
+	padding-left:8px;
+	font-size:20px;
+	font-weight:none;
+	width:950px;
+	color:#333333;
+
+
+}
+
+.doctitle {
+	font-weight:bold;
+	font-size:14px;
+	color:#333333;
+}
+
+.tabledoctitre2 {
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 6px;
+	padding-right: 6px;
+	font-weight:bold;
+	font-size:11pt;
+	color:#333333;
+	margin-bottom:20px;
+	background-color:#FFFFFF;
+	display:inline;
+	width:auto;
+	border-radius: 3px;
+}
+
+/* ---- NAV FOOTER */
+
+.footernavoptions {
+	background-color:#ffffff;
+	border: 1px solid #CCCCCC;
+	color: #555555;
+	font-size: 11px;
+	font-weight: normal;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 6px;
+	padding-right: 6px;
+	border-radius: 4px;
+}
+
+
+
+/* ---- STYLES DU FOOTER BAS DE PAGE */
+/* zone du menu situ en bas de page */
+
+#footermenu {
+	clear: both;
+	width: 980px;
+	height: 14px;
+	font-size: 10px;
+	background-color: #ffffff;
+	color: #333333;
+	font-family: arial, helvetica, sans-serif;
+	margin-top:4px;
+	text-decoration: none;
+	border-top:1px dotted #cccccc;
+	padding-top: 3px;
+}
+
+#footermenu a, #footermenu a:visited {
+	text-decoration: none;
+}
+
+#footermenu a:hover {
+	text-decoration: none;
+}
+
+#footermenuleft {
+	padding-left: 4px;
+	float: left;
+	font-weight: bold;
+}
+
+#footermenuleft a, #footermenuleft a:visited {
+	color: #333333;
+	font-size: 10px;
+	font-family: arial, helvetica, sans-serif;
+	text-decoration: none;
+	padding-left: 8px;
+	padding-right: 8px;
+	background: none no-repeat 0px 0px;
+	border-right: 1px dotted #aaaaaa;
+}
+
+#footermenuleft a:hover {
+	text-decoration: none;
+}
+
+#footermenuright {
+	padding-right: 10px;
+	float: right;
+	font-weight: bold;
+}
+
+#footermenuright a, #footermenuright a:visited {
+	font-size: 10px;
+	color: #333333;
+	font-family: arial, helvetica, sans-serif;
+	text-decoration: none;
+	padding-left: 8px;
+	padding-right: 8px;
+	background: none no-repeat 0px 0px;
+	border-left: 1px dotted #aaaaaa;
+}
+
+#footermenuright a:hover {
+	text-decoration: none;
+}
+
+.footermenupuce {
+}
+
+
+/* RUBRIQUES CALQUES POUR TITRE ARRONDIS ENCADRES */
+
+#layerrubrique {
+	width:170px;
+	margin-left:-8px;
+}
+
+/* proprits communes  l'ensemble des 4 coins */
+
+#menuhautgauche, #menuhautdroit, #menubasgauche, #menubasdroit,#dochautgauche, #dochautdroit {
+	height:10px; width:10px; background-repeat: no-repeat;
+	font-size:1px; /* correction d'un bug IE */
+}
+
+/* proprits spcifiques  chaque coin */
+
+#menuhautgauche {
+	background: url(anglesup.gif);
+}
+
+#dochautgauche {
+	float:left;
+	background: url(anglesup.gif) no-repeat;
+	height:10px;
+	width:10px;
+}
+
+#dochautdroit {
+	float:right;
+	background: url(anglesupd.gif) no-repeat;
+	height:10px;
+	width:10px;
+}
+
+#menuhautdroit {
+	float: right;
+	background: url(noimage.gif);
+}
+
+#menubasgauche {
+	background: url(noimage.gif);
+}
+
+#menubasdroit {
+	float: right;
+	background: url(angleinf.gif);
+}
+
+#menutext {
+	padding-right:10px;
+	padding-left:10px;
+	color: #FFFFFF;
+	font-family: arial;
+	font-size: 10pt;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/* SOUS-RUBRIQUES CALQUES POUR TITRE */
+
+#layersousrubrique {
+	margin-top:10px;
+	margin-bottom:10px;
+	color: #ffffff;
+	font-family: arial;
+	font-size: 9pt;
+	text-decoration: none;
+	font-weight: bold;
+	padding-left: 6px;
+}
+
+/* style des encadrs ""gris"" de contenu des colonnes */
+.tablesousrubtitre{ color: #000000;font-size: 9pt; background-color:#DFDFDF;font-weight: bold; padding-left: 6px;}
+.tablesousrubtitre2{ color: #000000;font-size: 9pt; background-color:#CCCCCC;font-weight: bold; padding-left: 6px;}
+.tablesousrubfond{ background-color:#F0F0F0; }
+
+/* logos contacts */
+
+#logo_medatice {    /* bloc image en arrire-plan */
+	width : 300px;
+	height: 70px;
+	padding-right:10px;
+	background:url(contacts/medatice2016.png) no-repeat;
+    background-size: auto 100%;
+	float:left;
+}
+
+#logo_ticemed {    /* bloc image en arrire-plan */
+	width : 90px;
+	height: 100px;
+	padding-right:10px;
+	background:url(contacts/logoticesantegrenoble.png) no-repeat;
+	background-size: auto 100%;
+	float:left;
+	margin-left:10px;
+}
+
+#logo_stend {    /* bloc image en arrire-plan */
+	width : 70px;
+	height: 85px;
+	padding-right:10px;
+	background:url(contacts/logo_stendhal.gif) no-repeat;
+	float:left;
+}
+
+#logo_ladaf {    /* bloc image en arrire-plan */
+	width : 144px;
+	height: 63px;
+	padding-right:10px;
+	background:url(contacts/logo_ladaf.png) no-repeat;
+	float:left;
+}
+
+#icon_waiting {    /* bloc image en arrire-plan */
+	width : 20px;
+	height: 20px;
+	padding-top:2px;
+	padding-left:22px;
+	background:url(wait/waiting.gif) no-repeat;
+	float:left;
+}
+
+/* icons rubriques */
+
+
+
+#iconlaptop {    /* bloc image en arrire-plan */
+	width : 90px;
+	height: 90px;
+	margin-right:30px;
+	background:url(nav/icon_computer.png) no-repeat;
+	background-size: 100% 90px;
+	float:left;
+}
+
+#iconflash {    /* bloc image en arrire-plan */
+	width : 90px;
+	height: 90px;
+	margin-right:30px;
+	background:url(nav/icon_flash.png) no-repeat;
+	background-size: 100% 90px;
+	float:left;
+}
+
+#iconbrowser {    /* bloc image en arrire-plan */
+	width : 90px;
+	height: 90px;
+	margin-right:30px;
+	background:url(nav/icon_puzzle.png) no-repeat;
+	background-size: 100% 90px;
+	float:left;
+}
+
+#iconpdf {    /* bloc image en arrire-plan */
+	width : 90px;
+	height: 90px;
+	margin-right:30px;
+	background:url(nav/icon_pdf.png) no-repeat;
+	background-size: 100% 90px;
+	float:left;
+}
+
+#iconclemol {    /* bloc image en arrire-plan */
+	width : 90px;
+	height: 90px;
+	margin-right:30px;
+	margin-top:10px;
+	margin-left:10px;
+	background:url(nav/icon_gear.png) no-repeat;
+	background-size: 100% 90px;
+	float:left;
+}
+
+#iconseridvd {    /* bloc image en arrire-plan */
+	width : 90px;
+	height: 90px;
+	margin-right:30px;
+	background:url(nav/icon_dvd2.png) no-repeat;
+	background-size: 100% 90px;
+	float:left;
+}
+
+#iconsearch {    /* bloc image en arrire-plan */
+	width : 90px;
+	height: 90px;
+	margin-right:30px;
+	background:url(nav/icon_search.png) no-repeat;
+	background-size: 100% 90px;
+	float:left;
+}
+
+#icontest {    /* bloc image en arrire-plan */
+	width : 90px;
+	height: 90px;
+	margin-right:30px;
+	background:url(nav/icon_interropoint.png) no-repeat;
+	background-size: 100% 90px;
+	float:left;
+}
+
+#iconuser {    /* bloc image en arrire-plan */
+	width : 90px;
+	height: 90px;
+	margin-right:30px;
+	background:url(nav/icon_user.png) no-repeat;
+	background-size: 100% 90px;
+	float:left;
+}
+
+
+
+
+/* ++++++ CALENDRIERS */
+
+.iconcase1 {
+	padding-left:25px;
+	padding-right:15px;
+	background: url(calendrier/icon_cours.png) no-repeat 0px 0px;
+    background-size: auto 100%;
+}
+
+.iconcase2 {
+	padding-left:25px;
+	padding-right:15px;
+	background: url(calendrier/icon_flq.png) no-repeat 0px 0px;
+    background-size: auto 100%;
+}
+
+.iconcase3 {
+	padding-left:25px;
+	padding-right:15px;
+	background: url(calendrier/icon_sepi.png) no-repeat 0px 0px;
+    background-size: auto 100%;
+}
+
+.iconcase4 {
+	padding-left:25px;
+	padding-right:15px;
+	background: url(calendrier/icon_tutorat.png) no-repeat 0px 0px;
+    background-size: auto 100%;
+}
+
+.iconcase5 {
+	padding-left:25px;
+	padding-right:15px;
+	background: url(calendrier/icon_cci.png) no-repeat 0px 0px;
+    background-size: auto 100%;
+}
+
+.iconcase6 {
+	padding-left:25px;
+	padding-right:15px;
+	background: url(calendrier/icon_td.png) no-repeat 0px 0px;
+    background-size: auto 100%;
+}
+
+.cal_fond_tableau {
+	font-family: arial;
+	font-size: 8pt;
+	text-decoration: none;
+	background-image: url(calendrier/cyclesfond.jpg);
+	background-repeat: repeat;
+}
+
+.cal_discipline {
+	font-family: arial;
+	font-size: 8pt;
+	text-align: left;
+	text-decoration: none;
+	font-weight:normal;
+}
+
+.cal_fond_tableau {
+	font-family: arial;
+	font-size: 8pt;
+	text-decoration: none;
+	background-image: url(calendrier/cyclesfond.jpg);
+	background-repeat: no-repeat;
+}
+
+.cal_discipline {
+	font-family: arial;
+	font-size: 8pt;
+	text-align: left;
+	text-decoration: none;
+	font-weight:none;
+}
+
+.cal_font {
+	font-family: arial;
+	font-size: 8pt;
+	text-align: center;
+	text-decoration: none;
+	font-weight: none;}
+
+/* ++++++ GUIDE */
+
+#iconguidehome {    /* bloc image en arrire-plan */
+	width : 350px;
+	height: 270px;
+	margin-right:30px;
+	background:url(guide/home.jpg) no-repeat;
+	float:left;
+}
+
+#iconguidecalend {    /* bloc image en arrire-plan */
+	width : 350px;
+	height: 298px;
+	background:url(guide/calendar.jpg) no-repeat;
+	margin-right:10px;
+	margin-left:10px;
+	float:right;
+}
+
+#iconguideens {    /* bloc image en arrire-plan */
+	width : 350px;
+	height: 250px;
+	margin-right:30px;
+	background:url(guide/enseignants.jpg) no-repeat;
+	float:left;
+}
+
+#iconguidedisci {    /* bloc image en arrire-plan */
+	width : 350px;
+	height: 200px;
+	margin-right:10px;
+	margin-left:10px;
+	background:url(guide/disciplines.jpg) no-repeat;
+	float:right;
+}
+
+#iconguideliste {    /* bloc image en arrire-plan */
+	width : 350px;
+	height: 340px;
+	background:url(guide/liste.jpg) no-repeat;
+	margin-right:30px;
+	float:left;
+}
+
+#iconguidepresent {    /* bloc image en arrire-plan */
+	width : 350px;
+	height: 227px;
+	margin-right:10px;
+	background:url(guide/presenter.jpg) no-repeat;
+	margin-left:10px;
+	float:right;
+}
+
+/* ++++++ SUPPORT */
+
+#icondesinst1 {    /* bloc image en arrire-plan */
+	width : 350px;
+	height: 208px;
+	margin-right:10px;
+	background:url(support/desinstal1.jpg) no-repeat;
+	margin-left:10px;
+	float:right;
+}
+
+#icondesinst2  {    /* bloc image en arrire-plan */
+	width : 350px;
+	height: 254px;
+	margin-right:10px;
+	background:url(support/desinstal2.jpg) no-repeat;
+	margin-left:10px;
+	float:right;
+}
+
+
+#iconnosound {    /* bloc image en arrire-plan */
+	width : 372px;
+	height: 48px;
+	margin-right:10px;
+	background:url(support/nosound.png) no-repeat;
+	background-size: 100% 48px;
+	margin-left:10px;
+	float:left;
+}
+
+#iconlecture {    /* bloc image en arrire-plan */
+	width : 372px;
+	height: 48px;
+	margin-right:10px;
+	background:url(support/lecture.png) no-repeat;
+	background-size: 100% 48px;
+	margin-left:10px;
+	float:left;
+}
+
+/* ++++++ MODALITES */
+#iconseqpedago {    /* bloc image en arrire-plan */
+	width : 100%;
+	height: 220px;
+	border:1px;
+	clear:both;
+	margin-right:10px;
+	background:url(modalites/schema_5_semaines.png) no-repeat;
+    background-size: auto 100%;
+	margin-left:10px;
+}
+#iconcycle {    /* bloc image en arrire-plan */
+	width : 100%;
+	height: 250px;
+	border:1px none;
+	clear:both;
+	margin-right:10px;
+	background:url(modalites/calendrierillustra.png) no-repeat scroll 0 0 / auto 100%;
+	margin-left:10px;
+	float:left;
+}
+
+/* ---------------- FILIERES SANTE IMG */
+
+#inscrifilieres {
+background: url(contfilieres/inscrienligne.png) 0px 0px no-repeat;
+margin-right:20px;
+float:left;
+width:500px;
+height:192px;
+margin-bottom:20px;
+margin-left:20px;
+}
+
+#presentsf {
+background: url(contfilieres/sf.jpg) 0px 0px no-repeat;
+margin-right:20px;
+float:left;
+width:100px;
+height:75px;
+}
+
+#presentmem {
+background: url(contfilieres/manip.png) 0px 0px no-repeat;
+margin-right:20px;
+float:left;
+width:100px;
+height:75px;
+}
+
+#presentkine {
+background: url(contfilieres/kine.png) 0px 0px no-repeat;
+margin-right:20px;
+float:left;
+width:100px;
+height:75px;
+}
+
+#presentodon {
+background: url(contfilieres/odon.png) 0px 0px no-repeat;
+margin-right:20px;
+float:left;
+width:100px;
+height:75px;
+}
+
+#presentph {
+background: url(contfilieres/ph.png) 0px 0px no-repeat;
+margin-right:20px;
+float:left;
+width:100px;
+height:75px;
+}
+
+#presentmed {
+background: url(contfilieres/med.png) 0px 0px no-repeat;
+margin-right:20px;
+float:left;
+width:100px;
+height:75px;
+}
+
+#tabUE {
+background: url(contfilieres/tableau.png) 0px 0px no-repeat;
+/*margin-right:20px;*/
+display: inline-block;
+float:left;
+width:590px;
+height:310px;
+}
+
+/* ---------------- CALENDRIER */
+
+
+#cal_layer {
+	width:1150px;
+	height:670px;
+}
+
+/* Styles commun */
+
+.cal_fond_tableau  {
+}
+
+
+
+/* Styles */
+
+
+#cal_seq1, #cal_seq2,#cal_seq3, #cal_seq4, #cal_seq5, #cal_seq6, #cal_seq7, #cal_seq8, #cal_seq9, #cal_seq10, #cal_seq11, #cal_seq12, #cal_seq13, #cal_seq14, #cal_seq15, #cal_seq16, #cal_seq17, #cal_seq18, #cal_seq19, #cal_seq20, #cal_seq21, #cal_seq22, #cal_seq23, #cal_seq24 {
+	clear:both;
+	height:14px;
+	width:430px;
+}
+
+.cal_seq_class {
+	float:left;
+}
+
+/* Styles */
+
+.cal_ue_class {
+	float:left;
+	width:70px;
+/*
+	background-color:#FFFFFF;
+	padding:2px 2px 2px 2px;
+	padding:2px 2px 2px 2px;
+	padding-left:8px;
+	*/
+}
+
+
+.cal_cours_class {
+	float:left;
+	width:68px;
+	/* background-color: #0F0; */
+}
+
+.cal_flq_class {
+	float:left;
+	width:68px;
+	/* background-color: #F00; */
+}
+
+.cal_sepi_class {
+	float:left;
+	width:68px;
+	/* background-color: #66C; */
+	text-align:center;
+}
+
+.cal_td_class {
+	float:left;
+	width:68px;
+	/* background-color: #66C; */
+	text-align:center;
+	display:none;
+}
+
+.cal_tutorat_class {
+	float:left;
+	width:68px;
+	/* background-color: #FC0; */
+	text-align:center;
+}
+
+.cal_cci_class {
+	float:left;
+	width:68px;
+	/* background-color: #FC0; */
+	text-align:center;
+}
+
+/* Styles seq1 */
+#cal_seq1 {
+	margin-top:76px;
+	margin-left:30px;
+}
+
+#cal_ue1 {}
+#cal_cours1 {}
+#cal_flq1 {}
+#cal_tutorat1 {}
+
+
+/* Styles seq2 */
+#cal_seq2 {
+	margin-top:3px;
+	margin-left:30px;
+}
+
+#cal_ue2 { }
+#cal_cours2 { }
+#cal_flq2 { }
+#cal_tutorat2 {}
+
+/* Styles seq3 */
+#cal_seq3 {
+	margin-top:18px;
+	margin-left:98px;
+}
+
+#cal_ue3 { }
+#cal_cours3 { }
+#cal_flq3 { }
+#cal_tutorat3 {}
+
+/* Styles seq4 */
+#cal_seq4 {
+	margin-top:3px;
+	margin-left:98px;
+}
+
+#cal_ue4 { }
+#cal_cours4 { }
+#cal_flq4 { }
+#cal_tutorat4 {}
+
+/* Styles seq5 */
+#cal_seq5 {
+	margin-top:19px;
+	margin-left:166px;
+}
+
+#cal_ue5 { }
+#cal_cours5 { }
+#cal_flq5 { }
+#cal_tutorat5 {}
+
+/* Styles seq6 */
+#cal_seq6 {
+	margin-top:3px;
+	margin-left:166px;
+}
+
+#cal_ue6 { }
+#cal_cours6 { }
+#cal_flq6 { }
+#cal_tutorat6 {}
+
+/* Styles seq7 */
+#cal_seq7 {
+	margin-top:19px;
+	margin-left:233px;
+}
+
+#cal_ue7 { }
+#cal_cours7 { }
+#cal_flq7 { }
+#cal_tutorat7 {}
+
+/* Styles seq8 */
+#cal_seq8 {
+	margin-top:3px;
+	margin-left:233px;
+}
+
+#cal_ue8 { }
+#cal_cours8 { }
+#cal_flq8 { }
+#cal_tutorat8 {}
+
+/* Styles seq9 */
+#cal_seq9 {
+	margin-top:19px;
+	margin-left:301px;
+}
+
+#cal_ue9 { }
+#cal_cours9 { }
+#cal_flq9 { }
+#cal_tutorat9 {}
+
+/* Styles seq10 */
+#cal_seq10 {
+	margin-top:3px;
+	margin-left:301px;
+}
+
+#cal_ue10 { }
+#cal_cours10 { }
+#cal_flq10 { }
+#cal_tutorat10 {}
+
+/* Styles seq11 */
+#cal_seq11 {
+	margin-top:19px;
+	margin-left:369px;
+}
+
+#cal_ue11 { }
+#cal_cours11 { }
+#cal_flq11 { }
+#cal_tutorat11 {}
+
+/* Styles seq12 */
+#cal_seq12 {
+	margin-top:3px;
+	margin-left:369px;
+}
+
+#cal_ue12 { }
+#cal_cours12 { }
+#cal_flq12 { }
+#cal_tutorat12 {}
+
+/* Styles seq13 */
+#cal_seq13 {
+	margin-top:19px;
+	margin-left:438px;
+}
+
+#cal_ue13 { }
+#cal_cours13 { }
+#cal_flq13 { }
+#cal_tutorat13 {}
+
+/* Styles seq14 */
+#cal_seq14 {
+	margin-top:3px;
+	margin-left:438px;
+}
+
+#cal_ue14 { }
+#cal_cours14 { }
+#cal_flq14 { }
+#cal_tutorat14 {}
+
+/* Styles seq15 */
+#cal_seq15 {
+	margin-top:19px;
+	margin-left:506px;
+}
+
+#cal_ue15 { }
+#cal_cours15 { }
+#cal_flq15 { }
+#cal_tutorat15 {}
+
+/* Styles seq16 */
+#cal_seq16 {
+	margin-top:3px;
+	margin-left:506px;
+}
+
+#cal_ue16 { }
+#cal_cours16 { }
+#cal_flq16 { }
+#cal_tutorat16 {}
+
+/* Styles seq17 */
+#cal_seq17 {
+	margin-top:19px;
+	margin-left:574px;
+}
+
+#cal_ue17 { }
+#cal_cours17 { }
+#cal_flq17 { }
+#cal_tutorat17 {}
+
+/* Styles seq18 */
+#cal_seq18 {
+	margin-top:3px;
+	margin-left:574px;
+}
+
+#cal_ue18 { }
+#cal_cours18 { }
+#cal_flq18 { }
+#cal_tutorat18 {}
+
+/* Styles seq19 */
+#cal_seq19 {
+	margin-top:19px;
+	margin-left:642px;
+}
+
+#cal_ue19 { }
+#cal_cours19 { }
+#cal_flq19 { }
+#cal_tutorat19 {}
+
+/* Styles seq20 */
+#cal_seq20 {
+	margin-top:3px;
+	margin-left:642px;
+}
+
+#cal_ue20 { }
+#cal_cours20 { }
+#cal_flq20 { }
+#cal_tutorat20 {}
+
+
+/* Styles seq21 */
+#cal_seq21 {
+	margin-top:19px;
+	margin-left:710px;
+}
+
+#cal_ue21 { }
+#cal_cours21 { }
+#cal_flq21 { }
+#cal_tutorat21 {}
+
+
+/* Styles seq22 */
+#cal_seq22 {
+	margin-top:3px;
+	margin-left:710px;
+}
+
+#cal_ue22 { }
+#cal_cours22 { }
+#cal_flq22 { }
+#cal_tutorat22 {}
+
+
+/* Styles seq23 */
+#cal_seq23 {
+	margin-top:19px;
+	margin-left:778px;
+}
+
+#cal_ue23 { }
+#cal_cours23 { }
+#cal_flq23 { }
+#cal_tutorat23 {}
+
+/* Styles seq24 */
+#cal_seq24 {
+	margin-top:3px;
+	margin-left:778px;
+}
+
+#cal_ue24 { }
+#cal_cours24 { }
+#cal_flq24 { }
+#cal_tutorat24 {}
