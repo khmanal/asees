@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 2 : La diversité des médicaments</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Christophe RIBUOT</name>
+			<speakerTitle>Professeur CHU Grenoble (UGA)</speakerTitle>
+			<image>spk10267.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_5ed9ed8f2d844445abf7d75332bf7d93yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_97f8db467c3142fb9ae3ea5093f6c965yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_471968b97d404a21b7a12b0d3855626dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_78f37c2ab61f496281268f71b153cb2eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_67dfd8ce0be34e3ea863d26e829693a7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_9de61e7524bc43c88dfc4179e16e0f50yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="438" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="7.18" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="438"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_40fd43daf4df456e90cca5b452a9e50byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 7180">
+				<media url="a24x1.mp3" startMsecs="0" duration="7180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 2 :  La diversité des médicaments@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.57" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0973d591b9164d3783e42d10de540299yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 53570">
+				<media url="a24x2.mp3" startMsecs="0" duration="53570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les cibles et la sélectivité des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Il est difficile de parler de cibles et de médicaments sans mentionner Paul Ehrlich, personnage que vous avez rencontré dans le cours portant sur l’histoire de la pharmacie du Pr. Patrice Trouiller au premier semestre et qui a reçu le prix Nobel de médecine en 1908 (je parle de Paul Ehrlich, pas de Patrice Troullier) pour ses travaux portant sur l’immunologie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il propose, à la suite de travaux portant sur les colorants, que &lt;/span&gt;&lt;span &gt;l&lt;/span&gt;&lt;span &gt;es substances n’agissent pas si elles ne sont pas fixées.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’effet du médicament est initié, en général, par sa liaison à une macromolécule de l’organisme : ce sera la cible moléculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous allons d’emblais mentionner les exceptions à cette règle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="374" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="110.36" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="374"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7074dac2498d4ef2bb82c725c6bc0572yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 110360">
+				<media url="a24x3.mp3" startMsecs="0" duration="110360" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les exceptions@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En effet, quelques médicaments échappent à la règle de la liaison à une cible moléculaire exprimée par l’homme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Parmi ces médicaments il convient de citer les modificateurs du pH sanguin ou gastrique : ils agissent en tamponnant les protons au niveau plasmatique ou dans la lumière de l’estomac&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous trouvons les laxatifs osmotiques et les laxatifs de lest qui vont attirer l’eau dans la lumière de l’intestin de façon à faciliter l’évacuation des matières fécales.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous trouvons aussi une résine chélatrice des sels bilaires qui va par ce mécanisme physico-chimique de formation d’un complexe limiter l’effet émulsionnant des lipides assuré par les sels biliaires et donc limiter l’absorption du cholestérol alimentaire ou encore les agents de chélation des ions utilisés dans certaines intoxications.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous trouvons encore les anti-corps complexant un médiateur et empêchant la fixation de ce médiateur à sa cible moléculaire,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous trouvons, enfin, les anti-infectieux : agents qui ont pour fonction de détruire les virus, les bactéries ou les parasites en interagissant avec une cible exprimée par ces vecteurs de maladies et devant idéalement être sans aucun effet sur les macromolécules humaines.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.23" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1de7681858ec45d79f6ce3186f4774d9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 43230">
+				<media url="a24x4.mp3" startMsecs="0" duration="43230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Maintenant que nous avons écarté les exceptions, revenons sur ce qu’est une cible pour un médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Toute protéine de l’organisme est un site de liaison potentiel de médicament : de bonnes connaissances en biologie cellulaire sont utiles au pharmacologue. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si cette liaison modifie la fonction de cette protéine et que cette modification conduit à une réponse cellulaire à l’origine de l’effet recherché, la protéine est considérée comme étant la &lt;/span&gt;&lt;span &gt;cible&lt;/span&gt;&lt;span &gt; du médicament. Il faut donc connaître la fonction de la protéine et disposer de techniques d’étude de cette fonction.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="375" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="58.74" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="375"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8c78799aea1d48da9db6b105f941386ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 58740">
+				<media url="a24x5.mp3" startMsecs="0" duration="58740" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour comprendre l’effet thérapeutique d’un médicament il faut connaitre sa cible, le rôle physiologique de cette cible, les mécanismes biochimiques qui engendrent la réponse de la cellule (les voies de signalisation ou de transduction du signal).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour quantifier l’effet d’un médicament il faut pouvoir mesurer la réponse cellulaire (contraction…) ou la modification du fonctionnement d’un tissu ou d’un organe (vasoconstriction …) ou encore la modification d’une fonction physiologique de l’organisme (modulation de la pression artérielle …).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="396" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="30.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="396"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fc586133fee64105b4b3c6592298934byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 30920">
+				<media url="a24x6.mp3" startMsecs="0" duration="30920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure de la réponse d’un organe isolé@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici un exemple de quantification de réponse cellulaire induite par l’action d’un agent appelé ici agoniste qui va entraîner une contraction musculaire mesurable par une technique appropriée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Plus on augmente les doses et plus l’effet est important.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous reviendrez sur ce type de courbe nommée courbe dose-réponse dans le cours du Dr Fraçoise Stanke.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="376" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="74.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="376"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7dbfdf67bd3a417daf55df1a1c0ccf24yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 74910">
+				<media url="a24x7.mp3" startMsecs="0" duration="74910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La sélectivité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La sélectivité est une notion essentielle pour un médicament dont elle conditionne l’activité thérapeutique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les aspects théoriques de la sélectivité seront développés dans le cours du Dr Françoise Stanke.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Retenez qu’aucun médicament n’est spécifique d’une cible biologique : pour s’en convaincre il suffit d’augmenter la dose administrée pour voir apparaitre d’autres effets que ceux recherchés initialement, effets qualifiés alors de secondaires ou d’indésirables ou même de toxiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un des premiers toxicologues, Paracelse, a même étendu ce concept de toxicité à toutes les substances. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A titre d’exemple : même une consommation excessive d’eau la plus pure qui soit peut s’avérer toxique, phénomène d’hyperhydratation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="378" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="378"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dffae4d130be4a4ab892660381dfd5b9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 52190">
+				<media url="a24x8.mp3" startMsecs="0" duration="52190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La diversité des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Avant de parler de diversité des médicaments je vous propose de passer une minute sur la définition légale française du médicament. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous reviendrez plus en détail avec le Dr Martine Deletraz sur cette définition dans le 3&lt;/span&gt;&lt;span &gt;ème&lt;/span&gt;&lt;span &gt; cycle de cette unité d’enseignement portant sur l’initiation à la connaissance du médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je vous propose ici une version tronquée pour axer mon propos sur les seuls médicaments utilisés en médecine humaine et pour souligner le fait que le médicament pourra être utile au diagnostic médical ou à la correction de fonctions physiologiques par une action pharmacologique, immunologique ou métabolique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="380" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="146.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="380"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_91cc36e508d84586bed5cfd604287486yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 146310">
+				<media url="a24x9.mp3" startMsecs="0" duration="146310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La diversité des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Selon le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;Dictionnaire pharmaceutique, &lt;/span&gt;&lt;span &gt;pharmacologie et chimie du médicament&lt;/span&gt;&lt;span  fontStyle="italic"&gt; de Landry et Rival&lt;/span&gt;&lt;span &gt;  en 2007 les médicaments à usage humain commercialisés en France correspondaient à 1112  principes actifs produits par synthèse chimique auxquels nous pouvons ajouter une centaine de protéines produites par les techniques de la  biotechnologie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Chaque année quelques nouveaux médicaments sont mis sur le marché alors que d’autres sont retirés si bien que le nombre total  de principes actifs utilisés devrait rester stable voire légèrement diminuer dans les années qui viennent. On peut penser assister à une stabilisation autour de 1200 principes actifs d’ici à quelques années. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; A titre de comparaison le nombre de principes actifs utilisés aux &lt;/span&gt;&lt;span &gt;Etats-unis&lt;/span&gt;&lt;span &gt; à la même époque était sensiblement comparable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il convient de préciser qu’il existe un nombre de médicaments plus importants puisque un même principe actif pourra se retrouver dans plusieurs médicaments de formes galéniques différentes, ou encore qu’un médicament pourra renfermer plusieurs principes actifs en association. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il convient aussi de préciser que les spécialités de phytothérapie (à base de plantes ou d’extraits végétaux) sont nombreuses et d’un intérêt historique important mais d’un intérêt thérapeutique mineur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De plus, les préparations homéopathiques bien que répondant à la définition légale de médicament ne sont pas prises en considération ni dans ce décompte ni dans le reste de ce cours car la base scientifique de leur action et la démonstration clinique de leur efficacité font encore défaut à quelques exceptions prêt. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="387" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="154.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="387"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a942fbf6196349c0859129039749e9b5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 154800">
+				<media url="a24x10.mp3" startMsecs="0" duration="154800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La diversité des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les médicaments sont en effet répartis en plusieurs catégories dont la principale est constituée par les spécialités pharmaceutiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les spécialités sont définies comme « tout médicament préparé à l'avance, présenté sous un conditionnement particulier et caractérisé par une dénomination spéciale. » &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces préparations à l’avance sont du domaine de l’industrie pharmaceutique. Elles complètent les préparations magistrales réalisées à la demande à l’officine. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il faut souligner que les préparations magistrales qui ont pu, à une époque, constituer l’essentiel du travail des pharmaciens sont devenues aujourd’hui relativement secondaires en terme de volume d’activité.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Concernant le conditionnement, selon la législation française la délivrance des médicaments se fait, contrairement à d’autres pays, sans déconditionnement : ceci revient à dire que si pour un traitement particulier il doit être administré au patient 17 comprimés et qu’il n’existe qu’un conditionnement par boite de 30 comprimés, le patient se verra remettre 13 comprimés de trop.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, la dénomination est spécifique d’une spécialité. Une même dénomination ne sera attribuée à plusieurs spécialités qu’accompagnée d’un complément portant soit sur la population concernée (par exemple la spécialité aspegic qui renferme un principe actif anti-inflammatoire bien connu : acide acétylsalicylique. Va se nommer Aspégic adulte lorsqu’il renferme 1000 mg de principe actif par sachet et nourrissons lorsqu’il n’en renferme que 100 mg) &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;soit sur la forme du médicament (par exemple la forme gel). Par exemple le Voltarène, une spécialité renfermant un principe actif anti-inflammatoire, sera dénommée simplement Voltarène pour la forme « comprimés » et Voltarène Emulgel pour la forme « gel ».&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="388" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="111.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="388"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_15fbe8b049c7414f9394575dbf3c673ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 111410">
+				<media url="a24x11.mp3" startMsecs="0" duration="111410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La diversité des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Par ailleurs, un même principe actif pourra se retrouver dans des spécialités différentes. C’est le cas par exemple du paracétamol qui est un principe actif doué, entre autres, de propriétés antalgiques et qui se retrouvera notamment dans:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;          &lt;/span&gt;&lt;span &gt;Actifed&lt;/span&gt;&lt;span &gt; ®&lt;/span&gt;&lt;span &gt; sous forme de comprimés mais aussi dans &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Claradol&lt;/span&gt;&lt;span &gt; ®&lt;/span&gt;&lt;span &gt; : 		comprimés effervescents&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Coquelusedal&lt;/span&gt;&lt;span &gt; ®&lt;/span&gt;&lt;span &gt; : 		suppositoires&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Doliprane ®&lt;/span&gt;&lt;span &gt; : 		poudre pour solution buvable&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Fervex&lt;/span&gt;&lt;span &gt; ®&lt;/span&gt;&lt;span &gt; : 		granulés pour solution buvable&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Perfalgan&lt;/span&gt;&lt;span &gt; ®&lt;/span&gt;&lt;span &gt; : 		solution pour perfusion I.V.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette liste n’est pas exhaustive. Elle est de plus susceptible d’être modifiée au cours du temps. Il ya quelques mois par exemple j’aurais pu ajouter à cette liste le Di-&lt;/span&gt;&lt;span &gt;Antalvic&lt;/span&gt;&lt;span &gt; ® une spécialité qui renferme entre autres principes actifs le paracétamol et qui vient d’être retirée du marché.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il faut souligner ici que certaines de ces spécialités sont du domaine de l’automédication ce qui signifie que leur dispensation par le pharmacien peut se faire indépendamment de la prescription par un médecin. Des patients  peuvent ainsi souffrir des conséquences du surdosage en paracétamol en prenant au cours d’une même journée des associations de ces spécialités : ils ne seront pas forcément conscient que des spécialités différentes renferment un même principe actif. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="379" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="112.32" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="379"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b47cee1601264ef8ae370f5d37fefe81yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 112320">
+				<media url="a24x12.mp3" startMsecs="0" duration="112320" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La diversité des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Revenons aux principes actifs eux-mêmes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les presque 1200 principes actifs se répartissent en :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Molécules d’origine végétale et analogues de synthèse avec par exemple l’atropine, la morphine ou la digoxine&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Molécules de synthèse chimique, sélectionnées par tri pharmacologique (screening ou dépistage)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Molécules d’origine humaine et analogues de synthèse chimique avec par exemples les hormones ou les neuromédiateurs&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et enfin les macromolécules d’origine humaine produites par génie génétique : c’est l’exemple des hormones peptidiques ou des anticorps monoclonaux et autres enzymes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="381" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="116.87" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="381"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e07682ef6b584420bd7b5836cf3d208ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 116870">
+				<media url="a24x13.mp3" startMsecs="0" duration="116870" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La diversité des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Une remarque concernant les principes actifs issus de la synthèse clinique : on les désigne souvent en référence à la structure chimique qui a été à l’origine de leur synthèse. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Par exemple il existe des agents nommés les sulfamides qui appartiennent à la même famille chimique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces agents seront utilisés dans des domaines thérapeutiques différentes : soit comme antimicrobiens, soit comme antidiabétiques ou soit enfin comme diurétiques (c’est à dire médicament augmentant la diurèse et donc utile par exemple dans l’hypertension artérielle).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’activité antimicrobienne et l’activité diurétique est liée à l’inhibition de la même enzyme nommée anhydrase carbonique. La différence vient du fait que c’est dans le premier cas l’enzyme bactérienne qui est visée alors que dans le second cas ce sera l’enzyme humaine, rénale. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une équipe médicale à Montpellier remarqua en 1942 qu’un des sulfamides antibactériens entraînait chez les patients des hypoglycémie sévères. Cet effet vérifié chez l’animal de laboratoire n’était plus retrouvé après avoir enlevé le pancréas à ces animaux. Les sulfamides antidiabétiques agissent en favorisant la libération d’insuline par les cellules beta des ilôts de Langherans au niveau pancréatique. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="382" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="110.23" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="382"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0151766e13a141dea8f752d3a97c4e7cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 110230">
+				<media url="a24x14.mp3" startMsecs="0" duration="110230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La diversité des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’activité antimicrobienne et l’activité diurétique sont liées à l’inhibition de la même enzyme nommée anhydrase carbonique. La différence vient du fait que c’est dans le premier cas l’enzyme bactérienne qui est visée alors que dans le second cas ce sera l’enzyme humaine, rénale. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une équipe médicale à Montpellier remarqua en 1942 qu’un des sulfamides antibactériens entraînait chez les patients des hypoglycémies sévères. Cet effet vérifié chez l’animal de laboratoire n’était plus retrouvé après avoir enlevé le pancréas à ces animaux. Les sulfamides antidiabétiques agissent en favorisant la libération d’insuline par les cellules beta des ilôts de Langherans au niveau pancréatique : le mécanisme moléculaire a été décrit par la suite : ils induisent la fermeture du canal  potassique dépendant de l’ATP noté K&lt;/span&gt;&lt;span &gt;ATP &lt;/span&gt;&lt;span &gt;, induisant une dépolarisation des cellules sécrétrices d’insuline.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cet exemple illustre le fait que la parenté chimique n’implique pas systématiquement l’interaction avec une seule cible moléculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En revanche, dans le cas des sulfamides tous les représentants partagent un effet indésirable commun que sont les allergies déclenchées chez certains patients traités avec ces médicaments. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="433" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="40.85" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="433"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6b478388bf794fd4aa73e9a03463e9d7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 40850">
+				<media url="a24x15.mp3" startMsecs="0" duration="40850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de chiralité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Il est difficile de parler de diversité des molécules chimiques utilisées comme principe actif de médicaments sans évoquer en quelques diapositives le dossier de la sélection chirale. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La stéréoisomérie est un concept qui décrit des structures de même constitution mais qui diffèrent par leur arrangement spatial. Selon cetr arrangement nous parlerons d’ énantiomère S ou R &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="434" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="44.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="434"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5c53a04072ae4635bd884bcd4143f76eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 44660">
+				<media url="a24x16.mp3" startMsecs="0" duration="44660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de chiralité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ces énantiomères sont &lt;/span&gt;&lt;span &gt;deux molécules images, l’une de l’autre dans un miroir, non superposables.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il semble raisonnable de penser qu’il est difficile de mettre son pied droit dans sa chaussure gauche et inversement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est aussi raisonnable de penser qu’un principe actif qui doit s’ancrer à sa cible pour exercer son effet le fera de façon plus efficace dans une conformation plutôt que dans l’autre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="435" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="49.58" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="435"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f5c596fe244f4c73b4b026769d501039yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 49580">
+				<media url="a24x17.mp3" startMsecs="0" duration="49580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de chiralité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ce schéma illustre cette difficulté pour un énantiomère, celui de droite,  d’entrer de façon étroite en contact avec les différents sites de reconnaissance de la cible.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans ces conditions seul l’énantiomère de gauche pourrait être capable d’exercer l’effet thérapeutique ou alors il sera seulement plus efficace.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les principes actifs obtenus par synthèse chimique se présentent le plus souvent sous forme d’une mélange des deux énantiomères : c’est ce qu’on appelle un racémique. C’est ce mélange qui se retrouvera dans la composition de la plupart des médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="436" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="108.46" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="436"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0d425477431a432c8ff3752d41ad8827yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 108460">
+				<media url="a24x18.mp3" startMsecs="0" duration="108460" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de chiralité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dès lors la question de savoir s’il est nécessaire de sélectionner après synthèse ou d’orienter la synthèse de façon à ne produire qu’un seul des énantiomères s’est posée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Plusieurs L’administration d’un seul énantiomère est utile si :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’énantiomère qui est dépourvu d’effets bénéfiques participe en revanche  aux effets indésirables : le seul énantiomère actif et bien toléré donnera un meilleur médicament &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si les deux énantiomères ont des effets bénéfiques différents ils pourront être utilisés séparément et conduire à deux médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si les deux énantiomères mais que seulement l’un des énantiomères est porteur d’un effet indésirable,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et enfin si la taille des gélules peut être réduite : des gélules plus petites sont plus faciles à avaler et donc il est permis de penser que les patients auront moins d’appréhension à l’avaler.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="437" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="113.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="437"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4bb3253b74b04a3eba2a429e869f97cdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 113290">
+				<media url="a24x19.mp3" startMsecs="0" duration="113290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de chiralité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Il semble cependant que des raisons autres que scientifiques puissent être à l’origine de la décision de sélectionner un seul énantiomère. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est en tout cas ce qui ressort de l’analyse de la revue Prescrire dans la commercialisation de l’esoméprazole à l’approche du terme de la protection  conférée par le brevet de l’oméprazole. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La conclusion de cet article est que l’énantiomère S de l’oméprazole nommé judicieusement ésoméprazole : n'a en fait aucun avantage clinique sur ce dernier, ni en termes d'efficacité ni en termes d'effets indésirables. Sa raison d'être est &lt;/span&gt;&lt;span &gt;purement commerciale&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il vous reviendra lorsque vous serez des professionnels du médicaments, pharmaciens ou médecins, de vous faire votre propre idée en analysant les études cliniques qui auront permis de mettre sur le marché de nouveaux médicaments, de savoir si il s’agit ou non de véritable innovation. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="439" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide19.swf" id="439"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_530e248f96c545fe9b33d45705386b52yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

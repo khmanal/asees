@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 2 : Anantomie de la cavité buccale</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Olivier PALOMBI</name>
+			<speakerTitle>Professeur CHU Grenoble (UGA)</speakerTitle>
+			<image>spk10125.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_2d5c76453778496f9cb6ed88609e5e73yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_55e23bb1ff5f4fa495a04cbdf6cab0f1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_9b3fb09d2f4a4c0693ca6a3573bbddc9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_63c625404ca9485d8158fd20ca747bf1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_b6f49928d7264ee394237c2cf8a31d05yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="11.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e54c8a5fed9f4fe18ca53b0b0dacb500yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 11040">
+				<media url="a24x1.mp3" startMsecs="0" duration="11040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 2 : Anatomie de la cavité buccale@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="257" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="85.65" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="257"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e40cde2732af45d89cf4823c8cdfcb1fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8870" isStartRelative="false" duration="167"/>
+				<click startTime="11770" isStartRelative="false" duration="167"/>
+				<click startTime="36870" isStartRelative="false" duration="167"/>
+				<click startTime="43770" isStartRelative="false" duration="167"/>
+				<click startTime="47340" isStartRelative="false" duration="167"/>
+				<click startTime="54340" isStartRelative="false" duration="167"/>
+				<click startTime="75040" isStartRelative="false" duration="167"/>
+				<click startTime="83140" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 85650">
+				<media url="a24x2.mp3" startMsecs="0" duration="85650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@FORME ET DIMENSIONS DE LA COLONNE VERTEBRALE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;bouche&lt;/span&gt;&lt;span &gt; ou &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cavité orale&lt;/span&gt;&lt;span &gt; est une cavité irrégulière qui représente le segment initial du tube digestif. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle contient la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;langue* &lt;/span&gt;&lt;span &gt;au centre  et les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;dents* &lt;/span&gt;&lt;span &gt;avec l’arcade dentaire supérieure et inférieure. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La cavité orale est impliquée  dans la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;déglutition&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;phonation&lt;/span&gt;&lt;span &gt; et l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;articulation des sons&lt;/span&gt;&lt;span &gt;. Elle est le siège du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;goût.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette cavité est ouverte à ses deux extrémités:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;	- Elle communique en avant avec le milieu extérieur au niveau de l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;orifice buccal&lt;/span&gt;&lt;span &gt; circonscrit par les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;lèvres*&lt;/span&gt;&lt;span &gt;. La dépression médiane au dessus de la lèvre supérieure correspond au &lt;/span&gt;&lt;span  fontWeight="bold"&gt;philtrum*&lt;/span&gt;&lt;span &gt;.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;	- Et communique en arrière avec l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;oro-pharynx*&lt;/span&gt;&lt;span &gt;  au niveau de ce que l'on appel l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;isthme du gosier&lt;/span&gt;&lt;span &gt;. C'est à ce niveau que ce trouve les f&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osses tonsilaire*&lt;/span&gt;&lt;span &gt; (siège des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tonsiles palatines&lt;/span&gt;&lt;span &gt; ou amygdales palatines).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les limites latérale corresponde au &lt;/span&gt;&lt;span  fontWeight="bold"&gt;joues&lt;/span&gt;&lt;span &gt;, la limite inférieure correspond au &lt;/span&gt;&lt;span  fontWeight="bold"&gt;plancher buccal&lt;/span&gt;&lt;span &gt; et la limite supérieur  correspond à la région palatine ou &lt;/span&gt;&lt;span  fontWeight="bold"&gt;palais*&lt;/span&gt;&lt;span &gt; qui se prolonge sur la ligne médiane par la&lt;/span&gt;&lt;span  fontWeight="bold"&gt; luette* ou uvule.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="281" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="152.84" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="281"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_04624d58b976447c83df64c3a67b04c4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 152840">
+				<media url="a24x3.mp3" startMsecs="0" duration="152840" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Muscles de la face@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les muscles des lèvres sont innervés par la VII paire crânienne.  Ils sont présentés ici de face et de profil:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Le muscle orbiculaire de la bouche&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Le muscle élévateur de la lèvre supérieure&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Le muscle élévateur de l’angle de la bouche&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Le muscle élévateur naso-labial&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Les muscles petit et grand zygomatique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Le muscle abaisseur de l’angle de la bouche&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Le muscle abaisseur de la lèvre inférieure&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Le muscle platysma et risorius&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; le muscle buccinateur&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cf Baquet page 208&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="121.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cafd93504f9a43eeb47deaa482fec967yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="12790" isStartRelative="false" duration="167"/>
+				<click startTime="18690" isStartRelative="false" duration="167"/>
+				<click startTime="34700" isStartRelative="false" duration="167"/>
+				<click startTime="41700" isStartRelative="false" duration="167"/>
+				<click startTime="44100" isStartRelative="false" duration="167"/>
+				<click startTime="50200" isStartRelative="false" duration="167"/>
+				<click startTime="54450" isStartRelative="false" duration="167"/>
+				<click startTime="81880" isStartRelative="false" duration="167"/>
+				<click startTime="97680" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 121910">
+				<media url="a24x4.mp3" startMsecs="0" duration="121910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Carrefour aéro-digestif pharyngo-laryngé @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Sur une coupe sagitale sont mis en place :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cavité orale*&lt;/span&gt;&lt;span &gt; , occupée en quasi-totalité par la langue&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fosses nasales*&lt;/span&gt;&lt;span &gt; au dessus qui vont filtrer, réchauffer et humidifier l’air inspiré.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le&lt;/span&gt;&lt;span  fontWeight="bold"&gt; larynx*&lt;/span&gt;&lt;span &gt; en dessous, qui correspond à l’entrée dans la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;trachée*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Le pharynx* &lt;/span&gt;&lt;span &gt;en arrière qui se poursuit vers le bas par l’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;œsophage*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il faut noter que l’ensemble de ces structure est tapissée de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muqueuse*&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sur le plan fonctionnel, il s’agit d’un carrefour. Où le flux d’air (inspiré/expiré) va croiser le bol alimentaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L ’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;épiglotte*&lt;/span&gt;&lt;span &gt; va assurer la fermeture de la trachée au moment de la déglutition. Le bol alimentaire dégluti va poursuivre sa course dans l’œsophage.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De même , mais vers le haut,  le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;voile du palais*&lt;/span&gt;&lt;span &gt; qui correspond à la partie postérieure mobile du voile. va fermer les fosses nasales au moment de la déglutition.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="112.09" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7b068835ab7b43b7b7423a6f410df532yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="19420" isStartRelative="false" duration="167"/>
+				<click startTime="27420" isStartRelative="false" duration="167"/>
+				<click startTime="44620" isStartRelative="false" duration="167"/>
+				<click startTime="60220" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 112090">
+				<media url="a24x5.mp3" startMsecs="0" duration="112090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contenu de la cavité buccale et divisions topographiques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Étudions la contenu de la cavité buccale: &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La cavité orale est entièrement tapissée de muqueuse qui est en continuité avec la muqueuse pharyngée: &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;arcades dentaires supérieure et inférieure *&lt;/span&gt;&lt;span &gt; font saillie dans la cavité orale et divisent l'espace en deux compartiments:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Le vestibule*&lt;/span&gt;&lt;span &gt;: Il s'agit d'un espace en forme de Fer à Cheval à concavité postérieure. Limitée en dedans par l'arcade dentaire et les gencives et en dehors par les joues latéralement et les lèvres en avant. Les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sillons gingivo-labiaux&lt;/span&gt;&lt;span &gt; et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gingivo-jugaux *&lt;/span&gt;&lt;span &gt; se situent au fond des vestibules. Il existe au sur la ligne médiane un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;frein labial *&lt;/span&gt;&lt;span &gt; au niveau de la lèvre supérieure et inférieure.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;La cavité buccale &lt;/span&gt;&lt;span &gt; proprement dite se situe en dedans des arcades dentaires et des gencives. Elle mesure environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;7cm &lt;/span&gt;&lt;span &gt;de long, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;4cm&lt;/span&gt;&lt;span &gt; de large et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;3cm&lt;/span&gt;&lt;span &gt; de haut. La langue occupe l'essentiel de cet espace accompagnée par les glandes salivaires (sub-mandubulaire et sub-linguale non représentées ici).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La cavité buccale et le vestibule communiquent (bouche fermée) par l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;espace retro-dentaire&lt;/span&gt;&lt;span &gt; qui est limité en avant par la dernière molaire et en arrière par la branche montante de la mandibule.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="157.72" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fe895aca4b1844ad84784d2dde457236yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="27730" isStartRelative="false" duration="167"/>
+				<click startTime="30430" isStartRelative="false" duration="167"/>
+				<click startTime="47690" isStartRelative="false" duration="167"/>
+				<click startTime="54340" isStartRelative="false" duration="167"/>
+				<click startTime="76980" isStartRelative="false" duration="167"/>
+				<click startTime="94480" isStartRelative="false" duration="167"/>
+				<click startTime="104980" isStartRelative="false" duration="167"/>
+				<click startTime="116170" isStartRelative="false" duration="167"/>
+				<click startTime="121470" isStartRelative="false" duration="167"/>
+				<click startTime="129470" isStartRelative="false" duration="167"/>
+				<click startTime="155670" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 157720">
+				<media url="a24x6.mp3" startMsecs="0" duration="157720" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le squelette de la cavité buccale: la mandibule@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span  fontWeight="bold"&gt;La mandibule:&lt;/span&gt;&lt;span &gt;  Impaire et médian la mandibule est le seul os mobile du massif cranio-facial. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sa forme est celle d'un fer à cheval concave en arrière. On décrit un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;corps*&lt;/span&gt;&lt;span &gt; (horizontale) et deux &lt;/span&gt;&lt;span  fontWeight="bold"&gt;branches&lt;/span&gt;&lt;span &gt; *(verticales).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- Pour le corps, on décrit: &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;face cutanée&lt;/span&gt;&lt;span &gt; ou antérieure qui est convexe. La partie antérieure va constitué le squelette du menton. On décrit de chaque côté un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;foramen mentonnier*&lt;/span&gt;&lt;span &gt;  (terminaison du canal mandibulaire) et une ligne osseuse appelé&lt;/span&gt;&lt;span  fontWeight="bold"&gt; ligne oblique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;face linguale&lt;/span&gt;&lt;span &gt; ou postérieur qui est concave. Et qui correspond à une zone d'insertion musculaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;un bord supérieur ou&lt;/span&gt;&lt;span  fontWeight="bold"&gt; alvéolaire&lt;/span&gt;&lt;span &gt; qui  supporte &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'arcade dentaire inférieure&lt;/span&gt;&lt;span &gt;*.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-Les branches sont constituée :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;	- d'une face latérale recouverte par le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle masséter&lt;/span&gt;&lt;span &gt; puis le plan cutané.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;	- d'une face médiale centrée sur le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;foramen mandibulaire*&lt;/span&gt;&lt;span &gt; (point d'entrée du canal mandibulaire) . Un relief osseux à sa partie antérieure, appelé&lt;/span&gt;&lt;span  fontWeight="bold"&gt; lingula*&lt;/span&gt;&lt;span &gt; est palpable au doigts.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;	-d'un bord supérieure qui présente 2 processus. Le&lt;/span&gt;&lt;span  fontWeight="bold"&gt; processus coronoïde*&lt;/span&gt;&lt;span &gt; en avant et le&lt;/span&gt;&lt;span  fontWeight="bold"&gt; processus condylaire*&lt;/span&gt;&lt;span &gt; en arrière. Entre les deux se trouve l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;incisure mandibulaire*&lt;/span&gt;&lt;span &gt;. Le processus condilaire est encrouté de cartilage et fait partie de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;'articulation temporo-mendibulaire (ATM)&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;	-d'un bord inférieure qui rejoint le bord inférieur du corps de la mandibule pour former l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;angle mandibulaire*&lt;/span&gt;&lt;span &gt; (qui est palpable sous la peau).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="29.3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_01e5b3d9a93d4673a88bef94c233df82yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8820" isStartRelative="false" duration="167"/>
+				<click startTime="14720" isStartRelative="false" duration="167"/>
+				<click startTime="20820" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 29300">
+				<media url="a24x7.mp3" startMsecs="0" duration="29300" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le squelette de la cavité buccale: os hyoïde@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’os hyoïde:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il s'agit d'un os impaire et média en forme de U ouvert en arrière.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; On lui décrit:	&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;corps*&lt;/span&gt;&lt;span &gt; qui correspond à une lame quadrilatère&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;deux grandes cornes*&lt;/span&gt;&lt;span &gt; qui se dirigent en arrière à partir des bords latéraux du corps&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;deux petites cornes*&lt;/span&gt;&lt;span &gt; qui naissent à la jonction du corps et des grandes cornes pour se dirigé en haut et latéralement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="83.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4e22bb31f9f74df1aa4054814dd0fb20yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="35940" isStartRelative="false" duration="167"/>
+				<click startTime="46240" isStartRelative="false" duration="167"/>
+				<click startTime="57640" isStartRelative="false" duration="167"/>
+				<click startTime="63840" isStartRelative="false" duration="167"/>
+				<click startTime="70300" isStartRelative="false" duration="167"/>
+				<click startTime="81260" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 83380">
+				<media url="a24x8.mp3" startMsecs="0" duration="83380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le squelette de la cavité buccale: la voûte palatine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt; La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;voûte palatine&lt;/span&gt;&lt;span &gt; (squelette du palais dur) est représentée ici sur vue inférieure: &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;  Concave vers le bas la voûte palatine est constitué de:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; l'union des deux &lt;/span&gt;&lt;span  fontWeight="bold"&gt;processus palatins*&lt;/span&gt;&lt;span &gt; des os maxillaire droite et gauche&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; des deux &lt;/span&gt;&lt;span  fontWeight="bold"&gt;lames horizontales*&lt;/span&gt;&lt;span &gt; des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;os palatin &lt;/span&gt;&lt;span &gt;droit et gauche. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L'union de ces quatre structures osseuse forme une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;suture palatine médiane*&lt;/span&gt;&lt;span &gt; et une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;suture palatine transverse*&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A extrémité toute antérieure de la suture palatine médiane se trouve le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;canal incisif*&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et de façon symétrique à la jonction entre les processus palatins du maxillaire et les lames horizontale des os palatins se trouve les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;canaux et les orifices dits grands palatins*.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="120.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a77fc1cc9877476bb80d7e4920adb5a8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="9710" isStartRelative="false" duration="167"/>
+				<click startTime="24110" isStartRelative="false" duration="167"/>
+				<click startTime="48010" isStartRelative="false" duration="167"/>
+				<click startTime="60510" isStartRelative="false" duration="167"/>
+				<click startTime="79210" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 120520">
+				<media url="a24x9.mp3" startMsecs="0" duration="120520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le plancher buccal @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;plancher buccal*&lt;/span&gt;&lt;span &gt; est essentiellement musculaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est tendu entre la face postérieure du corps de la mandibule et l'os hyoïde. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il constitue la limite inférieure de la cavité buccale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle mylo-hyoïdien*&lt;/span&gt;&lt;span &gt; (V3) : est tendu comme une toile de tente entre la face postérieure du corps de la mandibule en avant et le corps de l'os hyoïde en arrière. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le contingent droit et gauche se rejoignent sur la ligne médiane pour former le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;raphé médian*&lt;/span&gt;&lt;span &gt;. Ce muscle constitue une véritable sangle musculaire qui va soutenir la langue et le contenu du plancher buccal.&lt;/span&gt;&lt;span  fontStyle="italic"&gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle génio-hyoïdien*&lt;/span&gt;&lt;span &gt; (XII) recouvre le muscle mylo-hyoïdien à sa partie médiane. Il est tendu entre le corps de la mandibule et l'os hyoïde.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sur la face inférieure du plancher buccal,  le ventre antérieur du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle digastrique&lt;/span&gt;&lt;span &gt; (V3)&lt;/span&gt;&lt;span  fontWeight="bold"&gt;*&lt;/span&gt;&lt;span &gt; est plaqué sous le muscle mylo-hyoïdien pour atteindre en avant son insertion sur le face postérieure du corps de la mandibule. Il délivre au passage un tendon intermédiaire qui converge vers la ligne médiane.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les glandes salivaires sont représentées sur ce schéma en violet. La plus volumineuse correspond à la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;glande submandibulaire&lt;/span&gt;&lt;span &gt; qui s’enroule sur le bord postérieur du muscle mylo-hyoïdien.   La plus petite correspond à la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;glande sub-linguale&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="228.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9f99f91056f441678d2822440813ffbeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="11200" isStartRelative="false" duration="167"/>
+				<click startTime="17600" isStartRelative="false" duration="167"/>
+				<click startTime="58300" isStartRelative="false" duration="167"/>
+				<click startTime="62900" isStartRelative="false" duration="167"/>
+				<click startTime="71200" isStartRelative="false" duration="167"/>
+				<click startTime="95000" isStartRelative="false" duration="167"/>
+				<click startTime="106800" isStartRelative="false" duration="167"/>
+				<click startTime="122800" isStartRelative="false" duration="167"/>
+				<click startTime="148010" isStartRelative="false" duration="167"/>
+				<click startTime="169790" isStartRelative="false" duration="167"/>
+				<click startTime="196490" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 228380">
+				<media url="a24x10.mp3" startMsecs="0" duration="228380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La paroi supérieure de la cavité orale: le palais  @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La région du palais forme la paroi supérieure de la cavité orale. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle sépare la cavité orale des fosses nasales. On  lui distingue deux parties : le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;palais dur*&lt;/span&gt;&lt;span &gt; (précédemment décrit) et le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;palais mou&lt;/span&gt;&lt;span &gt; ou &lt;/span&gt;&lt;span  fontWeight="bold"&gt;voile du palais*.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le palais mou sépare l'oro-pharynx du naso-pharynxe. Cette structure musculo-fibreuse mobile obstrue le naso-pharynx lors de la déglutition et à la modulation des sons. Le palais mou se termine en arrière par l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;uvule palatine*&lt;/span&gt;&lt;span &gt; (luette) que nous avons vue sur la première diapo.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;aponévrose palatine*&lt;/span&gt;&lt;span &gt; est une lame fibreuse qui s'insère sur le bord postérieure du palais dur et sur les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;hamulus ptérygoïdien*&lt;/span&gt;&lt;span &gt; (crochet de l'aile interne du processus ptérygoïde de l'os sphénoïde). Mobile, elle est le siège d'insertion des muscles du voile du palais:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle élévateur du voile*&lt;/span&gt;&lt;span &gt; (le XI via le X): Il s'insère sur la face inférieur de la partie pétreuse de l'os temporale en avant de canal carotidien et sur le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cartilage de la trompe auditive*&lt;/span&gt;&lt;span &gt; représentée ici en bleu. (note: + constricteur de la trompe auditive). Se termine sur la face postérieure de l'aponévrose palatine après être passé sous la face inférieure de la trompe auditive.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle tenseur du voile*&lt;/span&gt;&lt;span &gt; (V3) s'insère à la base du processus ptérygoïde en dedans du trou ovale, sur la partie adjacente de la lame ptérygoidienne médiale et le sur cartilage de la trompe auditive. Il atteint verticalement l'hamulus ptérygoïdien où il se réfléchi par un tendon intermédiaire pour ensuite avoir un trajet horizontal. Il se termine sur l'aponévrose palatine. (note + dilatateur de la trompe auditive).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle uvulaire*&lt;/span&gt;&lt;span &gt; (le XI via le X): Paire et symétrique s'insère sur l’épine nasale postérieure de l’os palatin et sur l'aponévrose palatine. Se termine dans le stroma (tissus cellulaire) de l'uvule palatine. Il élève cette dernière. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le&lt;/span&gt;&lt;span  fontWeight="bold"&gt; muscle palato-glosse*&lt;/span&gt;&lt;span &gt; (le XI via le X): Il naît de l'aponévrose palatine, forme l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;arc palato-gloss&lt;/span&gt;&lt;span &gt;e (ou pilier antérieure de la loge tonsillaire). Se termine sur la base et le bord de la langue. Sa fonction est de rétrécir l'isthme du gosier.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle palato-pharyngien*&lt;/span&gt;&lt;span &gt; (le XI via le X):. Il a pour origine l'aponévrose palatine, l'hanulus du ptérigoïde et le cartilage de la trompe auditive. Il est donc constitué de deux faisceaux séparés par le muscle élévateur du voile. Ces deux faisceaux convergent pour former l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;arc palota-pharyngien&lt;/span&gt;&lt;span &gt; (ou pilier postérieure de la loge tonsillaire) pour se terminé dans la paroi du pharynx (et sur le bord postérieure du cartilage thyroïde). Il élevé la pharynx et le larynx et abaisse le voile. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="272" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="198.03" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="272"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_eac053e69c9642e796068b7dea4da632yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="28960" isStartRelative="false" duration="167"/>
+				<click startTime="36460" isStartRelative="false" duration="167"/>
+				<click startTime="39460" isStartRelative="false" duration="167"/>
+				<click startTime="62080" isStartRelative="false" duration="167"/>
+				<click startTime="76880" isStartRelative="false" duration="167"/>
+				<click startTime="83190" isStartRelative="false" duration="167"/>
+				<click startTime="124940" isStartRelative="false" duration="167"/>
+				<click startTime="134740" isStartRelative="false" duration="167"/>
+				<click startTime="146340" isStartRelative="false" duration="167"/>
+				<click startTime="167240" isStartRelative="false" duration="167"/>
+				<click startTime="172640" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 198030">
+				<media url="a24x11.mp3" startMsecs="0" duration="198030" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La langue (1): morphologie externe@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La langue est un organe musculo-membraneux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Impaire et médiane la langue est située au dessus de l'os hyoïde et du plancher buccal. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Très mobile , elle joue un rôle dans la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;mastication&lt;/span&gt;&lt;span &gt;, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;déglutition&lt;/span&gt;&lt;span &gt; et la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;phonation&lt;/span&gt;&lt;span &gt;. Sa muqueuse est le siège des organes du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;goût&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle est constituée de 3 parties : une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;base&lt;/span&gt;&lt;span &gt; ou &lt;/span&gt;&lt;span  fontWeight="bold"&gt;racine* &lt;/span&gt;&lt;span &gt;qui est fixe, un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;corps* &lt;/span&gt;&lt;span &gt;et une&lt;/span&gt;&lt;span  fontWeight="bold"&gt; pointe*&lt;/span&gt;&lt;span &gt; qui sont libres et mobiles. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On lui décrit deux faces : une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;face inférieure&lt;/span&gt;&lt;span &gt; et une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;face supérieur&lt;/span&gt;&lt;span &gt;e convexe qui présente un segment postérieur vertical et un segment antérieure horizontal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;face supérieure de la langue*&lt;/span&gt;&lt;span &gt; : Le dos de la langue présente un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sillon médian*&lt;/span&gt;&lt;span &gt; antéro-postérieur et des papilles gustatives de formes variables.  Les plus volumineuses forme le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;V lingual&lt;/span&gt;&lt;span &gt; et se nomment les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;papilles circumvallées ou caliciformes*.&lt;/span&gt;&lt;span &gt;  Elles sont situées juste en avant du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sillon terminal*.&lt;/span&gt;&lt;span &gt; Le V lingual donne la limite postérieure de la portion horizontale (dite buccale) de la langue. De plus petite papilles se répartissent sur le dos de la langue et sur les bords de la langue. A noter que la muqueuse est très épaisse à ce niveau de la langue. La partie en arrière du V lingual est verticale et se nome la partie pharyngienne de la langue. Elle est unie à l'épiglotte par les&lt;/span&gt;&lt;span  fontWeight="bold"&gt; replis glos-épiglotique&lt;/span&gt;&lt;span &gt;s* (un médial et deux latéraux&lt;/span&gt;&lt;span  fontWeight="bold"&gt;)&lt;/span&gt;&lt;span &gt;. Ils correspondent à la limite postérieure de la langue. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;face inférieure de la langue*&lt;/span&gt;&lt;span &gt; :  La muqueuse à ce niveau est mince et lâche. Un repli muqueux forme le&lt;/span&gt;&lt;span  fontWeight="bold"&gt; frein de la langue*&lt;/span&gt;&lt;span &gt; qui s'insère en bas au niveau du r&lt;/span&gt;&lt;span  fontWeight="bold"&gt;epli sub-lingual&lt;/span&gt;&lt;span &gt;. Les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;conduits de la glande sub-mandibulaire&lt;/span&gt;&lt;span &gt; cheminent sous la muqueuse vers l'avant et la ligne médiane pour s'aboucher, en canon de fusil, au niveau de deux petites surélévations appelées &lt;/span&gt;&lt;span  fontWeight="bold"&gt;caroncules sub-linguales*&lt;/span&gt;&lt;span &gt;. A noter que les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;veines linguales*&lt;/span&gt;&lt;span &gt; sont visibles par transparence sur cette face de la langue. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Note: L’examen clinique de la langue nécessite l’exploration de sa face dorsale jusqu’au repli gloso-épiglotique. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="274" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="176.56" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_20031f4eb21440748e24f7c4d9d193e9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1000" isStartRelative="false" duration="167"/>
+				<click startTime="9800" isStartRelative="false" duration="167"/>
+				<click startTime="20300" isStartRelative="false" duration="167"/>
+				<click startTime="36800" isStartRelative="false" duration="167"/>
+				<click startTime="50200" isStartRelative="false" duration="167"/>
+				<click startTime="88130" isStartRelative="false" duration="167"/>
+				<click startTime="96720" isStartRelative="false" duration="167"/>
+				<click startTime="107620" isStartRelative="false" duration="167"/>
+				<click startTime="146420" isStartRelative="false" duration="167"/>
+				<click startTime="159420" isStartRelative="false" duration="167"/>
+				<click startTime="167620" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 176560">
+				<media url="a24x12.mp3" startMsecs="0" duration="176560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La langue (2): Squelette et muscles@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;squelette de la langue*&lt;/span&gt;&lt;span &gt; est constitué par l'os hyoïde et par deux extensions fibreuses orientées perpendiculairement:	&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;membrane hyoglosienne*&lt;/span&gt;&lt;span &gt; tendue entre les petites cornes et inséré sur le bord supérieure du corps de l'os hyoïde.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Le  &lt;/span&gt;&lt;span  fontWeight="bold"&gt;septum lingual*&lt;/span&gt;&lt;span &gt; qui est une lame fibreuse verticale, falciforme, s'insère au milieu de la membrane hyoglosienne puis monte au centre le la langue entre les muscles en direction de la pointe de la langue.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les muscles de la langues&lt;/span&gt;&lt;span  fontWeight="bold"&gt;*&lt;/span&gt;&lt;span &gt; (principaux) : Seul les deux muscles les plus important sont à  connaître sur 17 muscles:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle génio-glosse*&lt;/span&gt;&lt;span &gt; (XII): Il naît de la face postérieure du corps de la mandibule de part et d'autre de la ligne médiane et rayonne vers la face dorsale et le pointe de la langue. Et s'insère aussi sur le septum lingual qui le séparer de son homologue controlatéral et sur le bord supérieur du corps de l'os hyoïde. Il tire la langue vers l'avant et la plaque contre le plancher buccal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle hyo-glosse*&lt;/span&gt;&lt;span &gt;:(XII) : Il nait par deux faisceaux de l'os hyoïde: &lt;/span&gt;&lt;span  fontWeight="bold"&gt;basio-glosse*&lt;/span&gt;&lt;span &gt; depuis le corps et le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cérato-glosse* &lt;/span&gt;&lt;span &gt;depuis la grande corne. Monte vers l'avant en dehors du muscle génio-glosse (et du muscle longitudinal inférieur) pour se terminer en éventail sur le septum lingual.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les 6 autres muscles ne sont pas à connaître : le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;stylo-glosse &lt;/span&gt;&lt;span &gt;(IX via le VII Anse de Haller), le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;palato-glosse &lt;/span&gt;&lt;span &gt;(IX via le VII Anse de haller), deux extension du muscle &lt;/span&gt;&lt;span  fontWeight="bold"&gt;constricteur supérieur du pharynx&lt;/span&gt;&lt;span &gt;, le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;muscle longitudinal inférieur,&lt;/span&gt;&lt;span &gt; le muscle t&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ransverse de la langue&lt;/span&gt;&lt;span &gt;, le muscle &lt;/span&gt;&lt;span  fontWeight="bold"&gt;longitudinal supérieur&lt;/span&gt;&lt;span &gt; (seul muscle impaire de la langue).  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sur une coupe de la langue&lt;/span&gt;&lt;span  fontWeight="bold"&gt;*&lt;/span&gt;&lt;span &gt; où les muscles du plancher buccale n’ont pas été coloriés:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On retrouve les muscles génio-glosses (GG)* de part et d’autre du septum lingual. Et les muscle hyo-glosses (HG)*.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Notion d'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;espace celluleux&lt;/span&gt;&lt;span &gt; de la langue : espace centro-lingual où peuvent se localiser les abcès de la langue.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="273" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="110.26" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="273"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e30bb2c5b98d4cb5b1348ce02d985c3ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1200" isStartRelative="false" duration="167"/>
+				<click startTime="7800" isStartRelative="false" duration="167"/>
+				<click startTime="12100" isStartRelative="false" duration="167"/>
+				<click startTime="14900" isStartRelative="false" duration="167"/>
+				<click startTime="15500" isStartRelative="false" duration="167"/>
+				<click startTime="23500" isStartRelative="false" duration="167"/>
+				<click startTime="31300" isStartRelative="false" duration="167"/>
+				<click startTime="39600" isStartRelative="false" duration="167"/>
+				<click startTime="46100" isStartRelative="false" duration="167"/>
+				<click startTime="54400" isStartRelative="false" duration="167"/>
+				<click startTime="78970" isStartRelative="false" duration="167"/>
+				<click startTime="90810" isStartRelative="false" duration="167"/>
+				<click startTime="94370" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 110260">
+				<media url="a24x13.mp3" startMsecs="0" duration="110260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La langue (3): vascularisations.@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span  textDecoration="underline"&gt;Vascularisation artérielle de la langue*:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;	3 artères assurent la vascularisation de la langue : &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'artère linguale*&lt;/span&gt;&lt;span &gt; qui est la principal est la deuxième branche de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;carotide externe*&lt;/span&gt;&lt;span &gt;. Les deux autres sont l'artère &lt;/span&gt;&lt;span  fontWeight="bold"&gt;palatine ascendante&lt;/span&gt;&lt;span &gt; (banche de l'artère faciale) et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'artère pharyngienne ascendante&lt;/span&gt;&lt;span &gt; (banche de la carotide externe) qui sont non représentés sur les schémas :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;artère linguale&lt;/span&gt;&lt;span &gt;* quitte la carotide externe, s'oriente en avant et va s'insinuer en dedans du muscle hyo-glosse*. Elle donne au passage une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;artère dite sous-hyoïdienne&lt;/span&gt;&lt;span &gt; puis donne rapidement &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'artère dorsale de la langue*&lt;/span&gt;&lt;span &gt; puis se divise en deux rameaux terminaux. &lt;/span&gt;&lt;span  fontWeight="bold"&gt;L'artère  sub-linguale*&lt;/span&gt;&lt;span &gt; (qui naît parfois de la langue sub-mentonnière branche de l'artère faciale). &lt;/span&gt;&lt;span  fontWeight="bold"&gt;L'artère profonde de la langue*&lt;/span&gt;&lt;span &gt; (ou&lt;/span&gt;&lt;span  fontWeight="bold"&gt; ranine&lt;/span&gt;&lt;span &gt;) qui se poursuit jusqu'à la pointe de la langue.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  textDecoration="underline"&gt;Drainage veineux:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; A son origine la veine linguale principale est satellite de l'artère. (Elle s'en écarté ensuite pour rejoindre le nerf hypoglosse (XII)). Elle conflue avec la veine sub-linguale puis la veine dorsale de langue. Elle rejoint le veine jugulaire en passant (en dedans du muscle stylo-hyoïdien) et en dehors du muscle hyo-glosse en particiânt à la formation du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tronc veineux thyro-linguo-facial*&lt;/span&gt;&lt;span &gt; (de Faraboeuf).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  textDecoration="underline"&gt;Drainage lymphatique:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-Le drainage lymphatique (drainage dans un relais d'autant plus haut situé que le territoire lingual est postérieur) La pointe de la langue est drainée dans les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nœuds lymphatiques sous mentaux*&lt;/span&gt;&lt;span &gt;. Le corps de la langue est drainé dans les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;noeuds sub-mandibulaires*&lt;/span&gt;&lt;span &gt; puis dans les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;noeuds jugulo-carotidiens*&lt;/span&gt;&lt;span &gt;. (sous-digastrique de Küttner).  De plus, une lésion proche de la ligne médiane et au niveau de la pointe peut disséminer des deux cotés de la ligne médiane.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="173.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5ca921fc23c34c03b3d48962fe866549yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8700" isStartRelative="false" duration="167"/>
+				<click startTime="38400" isStartRelative="false" duration="167"/>
+				<click startTime="53900" isStartRelative="false" duration="167"/>
+				<click startTime="62700" isStartRelative="false" duration="167"/>
+				<click startTime="68400" isStartRelative="false" duration="167"/>
+				<click startTime="78500" isStartRelative="false" duration="167"/>
+				<click startTime="84700" isStartRelative="false" duration="167"/>
+				<click startTime="90900" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 173190">
+				<media url="a24x14.mp3" startMsecs="0" duration="173190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La langue (4): Innervation de la langue@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’innervation de la langue:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'innervation motrice&lt;/span&gt;&lt;span &gt; de la langue est assurée par le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nerf hypoglosse*&lt;/span&gt;&lt;span &gt; (XII) : Il naît de la base du crâne, puis va descendre faire une large courbe, passer entre la carotide externe et la veine jugulaire pour rejoindre les muscles de la langue en passant en dehors du muscle hyo-glosse. En cas de paralysie unilatérale du XII, la langue est déviée du côté paralysé par manque d’opposition (elle montre le côté paralysé).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'innervation sensitive&lt;/span&gt;&lt;span &gt; de la langue est assurée par le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nef lingual*&lt;/span&gt;&lt;span &gt;, branche du V3, et le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nerf glosso-pharyngien &lt;/span&gt;&lt;span &gt;(IX) (non représenté ici): la langue est divisée en deux&lt;/span&gt;&lt;span  fontWeight="bold"&gt;*:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- ses 2/3 ant par le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nerf lingual*&lt;/span&gt;&lt;span &gt; branche du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;V3&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- son 1/3 post par le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;glosso-pharyngien*&lt;/span&gt;&lt;span &gt; (IX) et quelques branches du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nerf vague&lt;/span&gt;&lt;span &gt; (X) &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'innervation sensorielle*&lt;/span&gt;&lt;span &gt; de la langue est assurée pour :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- les 2/3 ant. par des fibres nerveuse qui empreinte initialement le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nerf lingual*&lt;/span&gt;&lt;span &gt; ce contingent sensoriel quitte le nerf lingual pour former la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;corde du tympan&lt;/span&gt;&lt;span &gt; (qui rejoint le ganglion géniculé  de la VIIième paire cranienne puis forme du nerf intermédiaire de Wrisberg (VIIbis)  qui se termine dans le noyau gustatif supérieure au niveau du tronc cérébral.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- le 1/3 post   donne des fibres qui empreinte le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;IX et le X*&lt;/span&gt;&lt;span &gt;. (le corps cellulaire des ces fibres se trouve dans le ganglion d'Andersh (IX) et le ganglion plexiforme du X. Ces fibres se terminent dans le noyau gustatif inférieure pour le IX et  des noyaux du tractus solitaire pour le X.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- La perception des quatre saveurs de bases (acide, salé, sucré et amer) se répartisse de façon hétérogène. La zone le plus sensible correspond à la région de V linguale et de la pointe de la langue. La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;zone amère&lt;/span&gt;&lt;span &gt; se trouve au contact de V lingual, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;zone salée&lt;/span&gt;&lt;span &gt; correspond au bord latéral de la langue en épargnant le pointe. La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;zone sucré&lt;/span&gt;&lt;span &gt; concerne le bord de la langue jusqu'à la pointe, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;zone acide&lt;/span&gt;&lt;span &gt; est sur le bord latéral de langue mais limité au 1/3 post.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Notion du réflexe nauséeux&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontStyle="italic"&gt;Note : Il existe des réflexes courts qui activent les noyaux salivaires (sup et inf) du tronc cérébral. Le noyau salivaire sup donne des fibre viscéro-motrice qui empruntent le VIIbis, la corde du tympan et le nerf lingual pour atteindre les glandes sub-mandibulaire et sub-linguale. A partir de noyau salivaire inférieure va innervé la glande parotide après un trajet complexe (cf Baquet page 203).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="275" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="155.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8da65d6471ed4ca6aa5e84bde7a29a55yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8250" isStartRelative="false" duration="167"/>
+				<click startTime="51150" isStartRelative="false" duration="167"/>
+				<click startTime="61350" isStartRelative="false" duration="167"/>
+				<click startTime="97110" isStartRelative="false" duration="167"/>
+				<click startTime="107840" isStartRelative="false" duration="167"/>
+				<click startTime="135380" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 155950">
+				<media url="a24x15.mp3" startMsecs="0" duration="155950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les muscles de la mastications @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les muscles de la mastication&lt;/span&gt;&lt;span  fontWeight="bold"&gt;*&lt;/span&gt;&lt;span &gt;:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Le muscle temporal*&lt;/span&gt;&lt;span &gt; : Est un muscle puissant situé dans la région temporal à laquelle il donne son nom. Son insertion est large en éventail sur la partie latérale de la tête osseuse et à la face profonde de l'aponévrose temporal qui le recouvre en dehors. Ses fibres font convergé vers le bas pour passer en dedans le l'arcade zygomatique et se terminer par un large tendon sur le processus coronoïde.  En se contractant , il élève la mandibule et ferme la cavité orale. Il est innerve par le 3 nerfs toutes des branche du nerf mandibulaire (V3).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt; Le muscle masséter*&lt;/span&gt;&lt;span &gt; : Occupe la partie postérieur de la joue. Il est constitué de deux faisceaux : un fx. superficiel tendu entre l'arcade zygomatique et l'angle postérieur de la mandibule et un fx. profond  présente une insertion plus postérieure sur l'arcade zygomatique, ses fibres verticales se termine sur la face latéral de la la branche montante de la mandibule. Il est innervé par le nerf massétérique qui est une branche du nerf mandibulaire (V3). Sa contraction entraîne une élévation et une propulsion de la mandibule. (notion de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;Trismus&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Les ptérygoïdiens*&lt;/span&gt;&lt;span &gt;: Les muscles ptérygoïdiens sont situés dans la fosse infra-temporale (ou ptérigo-maxillaire). Ils sont au nombre de deux : &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;le ptérygoïdien latéral*&lt;/span&gt;&lt;span &gt; s'insère sur le sphénoïde et la face latérale de la lame latérale du processus ptérygoïde, l'os palatin et le maxilaire. Il se termine sur l'articulation temporo-mandibulaire et la mandibule. Permet des mouvements latéraux et la propulsion de la mandibule. Innervé par une banche du V3&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Le ptérygoïde médial*&lt;/span&gt;&lt;span &gt; s'insère dans la fosse ptérygoïde, l' os palatin et l'os maxillaire. Se termine sur la face médiale de l'angle de la mandibule. Permet d'élever la mandibule. Il est innervé par le V3 (branche du tronc postérieur du V3).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="277" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="56.26" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="277"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e548c28c2d7141f6b74b41b6af7a7573yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="700" isStartRelative="false" duration="167"/>
+				<click startTime="21400" isStartRelative="false" duration="167"/>
+				<click startTime="25500" isStartRelative="false" duration="167"/>
+				<click startTime="34100" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 56260">
+				<media url="a24x16.mp3" startMsecs="0" duration="56260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L'articulation temporo-mandibulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span  fontWeight="bold"&gt;L'articulation temporo-mandibulaire*&lt;/span&gt;&lt;span &gt; :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il s'agit de la seule articulation mobile de massif crânio-facial. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette articulation joue un rôle essentiel dans la mastication et la succion qui sont des fonctions alimentaires préalables à la déglutition.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;condyle mandibulaire*&lt;/span&gt;&lt;span &gt; vient s'articuler avec l'os temporal au niveau de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fosse mandibulaire*&lt;/span&gt;&lt;span &gt;. Interposé entre les deux surfaces articulaires se trouve un disque fibro-cartilagineux ou  &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ménisque*&lt;/span&gt;&lt;span &gt;. La capsule articulaire est renforcée par un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ligament latéral&lt;/span&gt;&lt;span &gt; épais et triangulaire et un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ligament médial&lt;/span&gt;&lt;span &gt; moins résistant. Cette articulation est mobilisée par 4 muscles masticateurs (le temporal, le masséter, les deux ptérygoïdiens) (note, les muscle sus-hyoïidiens mobilisent également cette articulation).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="279" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="115.53" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="279"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1ccbd8a4c6114791aa6f73fc2f09686eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="28500" isStartRelative="false" duration="167"/>
+				<click startTime="36400" isStartRelative="false" duration="167"/>
+				<click startTime="50960" isStartRelative="false" duration="167"/>
+				<click startTime="55260" isStartRelative="false" duration="167"/>
+				<click startTime="62860" isStartRelative="false" duration="167"/>
+				<click startTime="86700" isStartRelative="false" duration="167"/>
+				<click startTime="88180" isStartRelative="false" duration="167"/>
+				<click startTime="105800" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 115530">
+				<media url="a24x17.mp3" startMsecs="0" duration="115530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vascularisation de la région gingivo-dentaire @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La vascularisation artérielle a une disposition et une origine différente au niveau de la mâchoire sup et de la mâchoire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Voyons dans un premier temps la mâchoire supérieure:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La vascularisation artérielle est assurée par des branche de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'artère maxillaire*&lt;/span&gt;&lt;span &gt;  qui est une branche terminale de la carotide externe.  Elle va donner:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;L'artère alvéolaire supérieure et postérieur*&lt;/span&gt;&lt;span &gt;; elle pénètre l'os maxillaire et descend dans la paroi osseux de ce dernier. Elle forme des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;rameaux dentaires*&lt;/span&gt;&lt;span &gt;, qui s'anastomosent, d'où parte les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;rameaux radiculaire*&lt;/span&gt;&lt;span &gt; destinés aux molaires et le prémolaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;L'artère sous-orbitaire* &lt;/span&gt;&lt;span &gt;né du coude terminal de l'artère maxillaire et traverse de par en par le canal sous-orbitaire. Dans le canal elle donne l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;artère alvéolaire antérieure*&lt;/span&gt;&lt;span &gt; qui à travers son propre canal va donner des rameaux dentaires qui s'anastomosent entre eux et avec le réseau de l'artère alvéolaire  supérieure et postérieur pour donner des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;rameaux radiculaires*&lt;/span&gt;&lt;span &gt; destinés aux canines et aux incisives.  L'anastomose entre les rameaux dentaires forme une véritable &lt;/span&gt;&lt;span  fontWeight="bold"&gt;arcade anastomotique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Note : il existe des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;artères alvéolaires moyennes*&lt;/span&gt;&lt;span &gt;  inconstantes. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="278" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="56.97" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="278"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_be6dff0314de4efb97ac7190153cdf77yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8950" isStartRelative="false" duration="167"/>
+				<click startTime="12550" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 56970">
+				<media url="a24x18.mp3" startMsecs="0" duration="56970" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vascularisation de la région gingivo-dentaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour la mâchoire inf : &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La vascularisation de la région gingivo-dentaire inférieure est assuré par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'artère alvéolaire inférieure*&lt;/span&gt;&lt;span &gt;. Il s'agit là aussi d'une branche de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;maxillaire interne*&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle naït au contact du col du condyle puis se dirige en bas et en avant en direction du l'entrée du canal mandibulaire. Elle se poursuit dans le canal mandibulaire jusqu'au foramen mentonnier.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle distribue en cours de route des  rameaux destinés à la pulpe de chaque dent en pénétrant par l'orifice apexien. L'artère incisive se poursuit au delà du foramen mentonier dans un canal osseux (canal incisif) pour assurer la vascularisation de la canine et des deux incisives..&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="280" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="120.05" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="280"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b17284a234ef4c86a3033a22df1a6c2eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="19390" isStartRelative="false" duration="167"/>
+				<click startTime="66070" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 120050">
+				<media url="a24x19.mp3" startMsecs="0" duration="120050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Innervation de la denture @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Elle provient du nerf trijumeau (V).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au niveau de la mâchoire sup : l'innervation sensitive provient du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nerf maxillaire&lt;/span&gt;&lt;span &gt;* (V2) sous forme de trois branches nommées nerf alvéolaire supérieur postérieur, moyen et antérieur. Ils s'anastomosent , dans la paroi de l'os maxillaire pour former le  plexus dentaire supérieur qui se distribue aux racines des dents.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au niveau de la mâchoire inférieure : L'innervation est assurée par le nerf alvéolaire inférieur qui est la branche terminal du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nerf mandibulaire*&lt;/span&gt;&lt;span &gt; (V3). Le nerf alvéolaire inférieure accompagne l'artère du même nom dans le canal mandibulaire et donne une branche pour chaque racine dentaire. Au delà du foramen mentonnier, comme pour l'artère le nerf se poursuit en avant dans le canal incisif en compagnie de l'artère du même nom. (Note : il est possible d'anesthésie le nerf alvéolaire inférieur)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide19.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_532e14ec1ad54a74b7ab09d66e8dcc7cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

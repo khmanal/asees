@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 14 : Le larynx</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie CHUGA</speakerTitle>
+			<image>spk10031.swf</image>
+		</speaker>
+		<speaker>
+			<name>Maurice DEMATTEIS</name>
+			<speakerTitle>Docteur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk12789.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_6fbb8fc1fb9e48159b0ca77f9d2f7ccbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_4a9515236ccf4857945563e10fc49d2dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_6dc67ec58fd54814a9cb44428c0eea22yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_11b426fe98bc47d5960815ad3fd8b4ccyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_fe007668d6b34ebd9c3bfd9c7d1b8061yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_00fb2fb94515408c84c2b24aa41b0c8byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="569" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="20.06" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="569"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b53e5c236ab74aa7a7c866b49331997fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 20060">
+				<media url="a24x1.mp3" startMsecs="0" duration="20060" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="560" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="67.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="560"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ea9d3e1707e34797a2f8a28dc35d6514yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="6520" isStartRelative="false" duration="167"/>
+				<click startTime="18730" isStartRelative="false" duration="167"/>
+				<click startTime="20970" isStartRelative="false" duration="167"/>
+				<click startTime="22710" isStartRelative="false" duration="167"/>
+				<click startTime="24370" isStartRelative="false" duration="167"/>
+				<click startTime="27480" isStartRelative="false" duration="167"/>
+				<click startTime="38760" isStartRelative="false" duration="167"/>
+				<click startTime="40400" isStartRelative="false" duration="167"/>
+				<click startTime="60420" isStartRelative="false" duration="167"/>
+				<click startTime="64210" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 67310">
+				<media url="a24x2.mp3" startMsecs="0" duration="67310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LARYNX : conduit aérifère et organe phonatoire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="526" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="181.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="526"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fba516be8e4f47589312e036a39ec9f0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="900" isStartRelative="false" duration="167"/>
+				<click startTime="8640" isStartRelative="false" duration="167"/>
+				<click startTime="11240" isStartRelative="false" duration="167"/>
+				<click startTime="11810" isStartRelative="false" duration="167"/>
+				<click startTime="14910" isStartRelative="false" duration="167"/>
+				<click startTime="16510" isStartRelative="false" duration="167"/>
+				<click startTime="21200" isStartRelative="false" duration="167"/>
+				<click startTime="23630" isStartRelative="false" duration="167"/>
+				<click startTime="28680" isStartRelative="false" duration="167"/>
+				<click startTime="33180" isStartRelative="false" duration="167"/>
+				<click startTime="39460" isStartRelative="false" duration="167"/>
+				<click startTime="43040" isStartRelative="false" duration="167"/>
+				<click startTime="46640" isStartRelative="false" duration="167"/>
+				<click startTime="51310" isStartRelative="false" duration="167"/>
+				<click startTime="52970" isStartRelative="false" duration="167"/>
+				<click startTime="56810" isStartRelative="false" duration="167"/>
+				<click startTime="62360" isStartRelative="false" duration="167"/>
+				<click startTime="70020" isStartRelative="false" duration="167"/>
+				<click startTime="70600" isStartRelative="false" duration="167"/>
+				<click startTime="71700" isStartRelative="false" duration="167"/>
+				<click startTime="94020" isStartRelative="false" duration="167"/>
+				<click startTime="99650" isStartRelative="false" duration="167"/>
+				<click startTime="101010" isStartRelative="false" duration="167"/>
+				<click startTime="105930" isStartRelative="false" duration="167"/>
+				<click startTime="113880" isStartRelative="false" duration="167"/>
+				<click startTime="117690" isStartRelative="false" duration="167"/>
+				<click startTime="133110" isStartRelative="false" duration="167"/>
+				<click startTime="140030" isStartRelative="false" duration="167"/>
+				<click startTime="143590" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 181280">
+				<media url="a24x3.mp3" startMsecs="0" duration="181280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE CARREFOUR AERO-DIGESTIF : Préambule@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="527" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="73.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="527"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ede4ecc950a343cab5ddac930720630fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="850" isStartRelative="false" duration="167"/>
+				<click startTime="10050" isStartRelative="false" duration="167"/>
+				<click startTime="21850" isStartRelative="false" duration="167"/>
+				<click startTime="22750" isStartRelative="false" duration="167"/>
+				<click startTime="29050" isStartRelative="false" duration="167"/>
+				<click startTime="34680" isStartRelative="false" duration="167"/>
+				<click startTime="43050" isStartRelative="false" duration="167"/>
+				<click startTime="56310" isStartRelative="false" duration="167"/>
+				<click startTime="63620" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 73240">
+				<media url="a24x4.mp3" startMsecs="0" duration="73240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX : formation du son laryngé@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="528" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="68.12" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="528"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_90a999b268dd43c895b1dc61302ae5a9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1500" isStartRelative="false" duration="167"/>
+				<click startTime="6900" isStartRelative="false" duration="167"/>
+				<click startTime="13200" isStartRelative="false" duration="167"/>
+				<click startTime="15300" isStartRelative="false" duration="167"/>
+				<click startTime="17900" isStartRelative="false" duration="167"/>
+				<click startTime="39010" isStartRelative="false" duration="167"/>
+				<click startTime="53570" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 68120">
+				<media url="a24x5.mp3" startMsecs="0" duration="68120" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX:@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="529" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="162.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="529"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a59c4412d1ca4c7294d004c725f33a8cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="21840" isStartRelative="false" duration="167"/>
+				<click startTime="27520" isStartRelative="false" duration="167"/>
+				<click startTime="28090" isStartRelative="false" duration="167"/>
+				<click startTime="31940" isStartRelative="false" duration="167"/>
+				<click startTime="33200" isStartRelative="false" duration="167"/>
+				<click startTime="44430" isStartRelative="false" duration="167"/>
+				<click startTime="45940" isStartRelative="false" duration="167"/>
+				<click startTime="57500" isStartRelative="false" duration="167"/>
+				<click startTime="66430" isStartRelative="false" duration="167"/>
+				<click startTime="79260" isStartRelative="false" duration="167"/>
+				<click startTime="80660" isStartRelative="false" duration="167"/>
+				<click startTime="81990" isStartRelative="false" duration="167"/>
+				<click startTime="103130" isStartRelative="false" duration="167"/>
+				<click startTime="109000" isStartRelative="false" duration="167"/>
+				<click startTime="111200" isStartRelative="false" duration="167"/>
+				<click startTime="120110" isStartRelative="false" duration="167"/>
+				<click startTime="121500" isStartRelative="false" duration="167"/>
+				<click startTime="127050" isStartRelative="false" duration="167"/>
+				<click startTime="128470" isStartRelative="false" duration="167"/>
+				<click startTime="128730" isStartRelative="false" duration="167"/>
+				<click startTime="132330" isStartRelative="false" duration="167"/>
+				<click startTime="137880" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 162660">
+				<media url="a24x6.mp3" startMsecs="0" duration="162660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE CARTILAGE THYROIDE : Dièdre, bouclier@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="530" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="146.33" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="530"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fac5da561eb84618b4b94c77e524324eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2370" isStartRelative="false" duration="167"/>
+				<click startTime="12170" isStartRelative="false" duration="167"/>
+				<click startTime="14470" isStartRelative="false" duration="167"/>
+				<click startTime="17270" isStartRelative="false" duration="167"/>
+				<click startTime="21560" isStartRelative="false" duration="167"/>
+				<click startTime="27460" isStartRelative="false" duration="167"/>
+				<click startTime="41180" isStartRelative="false" duration="167"/>
+				<click startTime="41920" isStartRelative="false" duration="167"/>
+				<click startTime="44350" isStartRelative="false" duration="167"/>
+				<click startTime="65840" isStartRelative="false" duration="167"/>
+				<click startTime="66400" isStartRelative="false" duration="167"/>
+				<click startTime="73700" isStartRelative="false" duration="167"/>
+				<click startTime="78780" isStartRelative="false" duration="167"/>
+				<click startTime="90160" isStartRelative="false" duration="167"/>
+				<click startTime="101350" isStartRelative="false" duration="167"/>
+				<click startTime="109820" isStartRelative="false" duration="167"/>
+				<click startTime="124620" isStartRelative="false" duration="167"/>
+				<click startTime="132180" isStartRelative="false" duration="167"/>
+				<click startTime="139080" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 146330">
+				<media url="a24x7.mp3" startMsecs="0" duration="146330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE CARTILAGE CRICOIDE :@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="531" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="95.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="531"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2323e79c2a4945d9987bd40f32223b6dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="3550" isStartRelative="false" duration="167"/>
+				<click startTime="14050" isStartRelative="false" duration="167"/>
+				<click startTime="34750" isStartRelative="false" duration="167"/>
+				<click startTime="44250" isStartRelative="false" duration="167"/>
+				<click startTime="56560" isStartRelative="false" duration="167"/>
+				<click startTime="68430" isStartRelative="false" duration="167"/>
+				<click startTime="88140" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 95520">
+				<media url="a24x8.mp3" startMsecs="0" duration="95520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES CARTILAGES ARYTENOIDIENS SUR LE CARTILAGE CRICOIDIEN :@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="532" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="61.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="532"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9cd597c8fc56448b8dda6c6fc0973d89yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="630" isStartRelative="false" duration="167"/>
+				<click startTime="13430" isStartRelative="false" duration="167"/>
+				<click startTime="22230" isStartRelative="false" duration="167"/>
+				<click startTime="28410" isStartRelative="false" duration="167"/>
+				<click startTime="32830" isStartRelative="false" duration="167"/>
+				<click startTime="35630" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 61960">
+				<media url="a24x9.mp3" startMsecs="0" duration="61960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE CARTILAGE EPIGLOTTIQUE ou EPIGLOTTE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="564" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="120.13" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="564"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_feb8fc40886b4e5486848c7c4b45ae96yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2160" isStartRelative="false" duration="167"/>
+				<click startTime="48420" isStartRelative="false" duration="167"/>
+				<click startTime="49100" isStartRelative="false" duration="167"/>
+				<click startTime="49630" isStartRelative="false" duration="167"/>
+				<click startTime="54330" isStartRelative="false" duration="167"/>
+				<click startTime="90340" isStartRelative="false" duration="167"/>
+				<click startTime="90890" isStartRelative="false" duration="167"/>
+				<click startTime="91510" isStartRelative="false" duration="167"/>
+				<click startTime="92230" isStartRelative="false" duration="167"/>
+				<click startTime="92620" isStartRelative="false" duration="167"/>
+				<click startTime="102820" isStartRelative="false" duration="167"/>
+				<click startTime="118120" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 120130">
+				<media url="a24x10.mp3" startMsecs="0" duration="120130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ASSEMBLAGE DES CARTILAGES@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="533" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="267.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="533"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_adea430e38f4490eaaaf8eed925ec79ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1200" isStartRelative="false" duration="167"/>
+				<click startTime="20500" isStartRelative="false" duration="167"/>
+				<click startTime="22600" isStartRelative="false" duration="167"/>
+				<click startTime="29900" isStartRelative="false" duration="167"/>
+				<click startTime="35500" isStartRelative="false" duration="167"/>
+				<click startTime="39100" isStartRelative="false" duration="167"/>
+				<click startTime="41300" isStartRelative="false" duration="167"/>
+				<click startTime="48700" isStartRelative="false" duration="167"/>
+				<click startTime="59400" isStartRelative="false" duration="167"/>
+				<click startTime="61800" isStartRelative="false" duration="167"/>
+				<click startTime="68500" isStartRelative="false" duration="167"/>
+				<click startTime="93500" isStartRelative="false" duration="167"/>
+				<click startTime="106800" isStartRelative="false" duration="167"/>
+				<click startTime="121900" isStartRelative="false" duration="167"/>
+				<click startTime="140900" isStartRelative="false" duration="167"/>
+				<click startTime="150700" isStartRelative="false" duration="167"/>
+				<click startTime="168900" isStartRelative="false" duration="167"/>
+				<click startTime="187300" isStartRelative="false" duration="167"/>
+				<click startTime="207100" isStartRelative="false" duration="167"/>
+				<click startTime="230000" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 267100">
+				<media url="a24x11.mp3" startMsecs="0" duration="267100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX : appareil ligamentaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="534" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="106.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="534"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_84933d8fcfaa4a76acad0767af4fa992yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2120" isStartRelative="false" duration="167"/>
+				<click startTime="10020" isStartRelative="false" duration="167"/>
+				<click startTime="11520" isStartRelative="false" duration="167"/>
+				<click startTime="15520" isStartRelative="false" duration="167"/>
+				<click startTime="22520" isStartRelative="false" duration="167"/>
+				<click startTime="33020" isStartRelative="false" duration="167"/>
+				<click startTime="38570" isStartRelative="false" duration="167"/>
+				<click startTime="51910" isStartRelative="false" duration="167"/>
+				<click startTime="56020" isStartRelative="false" duration="167"/>
+				<click startTime="65470" isStartRelative="false" duration="167"/>
+				<click startTime="71960" isStartRelative="false" duration="167"/>
+				<click startTime="73180" isStartRelative="false" duration="167"/>
+				<click startTime="75080" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 106310">
+				<media url="a24x12.mp3" startMsecs="0" duration="106310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX : appareil ligamentaire (suite)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="535" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="168.43" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="535"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_67ff6c82e2bd4bee885fed6381da483cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="900" isStartRelative="false" duration="167"/>
+				<click startTime="13320" isStartRelative="false" duration="167"/>
+				<click startTime="20320" isStartRelative="false" duration="167"/>
+				<click startTime="32800" isStartRelative="false" duration="167"/>
+				<click startTime="40260" isStartRelative="false" duration="167"/>
+				<click startTime="45880" isStartRelative="false" duration="167"/>
+				<click startTime="51780" isStartRelative="false" duration="167"/>
+				<click startTime="53230" isStartRelative="false" duration="167"/>
+				<click startTime="63930" isStartRelative="false" duration="167"/>
+				<click startTime="88100" isStartRelative="false" duration="167"/>
+				<click startTime="110700" isStartRelative="false" duration="167"/>
+				<click startTime="135700" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 168430">
+				<media url="a24x13.mp3" startMsecs="0" duration="168430" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX : appareil musculaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="536" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="96.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="536"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bdd0a3e9a2b54edfb8bd718de7dfe45ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="3180" isStartRelative="false" duration="167"/>
+				<click startTime="12780" isStartRelative="false" duration="167"/>
+				<click startTime="14280" isStartRelative="false" duration="167"/>
+				<click startTime="34780" isStartRelative="false" duration="167"/>
+				<click startTime="71180" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 96940">
+				<media url="a24x14.mp3" startMsecs="0" duration="96940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX : appareil musculaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="537" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="208.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="537"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c28f687c2f6e4891bc5187f722154d4dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="6600" isStartRelative="false" duration="167"/>
+				<click startTime="14800" isStartRelative="false" duration="167"/>
+				<click startTime="23500" isStartRelative="false" duration="167"/>
+				<click startTime="54600" isStartRelative="false" duration="167"/>
+				<click startTime="64200" isStartRelative="false" duration="167"/>
+				<click startTime="68000" isStartRelative="false" duration="167"/>
+				<click startTime="84100" isStartRelative="false" duration="167"/>
+				<click startTime="92300" isStartRelative="false" duration="167"/>
+				<click startTime="113800" isStartRelative="false" duration="167"/>
+				<click startTime="117600" isStartRelative="false" duration="167"/>
+				<click startTime="127400" isStartRelative="false" duration="167"/>
+				<click startTime="130100" isStartRelative="false" duration="167"/>
+				<click startTime="135100" isStartRelative="false" duration="167"/>
+				<click startTime="138300" isStartRelative="false" duration="167"/>
+				<click startTime="145900" isStartRelative="false" duration="167"/>
+				<click startTime="149200" isStartRelative="false" duration="167"/>
+				<click startTime="168700" isStartRelative="false" duration="167"/>
+				<click startTime="3584" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 208920">
+				<media url="a24x15.mp3" startMsecs="0" duration="208920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX : appareil musculaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="561" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="169.27" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="561"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_40fd592b4b174a4abaf63915373a6980yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1100" isStartRelative="false" duration="167"/>
+				<click startTime="5800" isStartRelative="false" duration="167"/>
+				<click startTime="29000" isStartRelative="false" duration="167"/>
+				<click startTime="56100" isStartRelative="false" duration="167"/>
+				<click startTime="64800" isStartRelative="false" duration="167"/>
+				<click startTime="79000" isStartRelative="false" duration="167"/>
+				<click startTime="95600" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 169270">
+				<media url="a24x16.mp3" startMsecs="0" duration="169270" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX : fonction phonatoire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="538" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="154.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="538"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1a92a7a5bad143d29acd7a2542d89c6eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="3800" isStartRelative="false" duration="167"/>
+				<click startTime="28000" isStartRelative="false" duration="167"/>
+				<click startTime="32200" isStartRelative="false" duration="167"/>
+				<click startTime="35400" isStartRelative="false" duration="167"/>
+				<click startTime="38500" isStartRelative="false" duration="167"/>
+				<click startTime="42200" isStartRelative="false" duration="167"/>
+				<click startTime="51700" isStartRelative="false" duration="167"/>
+				<click startTime="60700" isStartRelative="false" duration="167"/>
+				<click startTime="61900" isStartRelative="false" duration="167"/>
+				<click startTime="70600" isStartRelative="false" duration="167"/>
+				<click startTime="86000" isStartRelative="false" duration="167"/>
+				<click startTime="91900" isStartRelative="false" duration="167"/>
+				<click startTime="103100" isStartRelative="false" duration="167"/>
+				<click startTime="120100" isStartRelative="false" duration="167"/>
+				<click startTime="153000" isStartRelative="false" duration="167"/>
+				<click startTime="3182" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 154200">
+				<media url="a24x17.mp3" startMsecs="0" duration="154200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX : coupe frontale muqueuse en place (vue dorsale de la moitié ventrale de la coupe)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="539" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="159.98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="539"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7fbe15c54c0b403cb46f469af786284dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1200" isStartRelative="false" duration="167"/>
+				<click startTime="31910" isStartRelative="false" duration="167"/>
+				<click startTime="58940" isStartRelative="false" duration="167"/>
+				<click startTime="67360" isStartRelative="false" duration="167"/>
+				<click startTime="80010" isStartRelative="false" duration="167"/>
+				<click startTime="90650" isStartRelative="false" duration="167"/>
+				<click startTime="101210" isStartRelative="false" duration="167"/>
+				<click startTime="102410" isStartRelative="false" duration="167"/>
+				<click startTime="130870" isStartRelative="false" duration="167"/>
+				<click startTime="158310" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 158740">
+				<media url="a24x18.mp3" startMsecs="0" duration="158740" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES CAVITES DU LARYNX@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="540" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="159.42" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="540"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d1fad6a78b594d999d363b6f05941f83yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="7890" isStartRelative="false" duration="167"/>
+				<click startTime="24490" isStartRelative="false" duration="167"/>
+				<click startTime="28790" isStartRelative="false" duration="167"/>
+				<click startTime="31890" isStartRelative="false" duration="167"/>
+				<click startTime="35300" isStartRelative="false" duration="167"/>
+				<click startTime="37130" isStartRelative="false" duration="167"/>
+				<click startTime="44530" isStartRelative="false" duration="167"/>
+				<click startTime="45640" isStartRelative="false" duration="167"/>
+				<click startTime="51440" isStartRelative="false" duration="167"/>
+				<click startTime="54010" isStartRelative="false" duration="167"/>
+				<click startTime="59590" isStartRelative="false" duration="167"/>
+				<click startTime="60610" isStartRelative="false" duration="167"/>
+				<click startTime="73000" isStartRelative="false" duration="167"/>
+				<click startTime="79450" isStartRelative="false" duration="167"/>
+				<click startTime="83350" isStartRelative="false" duration="167"/>
+				<click startTime="84040" isStartRelative="false" duration="167"/>
+				<click startTime="92910" isStartRelative="false" duration="167"/>
+				<click startTime="127700" isStartRelative="false" duration="167"/>
+				<click startTime="129240" isStartRelative="false" duration="167"/>
+				<click startTime="142550" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 159420">
+				<media url="a24x19.mp3" startMsecs="0" duration="159420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA LARYNGOSCOPIE INDIRECTE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="541" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="147.733" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="541"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ffe409eb6598405a8506db08dfd2bcfeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2430" isStartRelative="false" duration="167"/>
+				<click startTime="12370" isStartRelative="false" duration="167"/>
+				<click startTime="22300" isStartRelative="false" duration="167"/>
+				<click startTime="27220" isStartRelative="false" duration="167"/>
+				<click startTime="28440" isStartRelative="false" duration="167"/>
+				<click startTime="45320" isStartRelative="false" duration="167"/>
+				<click startTime="69890" isStartRelative="false" duration="167"/>
+				<click startTime="106580" isStartRelative="false" duration="167"/>
+				<click startTime="146230" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 146270">
+				<media url="a24x20.mp3" startMsecs="0" duration="146270" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX : innervation@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="542" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="68.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="542"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_039ff50b85944329864c3f526e650053yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="6630" isStartRelative="false" duration="167"/>
+				<click startTime="14930" isStartRelative="false" duration="167"/>
+				<click startTime="21530" isStartRelative="false" duration="167"/>
+				<click startTime="30130" isStartRelative="false" duration="167"/>
+				<click startTime="35430" isStartRelative="false" duration="167"/>
+				<click startTime="47210" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 68040">
+				<media url="a24x21.mp3" startMsecs="0" duration="68040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE LARYNX : origine des nerfs laryngés caudaux@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="570" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide21.swf" id="570"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_625d46d8af124580b58c644e41e2442dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

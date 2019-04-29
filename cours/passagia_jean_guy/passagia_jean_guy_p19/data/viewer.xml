@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 19 : Les nerfs  du membre inférieur</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Jérôme TONETTI</name>
+			<speakerTitle>Professeur d'Anatomie (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10016.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Olivier PALOMBI</name>
+			<speakerTitle>Professeur CHU Grenoble (UGA)</speakerTitle>
+			<image>spk10040.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean Guy PASSAGIA</name>
+			<speakerTitle>Professeur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk11962.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_fcf409c851d248f0b0f979aa05fbeb26yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_98a3958551c2453d8625fd7904cf988byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_8ceb40f08d714e01b8ff1cb22deadceeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_e5c163f0401e41dabae774a60510d2a0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="4.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f707497261c542f6a8802aa366854136yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="4830"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 19 : Les nerfs  du membre inférieur@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="285" showInTOC="" inSequence="" frameRate="30" totalFrames="360" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="221.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="285"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ddd39ece698446e8962adb78efb4a65eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="39160" isStartRelative="false" duration="534"/>
+				<click startTime="48960" isStartRelative="false" duration="1034"/>
+				<click startTime="66260" isStartRelative="false" duration="1034"/>
+				<click startTime="76660" isStartRelative="false" duration="1034"/>
+				<click startTime="92460" isStartRelative="false" duration="1034"/>
+				<click startTime="108160" isStartRelative="false" duration="1034"/>
+				<click startTime="124560" isStartRelative="false" duration="1034"/>
+				<click startTime="157860" isStartRelative="false" duration="1034"/>
+				<click startTime="181260" isStartRelative="false" duration="1034"/>
+				<click startTime="192360" isStartRelative="false" duration="1034"/>
+				<click startTime="207460" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 221920">
+				<media url="a24x1.mp3" startMsecs="0" duration="221920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="286" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="115.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="286"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1570c7c1710b4baabd1e0086848b245dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="28410" isStartRelative="false" duration="534"/>
+				<click startTime="46610" isStartRelative="false" duration="534"/>
+				<click startTime="54610" isStartRelative="false" duration="534"/>
+				<click startTime="65110" isStartRelative="false" duration="1034"/>
+				<click startTime="68710" isStartRelative="false" duration="534"/>
+				<click startTime="77210" isStartRelative="false" duration="1034"/>
+				<click startTime="101710" isStartRelative="false" duration="534"/>
+				<click startTime="105210" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 115290">
+				<media url="a24x2.mp3" startMsecs="0" duration="115290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="287" showInTOC="" inSequence="" frameRate="30" totalFrames="390" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="110.54" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="287"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6c762c00dbd34ca0a7c86576e58353e9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="6750" isStartRelative="false" duration="534"/>
+				<click startTime="16850" isStartRelative="false" duration="1034"/>
+				<click startTime="25150" isStartRelative="false" duration="1034"/>
+				<click startTime="45850" isStartRelative="false" duration="534"/>
+				<click startTime="47650" isStartRelative="false" duration="1034"/>
+				<click startTime="49050" isStartRelative="false" duration="1034"/>
+				<click startTime="57550" isStartRelative="false" duration="1034"/>
+				<click startTime="64450" isStartRelative="false" duration="1034"/>
+				<click startTime="71750" isStartRelative="false" duration="1034"/>
+				<click startTime="76150" isStartRelative="false" duration="1034"/>
+				<click startTime="85450" isStartRelative="false" duration="1034"/>
+				<click startTime="93150" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 110540">
+				<media url="a24x3.mp3" startMsecs="0" duration="110540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="288" showInTOC="" inSequence="" frameRate="30" totalFrames="300" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="134.106" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="288"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f585bda12a61479aa62fdb021a90faebyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="12300" isStartRelative="false" duration="534"/>
+				<click startTime="22700" isStartRelative="false" duration="1034"/>
+				<click startTime="30100" isStartRelative="false" duration="1034"/>
+				<click startTime="48100" isStartRelative="false" duration="1034"/>
+				<click startTime="69100" isStartRelative="false" duration="1034"/>
+				<click startTime="108000" isStartRelative="false" duration="1034"/>
+				<click startTime="109900" isStartRelative="false" duration="1034"/>
+				<click startTime="111500" isStartRelative="false" duration="1034"/>
+				<click startTime="125300" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 130980">
+				<media url="a24x4.mp3" startMsecs="0" duration="130980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="289" showInTOC="" inSequence="" frameRate="30" totalFrames="420" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="139.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="289"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4f4ddb7830c64304abe3cfd00dfbf819yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="13200" isStartRelative="false" duration="534"/>
+				<click startTime="14800" isStartRelative="false" duration="1034"/>
+				<click startTime="28100" isStartRelative="false" duration="1034"/>
+				<click startTime="30100" isStartRelative="false" duration="1034"/>
+				<click startTime="40400" isStartRelative="false" duration="1034"/>
+				<click startTime="64500" isStartRelative="false" duration="1034"/>
+				<click startTime="69200" isStartRelative="false" duration="534"/>
+				<click startTime="71600" isStartRelative="false" duration="534"/>
+				<click startTime="74100" isStartRelative="false" duration="1034"/>
+				<click startTime="82700" isStartRelative="false" duration="1034"/>
+				<click startTime="89600" isStartRelative="false" duration="534"/>
+				<click startTime="95000" isStartRelative="false" duration="1034"/>
+				<click startTime="113400" isStartRelative="false" duration="1034"/>
+				<click startTime="120800" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 139100">
+				<media url="a24x5.mp3" startMsecs="0" duration="139100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="290" showInTOC="" inSequence="" frameRate="30" totalFrames="450" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="167.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="290"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d9876adc88a34a4a98e6ba74aca1b2ccyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="12230" isStartRelative="false" duration="1034"/>
+				<click startTime="26330" isStartRelative="false" duration="1034"/>
+				<click startTime="43930" isStartRelative="false" duration="1034"/>
+				<click startTime="53030" isStartRelative="false" duration="1034"/>
+				<click startTime="64090" isStartRelative="false" duration="1034"/>
+				<click startTime="72190" isStartRelative="false" duration="1034"/>
+				<click startTime="76990" isStartRelative="false" duration="1034"/>
+				<click startTime="88990" isStartRelative="false" duration="1034"/>
+				<click startTime="106390" isStartRelative="false" duration="1034"/>
+				<click startTime="112190" isStartRelative="false" duration="1034"/>
+				<click startTime="123290" isStartRelative="false" duration="1034"/>
+				<click startTime="130290" isStartRelative="false" duration="1034"/>
+				<click startTime="150960" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 167750">
+				<media url="a24x6.mp3" startMsecs="0" duration="167750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="291" showInTOC="" inSequence="" frameRate="30" totalFrames="360" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="126.69" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="291"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9f6970e923e1484c807417f4cf8b9608yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="5700" isStartRelative="false" duration="1034"/>
+				<click startTime="16300" isStartRelative="false" duration="1034"/>
+				<click startTime="26500" isStartRelative="false" duration="1034"/>
+				<click startTime="36900" isStartRelative="false" duration="1034"/>
+				<click startTime="43000" isStartRelative="false" duration="534"/>
+				<click startTime="54200" isStartRelative="false" duration="534"/>
+				<click startTime="69500" isStartRelative="false" duration="1034"/>
+				<click startTime="85710" isStartRelative="false" duration="1034"/>
+				<click startTime="94110" isStartRelative="false" duration="534"/>
+				<click startTime="98110" isStartRelative="false" duration="1034"/>
+				<click startTime="105510" isStartRelative="false" duration="534"/>
+				<click startTime="111410" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 126690">
+				<media url="a24x7.mp3" startMsecs="0" duration="126690" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="284" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide8.swf" id="284"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_55041974a47642c49f660ab142589260yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="2"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

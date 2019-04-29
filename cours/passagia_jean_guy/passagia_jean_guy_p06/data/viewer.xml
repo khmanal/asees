@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 6 : Vertèbre thoracique</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Pierre Baconnier</name>
+			<speakerTitle>Professeur de Médecine (Université Joseph Fourier-Grenoble)</speakerTitle>
+			<image>spk10019.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Olivier PALOMBI</name>
+			<speakerTitle>Professeur CHU Grenoble (UGA)</speakerTitle>
+			<image>spk10240.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean Guy PASSAGIA</name>
+			<speakerTitle>Professeur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10351.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_503787ba874240ce96c1552dbf52b7dcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_36c959df3a23435f8d6fb14d88416b15yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_7ba365ccedf540148a5372608b10f346yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_bb8701a9260a40bcaf94ce4fddc4603eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_0b3c1cc181694913ae521a5cac868842yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="4.76" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_93d88a85875347078c27c1f68a1ea5d8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="4760"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 6 : Vertèbre thoracique@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="257" showInTOC="" inSequence="" frameRate="30" totalFrames="240" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="143.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="257"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e9ca6372326344fdb6ae8eca449f9d55yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="13010" isStartRelative="false" duration="666"/>
+				<click startTime="38810" isStartRelative="false" duration="666"/>
+				<click startTime="58010" isStartRelative="false" duration="666"/>
+				<click startTime="70210" isStartRelative="false" duration="666"/>
+				<click startTime="83010" isStartRelative="false" duration="167"/>
+				<click startTime="91810" isStartRelative="false" duration="666"/>
+				<click startTime="102910" isStartRelative="false" duration="167"/>
+				<click startTime="109610" isStartRelative="false" duration="666"/>
+				<click startTime="113210" isStartRelative="false" duration="167"/>
+				<click startTime="119210" isStartRelative="false" duration="666"/>
+				<click startTime="130410" isStartRelative="false" duration="666"/>
+				<click startTime="133310" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 143830">
+				<media url="a24x1.mp3" startMsecs="0" duration="143830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vertèbre thoracique type (vue crânio ventro latérale G)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="300" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="107.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1b44c98ded694d0189621fd136c8f4c2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="10800" isStartRelative="false" duration="666"/>
+				<click startTime="12500" isStartRelative="false" duration="666"/>
+				<click startTime="15700" isStartRelative="false" duration="666"/>
+				<click startTime="16800" isStartRelative="false" duration="666"/>
+				<click startTime="19100" isStartRelative="false" duration="666"/>
+				<click startTime="23100" isStartRelative="false" duration="666"/>
+				<click startTime="36400" isStartRelative="false" duration="666"/>
+				<click startTime="46300" isStartRelative="false" duration="666"/>
+				<click startTime="50300" isStartRelative="false" duration="167"/>
+				<click startTime="54500" isStartRelative="false" duration="666"/>
+				<click startTime="68400" isStartRelative="false" duration="167"/>
+				<click startTime="72100" isStartRelative="false" duration="666"/>
+				<click startTime="83800" isStartRelative="false" duration="167"/>
+				<click startTime="85600" isStartRelative="false" duration="666"/>
+				<click startTime="96700" isStartRelative="false" duration="167"/>
+				<click startTime="99000" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 106180">
+				<media url="a24x2.mp3" startMsecs="0" duration="106180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vertèbre thoracique type (vue crâniale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="259" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="76.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8d4e2106bdbd4a8d8fffe13b8b79e567yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="9950" isStartRelative="false" duration="666"/>
+				<click startTime="11950" isStartRelative="false" duration="666"/>
+				<click startTime="18250" isStartRelative="false" duration="666"/>
+				<click startTime="24150" isStartRelative="false" duration="666"/>
+				<click startTime="29550" isStartRelative="false" duration="167"/>
+				<click startTime="32150" isStartRelative="false" duration="666"/>
+				<click startTime="40250" isStartRelative="false" duration="167"/>
+				<click startTime="47150" isStartRelative="false" duration="666"/>
+				<click startTime="52050" isStartRelative="false" duration="167"/>
+				<click startTime="53450" isStartRelative="false" duration="666"/>
+				<click startTime="61950" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 76280">
+				<media url="a24x3.mp3" startMsecs="0" duration="76280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vertèbre thoracique type  (vue ventrale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="330" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="160.02" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7fda7853f1a04c6997086f1d486429eeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="6630" isStartRelative="false" duration="666"/>
+				<click startTime="9930" isStartRelative="false" duration="666"/>
+				<click startTime="16830" isStartRelative="false" duration="666"/>
+				<click startTime="22230" isStartRelative="false" duration="666"/>
+				<click startTime="27430" isStartRelative="false" duration="666"/>
+				<click startTime="32730" isStartRelative="false" duration="666"/>
+				<click startTime="36230" isStartRelative="false" duration="666"/>
+				<click startTime="37830" isStartRelative="false" duration="666"/>
+				<click startTime="46930" isStartRelative="false" duration="167"/>
+				<click startTime="48530" isStartRelative="false" duration="666"/>
+				<click startTime="60930" isStartRelative="false" duration="666"/>
+				<click startTime="64730" isStartRelative="false" duration="167"/>
+				<click startTime="66530" isStartRelative="false" duration="666"/>
+				<click startTime="84130" isStartRelative="false" duration="167"/>
+				<click startTime="86230" isStartRelative="false" duration="167"/>
+				<click startTime="115130" isStartRelative="false" duration="666"/>
+				<click startTime="133730" isStartRelative="false" duration="666"/>
+				<click startTime="136430" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 160020">
+				<media url="a24x4.mp3" startMsecs="0" duration="160020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vertèbre thoracique type (vue latérale)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les Processus épineux sont: longs et incliné caudalement (Angle de 60° avec l’horizontale). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide5.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f3762d56e3704ecbbd0b98bfb7347309yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="2"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

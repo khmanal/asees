@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 10 : Canal vertébral</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Olivier PALOMBI</name>
+			<speakerTitle>Professeur CHU Grenoble (UGA)</speakerTitle>
+			<image>spk10017.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean Guy PASSAGIA</name>
+			<speakerTitle>Professeur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10142.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_115a8956776445f1a22e6cf2f60bc73dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_c1c50807f7cb49048f0ea00bbb38834cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_90f7de71d490459c834d4bbe4dc1a9c5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_a6054f4a835d45f8ae5f4c2fdc77e4ebyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_69657641c2df4c32b7cf779c25b69365yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_39ab669f2de4427aa0b007ad8dccddd2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1216558a92a74a12b30086a6e4de9a4cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 10 : Canal vertébral@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="257" showInTOC="" inSequence="" frameRate="30" totalFrames="240" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="140.67" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="257"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d46622ff804440cda7d19683ab8ee356yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="16900" isStartRelative="false" duration="666"/>
+				<click startTime="26200" isStartRelative="false" duration="666"/>
+				<click startTime="28000" isStartRelative="false" duration="666"/>
+				<click startTime="39400" isStartRelative="false" duration="666"/>
+				<click startTime="56100" isStartRelative="false" duration="167"/>
+				<click startTime="58300" isStartRelative="false" duration="666"/>
+				<click startTime="61100" isStartRelative="false" duration="666"/>
+				<click startTime="74700" isStartRelative="false" duration="666"/>
+				<click startTime="87700" isStartRelative="false" duration="167"/>
+				<click startTime="89100" isStartRelative="false" duration="666"/>
+				<click startTime="91100" isStartRelative="false" duration="666"/>
+				<click startTime="97600" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 140670">
+				<media url="a24x1.mp3" startMsecs="0" duration="140670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Canal vertébral et trous intervertébraux@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="630" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="371.216" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cd792703dd1f4b46a0833a154c681be4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="15740" isStartRelative="false" duration="167"/>
+				<click startTime="16840" isStartRelative="false" duration="666"/>
+				<click startTime="18340" isStartRelative="false" duration="632"/>
+				<click startTime="21940" isStartRelative="false" duration="167"/>
+				<click startTime="22840" isStartRelative="false" duration="666"/>
+				<click startTime="24140" isStartRelative="false" duration="666"/>
+				<click startTime="25340" isStartRelative="false" duration="133"/>
+				<click startTime="26640" isStartRelative="false" duration="666"/>
+				<click startTime="27840" isStartRelative="false" duration="666"/>
+				<click startTime="29040" isStartRelative="false" duration="666"/>
+				<click startTime="30040" isStartRelative="false" duration="167"/>
+				<click startTime="30940" isStartRelative="false" duration="666"/>
+				<click startTime="32240" isStartRelative="false" duration="666"/>
+				<click startTime="33140" isStartRelative="false" duration="167"/>
+				<click startTime="35340" isStartRelative="false" duration="666"/>
+				<click startTime="55340" isStartRelative="false" duration="666"/>
+				<click startTime="69540" isStartRelative="false" duration="666"/>
+				<click startTime="82240" isStartRelative="false" duration="666"/>
+				<click startTime="101940" isStartRelative="false" duration="167"/>
+				<click startTime="141600" isStartRelative="false" duration="666"/>
+				<click startTime="170600" isStartRelative="false" duration="666"/>
+				<click startTime="196600" isStartRelative="false" duration="666"/>
+				<click startTime="199500" isStartRelative="false" duration="666"/>
+				<click startTime="200900" isStartRelative="false" duration="666"/>
+				<click startTime="313900" isStartRelative="false" duration="666"/>
+				<click startTime="315400" isStartRelative="false" duration="666"/>
+				<click startTime="316600" isStartRelative="false" duration="666"/>
+				<click startTime="317800" isStartRelative="false" duration="666"/>
+				<click startTime="319100" isStartRelative="false" duration="666"/>
+				<click startTime="320200" isStartRelative="false" duration="666"/>
+				<click startTime="329100" isStartRelative="false" duration="666"/>
+				<click startTime="341500" isStartRelative="false" duration="666"/>
+				<click startTime="352300" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 365520">
+				<media url="a24x2.mp3" startMsecs="0" duration="365520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contenu du canal vertébral@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="240" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="205.875" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5730b456280c45caad2aee50e1749a0eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="11380" isStartRelative="false" duration="167"/>
+				<click startTime="15480" isStartRelative="false" duration="167"/>
+				<click startTime="20880" isStartRelative="false" duration="167"/>
+				<click startTime="32580" isStartRelative="false" duration="666"/>
+				<click startTime="38680" isStartRelative="false" duration="167"/>
+				<click startTime="64480" isStartRelative="false" duration="666"/>
+				<click startTime="66380" isStartRelative="false" duration="666"/>
+				<click startTime="68680" isStartRelative="false" duration="167"/>
+				<click startTime="86780" isStartRelative="false" duration="666"/>
+				<click startTime="102980" isStartRelative="false" duration="666"/>
+				<click startTime="129380" isStartRelative="false" duration="632"/>
+				<click startTime="154180" isStartRelative="false" duration="167"/>
+				<click startTime="182980" isStartRelative="false" duration="167"/>
+				<click startTime="186780" isStartRelative="false" duration="666"/>
+				<click startTime="190480" isStartRelative="false" duration="632"/>
+				<click startTime="198780" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 201670">
+				<media url="a24x3.mp3" startMsecs="0" duration="201670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe horizontale du canal vertébral@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide4.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a57d6055073b49b6b5e26adf61c73622yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="1"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

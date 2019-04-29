@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 12 : La musculature du cou</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie CHUGA</speakerTitle>
+			<image>spk10028.swf</image>
+		</speaker>
+		<speaker>
+			<name>Maurice DEMATTEIS</name>
+			<speakerTitle>Docteur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk12405.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_c4fb075662ff443c8b8d35b612ca1604yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_c6fbc9c15e50486f9b8cd332e3e3fee7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_f6a999b0d84243eaa87b69366a3059a4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_eafe426a785d40a492d3d3b28951cb70yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_0e288812e623411389b965f436c4fb30yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="565" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.43" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="565"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ced6c868b6ed4a94adc2107adbf92fdfyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 12430">
+				<media url="a24x1.mp3" startMsecs="0" duration="12430" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA MUSCULATURE DU COU@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="558" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="51.87" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="558"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d00bfcbf0eda448aa205f8f0e805159byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="9290" isStartRelative="false" duration="167"/>
+				<click startTime="15990" isStartRelative="false" duration="167"/>
+				<click startTime="22690" isStartRelative="false" duration="167"/>
+				<click startTime="50190" isStartRelative="false" duration="167"/>
+				<click startTime="971" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 51870">
+				<media url="a24x2.mp3" startMsecs="0" duration="51870" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COU@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="557" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="33.88" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="557"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_75813f7ffc194e918f21f9381fe771d5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1000" isStartRelative="false" duration="167"/>
+				<click startTime="2400" isStartRelative="false" duration="167"/>
+				<click startTime="21000" isStartRelative="false" duration="167"/>
+				<click startTime="22400" isStartRelative="false" duration="167"/>
+				<click startTime="23900" isStartRelative="false" duration="167"/>
+				<click startTime="25000" isStartRelative="false" duration="167"/>
+				<click startTime="26100" isStartRelative="false" duration="167"/>
+				<click startTime="32200" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 33880">
+				<media url="a24x3.mp3" startMsecs="0" duration="33880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES DU COU@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="390" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="129.9" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="390"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f2c3df819630415eb135f643b0d25eabyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="7660" isStartRelative="false" duration="666"/>
+				<click startTime="14760" isStartRelative="false" duration="167"/>
+				<click startTime="23360" isStartRelative="false" duration="167"/>
+				<click startTime="48260" isStartRelative="false" duration="167"/>
+				<click startTime="85460" isStartRelative="false" duration="167"/>
+				<click startTime="104560" isStartRelative="false" duration="167"/>
+				<click startTime="117560" isStartRelative="false" duration="167"/>
+				<click startTime="119760" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 129900">
+				<media url="a24x4.mp3" startMsecs="0" duration="129900" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ LE MUSCLE TRAPEZE (vue ventrale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="559" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="59.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="559"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a452fd5e7f104991a85e3f4abe7d74a4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="600" isStartRelative="false" duration="167"/>
+				<click startTime="30900" isStartRelative="false" duration="167"/>
+				<click startTime="36100" isStartRelative="false" duration="167"/>
+				<click startTime="42600" isStartRelative="false" duration="167"/>
+				<click startTime="53400" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 59290">
+				<media url="a24x5.mp3" startMsecs="0" duration="59290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES FASCIAS DU COU@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="392" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="126.4" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="392"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8a3773c3a5094543ac78f5b9fec4a532yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1100" isStartRelative="false" duration="167"/>
+				<click startTime="10300" isStartRelative="false" duration="167"/>
+				<click startTime="39200" isStartRelative="false" duration="167"/>
+				<click startTime="41400" isStartRelative="false" duration="167"/>
+				<click startTime="49800" isStartRelative="false" duration="167"/>
+				<click startTime="63500" isStartRelative="false" duration="666"/>
+				<click startTime="75700" isStartRelative="false" duration="167"/>
+				<click startTime="86500" isStartRelative="false" duration="167"/>
+				<click startTime="90000" isStartRelative="false" duration="167"/>
+				<click startTime="111200" isStartRelative="false" duration="167"/>
+				<click startTime="123200" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 126400">
+				<media url="a24x6.mp3" startMsecs="0" duration="126400" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES DE LA NUQUE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="398" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="41.16" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="398"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_30799bb6131c4be0ae24106d0e0860fayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1600" isStartRelative="false" duration="666"/>
+				<click startTime="11800" isStartRelative="false" duration="167"/>
+				<click startTime="16400" isStartRelative="false" duration="167"/>
+				<click startTime="27000" isStartRelative="false" duration="167"/>
+				<click startTime="36200" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 41160">
+				<media url="a24x7.mp3" startMsecs="0" duration="41160" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES DU COU@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="399" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="81.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="399"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e9dfabe7dd4643839a387d5f85e09ee6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="800" isStartRelative="false" duration="167"/>
+				<click startTime="22500" isStartRelative="false" duration="167"/>
+				<click startTime="36300" isStartRelative="false" duration="167"/>
+				<click startTime="46200" isStartRelative="false" duration="167"/>
+				<click startTime="971" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 81240">
+				<media url="a24x8.mp3" startMsecs="0" duration="81240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES SCALENES (vue ventrale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="401" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="72.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="401"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fcc6edaa71444de2b46232e1dea47f38yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2200" isStartRelative="false" duration="167"/>
+				<click startTime="15200" isStartRelative="false" duration="167"/>
+				<click startTime="18300" isStartRelative="false" duration="167"/>
+				<click startTime="25200" isStartRelative="false" duration="167"/>
+				<click startTime="39800" isStartRelative="false" duration="167"/>
+				<click startTime="52100" isStartRelative="false" duration="167"/>
+				<click startTime="1373" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 72750">
+				<media url="a24x9.mp3" startMsecs="0" duration="72750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES SCALENES (coupe transversale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="400" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="251.56" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="400"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_01d33233adc14c04a22df7303c9a0228yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1020" isStartRelative="false" duration="167"/>
+				<click startTime="16710" isStartRelative="false" duration="167"/>
+				<click startTime="21220" isStartRelative="false" duration="167"/>
+				<click startTime="31620" isStartRelative="false" duration="167"/>
+				<click startTime="34270" isStartRelative="false" duration="167"/>
+				<click startTime="50700" isStartRelative="false" duration="167"/>
+				<click startTime="63740" isStartRelative="false" duration="167"/>
+				<click startTime="84860" isStartRelative="false" duration="167"/>
+				<click startTime="87360" isStartRelative="false" duration="167"/>
+				<click startTime="112050" isStartRelative="false" duration="167"/>
+				<click startTime="131090" isStartRelative="false" duration="167"/>
+				<click startTime="134560" isStartRelative="false" duration="167"/>
+				<click startTime="138990" isStartRelative="false" duration="167"/>
+				<click startTime="154860" isStartRelative="false" duration="167"/>
+				<click startTime="194920" isStartRelative="false" duration="167"/>
+				<click startTime="205850" isStartRelative="false" duration="167"/>
+				<click startTime="211490" isStartRelative="false" duration="167"/>
+				<click startTime="213100" isStartRelative="false" duration="167"/>
+				<click startTime="227510" isStartRelative="false" duration="167"/>
+				<click startTime="248220" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 249800">
+				<media url="a24x10.mp3" startMsecs="0" duration="249800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES SCALENES  (vue latérale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="402" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="55.48" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="402"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7d30374108664d0fa47a44e884b28854yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1400" isStartRelative="false" duration="167"/>
+				<click startTime="11000" isStartRelative="false" duration="666"/>
+				<click startTime="23100" isStartRelative="false" duration="167"/>
+				<click startTime="53400" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 55480">
+				<media url="a24x11.mp3" startMsecs="0" duration="55480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES DU COU@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="404" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="23.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="404"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e8d68d0975834bef8a9aa8d943cb118ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1590" isStartRelative="false" duration="167"/>
+				<click startTime="11050" isStartRelative="false" duration="666"/>
+				<click startTime="1068" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 23610">
+				<media url="a24x12.mp3" startMsecs="0" duration="23610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES DU COU@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="405" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="274.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="405"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b809ae7bd0464bcea938345a20cb2a90yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="800" isStartRelative="false" duration="167"/>
+				<click startTime="10400" isStartRelative="false" duration="167"/>
+				<click startTime="30410" isStartRelative="false" duration="167"/>
+				<click startTime="59810" isStartRelative="false" duration="167"/>
+				<click startTime="116210" isStartRelative="false" duration="167"/>
+				<click startTime="133910" isStartRelative="false" duration="167"/>
+				<click startTime="138310" isStartRelative="false" duration="167"/>
+				<click startTime="164810" isStartRelative="false" duration="167"/>
+				<click startTime="183310" isStartRelative="false" duration="167"/>
+				<click startTime="208110" isStartRelative="false" duration="167"/>
+				<click startTime="210110" isStartRelative="false" duration="167"/>
+				<click startTime="227010" isStartRelative="false" duration="167"/>
+				<click startTime="244710" isStartRelative="false" duration="167"/>
+				<click startTime="252610" isStartRelative="false" duration="167"/>
+				<click startTime="265010" isStartRelative="false" duration="167"/>
+				<click startTime="268110" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 274410">
+				<media url="a24x13.mp3" startMsecs="0" duration="274410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE MUSCLE STERNO-CLEIDO-MASTOIDIEN  (vue latérale G)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="406" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="56.86" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="406"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_41dc800a4f9543c2ab328fd452db66f7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="4100" isStartRelative="false" duration="167"/>
+				<click startTime="8500" isStartRelative="false" duration="666"/>
+				<click startTime="22700" isStartRelative="false" duration="167"/>
+				<click startTime="38700" isStartRelative="false" duration="167"/>
+				<click startTime="40200" isStartRelative="false" duration="167"/>
+				<click startTime="45180" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 56860">
+				<media url="a24x14.mp3" startMsecs="0" duration="56860" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES DU COU@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="407" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="97.59" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="407"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1d6735d6553c442dbd489b4d8c20d85cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2000" isStartRelative="false" duration="167"/>
+				<click startTime="5300" isStartRelative="false" duration="167"/>
+				<click startTime="10600" isStartRelative="false" duration="167"/>
+				<click startTime="12100" isStartRelative="false" duration="167"/>
+				<click startTime="15100" isStartRelative="false" duration="167"/>
+				<click startTime="19200" isStartRelative="false" duration="167"/>
+				<click startTime="21900" isStartRelative="false" duration="167"/>
+				<click startTime="30400" isStartRelative="false" duration="167"/>
+				<click startTime="37900" isStartRelative="false" duration="167"/>
+				<click startTime="75800" isStartRelative="false" duration="167"/>
+				<click startTime="77500" isStartRelative="false" duration="167"/>
+				<click startTime="81700" isStartRelative="false" duration="167"/>
+				<click startTime="85700" isStartRelative="false" duration="167"/>
+				<click startTime="88300" isStartRelative="false" duration="167"/>
+				<click startTime="89700" isStartRelative="false" duration="167"/>
+				<click startTime="92300" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 97590">
+				<media url="a24x15.mp3" startMsecs="0" duration="97590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES INFRA-HYOIDIENS présentation des structures osseuses et cartilagineuses  (vue frontale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="430" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="279.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="430"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_970f3705a42841fe99c6bcf5945cf2f1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="9300" isStartRelative="false" duration="167"/>
+				<click startTime="30900" isStartRelative="false" duration="167"/>
+				<click startTime="61700" isStartRelative="false" duration="167"/>
+				<click startTime="92100" isStartRelative="false" duration="167"/>
+				<click startTime="103600" isStartRelative="false" duration="167"/>
+				<click startTime="137400" isStartRelative="false" duration="167"/>
+				<click startTime="138500" isStartRelative="false" duration="167"/>
+				<click startTime="151900" isStartRelative="false" duration="167"/>
+				<click startTime="159100" isStartRelative="false" duration="167"/>
+				<click startTime="200100" isStartRelative="false" duration="167"/>
+				<click startTime="214300" isStartRelative="false" duration="167"/>
+				<click startTime="225600" isStartRelative="false" duration="167"/>
+				<click startTime="227200" isStartRelative="false" duration="167"/>
+				<click startTime="229700" isStartRelative="false" duration="167"/>
+				<click startTime="230800" isStartRelative="false" duration="167"/>
+				<click startTime="238800" isStartRelative="false" duration="167"/>
+				<click startTime="249700" isStartRelative="false" duration="167"/>
+				<click startTime="264300" isStartRelative="false" duration="167"/>
+				<click startTime="267600" isStartRelative="false" duration="167"/>
+				<click startTime="272800" isStartRelative="false" duration="167"/>
+				<click startTime="275900" isStartRelative="false" duration="167"/>
+				<click startTime="4388" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 279240">
+				<media url="a24x16.mp3" startMsecs="0" duration="279240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES MUSCLES INFRA-HYOIDIENS (vue frontale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="568" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide16.swf" id="568"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_644cfadb144243439919d1f7e2d0df16yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légale@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

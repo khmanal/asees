@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 5 : Vertèbres C1 et C2</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Pierre Baconnier</name>
+			<speakerTitle>Professeur de Médecine (Université Joseph Fourier-Grenoble)</speakerTitle>
+			<image>spk10017.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Olivier PALOMBI</name>
+			<speakerTitle>Professeur CHU Grenoble (UGA)</speakerTitle>
+			<image>spk10064.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean Guy PASSAGIA</name>
+			<speakerTitle>Professeur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk11806.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_451413c022b64841a4fb7681856b2812yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_0332e8dac07d480bac042bdb9d842974yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_75ab478524c74b7fa97a9b9916870518yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_fab52f84adec40238bd0f94416568980yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_74b46474eeb24ff7b01d101cf56841beyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="4.85" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4f90f9a2dc494dc18b1748252ac5bc95yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="4850"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 5 : Vertèbres C1 et C2@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="270" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="195.07" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_aa5b8a92e2994c889e3d238a583fcdc0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="40400" isStartRelative="false" duration="666"/>
+				<click startTime="45300" isStartRelative="false" duration="666"/>
+				<click startTime="55100" isStartRelative="false" duration="666"/>
+				<click startTime="66800" isStartRelative="false" duration="666"/>
+				<click startTime="77700" isStartRelative="false" duration="666"/>
+				<click startTime="94100" isStartRelative="false" duration="666"/>
+				<click startTime="105100" isStartRelative="false" duration="666"/>
+				<click startTime="110500" isStartRelative="false" duration="167"/>
+				<click startTime="114200" isStartRelative="false" duration="666"/>
+				<click startTime="124700" isStartRelative="false" duration="666"/>
+				<click startTime="143500" isStartRelative="false" duration="666"/>
+				<click startTime="165600" isStartRelative="false" duration="534"/>
+				<click startTime="178500" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 195070">
+				<media url="a24x1.mp3" startMsecs="0" duration="195070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ATLAS (C1)  (vue crâniale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="98.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_245429e7f1434e1ab3fa5dc649230b2fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="12080" isStartRelative="false" duration="666"/>
+				<click startTime="16180" isStartRelative="false" duration="666"/>
+				<click startTime="32080" isStartRelative="false" duration="666"/>
+				<click startTime="40280" isStartRelative="false" duration="167"/>
+				<click startTime="49380" isStartRelative="false" duration="666"/>
+				<click startTime="55580" isStartRelative="false" duration="167"/>
+				<click startTime="78380" isStartRelative="false" duration="666"/>
+				<click startTime="82680" isStartRelative="false" duration="534"/>
+				<click startTime="90380" isStartRelative="false" duration="666"/>
+				<click startTime="92780" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 95690">
+				<media url="a24x2.mp3" startMsecs="0" duration="95690" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@DEMI ATLAS D (vue ventrale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="75.63" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_15493406d55e431c93bf2620486b5a76yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8110" isStartRelative="false" duration="666"/>
+				<click startTime="12910" isStartRelative="false" duration="666"/>
+				<click startTime="20810" isStartRelative="false" duration="666"/>
+				<click startTime="26510" isStartRelative="false" duration="666"/>
+				<click startTime="34710" isStartRelative="false" duration="666"/>
+				<click startTime="55400" isStartRelative="false" duration="167"/>
+				<click startTime="56700" isStartRelative="false" duration="167"/>
+				<click startTime="71300" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 73880">
+				<media url="a24x3.mp3" startMsecs="0" duration="73880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ATLAS (vue latérale D)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="270" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="147.983" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8fcac7bd307448b1a564caa26aac6cecyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="19990" isStartRelative="false" duration="666"/>
+				<click startTime="28990" isStartRelative="false" duration="666"/>
+				<click startTime="35490" isStartRelative="false" duration="666"/>
+				<click startTime="54290" isStartRelative="false" duration="666"/>
+				<click startTime="62990" isStartRelative="false" duration="666"/>
+				<click startTime="79190" isStartRelative="false" duration="167"/>
+				<click startTime="90190" isStartRelative="false" duration="666"/>
+				<click startTime="98990" isStartRelative="false" duration="666"/>
+				<click startTime="122490" isStartRelative="false" duration="666"/>
+				<click startTime="129090" isStartRelative="false" duration="666"/>
+				<click startTime="135290" isStartRelative="false" duration="666"/>
+				<click startTime="140490" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 143660">
+				<media url="a24x4.mp3" startMsecs="0" duration="143660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ATLAS (vue latérale D)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="300" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="123.506" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6a901c6a5cbc49b18074c573998366ccyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="10580" isStartRelative="false" duration="666"/>
+				<click startTime="24380" isStartRelative="false" duration="666"/>
+				<click startTime="26480" isStartRelative="false" duration="666"/>
+				<click startTime="36080" isStartRelative="false" duration="666"/>
+				<click startTime="44980" isStartRelative="false" duration="666"/>
+				<click startTime="51980" isStartRelative="false" duration="666"/>
+				<click startTime="73480" isStartRelative="false" duration="666"/>
+				<click startTime="74780" isStartRelative="false" duration="666"/>
+				<click startTime="76180" isStartRelative="false" duration="666"/>
+				<click startTime="86280" isStartRelative="false" duration="666"/>
+				<click startTime="97080" isStartRelative="false" duration="167"/>
+				<click startTime="99580" isStartRelative="false" duration="666"/>
+				<click startTime="113880" isStartRelative="false" duration="167"/>
+				<click startTime="115180" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 121560">
+				<media url="a24x5.mp3" startMsecs="0" duration="121560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@AXIS (C2) – (vue latérale D)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="106.154" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_029af93d34c64c2eaf2af248259d0af5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="13460" isStartRelative="false" duration="666"/>
+				<click startTime="15360" isStartRelative="false" duration="666"/>
+				<click startTime="16960" isStartRelative="false" duration="666"/>
+				<click startTime="25860" isStartRelative="false" duration="666"/>
+				<click startTime="37560" isStartRelative="false" duration="666"/>
+				<click startTime="48560" isStartRelative="false" duration="666"/>
+				<click startTime="74960" isStartRelative="false" duration="666"/>
+				<click startTime="85160" isStartRelative="false" duration="666"/>
+				<click startTime="100160" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 102210">
+				<media url="a24x6.mp3" startMsecs="0" duration="102210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@RAPPORTS ATLAS / AXIS   (vue crâniale)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="107.44" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_60d069a2282040039e656f7eee278498yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="6300" isStartRelative="false" duration="666"/>
+				<click startTime="12800" isStartRelative="false" duration="666"/>
+				<click startTime="19200" isStartRelative="false" duration="666"/>
+				<click startTime="28000" isStartRelative="false" duration="666"/>
+				<click startTime="43700" isStartRelative="false" duration="167"/>
+				<click startTime="60800" isStartRelative="false" duration="167"/>
+				<click startTime="61500" isStartRelative="false" duration="133"/>
+				<click startTime="62100" isStartRelative="false" duration="167"/>
+				<click startTime="68000" isStartRelative="false" duration="666"/>
+				<click startTime="70600" isStartRelative="false" duration="167"/>
+				<click startTime="82400" isStartRelative="false" duration="167"/>
+				<click startTime="93100" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 107440">
+				<media url="a24x7.mp3" startMsecs="0" duration="107440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@CONTENU DU CANAL TRANSVERSAIRE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide8.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_da1e2c466ad141389d7550b2582e8612yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="2"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

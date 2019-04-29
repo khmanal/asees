@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 15 : Les glandes thyroïde et parathyroïdes</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie CHUGA</speakerTitle>
+			<image>spk10016.swf</image>
+		</speaker>
+		<speaker>
+			<name>Maurice DEMATTEIS</name>
+			<speakerTitle>Docteur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk12930.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_74b2b0dadc6e46b9b2c929270e5b4029yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_46f8252ce2694949ba85a7e5a293dc62yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_12db393208f14a36851a4d039e481b52yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_a0de4fe2877048c08a820d6d890fb306yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_1488a5f6629f461e88d532ff766e267fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="571" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="16.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="571"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0daa9e114072431eabea5312fcf16ecdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 16190">
+				<media url="a24x1.mp3" startMsecs="0" duration="16190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES GLANDES THYROIDE ET PARATHYROIDES@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="408" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="193.64" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="408"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8b3c0b8a7b8c4c9a82e5a58c3d507965yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1190" isStartRelative="false" duration="167"/>
+				<click startTime="16590" isStartRelative="false" duration="167"/>
+				<click startTime="35790" isStartRelative="false" duration="167"/>
+				<click startTime="43790" isStartRelative="false" duration="167"/>
+				<click startTime="59890" isStartRelative="false" duration="167"/>
+				<click startTime="65490" isStartRelative="false" duration="167"/>
+				<click startTime="66590" isStartRelative="false" duration="167"/>
+				<click startTime="71190" isStartRelative="false" duration="167"/>
+				<click startTime="79490" isStartRelative="false" duration="167"/>
+				<click startTime="104790" isStartRelative="false" duration="167"/>
+				<click startTime="132490" isStartRelative="false" duration="167"/>
+				<click startTime="137790" isStartRelative="false" duration="167"/>
+				<click startTime="138890" isStartRelative="false" duration="167"/>
+				<click startTime="150690" isStartRelative="false" duration="167"/>
+				<click startTime="175690" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 193640">
+				<media url="a24x2.mp3" startMsecs="0" duration="193640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA GLANDE THYROIDE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="409" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="76.46" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="409"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8aa2be69dfe345f5aeae71e5754503a1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1000" isStartRelative="false" duration="167"/>
+				<click startTime="24300" isStartRelative="false" duration="167"/>
+				<click startTime="33000" isStartRelative="false" duration="167"/>
+				<click startTime="34500" isStartRelative="false" duration="167"/>
+				<click startTime="35700" isStartRelative="false" duration="167"/>
+				<click startTime="37600" isStartRelative="false" duration="167"/>
+				<click startTime="41600" isStartRelative="false" duration="167"/>
+				<click startTime="43400" isStartRelative="false" duration="167"/>
+				<click startTime="45000" isStartRelative="false" duration="167"/>
+				<click startTime="56100" isStartRelative="false" duration="167"/>
+				<click startTime="61600" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 76460">
+				<media url="a24x3.mp3" startMsecs="0" duration="76460" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA GLANDE THYROIDE  LES GLANDES PARATHYROIDES:@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="562" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="66.32" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="562"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f2847c26bde644d8bcf3a63a2025568cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1200" isStartRelative="false" duration="167"/>
+				<click startTime="30600" isStartRelative="false" duration="167"/>
+				<click startTime="44700" isStartRelative="false" duration="167"/>
+				<click startTime="49800" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 66320">
+				<media url="a24x4.mp3" startMsecs="0" duration="66320" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les GLANDES PARATHYROIDES :@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="410" showInTOC="" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="263.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="410"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7fc434d9c1bd42f39ad6883984256402yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1000" isStartRelative="false" duration="167"/>
+				<click startTime="3100" isStartRelative="false" duration="167"/>
+				<click startTime="5500" isStartRelative="false" duration="167"/>
+				<click startTime="20300" isStartRelative="false" duration="167"/>
+				<click startTime="28000" isStartRelative="false" duration="167"/>
+				<click startTime="36400" isStartRelative="false" duration="167"/>
+				<click startTime="37900" isStartRelative="false" duration="167"/>
+				<click startTime="43300" isStartRelative="false" duration="167"/>
+				<click startTime="69000" isStartRelative="false" duration="167"/>
+				<click startTime="75600" isStartRelative="false" duration="167"/>
+				<click startTime="77100" isStartRelative="false" duration="167"/>
+				<click startTime="79100" isStartRelative="false" duration="167"/>
+				<click startTime="82900" isStartRelative="false" duration="167"/>
+				<click startTime="84600" isStartRelative="false" duration="167"/>
+				<click startTime="91600" isStartRelative="false" duration="167"/>
+				<click startTime="93000" isStartRelative="false" duration="167"/>
+				<click startTime="102200" isStartRelative="false" duration="167"/>
+				<click startTime="135900" isStartRelative="false" duration="167"/>
+				<click startTime="139400" isStartRelative="false" duration="167"/>
+				<click startTime="172800" isStartRelative="false" duration="167"/>
+				<click startTime="174900" isStartRelative="false" duration="167"/>
+				<click startTime="177800" isStartRelative="false" duration="167"/>
+				<click startTime="183600" isStartRelative="false" duration="167"/>
+				<click startTime="184900" isStartRelative="false" duration="167"/>
+				<click startTime="217100" isStartRelative="false" duration="167"/>
+				<click startTime="229900" isStartRelative="false" duration="167"/>
+				<click startTime="232700" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 263280">
+				<media url="a24x5.mp3" startMsecs="0" duration="263280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA GLANDE THYROIDE les artères :@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="563" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="563"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b2e817124eb24c39a948bbb71ee48d37yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="900" isStartRelative="false" duration="167"/>
+				<click startTime="21400" isStartRelative="false" duration="167"/>
+				<click startTime="26100" isStartRelative="false" duration="167"/>
+				<click startTime="42400" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 53940">
+				<media url="a24x6.mp3" startMsecs="0" duration="53940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES ARTERES THYROIDIENNES :@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="411" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="136.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="411"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cbc71e3c2ced4bb3a0e6526b84d1107dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="800" isStartRelative="false" duration="167"/>
+				<click startTime="21300" isStartRelative="false" duration="167"/>
+				<click startTime="42200" isStartRelative="false" duration="167"/>
+				<click startTime="53700" isStartRelative="false" duration="167"/>
+				<click startTime="71700" isStartRelative="false" duration="167"/>
+				<click startTime="79100" isStartRelative="false" duration="167"/>
+				<click startTime="98400" isStartRelative="false" duration="167"/>
+				<click startTime="117400" isStartRelative="false" duration="167"/>
+				<click startTime="120800" isStartRelative="false" duration="167"/>
+				<click startTime="133600" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 136200">
+				<media url="a24x7.mp3" startMsecs="0" duration="136200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA GLANDE THYROIDE les veines :@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="412" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="213.343" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="412"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9316307d14b74395b78df87063d0d6dbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="3130" isStartRelative="false" duration="167"/>
+				<click startTime="25000" isStartRelative="false" duration="167"/>
+				<click startTime="28800" isStartRelative="false" duration="167"/>
+				<click startTime="31400" isStartRelative="false" duration="167"/>
+				<click startTime="40600" isStartRelative="false" duration="167"/>
+				<click startTime="50600" isStartRelative="false" duration="167"/>
+				<click startTime="72200" isStartRelative="false" duration="167"/>
+				<click startTime="108500" isStartRelative="false" duration="167"/>
+				<click startTime="123000" isStartRelative="false" duration="167"/>
+				<click startTime="128800" isStartRelative="false" duration="167"/>
+				<click startTime="134700" isStartRelative="false" duration="167"/>
+				<click startTime="136600" isStartRelative="false" duration="167"/>
+				<click startTime="159000" isStartRelative="false" duration="167"/>
+				<click startTime="164000" isStartRelative="false" duration="167"/>
+				<click startTime="174400" isStartRelative="false" duration="167"/>
+				<click startTime="176900" isStartRelative="false" duration="167"/>
+				<click startTime="181100" isStartRelative="false" duration="167"/>
+				<click startTime="199500" isStartRelative="false" duration="167"/>
+				<click startTime="210170" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 210200">
+				<media url="a24x8.mp3" startMsecs="0" duration="210200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA GLANDE THYROIDE et les loges du cou:@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="572" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide8.swf" id="572"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5f8fa83e062742b981bf2c738dc3f899yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

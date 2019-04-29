@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 20 : La base du crâne</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10026.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Olivier PALOMBI</name>
+			<speakerTitle>Professeur CHU Grenoble (UGA)</speakerTitle>
+			<image>spk10048.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_c41680d9cac74cd7bcef8ac135863995yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_9df76649bc6346b194d5a7b4679b08cbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_2f459d90713c45c3aeab319dd50f7864yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_5ece0455667141aeb199273d53f59576yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_c0ff30d1896f454c86500ae014f6a0f3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="277" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="17.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="277"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b436a77889cf4f0ca2cc017be3cba68ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 17550">
+				<media url="a24x1.mp3" startMsecs="0" duration="17550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 20 : La base du crâne@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="437.349" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_afc697b4bed54689bc61d3e145d8761byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1880" isStartRelative="false" duration="167"/>
+				<click startTime="2980" isStartRelative="false" duration="167"/>
+				<click startTime="14100" isStartRelative="false" duration="167"/>
+				<click startTime="19180" isStartRelative="false" duration="167"/>
+				<click startTime="21710" isStartRelative="false" duration="167"/>
+				<click startTime="75330" isStartRelative="false" duration="167"/>
+				<click startTime="76010" isStartRelative="false" duration="167"/>
+				<click startTime="78910" isStartRelative="false" duration="167"/>
+				<click startTime="91600" isStartRelative="false" duration="167"/>
+				<click startTime="94360" isStartRelative="false" duration="167"/>
+				<click startTime="131440" isStartRelative="false" duration="167"/>
+				<click startTime="132830" isStartRelative="false" duration="167"/>
+				<click startTime="162700" isStartRelative="false" duration="167"/>
+				<click startTime="163630" isStartRelative="false" duration="167"/>
+				<click startTime="182030" isStartRelative="false" duration="167"/>
+				<click startTime="231700" isStartRelative="false" duration="167"/>
+				<click startTime="232400" isStartRelative="false" duration="167"/>
+				<click startTime="233060" isStartRelative="false" duration="167"/>
+				<click startTime="301370" isStartRelative="false" duration="167"/>
+				<click startTime="309080" isStartRelative="false" duration="167"/>
+				<click startTime="333280" isStartRelative="false" duration="167"/>
+				<click startTime="333980" isStartRelative="false" duration="167"/>
+				<click startTime="352010" isStartRelative="false" duration="167"/>
+				<click startTime="372870" isStartRelative="false" duration="167"/>
+				<click startTime="389010" isStartRelative="false" duration="167"/>
+				<click startTime="410790" isStartRelative="false" duration="167"/>
+				<click startTime="411790" isStartRelative="false" duration="666"/>
+				<click startTime="412890" isStartRelative="false" duration="167"/>
+				<click startTime="413790" isStartRelative="false" duration="167"/>
+				<click startTime="431840" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 433340">
+				<media url="a24x2.mp3" startMsecs="0" duration="433340" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe para-sagittale du crâne@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="441.86" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_534576d8ea204eaeaf32963060b0e9f1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="21710" isStartRelative="false" duration="167"/>
+				<click startTime="35780" isStartRelative="false" duration="167"/>
+				<click startTime="43990" isStartRelative="false" duration="167"/>
+				<click startTime="51090" isStartRelative="false" duration="167"/>
+				<click startTime="69880" isStartRelative="false" duration="167"/>
+				<click startTime="87060" isStartRelative="false" duration="167"/>
+				<click startTime="91860" isStartRelative="false" duration="167"/>
+				<click startTime="122260" isStartRelative="false" duration="167"/>
+				<click startTime="140710" isStartRelative="false" duration="167"/>
+				<click startTime="146930" isStartRelative="false" duration="167"/>
+				<click startTime="184890" isStartRelative="false" duration="167"/>
+				<click startTime="279110" isStartRelative="false" duration="167"/>
+				<click startTime="280710" isStartRelative="false" duration="167"/>
+				<click startTime="290110" isStartRelative="false" duration="167"/>
+				<click startTime="294810" isStartRelative="false" duration="167"/>
+				<click startTime="304780" isStartRelative="false" duration="167"/>
+				<click startTime="314180" isStartRelative="false" duration="167"/>
+				<click startTime="322680" isStartRelative="false" duration="167"/>
+				<click startTime="324060" isStartRelative="false" duration="167"/>
+				<click startTime="349230" isStartRelative="false" duration="167"/>
+				<click startTime="356070" isStartRelative="false" duration="167"/>
+				<click startTime="375830" isStartRelative="false" duration="666"/>
+				<click startTime="400330" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 441860">
+				<media url="a24x3.mp3" startMsecs="0" duration="441860" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Base interne du crâne (fosses crâniennes et os)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="330" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="351.826" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_166fb92536814f32b2e1b7d8a000bbdcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="5690" isStartRelative="false" duration="167"/>
+				<click startTime="6920" isStartRelative="false" duration="167"/>
+				<click startTime="14020" isStartRelative="false" duration="167"/>
+				<click startTime="18320" isStartRelative="false" duration="167"/>
+				<click startTime="19490" isStartRelative="false" duration="167"/>
+				<click startTime="26370" isStartRelative="false" duration="167"/>
+				<click startTime="36970" isStartRelative="false" duration="167"/>
+				<click startTime="38120" isStartRelative="false" duration="167"/>
+				<click startTime="48160" isStartRelative="false" duration="167"/>
+				<click startTime="52860" isStartRelative="false" duration="167"/>
+				<click startTime="58710" isStartRelative="false" duration="167"/>
+				<click startTime="70610" isStartRelative="false" duration="167"/>
+				<click startTime="90010" isStartRelative="false" duration="167"/>
+				<click startTime="91290" isStartRelative="false" duration="167"/>
+				<click startTime="100290" isStartRelative="false" duration="167"/>
+				<click startTime="105790" isStartRelative="false" duration="167"/>
+				<click startTime="109290" isStartRelative="false" duration="167"/>
+				<click startTime="116590" isStartRelative="false" duration="167"/>
+				<click startTime="122490" isStartRelative="false" duration="167"/>
+				<click startTime="124990" isStartRelative="false" duration="167"/>
+				<click startTime="137190" isStartRelative="false" duration="666"/>
+				<click startTime="155690" isStartRelative="false" duration="167"/>
+				<click startTime="157390" isStartRelative="false" duration="167"/>
+				<click startTime="162490" isStartRelative="false" duration="167"/>
+				<click startTime="167790" isStartRelative="false" duration="666"/>
+				<click startTime="178190" isStartRelative="false" duration="167"/>
+				<click startTime="182540" isStartRelative="false" duration="167"/>
+				<click startTime="187840" isStartRelative="false" duration="167"/>
+				<click startTime="199360" isStartRelative="false" duration="167"/>
+				<click startTime="200960" isStartRelative="false" duration="167"/>
+				<click startTime="211260" isStartRelative="false" duration="167"/>
+				<click startTime="242570" isStartRelative="false" duration="167"/>
+				<click startTime="244120" isStartRelative="false" duration="167"/>
+				<click startTime="256290" isStartRelative="false" duration="167"/>
+				<click startTime="259880" isStartRelative="false" duration="167"/>
+				<click startTime="261140" isStartRelative="false" duration="167"/>
+				<click startTime="264740" isStartRelative="false" duration="133"/>
+				<click startTime="266900" isStartRelative="false" duration="167"/>
+				<click startTime="291560" isStartRelative="false" duration="167"/>
+				<click startTime="299660" isStartRelative="false" duration="167"/>
+				<click startTime="339660" isStartRelative="false" duration="666"/>
+				<click startTime="342850" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 348520">
+				<media url="a24x4.mp3" startMsecs="0" duration="348520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les trous de la base interne du crâne et leur contenu@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="275" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="146.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_77c28d07d67f417f854872ea75fdbb85yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="7270" isStartRelative="false" duration="666"/>
+				<click startTime="19960" isStartRelative="false" duration="666"/>
+				<click startTime="34560" isStartRelative="false" duration="666"/>
+				<click startTime="50760" isStartRelative="false" duration="666"/>
+				<click startTime="63060" isStartRelative="false" duration="666"/>
+				<click startTime="68160" isStartRelative="false" duration="666"/>
+				<click startTime="101560" isStartRelative="false" duration="666"/>
+				<click startTime="115280" isStartRelative="false" duration="666"/>
+				<click startTime="130580" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 146100">
+				<media url="a24x5.mp3" startMsecs="0" duration="146100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contenu des trous de la base interne du crâne (FCA &amp; FCM)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="87.09" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9c7cf2dd8129412897850302ffb408b5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="820" isStartRelative="false" duration="167"/>
+				<click startTime="11260" isStartRelative="false" duration="167"/>
+				<click startTime="19320" isStartRelative="false" duration="167"/>
+				<click startTime="34620" isStartRelative="false" duration="167"/>
+				<click startTime="52390" isStartRelative="false" duration="167"/>
+				<click startTime="60640" isStartRelative="false" duration="167"/>
+				<click startTime="72440" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 87090">
+				<media url="a24x6.mp3" startMsecs="0" duration="87090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contenu des trous de la base interne du crâne (FCP)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;VII bis N. intermédiaire (de Wirisberg): fibres gustatuves, parasympatiques et somato-afférentes. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="279" showInTOC="" inSequence="" frameRate="30" totalFrames="390" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="196.54" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="279"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d8cfd18b72de45efa9779a9736c53c74yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2040" isStartRelative="false" duration="666"/>
+				<click startTime="14040" isStartRelative="false" duration="666"/>
+				<click startTime="25000" isStartRelative="false" duration="666"/>
+				<click startTime="41740" isStartRelative="false" duration="666"/>
+				<click startTime="43140" isStartRelative="false" duration="666"/>
+				<click startTime="66190" isStartRelative="false" duration="666"/>
+				<click startTime="83830" isStartRelative="false" duration="666"/>
+				<click startTime="85030" isStartRelative="false" duration="666"/>
+				<click startTime="91610" isStartRelative="false" duration="666"/>
+				<click startTime="98220" isStartRelative="false" duration="666"/>
+				<click startTime="105620" isStartRelative="false" duration="666"/>
+				<click startTime="113820" isStartRelative="false" duration="666"/>
+				<click startTime="124080" isStartRelative="false" duration="666"/>
+				<click startTime="138980" isStartRelative="false" duration="666"/>
+				<click startTime="155080" isStartRelative="false" duration="666"/>
+				<click startTime="163080" isStartRelative="false" duration="666"/>
+				<click startTime="177010" isStartRelative="false" duration="666"/>
+				<click startTime="178810" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 196540">
+				<media url="a24x7.mp3" startMsecs="0" duration="196540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L’os sphénoïde (constitution schématique)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="244.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_26a8cfb9c78140e68cd8f4d5f57bdd54yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="13230" isStartRelative="false" duration="167"/>
+				<click startTime="16330" isStartRelative="false" duration="167"/>
+				<click startTime="35240" isStartRelative="false" duration="167"/>
+				<click startTime="36840" isStartRelative="false" duration="167"/>
+				<click startTime="50140" isStartRelative="false" duration="167"/>
+				<click startTime="52140" isStartRelative="false" duration="167"/>
+				<click startTime="59840" isStartRelative="false" duration="167"/>
+				<click startTime="68140" isStartRelative="false" duration="167"/>
+				<click startTime="69940" isStartRelative="false" duration="167"/>
+				<click startTime="77040" isStartRelative="false" duration="167"/>
+				<click startTime="84040" isStartRelative="false" duration="167"/>
+				<click startTime="87240" isStartRelative="false" duration="167"/>
+				<click startTime="115720" isStartRelative="false" duration="167"/>
+				<click startTime="122130" isStartRelative="false" duration="167"/>
+				<click startTime="131030" isStartRelative="false" duration="167"/>
+				<click startTime="132730" isStartRelative="false" duration="167"/>
+				<click startTime="158600" isStartRelative="false" duration="167"/>
+				<click startTime="185700" isStartRelative="false" duration="167"/>
+				<click startTime="195300" isStartRelative="false" duration="167"/>
+				<click startTime="201400" isStartRelative="false" duration="167"/>
+				<click startTime="216400" isStartRelative="false" duration="167"/>
+				<click startTime="228800" isStartRelative="false" duration="167"/>
+				<click startTime="236600" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 244190">
+				<media url="a24x8.mp3" startMsecs="0" duration="244190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Orbite et fosses nasales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="244.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ff7f3443382e4d8c81ebb4381b4ef657yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="5440" isStartRelative="false" duration="167"/>
+				<click startTime="9640" isStartRelative="false" duration="167"/>
+				<click startTime="12140" isStartRelative="false" duration="167"/>
+				<click startTime="30120" isStartRelative="false" duration="167"/>
+				<click startTime="36920" isStartRelative="false" duration="167"/>
+				<click startTime="43420" isStartRelative="false" duration="167"/>
+				<click startTime="46920" isStartRelative="false" duration="167"/>
+				<click startTime="59520" isStartRelative="false" duration="167"/>
+				<click startTime="66020" isStartRelative="false" duration="167"/>
+				<click startTime="70420" isStartRelative="false" duration="167"/>
+				<click startTime="76020" isStartRelative="false" duration="167"/>
+				<click startTime="84120" isStartRelative="false" duration="167"/>
+				<click startTime="89520" isStartRelative="false" duration="167"/>
+				<click startTime="91220" isStartRelative="false" duration="167"/>
+				<click startTime="108820" isStartRelative="false" duration="167"/>
+				<click startTime="117320" isStartRelative="false" duration="167"/>
+				<click startTime="125320" isStartRelative="false" duration="167"/>
+				<click startTime="139020" isStartRelative="false" duration="167"/>
+				<click startTime="146920" isStartRelative="false" duration="167"/>
+				<click startTime="148720" isStartRelative="false" duration="167"/>
+				<click startTime="152220" isStartRelative="false" duration="167"/>
+				<click startTime="162220" isStartRelative="false" duration="167"/>
+				<click startTime="167420" isStartRelative="false" duration="167"/>
+				<click startTime="179120" isStartRelative="false" duration="167"/>
+				<click startTime="185420" isStartRelative="false" duration="167"/>
+				<click startTime="200720" isStartRelative="false" duration="167"/>
+				<click startTime="204220" isStartRelative="false" duration="167"/>
+				<click startTime="232820" isStartRelative="false" duration="167"/>
+				<click startTime="238020" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 244550">
+				<media url="a24x9.mp3" startMsecs="0" duration="244550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Base externe du crâne@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="690" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="228.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d1e5d97a7a6a4d3d9f7794ec7afa2647yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="6400" isStartRelative="false" duration="666"/>
+				<click startTime="7700" isStartRelative="false" duration="666"/>
+				<click startTime="14400" isStartRelative="false" duration="666"/>
+				<click startTime="16200" isStartRelative="false" duration="666"/>
+				<click startTime="29200" isStartRelative="false" duration="666"/>
+				<click startTime="32400" isStartRelative="false" duration="666"/>
+				<click startTime="43660" isStartRelative="false" duration="666"/>
+				<click startTime="45160" isStartRelative="false" duration="666"/>
+				<click startTime="69840" isStartRelative="false" duration="666"/>
+				<click startTime="71380" isStartRelative="false" duration="666"/>
+				<click startTime="78980" isStartRelative="false" duration="666"/>
+				<click startTime="80580" isStartRelative="false" duration="666"/>
+				<click startTime="83680" isStartRelative="false" duration="666"/>
+				<click startTime="85380" isStartRelative="false" duration="666"/>
+				<click startTime="97420" isStartRelative="false" duration="666"/>
+				<click startTime="98820" isStartRelative="false" duration="666"/>
+				<click startTime="104620" isStartRelative="false" duration="666"/>
+				<click startTime="108120" isStartRelative="false" duration="666"/>
+				<click startTime="112520" isStartRelative="false" duration="666"/>
+				<click startTime="114060" isStartRelative="false" duration="666"/>
+				<click startTime="123290" isStartRelative="false" duration="666"/>
+				<click startTime="125190" isStartRelative="false" duration="666"/>
+				<click startTime="128930" isStartRelative="false" duration="666"/>
+				<click startTime="130970" isStartRelative="false" duration="666"/>
+				<click startTime="137170" isStartRelative="false" duration="666"/>
+				<click startTime="140370" isStartRelative="false" duration="666"/>
+				<click startTime="143790" isStartRelative="false" duration="167"/>
+				<click startTime="157990" isStartRelative="false" duration="666"/>
+				<click startTime="169080" isStartRelative="false" duration="666"/>
+				<click startTime="182430" isStartRelative="false" duration="666"/>
+				<click startTime="204930" isStartRelative="false" duration="666"/>
+				<click startTime="206630" isStartRelative="false" duration="167"/>
+				<click startTime="207970" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 224260">
+				<media url="a24x10.mp3" startMsecs="0" duration="224260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Trous de la base externe du crâne et leur contenu@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.242" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ce34e0aa9f9e42fabdce13d384c995a9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="10900" isStartRelative="false" duration="666"/>
+				<click startTime="17200" isStartRelative="false" duration="666"/>
+				<click startTime="26800" isStartRelative="false" duration="133"/>
+				<click startTime="28060" isStartRelative="false" duration="666"/>
+				<click startTime="29560" isStartRelative="false" duration="666"/>
+				<click startTime="37960" isStartRelative="false" duration="167"/>
+				<click startTime="40660" isStartRelative="false" duration="666"/>
+				<click startTime="42360" isStartRelative="false" duration="666"/>
+				<click startTime="47280" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 48500">
+				<media url="a24x11.mp3" startMsecs="0" duration="48500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupes frontales du crâne (niveaux)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="272" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="252.136" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="272"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_31f0c94ac552475489d02f8a3f2baec7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8900" isStartRelative="false" duration="167"/>
+				<click startTime="12910" isStartRelative="false" duration="167"/>
+				<click startTime="23510" isStartRelative="false" duration="167"/>
+				<click startTime="35410" isStartRelative="false" duration="167"/>
+				<click startTime="44110" isStartRelative="false" duration="167"/>
+				<click startTime="67520" isStartRelative="false" duration="167"/>
+				<click startTime="81420" isStartRelative="false" duration="167"/>
+				<click startTime="90420" isStartRelative="false" duration="167"/>
+				<click startTime="93720" isStartRelative="false" duration="167"/>
+				<click startTime="106820" isStartRelative="false" duration="167"/>
+				<click startTime="115820" isStartRelative="false" duration="167"/>
+				<click startTime="131160" isStartRelative="false" duration="167"/>
+				<click startTime="137870" isStartRelative="false" duration="167"/>
+				<click startTime="154020" isStartRelative="false" duration="167"/>
+				<click startTime="171190" isStartRelative="false" duration="167"/>
+				<click startTime="177260" isStartRelative="false" duration="167"/>
+				<click startTime="188030" isStartRelative="false" duration="167"/>
+				<click startTime="202830" isStartRelative="false" duration="167"/>
+				<click startTime="214830" isStartRelative="false" duration="167"/>
+				<click startTime="231230" isStartRelative="false" duration="167"/>
+				<click startTime="248130" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 250400">
+				<media url="a24x12.mp3" startMsecs="0" duration="250400" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe frontale du crâne  (fosse crânienne antérieure et face)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="280" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="107.536" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="280"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1d80b18786904b48a8711fcfb59afcf9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="15530" isStartRelative="false" duration="167"/>
+				<click startTime="22130" isStartRelative="false" duration="167"/>
+				<click startTime="26430" isStartRelative="false" duration="167"/>
+				<click startTime="33030" isStartRelative="false" duration="167"/>
+				<click startTime="51030" isStartRelative="false" duration="167"/>
+				<click startTime="63900" isStartRelative="false" duration="167"/>
+				<click startTime="75500" isStartRelative="false" duration="534"/>
+				<click startTime="86200" isStartRelative="false" duration="534"/>
+				<click startTime="104800" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 106840">
+				<media url="a24x13.mp3" startMsecs="0" duration="106840" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe frontale du crâne (fosse crânienne moyenne)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="274" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="77.45" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_05a5fda124ad4e2d94b425166a454bf2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8300" isStartRelative="false" duration="167"/>
+				<click startTime="16800" isStartRelative="false" duration="167"/>
+				<click startTime="26600" isStartRelative="false" duration="167"/>
+				<click startTime="41990" isStartRelative="false" duration="167"/>
+				<click startTime="48290" isStartRelative="false" duration="534"/>
+				<click startTime="60890" isStartRelative="false" duration="534"/>
+				<click startTime="65490" isStartRelative="false" duration="534"/>
+				<click startTime="65490" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 77450">
+				<media url="a24x14.mp3" startMsecs="0" duration="77450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe frontale du crâne (fosse crânienne postérieure)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="278" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide14.swf" id="278"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f83dec636ad54c169025114e5516cd0byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="1"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>
