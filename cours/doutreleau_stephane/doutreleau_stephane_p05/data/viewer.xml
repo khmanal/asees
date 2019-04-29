@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 5 : Le système circulatoire, différenciation fonctionnelle des vaisseaux</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Joel LUNARDI</name>
+			<speakerTitle>Professeur de Biochimie (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10037.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Julien FAURÉ</name>
+			<speakerTitle>Maitre de conference-CHU de Grenoble</speakerTitle>
+			<image>spk13724.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean-Paul STAHL</name>
+			<speakerTitle>CHU de Grenoble</speakerTitle>
+			<image>spk14447.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Prénom NOM</name>
+			<speakerTitle>Enseignant de la Faculté</speakerTitle>
+			<image>spk130656.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Stéphane DOUTRELEAU</name>
+			<speakerTitle>Professeur CHU Grenoble ( UGA)</speakerTitle>
+			<image>spk131072.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_fd7df57889d64971b4f649268e252ff6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_4c17d185ba2f45a5a79666f79517330dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_55613c789a83497c9dab0ea18bbb4a35yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_4e4689b642334ff991caa47016f30125yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_02a708e78480430988298d3a1e92c00dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_d4f3fe0001d24509bda7354571c7adfdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_cbf90cc245c643f8b46297dcce1d84f5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="391" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.05" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="391"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_38b4cb4c36a642a79cab345ebbe8828dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 14050">
+				<media url="a24x1.mp3" startMsecs="0" duration="14050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 5 :  Le système circulatoire Différenciation fonctionnelle des vaisseaux@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Après avoir décrit la physiologie cardiaque, nous allons maintenant nous intéresser au système circulatoire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans cette première partie, nous allons décrire les grandes différences qui existent entre les vaisseaux et quelques règles d’hémodynamique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="413" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="24.46" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide1.swf" id="413"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f048fe3f3d54490885317df28d906ebayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 24460">
+				<media url="a24x2.mp3" startMsecs="0" duration="24460" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs pédagogiques du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les objectifs de ce cours chapitre sont &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;de connaitre l’organisation générale du système circulatoire avec les différentes circulations que sont la circulation systémique, la circulation pulmonaire et la circulation lymphatique;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De connaître les différences histologiques qui sont à l’origine des différences fonctionnelles des vaisseaux et enfin&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De connaitre les grands principes de l’hémodynamique &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="441" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="441"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_80aab47a743c42bc860a0417a2339d49yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 5610">
+				<media url="a24x3.mp3" startMsecs="0" duration="5610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour cela je vous propose de voir 3 grandes parties et tout d’abord commençons par les généralités&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="418" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="67.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="418"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_22168d30c5bf4fe0be8eb19947ff20d5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 67080">
+				<media url="a24x4.mp3" startMsecs="0" duration="67080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@le réseau vasculaire – organisation  générale@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’organisation générale du système vasculaire vous ai présenté sur cette diapositive&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On le divise en trois comme nous l’avons déjà vu &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  textDecoration="underline"&gt;La circulation systémique&lt;/span&gt;&lt;span &gt;, ici légendée sur le schéma en noir, qui part de l’aorte, à la sortie du ventricule gauche pour se terminer par les veines caves qui s’abouchent dans l’oreillette droite et qui comprend les zones d’échange capillaire avec les organes; c’est une circulation dite à haute pression car les pressions qui règnent à l’intérieur des artères sont élevées&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  textDecoration="underline"&gt;La circulation pulmonaire&lt;/span&gt;&lt;span &gt;, qui est une circulation uniquement fonctionnelle dédiée aux échanges gazeux, allant du tronc de l’AP jusqu’à l’abouchement des veines pulmonaires dans l’oreillette gauche; c’est un système dit à basse pression, en opposition avec le précédent, car les pressions qui règnent dans les artères pulmonaires sont 4 à 5 fois plus basses; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A ces deux systèmes, il faut ajouter un dernier système très important, la circulation lymphatique – ce système est un système unique que l’on retrouve parallèlement dans les deux systèmes – il est ici légendé en vert.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="416" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="49.09" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="416"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_17bc898dbb534e98a86fdfd6115448b2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 49090">
+				<media url="a24x5.mp3" startMsecs="0" duration="49090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@le réseau vasculaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’homéostasie des organes dépends de l’existence et de la fonction d’un réseau de vaisseaux : un réseau sanguin comportant les artères, les veines et des capillaires et un réseau lymphatique comportant uniquement des capillaires et des vaisseaux lymphatiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le système artério-veineux transporte des gaz, des nutriments, des métabolites et des cellules sanguines.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le système lymphatique, inversement, est un système borgne, naissant des tissus et comporte outre des capillaires et des vaisseaux lymphatiques, des ganglions lymphatiques et est associé aux organes lymphoïdes &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; ce système parallèle et couplé au système vasculaire, rapporte des macromolécules, des lipides, des cellules immunitaires et un fluide, le liquide lymphatique, dans la circulation vasculaire systémique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="430" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="40.35" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="430"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1b8767659eb5440c925ecd35692207a2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 40350">
+				<media url="a24x6.mp3" startMsecs="0" duration="40350" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La structure histologique est différente d’un vaisseau à l’autre et d’une circulation à une autre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une partie du système vasculaire joue un rôle de transport et de contrôle hémodynamique et une autre partie sera dédiée aux interactions avec les organes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Intéressons nous d’abord à la structure des vaisseaux qui n’ont que ce rôle de transport et de de contrôle hémodynamique, et qui sont matérialisés dans le bas de cette diapositive. Bien sur en contrôlant le débit vasculaire local, ces vaisseaux peuvent indirectement influencé le fonctionnement du réseau capillaire sous-jacent mais ils n’ont pas d’interaction directe avec les échanges métaboliques au niveau des organes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="432" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="111.79" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="432"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2ae39e8192a44312a061ebf8bbceb071yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 111790">
+				<media url="a24x7.mp3" startMsecs="0" duration="111790" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Histologie vasculaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La structure vasculaire et la composition de sa paroi permet de comprendre ou d’imaginer le rôle que peu avoir tel ou tel vaisseaux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les artères et les veines comprennent une couche interne, &lt;/span&gt;&lt;span  textDecoration="underline"&gt;l’intima&lt;/span&gt;&lt;span &gt;, qui contient une monocouche de cellules continus : l’endothélium vasculaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette couche joue un rôle majeur en physiologie vasculaire que nous reverrons brièvement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cet endothélium repose sur une membrane basale continue, le séparant de la MEDIA qui contient des fibres élastiques et des cellules musculaires lisses en proportion variable selon le vaisseau.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette couche est responsable des propriétés de COMPLIANCE du vaisseau. Les artères sont beaucoup moins compliantes que les veines.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les artères et les veines sont enfin entourés d’une tunique externe, l’adventice qui contient à la fois des fibres collagènes, l’innervation avec des terminaisons nerveuses et aussi le système vasculaire du vaisseau que l’on appelle le vasa-vasorum. La composition en terminaisons nerveuses est très variable d’un lit vasculaire à un autre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cellules musculaires lisses de la MEDIA, sont idéalement situées au centre de la paroi vasculaire. Elles reçoivent des informations à la fois de l’endothélium vasculaire mais aussi des informations nerveuses de l’adventice. La MEDIA est donc aussi le siège de la &lt;/span&gt;&lt;span  textDecoration="underline"&gt;vasomotricité&lt;/span&gt;&lt;span &gt; c’est-à-dire des variations de diamètre d’un vaisseau.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les vaisseaux lymphatiques quant à eux ont une structure que l’on pourrait juger plus simple car uniquement composés d’un endothélium et d’une membrane basale, elle-même en contact avec des péricytes dont nous reparlerons et qui sont représentés sur le vaisseau lymphatique au centre de la figure par ces petites cellules étoilées.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="433" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="433"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b12433eb464e491f80252527f59ee73ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 14380">
+				<media url="a24x8.mp3" startMsecs="0" duration="14380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Après divisions vasculaires, les vaisseaux les plus petits avec lesquels se font les échanges sont les capillaires que vous voyez en haut de la diapositive.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il en existe plusieurs types et leur structure est variable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="431" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="153.76" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="431"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7e84da8dd4b94612879aa1d2c2357e75yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 153760">
+				<media url="a24x9.mp3" startMsecs="0" duration="153760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les capillaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Sur cette diapositive, vous avez les 3 grands types de capillaires sanguins et l’architecture des capillaires lymphatiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Selon les organes et le type de substances qu’il doit pouvoir échanger, donc selon sa fonction, le capillaire n’aura pas toujours la même structure. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On distingue ainsi &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Des capillaires &lt;/span&gt;&lt;span  textDecoration="underline"&gt;continus&lt;/span&gt;&lt;span &gt; dont les cellules endothéliales sont jointives et repose sur une membrane basale continue ; elles sont donc relativement imperméables aux protéines – on retrouve ce type de capillaires dans le muscle cardiaque, les poumons, le muscle squelettique ou encore le SNC;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Des capillaires dit &lt;/span&gt;&lt;span  textDecoration="underline"&gt;fenêtrés&lt;/span&gt;&lt;span &gt; dans lesquels les cellules endothéliales présentent régulièrement des fenestrations (ce sont les petits points sur le schéma) parfois recouvertes d’une très fine membrane ; la membrane basale est plus ou moins fenêtrée elle-aussi. On retrouve ce type de capillaires dans les glandes endocrines, les villosités intestinales ou encore le rein;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et enfin des capillaires discontinus, encore appelés capillaires sinusoïdes, dans lesquelles les cellules endothéliales ne sont pas jointives et où la membrane basale est discontinue. Il existe donc une perméabilité importante y compris à des protéines même de grande taille. On les retrouve dans des organes tel que le foie, la moelle osseuse ou la rate.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’extrême droite du schéma vous avez représentés les capillaires lymphatiques qui sont les premiers vaisseaux du système lymphatiques. Les cellules endothéliales ont une forme particulière dite en « feuille de chêne » et reposent sur une membrane basale discontinue. L’origine toute proximale du vaisseau est amarrée aux cellules avoisinantes par des filaments qui permettent de les maintenir en position ouverte.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les capillaires présentent des cellules particulières sur leur membrane basale que l’on appelle les &lt;/span&gt;&lt;span &gt;péricytes&lt;/span&gt;&lt;span  fontWeight="bold"&gt;(pour cellules péri-vasculaires)&lt;/span&gt;&lt;span &gt;, appelés aussi « cellules de Rouget &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce sont des cellules d’origine endothéliale, localisées au niveau de la lame basale des capillaires, qu'elles entourent par de longs prolongements circonférentiels et cytoplasmiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elles ont une fonction contractile et un rôle dans la régulation métabolique à travers la régulation du débit sanguin au niveau des capillaires et des veinules post-capillaires. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les péricytes sont particulièrement nombreux au niveau des capillaires cérébraux et rétiniens. Il n’y a pas ou peu de péricytes dans les capillaires sinusoïdes et pas dans les capillaires lymphatiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="439" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.15" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="439"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1de9b31065044e9d9fd84cda5f9c73ccyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 12150">
+				<media url="a24x10.mp3" startMsecs="0" duration="12150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les différents types de capillaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici des exemples en microscopie de capillaires continus et fenêtrés &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous remarquerez les différences dans les jonctions entre les cellules endothéliales.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="450" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="39.06" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="450"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_237c19faa67b4c2aa79d897d89839cf8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 39060">
+				<media url="a24x11.mp3" startMsecs="0" duration="39060" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L'endothélium vasculaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Faisons un focus sur la monocouche cellulaire de l’intima.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L'endothélium vasculaire est un véritable organe dont la longueur des vaisseaux mise bout à bout représenterait plusieurs fois la circonférence terrestre !&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sa surface d'échange est de 280 m² et contribue aux échanges complexes entre les milieux intravasculaire, interstitiel et intracellulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’endothélium est donc un acteur majeur physiologique par son rôle stratégique entre le sang circulant et les organes. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il intervient donc dans de nombreux processus physiopathologiques et dans l’inflammation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="452" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.26" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="452"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a10502c69f554af49febecbfd54df866yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 43260">
+				<media url="a24x12.mp3" startMsecs="0" duration="43260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L'endothélium vasculaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’endothélium vasculaire intervient ainsi de façon majeur dans le contrôle du tonus vasculaire, de la vasomotricité et de la perméabilité artérielle en synthétisant de nombreux médiateurs vasodilatateurs (surtout le NO ou monoxyde d’azote) et vasoconstricteurs (sur l’endothéline1) en réponse à des stimuli chimiques, mécaniques ou nerveux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il intervient dans l’angiogenèse c’est-à-dire dans la création ou la réparation des vaisseaux en synthétisant du VEGF.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il a un rôle antithrombotique c’est-à-dire qu’il exprime à sa surface des molécules qui empêchent le sang de coaguler à l’intérieur des vaisseaux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="440" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="440"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8bfc914fe66741acadc0e87c64d63571yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 3410">
+				<media url="a24x13.mp3" startMsecs="0" duration="3410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voyons maintenant quelques principes d’hémodynamique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="412" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="54.89" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="412"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_22c857b7e4944c2fa5162682c686370fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 54890">
+				<media url="a24x14.mp3" startMsecs="0" duration="54890" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Généralités d’hémodynamique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La distribution des flux sanguins et des pressions est guidée par des principes de dynamique des fluides, qui ne sont généralement que partiellement applicables aux différents systèmes vasculaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un déterminant majeur est la génération d’un flux pulsé par le cœur avec donc un régime circulatoire pulsatile dans les systèmes artériels systémique et pulmonaire, s’amortissant progressivement pour devenir laminaire au niveau des capillaires, condition indispensable à des échanges optimaux avec les organes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les autres caractéristiques particulières et fondamentales sont :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;D’abord, les propriétés du liquide qui y circule : le sang pour le système vasculaire et la lymphe pour le système lymphatique, mélange de liquide et de cellules dont les propriétés sont complexes et très variables ;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et évidemment la structure histologique des vaisseaux, sous-tendant des propriétés mécaniques, qui influencera largement l’hémodynamique vasculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="420" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="92.78" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="420"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4ff5f2dd8cc0439ca19bc1ec76e71cfeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 92780">
+				<media url="a24x15.mp3" startMsecs="0" duration="92780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Principes d’hémodynamiques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’étude de l’hémodynamique est l’étude du régime circulatoire qui ici sera l’étude de la répartition et de la distribution des pressions et des flux le long du système vasculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Quand on parle de pression dans le système vasculaire on entend pression hydrostatique que l’on exprime en mm ou cm de mercure.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La pression qui règne à l’intérieur du vaisseaux se répartit sur toute la circonférence du vaisseau à l’origine d’un stress dit circonférentiel&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La pression dans un système donné est toujours maximal à l’entrée du système (donc à la sortie du ventricule gauche pour la circulation systémique, à la sortie du ventricule droit pour la circulation pulmonaire et dans les tissus interstitiels pour le système lymphatique) et minimal à la sortie du système, responsable d’un gradient de pression qui sera le facteur majeur de la circulation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le flux vasculaire correspond aux mouvements liquidiens en général (donc le sang ou la lymphe) avec, à un instant donné, des grandeurs qui s’y rattachent comme le volume, le débit ou encore la vitesse circulatoire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce flux à l’intérieur des vaisseaux est à l’origine d’un stress cette fois-ci longitudinal, que l’on appelle le « shear stress », qui sera intégré par l’endothélium vasculaire pour y apporter des réponses biologique et physiologique : c’est ce que l’on appelle la mécanotrasduction.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces paramètres physiques sont majeurs car ils sont traduits sur le plan physiologique et influencent en permanence à la fois la physiologie du vaisseau mais aussi à plus long terme sa structure.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="421" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="90.07" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="421"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_def08f76eeea48149f39427ea128ede7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 90070">
+				<media url="a24x16.mp3" startMsecs="0" duration="90070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Résistances vasculaires - R@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Par analogie à la loi d’Ohm en électricité, on définit un concept majeur du système vasculaire, la résistance vasculaire, qui est une grandeur que l’on ne peut pas mesurer mais que l’on calcule.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous avez représenté à droite en haut un tube dans lequel circule un liquide newtonien à débit constant. Conformément à la loi de Poiseuille, la résistance à l’écoulement est proportionnel au gradient de pression et inversement proportionnel au débit.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette formule de calcul des résistances n’est strictement applicable que lorsque le flux est constant ce qui n’est pas le cas dans le système vasculaire. C’est donc une approximation mais que l’on utilise toutefois quotidiennement pour juger de l’état hémodynamique d’un sujet.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans les circulations systémique ou pulmonaire on peut schématiser le système vasculaire comme une série de vaisseaux avec des résistances variables en série et en parallèle, et un gradient de pression correspondant sur ce schéma à la différence entre PA et PV. Le débit dans ce système est le débit cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On peut donc calculer la résistance globale de la grande circulation – Essayer d’imaginer ce que sont les pressions d’entrée et de sortie du système. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ici PAM représente la pression artérielle moyenne, POD la pression dans l’oreillette droite, PAPM, la pression artérielle pulmonaire moyenne, POD la pression dans l’oreillette gauche et Q, le débit cardiaque qui je vous le rappelle est le même dans les deux systèmes circulatoires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="445" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="24.98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="445"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7691921ea6e24630bb93d5921e153360yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 24980">
+				<media url="a24x17.mp3" startMsecs="0" duration="24980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Influence des paramètres sur l’hémodynamique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous pouvez voir sur ces calculs simples l’influence majeure de ces paramètres sur le débit sanguin.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A gauche, pour un même rayon vous pouvez voir la variation de débit selon le gradient de pression et à droite, l’influence du diamètre du vaisseau sur le débit pour un même gradient de pression. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous avez représenter là un facteur majeur de contrôle du débit vasculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="429" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="42.12" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="429"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6095bbfd3bef4c64816fd5af9f36a628yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 42120">
+				<media url="a24x18.mp3" startMsecs="0" duration="42120" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Résistances vasculaires - R@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les résistances sont capables d’influencer l’hémodynamique comme nous l’avons vu mais quels sont les principaux facteurs intervenant dans la grandeur de ce paramètre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme vous le voyer avec l’équation, la résistance est proportionnel à la longueur du système e à la viscosité et inversement proportionnel à la puissance 4 du rayon du vaisseau.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La viscosité du sang est un facteur complexe, variable chez un même sujet en fonction de beaucoup de paramètres. Elle est influenceé par de nombreux facteurs comme l’aggrégabilité des hématies, l’hématocrite ou encore les vitesses circulatoires. L’étude particulière de toutes ces interactions est appelée l’hémorrhéologie. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="442" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="442"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_76c7ee799ea5463283445dcfb50aac02yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 12190">
+				<media url="a24x19.mp3" startMsecs="0" duration="12190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons détailler dans les prochaines chapitres les caractéristiques hémodynamiques des circulations artérielles, veineuses et lymphatiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Voyons ici quelques grandes différences&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="443" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="443"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fe006c508362412ea95d3f75f492bd6eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 53930">
+				<media url="a24x20.mp3" startMsecs="0" duration="53930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Caractéristiques @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ce schéma général est fondamental. Il représente à la fois le niveau de PA (en mmHg) ainsi que le régime de pression (pulsatile ou continu) le long du lit vasculaire depuis le VG jusqu’au VD.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous pouvez voir que le cœur met en charge le volume sanguin. Comme vous le savez la pression qui règne dans le VG ici oscille entre un maximum et un minimum proche de 0 mmHg.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce régime de pression est totalement différent du régime de pression dans le système vasculaire qui ne revient par exemple plus à 0 mmHg, et surtout le niveau de pression va progressivement s’abaisser (il va s’amortir) pour n’être plus que de quelques mmHg dans les grosses veines avant que le ventricule droit ne remette en charge le volume sanguin avant de passer dans la circulation pulmonaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="446" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="34.36" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="446"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e4131fac4c6a460aac384b20014b60cayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 34360">
+				<media url="a24x21.mp3" startMsecs="0" duration="34360" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Caractéristiques @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Parallèlement aux variations de la pression artérielle et du régime de pression, les caractéristiques varient en tout point du système vasculaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous avez représenté sur ce schéma quelques éléments avec en haut la surface du système qui présente évidemment une importante surface d’échange au niveau des capillaires et en bas la vitesse circulatoire qui dégringole dans les artérioles et qui est presque nulle dans les capillaires évidemment pour favoriser encore une fois les échanges avec les tissus..&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="447" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13.84" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="447"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dc5c7568a5ee44c9bda4c2d982147d3eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 13840">
+				<media url="a24x22.mp3" startMsecs="0" duration="13840" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Anatomie, histologie et fonction @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici dans le même esprit quelques données chiffrées des diamètres, du nombre de vaisseaux, de leur longueur approximative, de la surface et du volume intravasculaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces chiffres ne sont évidemment pas à retenir.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="453" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="41.5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="453"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ead167c0130b4c3b94f90198e8521a9fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 41500">
+				<media url="a24x23.mp3" startMsecs="0" duration="41500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Caractéristiques @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous avez résumé ici quelques caractéristiques comparatives que vous devez connaitre des circulations systémiques et pulmonaires. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Par rapport à la circulation pulmonaire, la circulation systémique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Est un système à haute pression – certes la pression varie et la pression qui règne dans certaines veines est inférieure à la pression qui existe dans l’artère pulmonaire mais la pression moyenne est plus importante dans ce système&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est un système résistif c’est-à-dire que les résistances vasculaires sont plus importantes&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, vous le savez, la circulation systémique distribue le débit cardiaque à chaque bifurcation artérielle alors que la circulation pulmonaire reçoit toujours tout le débit cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="415" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13.42" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide23.swf" id="415"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_166a07454e8f47d58acbad70d80c0ffayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 13420">
+				<media url="a24x24.mp3" startMsecs="0" duration="13420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans ce chapitre, il est fondamental de comprendre et de pouvoir expliquer les différences anatomique, histologique, hémodynamique et fonctionnelle des différents types de circulation. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Merci pour votre attention.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="403" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="403"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_61f28bc955ea4716a482349231d50e40yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="4"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

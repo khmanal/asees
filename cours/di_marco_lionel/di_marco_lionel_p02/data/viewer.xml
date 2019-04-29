@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 2 : Structure et rôle du placenta</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Lionel DI MARCO</name>
+			<speakerTitle>Sage-Femme Enseignant - UFR de Médecine / CHU de Grenoble</speakerTitle>
+			<image>spk11497.jpg</image>
+			<email>ldimarco@chu-grenoble.fr</email>
+			<logo>lgo11497.jpg</logo>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_ad12f0719328425389d2be57de501ea0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_ae54a96354b2420086ed0f24dc853739yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_9b7a550eff884d759484f3c56961b47byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_1137799a9384436b9df93e20beab3af0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_a9e23e72c07345c9bd2c6fab3e109c3eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_a02f65a6b2454dfbae005ec57af1a041yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="256" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="256"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ba686bc13a934da8afcc88fc99d71cb6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 14550">
+				<media url="a24x1.mp3" startMsecs="0" duration="14550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 2  Structure et rôle du placenta@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="273" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="30.39" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="273"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_206c5e2ccca6417e93778ab37315931cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 30390">
+				<media url="a24x2.mp3" startMsecs="0" duration="30390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Pré-requis@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="257" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="21.64" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="257"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0a46c88850774b54a846d6b5e60e9558yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 21640">
+				<media url="a24x3.mp3" startMsecs="0" duration="21640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="149.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c907e107ee7749eda5f7a4626091ccedyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8890" isStartRelative="false" duration="534"/>
+				<click startTime="70190" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 149040">
+				<media url="a24x4.mp3" startMsecs="0" duration="149040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Examen macroscopique Face maternelle@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A terme, il s’agit d’un disque circulaire d’une vingtaine&lt;/span&gt;&lt;span &gt; de cm&lt;/span&gt;&lt;span &gt; de diamètre, et d’environ de 4 cm d'épaisseur en son centre, qui pèse environ 500g.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le rapport poids placentaire / poids fœtal est un indicateur&lt;/span&gt;&lt;span &gt; qui &lt;/span&gt;&lt;span &gt;varie tout au long de la grossesse et permet de savoir si fœtus et placenta ont un développement harmonieux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les&lt;/span&gt;&lt;span &gt; deux faces du disque sont très différentes. La face maternelle est, comme son nom l’indique, accolée à la paroi utérine via la caduque basale au cours de la grossesse. Cette caduque sera le plan de clivage du placenta au moment de la délivrance, qui est la phase du travail qui correspond à l’expulsion du placenta et des annexes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La caduque basale a créée, au cours du développement du placenta, des &lt;/span&gt;&lt;span &gt;septa&lt;/span&gt;&lt;span &gt; qui engendrent des sillons entre chaque cotylédon.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le bord du placenta est&lt;/span&gt;&lt;span &gt; poursuivi par les membranes. L’ensemble des éléments macroscopiques des deux faces placentaires doit être vérifié après la délivrance.&lt;/span&gt;&lt;span &gt; Les objectifs&lt;/span&gt;&lt;span &gt; de cet examen sont :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vérifier que placenta et annexes sont complets, afin de &lt;/span&gt;&lt;span &gt;prévenir une hémorragie&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vérifier que le placenta ait une forme et des &lt;/span&gt;&lt;span &gt;mesurations&lt;/span&gt;&lt;span &gt; correcte, afin de dépister certaines &lt;/span&gt;&lt;span &gt;pathologie de la grossesse ou de l'accouchement&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ou afin d’orienter l’examen et la surveillance de la mère ou du nouveau né&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est possible d’effectuer des examens complémentaires&lt;/span&gt;&lt;span &gt; sur le placenta ou les annexes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vidéo prévue en SEPI&lt;/span&gt;&lt;span &gt; sur l’examen du placenta&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="92.39" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_27eeb7e3ec024572878517f80ca7ec4eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 92390">
+				<media url="a24x5.mp3" startMsecs="0" duration="92390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le cotylédon@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le cotylédon&lt;/span&gt;&lt;span &gt; est une structure macroscopique correspondant à un pédicule &lt;/span&gt;&lt;span &gt;villositaire&lt;/span&gt;&lt;span &gt; et à son &lt;/span&gt;&lt;span &gt;arboraison&lt;/span&gt;&lt;span &gt;, et donc à une unité vasculaire fonctionnelle. L’axe vasculaire est formé d’une veine centrale et de deux artérioles &lt;/span&gt;&lt;span &gt;paracentrales&lt;/span&gt;&lt;span &gt; afférentes, anastomosées entre elles avec un réseau capillaire sous-trophoblastique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Fixés dans la décidue maternelle, les villosités crampons forment un arbre depuis la même villosité souche qui correspond à un seul cotylédon. Chaque cotylédon est donc limité par un septum décidual, et lorsque le placenta sera délivré, ce sont ces délimitations qui donneront cet aspect en une dizaine de boules  sur la face maternelle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Alors pourquoi la zone placentaire ne représente environ qu’un tiers du pourtour de l’embryon ?&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="283" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.26" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="283"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ad7d9181de8f4c588f744e3c1b5dcb3eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="26880" isStartRelative="false" duration="666"/>
+				<click startTime="34680" isStartRelative="false" duration="666"/>
+				<click startTime="47480" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 53260">
+				<media url="a24x6.mp3" startMsecs="0" duration="53260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Forme du placenta@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour expliquer cela, utilisons les superbes photos de Lennart Nilsson qui montrent bien qu’en début de développement,&lt;/span&gt;&lt;span &gt; le chorion villeux, que l’on appelle chevelu comme vous pouvez le constater, entoure complètement l’œuf.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’oxygène est la clef de cette explication. Les&lt;/span&gt;&lt;span &gt; trophoblastes existent au départ tout autour de l’embryon.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pourtant un petit défaut de perméabilité dans la coque trophoblastique va permettre l’oxygénation d’une zone concentrique autour du cordon ombilical, au premier trimestre. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="285" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="116.59" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="285"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8e02030bc8d3474199578772624bac42yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="33670" isStartRelative="false" duration="666"/>
+				<click startTime="38570" isStartRelative="false" duration="666"/>
+				<click startTime="77870" isStartRelative="false" duration="666"/>
+				<click startTime="88470" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 116590">
+				<media url="a24x7.mp3" startMsecs="0" duration="116590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Forme du placenta@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est cette oxygénation qui va générer l’apoptose des villosités et donc la création du chorion lisse, que l’on appellera membranes. C’est le rôle régulateur de l’oxygène dans le développement placentaire, et le rôle protecteur de la coque trophoblastique qui va permettre ce développement harmonieux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque l’oxygène apparait ailleurs que dans cette zone circulaire, alors l’apoptose va se faire d’une autre manière et créer des placentas anormaux (placenta de petite taille par exemple). A l’extrême, si l’oxygène est omniprésent, la grossesse se terminera en avortement spontané précoce.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi une invasion trophoblastique insuffisante pourrait être cause de bouchons trophoblastiques insuffisants, conduisant à une oxygénation trop précoce et trop étendue de la circulation maternelle, induisant des placentas insuffisants ou des avortements.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ici l’oxygénation se déroule correctement, et limite donc le développement du placenta à la zone oxygénée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="259" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="58.59" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_35eece69170449a3bf0b7303bf2799b5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 58590">
+				<media url="a24x8.mp3" startMsecs="0" duration="58590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Examen macroscopique Face foetale@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’examen macroscopique présente de l’autre côté la face fœtale, une surface lisse, luisante, tapissée par l'amnios. Il est possible de cliver Amnios et chorion aisément. L’examen permet de voir par transparence les vaisseaux placentaires superficiels et de gros calibres. Sur cette face s'&lt;/span&gt;&lt;span &gt;insere&lt;/span&gt;&lt;span &gt; le cordon ombilical de manière centrale ou &lt;/span&gt;&lt;span &gt;paracentrale&lt;/span&gt;&lt;span &gt; dans la majorité des cas et de manière physiologique. &lt;/span&gt;&lt;span &gt;Cf&lt;/span&gt;&lt;span &gt; cours sur les annexes&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="133.39" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4b2cb3d4094d457ea30ff636dccba29ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="42690" isStartRelative="false" duration="167"/>
+				<click startTime="43270" isStartRelative="false" duration="167"/>
+				<click startTime="55540" isStartRelative="false" duration="167"/>
+				<click startTime="57440" isStartRelative="false" duration="167"/>
+				<click startTime="59860" isStartRelative="false" duration="167"/>
+				<click startTime="86580" isStartRelative="false" duration="167"/>
+				<click startTime="91480" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 133390">
+				<media url="a24x9.mp3" startMsecs="0" duration="133390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les villosités choriales@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les &lt;/span&gt;&lt;span &gt;villosites&lt;/span&gt;&lt;span &gt; partent de la plaque choriale en direction de la plaque basale et baignent dans la chambre &lt;/span&gt;&lt;span &gt;intervilleuse&lt;/span&gt;&lt;span &gt;. Celles qui vont d’une plaque à l’autre sont les villosités crampons. D’autres restent libres, ou flottantes, dans la chambre &lt;/span&gt;&lt;span &gt;intervilleuse&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au cours de la grossesse, différents types de villosités vont se former. Chacune d’entre elles a des fonctions différentes :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les villosités souches assurent la stabilité mécanique de l’arbre &lt;/span&gt;&lt;span &gt;villositaire&lt;/span&gt;&lt;span &gt;, représente 1/3 du volume &lt;/span&gt;&lt;span &gt;villositaire&lt;/span&gt;&lt;span &gt; d’un placenta mature&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les villosités tertiaires mésenchymateuses génèrent la croissance en longueur de l’arbre villeux&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les villosités intermédiaires immatures sont le lieu de prolifération du trophoblaste et des bourgeons trophoblastiques. Sont la forme prédominante dans les placenta immatures&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les villosités intermédiaires matures sont le lieu de prolifération  du réseau capillaire fœtal, représentent ¼ des villosités d’un placenta mature&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les villosités libres terminales représentent environ la moitié du volume et la moitié de la surface d’échange du placenta à terme &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les bourgeons trophoblastiques donnent naissance à de nouvelles villosités&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi chaque &lt;/span&gt;&lt;span &gt;arboraison&lt;/span&gt;&lt;span &gt; est l’unité vasculaire que nous avons déjà défini : le cotylédon. L’axe vasculaire du &lt;/span&gt;&lt;span &gt;cotyldéon&lt;/span&gt;&lt;span &gt; repose en une veine centrale et deux &lt;/span&gt;&lt;span &gt;arterioles&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;paracentrales&lt;/span&gt;&lt;span &gt; dont le &lt;/span&gt;&lt;span &gt;reseau&lt;/span&gt;&lt;span &gt; capillaire sous-trophoblastique est très important. Ainsi la division des &lt;/span&gt;&lt;span &gt;villosites&lt;/span&gt;&lt;span &gt; donne une surface placentaire estimée à 13 m2.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="97.4" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_36b13d0caa804321859b17358f3fffdeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 97400">
+				<media url="a24x10.mp3" startMsecs="0" duration="97400" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Circulations placentaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Il n’y a pas une&lt;/span&gt;&lt;span &gt; c&lt;/span&gt;&lt;span &gt;irculation placentaire, mais deux circulations situées de chaque côté du placenta.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La&lt;/span&gt;&lt;span &gt; circulation maternelle se fait à débit élevé (environ 500 ml/min) et utilise 80% du débit utérin. Ce débit peut être évidemment influencé par le volume sanguin circulant maternel. De même la TA maternelle va avoir un impact : par exemple le débit sera moins élevé si la tension maternelle est trop basse. Cette circulation sera aussi diminuée au cours du travail sous l’action des contractions du myomètre, le muscle utérin, qui aura à ce moment ses propres besoins circulatoires. Enfin, d’autres éléments hormonaux, médicamenteux ou le tabac peuvent avoir un impact sur cette circulation maternelle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les artères spiralées amènent le sang dans la chambre &lt;/span&gt;&lt;span &gt;intervilleuse&lt;/span&gt;&lt;span &gt;. Le flux sanguin dans la chambre &lt;/span&gt;&lt;span &gt;intervilleuse&lt;/span&gt;&lt;span &gt; va irriguer les villosités choriales où les échanges vont se dérouler, puis repartir en direction des veines utéro placentaires afin de rejoindre la circulation cave maternelle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="131.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fbde7fc627ab440cb1ea75167c36880ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 131220">
+				<media url="a24x11.mp3" startMsecs="0" duration="131220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Anatomie vasculaire artérielle@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le trajet du sang maternel depuis&lt;/span&gt;&lt;span &gt; les artères utérines jusqu’à la chambre &lt;/span&gt;&lt;span &gt;intervilleuse&lt;/span&gt;&lt;span &gt; va emprunter la branche ascendante de chaque artère utérine. Cette branche ascendante va donner des branches qui vont pénétrer la paroi utérine. Celles-ci vont se diviser et donner les artères arquées antérieures et postérieures, entre la couche intermédiaire et la couche externe du myomètre, qui vont-elles-même se ramifier. Le réseau ainsi créé s’anastomose avec le réseau controlatéral. Les artères arquées s’abouchent dans les artères radiaires , qui vont ensuite former les artères spiralées qui alimentent la couche fonctionnelle de l’endomètre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le sang maternel est donc injecté dans les chambres &lt;/span&gt;&lt;span &gt;intervilleuses&lt;/span&gt;&lt;span &gt; par les artères spiralées (où&lt;/span&gt;&lt;span &gt; la pression sanguine &lt;/span&gt;&lt;span &gt;avoisinne&lt;/span&gt;&lt;span &gt; les &lt;/span&gt;&lt;span &gt;80-100 mm Hg). Les artères s'ouvrent au centre du cercle formé par les villosités crampons d’un cotylédon, tandis que les veines utéroplacentaires drainent la périphérie de&lt;/span&gt;&lt;span &gt; chaque&lt;/span&gt;&lt;span &gt; espace &lt;/span&gt;&lt;span &gt;intervilleux&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le sang maternel a un débit de 500&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;cm&lt;/span&gt;&lt;span &gt;3&lt;/span&gt;&lt;span &gt;/min et a une pression sanguine de 70 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt;. Il arrive sous forme de jets qui se brisent dans la chambre &lt;/span&gt;&lt;span &gt;intervilleuse&lt;/span&gt;&lt;span &gt; où règne une pression de 10 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt;. Ainsi le sang maternel se renouvelle 2 à 3 fois par minute&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;dans la chambre &lt;/span&gt;&lt;span &gt;intervilleuse&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il s’agit d’une &lt;/span&gt;&lt;span &gt;reserve&lt;/span&gt;&lt;span &gt; utilisable par le &lt;/span&gt;&lt;span &gt;foetus&lt;/span&gt;&lt;span &gt; en cas d’&lt;/span&gt;&lt;span &gt;arret&lt;/span&gt;&lt;span &gt; de la circulation placentaire physiologique ou pathologique. Le &lt;/span&gt;&lt;span &gt;foetus&lt;/span&gt;&lt;span &gt; dispose ainsi d’une &lt;/span&gt;&lt;span &gt;reserve&lt;/span&gt;&lt;span &gt; en &lt;/span&gt;&lt;span &gt;oxygene&lt;/span&gt;&lt;span &gt; de 60 a 90 secondes, ce &lt;/span&gt;&lt;span &gt;delai&lt;/span&gt;&lt;span &gt; est moindre en cas d’insuffisance placentaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="127.17" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c4da97e9521a46b3ac87222fdadf4938yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="9680" isStartRelative="false" duration="167"/>
+				<click startTime="20180" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 127170">
+				<media url="a24x12.mp3" startMsecs="0" duration="127170" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Circulations placentaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La circulation fœtale est intimement liée à la circulation maternelle sans jamais y être mélangée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Reprenons la circulation &lt;/span&gt;&lt;span &gt;cotylédonnaire&lt;/span&gt;&lt;span &gt; et voyons comment la&lt;/span&gt;&lt;span &gt; circulation fœtale s’intègre anatomiquement au placenta&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;*clic*&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La circulation fœtale&lt;/span&gt;&lt;span &gt; placentaire voit arriver le sang par les artères ombilicales, au nombre de deux, depuis le système artériel iliaque du fœtus. Par divisions, elles vont mener le sang dans chaque villosité via les artères &lt;/span&gt;&lt;span &gt;cotylédonnaires&lt;/span&gt;&lt;span &gt; . Au bout de chaque villosité, il y a un système d’échangeur vasculaire avec un amincissement des parois de la villosité, à différents endroits, pour créer la membrane &lt;/span&gt;&lt;span &gt;vasculo-syncytiale&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce sang artériel est en fait un sang chargé de déchet qui va être épuré dans l’échangeur pour repartir en direction du système veineux via les divisions de la veine ombilicale. La capacité d’échange dépend alors directement du nombre d’endroit où existe une membrane &lt;/span&gt;&lt;span &gt;vasculo-syncytiale&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="39.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_02cc266fa6d54bab962d3c57423b69b9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 39310">
+				<media url="a24x13.mp3" startMsecs="0" duration="39310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Membrane vasculo-syncytiale@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les membranes &lt;/span&gt;&lt;span &gt;vasculo-syncytiales&lt;/span&gt;&lt;span &gt; sont localisées dans le bout terminal des villosités choriales où les capillaires sont dilatés en sinusoïdes. Dans cette zone, l’épaisseur de la barrière séparant la circulation fœtale de la chambre &lt;/span&gt;&lt;span &gt;intervilleuse&lt;/span&gt;&lt;span &gt;, et donc du sang maternel, est diminuée jusqu’à avoir une épaisseur de 1 à 2 micromètres. Ce sont donc les zones d’échanges privilégiées entre les 2 circulations.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="280" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="89.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="280"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_188f13b8c8d54b919e307f6d5fe49b18yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 89820">
+				<media url="a24x14.mp3" startMsecs="0" duration="89820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt; Dans cette zone, la lame basale des capillaires fœtaux est accolée à la lame basale du syncytiotrophoblaste, lequel ne présente aucun noyau dans ces zones. Ces noyaux se retrouvent regroupés en amas, dans des portions appelées nœuds &lt;/span&gt;&lt;span &gt;syncytiaux&lt;/span&gt;&lt;span &gt;. Ce serait la pression exercée par la dilatation des vaisseaux fœtaux qui remodèlerait le syncytiotrophoblaste pour &lt;/span&gt;&lt;span &gt;afiner&lt;/span&gt;&lt;span &gt; certaines portions, et regrouper les noyaux dans d’autres portions. Les macrophages de &lt;/span&gt;&lt;span &gt;Hofbauer&lt;/span&gt;&lt;span &gt; remanient le stroma du mésenchyme afin de permettre aux capillaires de se retrouver au plus près du trophoblaste&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Voyez la différence qui existe entre une villosité choriale qui ne permet pas les échanges, en début de grossesse, et son évolution au cours du temps.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="282" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="160.23" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="282"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3224d2c1cfcf4de08746b2c5d850f7a9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 160230">
+				<media url="a24x15.mp3" startMsecs="0" duration="160230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici donc toutes les structures. L’élément principal est la fusion entre la lame basale des cellules endothéliales des capillaires fœtaux, avec la lame basale trophoblastique. Cette fusion permet  la création de la zone d’échange.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les modes de diffusion sont étudié dans un autre chapitre, mais il existe, au cours de la grossesse, quelques variations dans ces diffusions.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span &gt;debit&lt;/span&gt;&lt;span &gt; est plus bas chez les femmes de plus de 30 ans et chez les primipares. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La station debout ou l’activité physique entrainent diminuent &lt;/span&gt;&lt;span &gt;debit&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;utero-placentaire&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il&lt;/span&gt;&lt;span &gt; chute de 25 % au voisinage de l'accouchement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pendant la contraction, il existe une augmentation de la pression dans la CIV (par action conjointe d’une vasoconstriction artériolaire maternelle et augmentation de la pression amniotique), ainsi qu’un &lt;/span&gt;&lt;span &gt;ecrasement&lt;/span&gt;&lt;span &gt; des veines &lt;/span&gt;&lt;span &gt;utero-placentaires&lt;/span&gt;&lt;span &gt;. Ainsi, pdt la CU, il existe de courtes chutes du &lt;/span&gt;&lt;span &gt;débuit&lt;/span&gt;&lt;span &gt; placentaire. Ceci ne modifie pourtant pas les échanges entre fœtus et mère si la grossesse est normale, et les contractions normales, par augmentation réactionnelle du débit entre les CU.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Par contre, durant les EE, le &lt;/span&gt;&lt;span &gt;debit&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;utero-placentaire&lt;/span&gt;&lt;span &gt; est nul et ne revient pas tout à fait à la normale entre chaque effort de poussée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il existe aussi des variations pathologiques du &lt;/span&gt;&lt;span &gt;debit&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;utero-placentaire&lt;/span&gt;&lt;span &gt; qui peuvent avoir un retentissement sur les échanges : hypotension maternelle, HTA, hypoxie, diabète, dépassement de terme, anomalies de la CU, et  tabagisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="101.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9fa8e91b766745b6adc9e5ae3e8183bcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 101380">
+				<media url="a24x16.mp3" startMsecs="0" duration="101380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fonction respiratoire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le placenta qui joue un &lt;/span&gt;&lt;span &gt;role&lt;/span&gt;&lt;span &gt; de ≪ poumon &lt;/span&gt;&lt;span &gt;foetal&lt;/span&gt;&lt;span &gt; ≫ est 15 fois moins efficace (a poids tissulaire &lt;/span&gt;&lt;span &gt;equivalent&lt;/span&gt;&lt;span &gt;) que le poumon &lt;/span&gt;&lt;span &gt;reel&lt;/span&gt;&lt;span &gt; . Il reste efficace &lt;/span&gt;&lt;span &gt;grace&lt;/span&gt;&lt;span &gt; à la grande surface d’&lt;/span&gt;&lt;span &gt;echanges&lt;/span&gt;&lt;span &gt; et permet donc l’apport de &lt;/span&gt;&lt;span &gt;dioxygene&lt;/span&gt;&lt;span &gt; au &lt;/span&gt;&lt;span &gt;foetus&lt;/span&gt;&lt;span &gt; et l’&lt;/span&gt;&lt;span &gt;evacuation&lt;/span&gt;&lt;span &gt; du dioxyde de carbone &lt;/span&gt;&lt;span &gt;foetal&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A terme le &lt;/span&gt;&lt;span &gt;foetus&lt;/span&gt;&lt;span &gt; puise 20 a 30 ml de &lt;/span&gt;&lt;span &gt;dioxygene&lt;/span&gt;&lt;span &gt; par minute dans la circulation maternelle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’oxygénation fœtale est facilite par les &lt;/span&gt;&lt;span &gt;differences&lt;/span&gt;&lt;span &gt; de concentration et de pression partielle entre les circulations, mais aussi par l’&lt;/span&gt;&lt;span &gt;affinite&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;elevee&lt;/span&gt;&lt;span &gt; de l’&lt;/span&gt;&lt;span &gt;HbF&lt;/span&gt;&lt;span &gt; avec l’O2. Ce qui permet un transfert de la mère au fœtus plus aisé.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin l&lt;/span&gt;&lt;span &gt;'effet Bohr correspond à l'effet du pH sur la courbe de dissociation de l'oxygène de l'hémoglobine. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque le pH est bas, l'affinité de l'O2 pour l'hémoglobine est diminue. Or, le pH est en rapport étroit avec &lt;/span&gt;&lt;span &gt;la pression partielle du CO2, puisque l’augmentation de cette dernière est liée à une diminution du pH.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi, comme le sang fœtal n’est pas très saturé,&lt;/span&gt;&lt;span &gt; le pH&lt;/span&gt;&lt;span &gt; est bas, et donc la diffusion de l'O2 vers les tissus &lt;/span&gt;&lt;span &gt;foetaux&lt;/span&gt;&lt;span &gt; depuis l'&lt;/span&gt;&lt;span &gt;Hb&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;foetale&lt;/span&gt;&lt;span &gt; est facilitée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="149.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a05b22e65dcd468cb79eb4b5b7f6d580yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 149950">
+				<media url="a24x17.mp3" startMsecs="0" duration="149950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fonction nutritive et excrétrice@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Puisque les apports nutritifs nécessaire au développement&lt;/span&gt;&lt;span &gt; du fœtus viennent de la mère via sa circulation, le placenta a une fonction nutritive via sa capacité de transfert des éléments nécessaires à la croissance fœtale. De même, puisqu’il va permettre au fœtus de rejeter les déchets de son métabolisme, le placenta a aussi une fonction d’excrétion. Ces déchets vont être recyclés par l’organisme maternel avec transformation en urée, acide urique et créatinine.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi les échanges d’eau vont représenter jusqu’à 3,5 l/j, sachant qu’ils vont augmenter jusqu’au milieu du 8&lt;/span&gt;&lt;span &gt;e&lt;/span&gt;&lt;span &gt; mois pour diminuer ensuite. Dans la grande majorité, les électrolytes vont suivre les mouvements de l’eau. Il est à noter que le Fe et le Ca ne sont transférés que dans le sens mère vers fœtus. Ceci peut expliquer certaines carences en Fe et en Ca chez les femmes enceintes (lors de grossesses répétées par ex).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le glucose est la principale source d’énergie du fœtus. La glycémie fœtale est légèrement plus faible que la glycémie maternelle et le placenta est capable de synthétiser et stocker du glycogène pour faire face aux besoins urgents du fœtus en cas d’hypoglycémie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les protéines maternelles ne passent pas le placenta et ce sont donc les produits de dégradation des protéines maternelles qui vont être transférées au fœtus : petits peptides et acides aminés.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;des molécules lipidiques sont synthétisées à partir des lipides et triglycérides maternels au niveau du placenta. Le foie fœtal fabrique aussi ses propres acides gras, mais certains ne peuvent être amenés que par l’alimentation maternelle (&lt;/span&gt;&lt;span &gt;ac&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;linoleiques&lt;/span&gt;&lt;span &gt; et &lt;/span&gt;&lt;span &gt;arachidoniques&lt;/span&gt;&lt;span &gt;). Les a g sont &lt;/span&gt;&lt;span &gt;indipensables&lt;/span&gt;&lt;span &gt; au &lt;/span&gt;&lt;span &gt;developpement&lt;/span&gt;&lt;span &gt; du système nerveux fœtal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les vitamines peuvent aussi être transférées, avec plus ou moins de facilité selon qu’elles soient &lt;/span&gt;&lt;span &gt;lipo&lt;/span&gt;&lt;span &gt; ou hydrosoluble. et il est à noter l’importance de la vitamine K qui a un taux fœtal assez faible et qui a pourtant un &lt;/span&gt;&lt;span &gt;role&lt;/span&gt;&lt;span &gt; capital dans la coagulation. Il est donc classique de traiter les nouveaux nés pour palier à ce manque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="165.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a03206b9a06a49d99d9f93814d863dffyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 165800">
+				<media url="a24x18.mp3" startMsecs="0" duration="165800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fonction immunologique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L'absence de rejet du fœtus&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;par la mère, reste un sujet controversé.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il&lt;/span&gt;&lt;span &gt; existe pourtant une tolérance indéniable de l’organisme maternel à l’égard du fœtus.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une des pistes d’explication est l’&lt;/span&gt;&lt;span &gt;antigénicité&lt;/span&gt;&lt;span &gt; spécifique de l’embryon et du placenta, associé à des modification transitoires du &lt;/span&gt;&lt;span &gt;système immunitaire maternel.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L'immunité cellulaire de la femme enceinte est légèrement diminuée avec entre autre une baisse de l'activité des cellules Natural Killer.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L'immunité humorale reste normale pendant la grossesse avec&lt;/span&gt;&lt;span &gt; des&lt;/span&gt;&lt;span &gt; lymphocytes B non modifiés, et des immunoglobulines en quantité normale (même si&lt;/span&gt;&lt;span &gt; il y a un passage plus important et donc une diminution des &lt;/span&gt;&lt;span &gt;IgG&lt;/span&gt;&lt;span &gt; au 3&lt;/span&gt;&lt;span &gt;ème&lt;/span&gt;&lt;span &gt;trimestre).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces modifications de l'immunité maternelle semblent être dues en particulier à la progestérone&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Concernant l’&lt;/span&gt;&lt;span &gt;antigénicité&lt;/span&gt;&lt;span &gt;, il est à savoir que :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- L'embryon présente à la surface de ses cellules des protéines HLA différents de celles de sa mère (car le père amène la moitié des gènes du fœtus)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- Le syncytiotrophoblaste et le cytotrophoblaste des villosités n'expriment pas d'antigènes d'histocompatibilité. Il ne peut&lt;/span&gt;&lt;span &gt; donc pas induire de réaction immunitaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- Mais après l'implantation, le cytotrophoblaste présente des antigènes d'histocompatibilité monomorphes (HLAG) c’est à dire invariables entre individus de la même espèce. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-&lt;/span&gt;&lt;span &gt; Finalement, l&lt;/span&gt;&lt;span &gt;es cellules NK sont dotées d'un système de reconnaissance du marqueur HLA-G qui inhibe leur action cytolytique. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Ainsi quel que soit le groupe HLA du père, le fœtus semble être à l'abri du système de défense immunitaire maternel.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au total, la réaction immunitaire maternelle est non seulement présente pendant la grossesse, mais elle est nécessaire à son bon déroulement. Lors de fausses couches à répétition, il existe manifestement une insuffisance de cette réponse. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De même, certaines fausses couches survenant grossesses menées à terme peuvent être dues à une exagération de cette réponse immunitaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="131.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_acdcae49d85446f7a2ce661b6cfb804fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 131750">
+				<media url="a24x19.mp3" startMsecs="0" duration="131750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fonction protectrice@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La barrière placentaire&lt;/span&gt;&lt;span &gt; n’est pas une fonction qui empêche quoi que ce soit de passer dans un sens ou dans un autre. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le passage &lt;/span&gt;&lt;span &gt;transplacentaire&lt;/span&gt;&lt;span &gt; des médicaments de la mère au fœtus va dépendre&lt;/span&gt;&lt;span &gt; des propriétés des molécules, mais aussi de facteurs divers &lt;/span&gt;&lt;span &gt;(flux sanguin, métabolisme, terme de la grossesse, expression de transporteur). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les virus (rubéole, du cytomégalovirus, du parvovirus B19, de l'herpès simplex, du VIH) passent cette&lt;/span&gt;&lt;span &gt; barrière. Ils peuvent être à l’origine d&lt;/span&gt;&lt;span &gt;’avortements spontanés, d’embryopathies ou de &lt;/span&gt;&lt;span &gt;foetopathies&lt;/span&gt;&lt;span &gt; selon le moment  de l’infection.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les parasites et les bactéries peuvent aussi passer comme le tréponème, le toxoplasme, le pneumocoque, le streptocoque, l’Escherichia coli… mais ce passage sera différent en fonction du moment de la grossesse. Par exemple le toxoplasme&lt;/span&gt;&lt;span &gt; passe plus facilement en fin de grossesse… mais il aura moins d’effet sur le fœtus qu’en début de grossesse.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les&lt;/span&gt;&lt;span &gt; cellules sanguines&lt;/span&gt;&lt;span &gt; ne peuvent passer que par effraction membranaire au cours de l’accouchement ou lors d’un traumatisme. Les passage&lt;/span&gt;&lt;span &gt; des GR &lt;/span&gt;&lt;span &gt;se fait le plus souvent de l’enfant vers la mère, à cause du gradient de pression entre les deux circulations, lors de déchirures&lt;/span&gt;&lt;span &gt; de la membrane &lt;/span&gt;&lt;span &gt;vasculo-syncytiale&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="75.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4fbcaf5a5a1f40f1907cc676f4ed0e11yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 75280">
+				<media url="a24x20.mp3" startMsecs="0" duration="75280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fonction endocrine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La fonction&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;endrocine&lt;/span&gt;&lt;span &gt; du placenta permets de sécréter &lt;/span&gt;&lt;span &gt;2 types d’hormones&lt;/span&gt;&lt;span &gt; : &lt;/span&gt;&lt;span &gt;stéroides&lt;/span&gt;&lt;span &gt; (lipidiques et donc hydrophobes, nécessitent protéine de transport pour circuler) et peptidiques (petites protéines, et donc hydrophiles et donc hydrosolubles, circulent librement jusqu’au cellules cibles)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous voyez ici les principales :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;l’&lt;/span&gt;&lt;span &gt;hCG&lt;/span&gt;&lt;span &gt; dont le pic se situe en début de grossesse&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La Progestérone qui ne cesse d’augmenter de la fin du premier trimestre jusqu’à l’accouchement où elle chute légèrement, et 3 jours après la naissance, où elle va s’effondrer&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les &lt;/span&gt;&lt;span &gt;oestrogènes&lt;/span&gt;&lt;span &gt; (estradiol, &lt;/span&gt;&lt;span &gt;estriol&lt;/span&gt;&lt;span &gt; et estrone) et l’&lt;/span&gt;&lt;span &gt;hPL&lt;/span&gt;&lt;span &gt; qui ont une sécrétion en constante augmentation&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="275" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="70.07" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_46d5a9f5ffb941edb7e8eaacacbe6bd8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="17970" isStartRelative="false" duration="534"/>
+				<click startTime="29670" isStartRelative="false" duration="167"/>
+				<click startTime="35410" isStartRelative="false" duration="534"/>
+				<click startTime="40550" isStartRelative="false" duration="534"/>
+				<click startTime="46150" isStartRelative="false" duration="534"/>
+				<click startTime="48950" isStartRelative="false" duration="167"/>
+				<click startTime="51550" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 70070">
+				<media url="a24x21.mp3" startMsecs="0" duration="70070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Hormones stéroides placentaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Toute la définition&lt;/span&gt;&lt;span &gt; du titre de cette Unité d’Enseignement pourrait être explicitée dans ce schéma&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Durant les premiers mois l'HCG sécrétée par le ST stimule les surrénales de l'enfant et le corps jaune maternel&lt;/span&gt;&lt;span &gt; afin d’induire la &lt;/span&gt;&lt;span &gt;sécrétion de &lt;/span&gt;&lt;span &gt;DéHydroÉpiAndrostérone&lt;/span&gt;&lt;span &gt; (&lt;/span&gt;&lt;span &gt;DHEA) , d’estrogènes et de progestérone.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La DHEA sécrétée va ensuite servir de précurseur à la synthèse d'&lt;/span&gt;&lt;span &gt;oestrogènes&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La&lt;/span&gt;&lt;span &gt; progestérone, quand à elle, est fabriquée à partir du cholestérol grâce à la stimulation de l’HCG, à la fois par le fœtus et par le placenta&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="279" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="112" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="279"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_54953e4b34d74f3291cf5fbccf474c8fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 112000">
+				<media url="a24x22.mp3" startMsecs="0" duration="112000" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Progestérone@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Au départ sécrétée par le corps jaune, vers 10SA, le placenta prend le relai. Ce sont les ST et le CT qui synthétisent la &lt;/span&gt;&lt;span &gt;progesterone&lt;/span&gt;&lt;span &gt; à partir du cholestérol circulant maternel. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Son taux maximal de &lt;/span&gt;&lt;span &gt;secretion&lt;/span&gt;&lt;span &gt; est de 250 mg/jour a terme. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les effets périphériques de la PG sont une réduction du tonus de la musculature lisse (estomac, intestin, vasculaire) et une modification du stockage lipidique. Par ailleurs, c’est l’hormone du maintien de la grossesse en induisant un ramollissement au niveau du corps &lt;/span&gt;&lt;span &gt;uterin&lt;/span&gt;&lt;span &gt; et une hypertonie au niveau du col. Elle permet de maintenir au repos le muscle utérin. Elle a aussi un &lt;/span&gt;&lt;span &gt;role&lt;/span&gt;&lt;span &gt; sur la tolérance immunitaire, avec une action permettant la diminution de l’activité des NK. Elle préparer la lactation en induisant la &lt;/span&gt;&lt;span &gt;differenciation&lt;/span&gt;&lt;span &gt; des glandes mammaires mais &lt;/span&gt;&lt;span &gt;empeche&lt;/span&gt;&lt;span &gt; aussi l’intervention de la prolactine sur cette glande.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="286" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="95.53" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="286"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_36bfe0624ab24f4589be1093854276e4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 95530">
+				<media url="a24x23.mp3" startMsecs="0" duration="95530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Œstrogènes @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;À partir de la 8&lt;/span&gt;&lt;span &gt;ème&lt;/span&gt;&lt;span &gt; semaine de grossesse, le placenta est la source majeure d’œstrogènes maternels, en particulier d’&lt;/span&gt;&lt;span &gt;œstriol&lt;/span&gt;&lt;span &gt;.  Pourtant cette synthèse ne peut se faire que grâce à la mère&lt;/span&gt;&lt;span &gt; et à l’enfant qui fournissent le précurseur indispensable : &lt;/span&gt;&lt;span &gt;le Sulfate de &lt;/span&gt;&lt;span &gt;DéHydroÉpiAndrostérone&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le  S-DHEA est hydrolysé par une enzyme placentaire puis aromatisé par&lt;/span&gt;&lt;span &gt; une enzyme &lt;/span&gt;&lt;span &gt;syncytiotrophoblastique&lt;/span&gt;&lt;span &gt;. On parle bien de&lt;/span&gt;&lt;span &gt; coopération entre les 3 éléments qui définit le concept d’unité &lt;/span&gt;&lt;span &gt;foeto&lt;/span&gt;&lt;span &gt;-placentaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’&lt;/span&gt;&lt;span &gt;œstriol&lt;/span&gt;&lt;span &gt; (E3), le 17β-œstradiol (E2) et l’œstrone (E1) sont les trois hormones &lt;/span&gt;&lt;span &gt;œstrogéniques&lt;/span&gt;&lt;span &gt; les plus sécrétées pendant la grossesse. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le taux maximal de sécrétion des œstrogènes est de 30 à 40 mg/jour. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les œstrogènes participent à la croissance et au développement de l’unité &lt;/span&gt;&lt;span &gt;fœto&lt;/span&gt;&lt;span &gt;-placentaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les œstrogènes combinent leurs effets avec ceux de la progestérone pour inhiber la lactation pendant la grossesse. Ils permettent la prolifération de l’endomètre, sont des inducteurs de la croissance utérine. E3 accroît le débit &lt;/span&gt;&lt;span &gt;utéro-placentaire&lt;/span&gt;&lt;span &gt; en mettant en jeu le système des prostaglandines. Les&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;oestrogènes&lt;/span&gt;&lt;span &gt; ont donc un &lt;/span&gt;&lt;span &gt;role&lt;/span&gt;&lt;span &gt; dans l’induction du travail.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="181.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_df5ea1c228d74dcfb4619f24b5c251feyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="7920" isStartRelative="false" duration="167"/>
+				<click startTime="121670" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 181960">
+				<media url="a24x24.mp3" startMsecs="0" duration="181960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Hormones peptidiques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les hormones peptidiques sont très nombreuses. Nous n’allons parler que des 2 plus importantes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span &gt;human&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;Chorionic&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;Gonadotropin&lt;/span&gt;&lt;span &gt;  (hormone chorionique gonadotrope humaine) est une hormone clé de la grossesse sécrétée par le ST dès 7 jours après la fécondation. Elle peut être dosée dans la circulation maternelle afin de déterminer la concentration de ses fraction alpha et beta. Elle permet le maintien du corps jaune en début de grossesse. Elle a un &lt;/span&gt;&lt;span &gt;role&lt;/span&gt;&lt;span &gt; sur le système immunitaire maternel, et est donc lié à l’immunotolérance maternel vis-à-vis du fœtus. Elle a aussi un &lt;/span&gt;&lt;span &gt;role&lt;/span&gt;&lt;span &gt; au niveau de la régulation des hormones &lt;/span&gt;&lt;span &gt;stéroidiennes&lt;/span&gt;&lt;span &gt;, comme nous l’avons déjà vu, ainsi que sur l’implantation, l’invasion trophoblastique ou la quiescence utérine.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est à noter que les taux varient en fonction des circonstances de la grossesse. Par exemple, lorsque la grossesse est gémellaire, le taux d’HCG est augmenté par rapport à une grossesse simple ; et il est diminué lorsque la grossesse est extra utérine. Dans le cadre du dépistage de la trisomie 21, un taux élevé associé à d’autres marqueurs sériques peut augmenter le risque de l’existence de cette anomalie chromosomique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;L’Hormone lactogène placentaire&lt;/span&gt;&lt;span  fontWeight="bold"&gt; (&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Human&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;placental&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;lactogen&lt;/span&gt;&lt;span  fontWeight="bold"&gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle a une structure et un effet proches de l’hormone de croissance et de la prolactine.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;S&lt;/span&gt;&lt;span &gt;ecretee&lt;/span&gt;&lt;span &gt; par le syncytiotrophoblaste, elle est &lt;/span&gt;&lt;span &gt;detectable&lt;/span&gt;&lt;span &gt; dans le sang maternel des la &lt;/span&gt;&lt;span &gt;troisieme&lt;/span&gt;&lt;span &gt; semaine de gestation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Son augmentation de &lt;/span&gt;&lt;span &gt;secretion&lt;/span&gt;&lt;span &gt; est proportionnelle à l’&lt;/span&gt;&lt;span &gt;evolution&lt;/span&gt;&lt;span &gt; de la masse placentaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle aurait un &lt;/span&gt;&lt;span &gt;role&lt;/span&gt;&lt;span &gt; d’antagoniste de&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;l’insuline sur le &lt;/span&gt;&lt;span &gt;metabolisme&lt;/span&gt;&lt;span &gt; maternel permettant l’apport de nutriments au &lt;/span&gt;&lt;span &gt;foetus&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’&lt;/span&gt;&lt;span &gt;hPL&lt;/span&gt;&lt;span &gt;  assure au &lt;/span&gt;&lt;span &gt;foetus&lt;/span&gt;&lt;span &gt; un apport &lt;/span&gt;&lt;span &gt;energetique&lt;/span&gt;&lt;span &gt; suffisant et constant sous la forme de glucose.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;l’HPL a aussi une &lt;/span&gt;&lt;span &gt;activite&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;mammotrope&lt;/span&gt;&lt;span &gt;, seule ou en synergie avec la prolactine. Cette action est liée à celle de la progestérone et des &lt;/span&gt;&lt;span &gt;oestrogènes&lt;/span&gt;&lt;span &gt;.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’HPL est ainsi un bon marqueur de la fonction placentaire et donc du &lt;/span&gt;&lt;span &gt;bien-etre&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;foetal&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="287" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="287"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5f88b94d95904071a47afbc4265b9954yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

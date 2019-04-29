@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" buildNum="11.0.0.133">
+	<presentationTitle>Les annexes placentaires</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Lionel DI MARCO</name>
+			<speakerTitle>Sage-Femme Enseignant - UFR de Médecine / CHU de Grenoble</speakerTitle>
+			<image>spk11408.jpg</image>
+			<email>ldimarco@chu-grenoble.fr</email>
+			<logo>lgo11408.jpg</logo>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_f4ea106dbedb4ddcacf5307b3943bfd4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_de5d19b6973a499d848bf73b62647eaayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_5adb1cfe902e42f6a92ccb69bf9fc1d4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_1a4d9fd3fe2e41b7b3c1157ffc227459yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_72a95871764a4979a80151224b44f03fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_4b6af7d4d1114ac2894c33e06981e2f7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_ae86e5e0766d4a41b2c6fecc09ad7e65yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="256" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="256"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6b7bf4a11a7d46bca7e546467e0a87f0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 6380">
+				<media url="a24x1.mp3" startMsecs="0" duration="6380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chap 4 Les annexes placentaires@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="20.99" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_40f4fecf9a90461893f34da6608a16dbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 20990">
+				<media url="a24x2.mp3" startMsecs="0" duration="20990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="259" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="111.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_950c4be33fa547e699c4bd93c4242fb3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="5500" isStartRelative="false" duration="1034"/>
+				<click startTime="30400" isStartRelative="false" duration="534"/>
+				<click startTime="68660" isStartRelative="false" duration="534"/>
+				<click startTime="94110" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 111910">
+				<media url="a24x3.mp3" startMsecs="0" duration="111910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@En pratique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En&lt;/span&gt;&lt;span &gt; pratique, comme leur nom ne l’indique pas, les annexes sont aussi importantes que le placenta.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Outre leurs rôles respectifs tout au long de la grossesse, lors de l’accouchement ces annexes vont être mises en jeu tour à tour.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Tout d’abord&lt;/span&gt;&lt;span &gt; les membranes fœtales vont devoir se rompre afin de pouvoir laisser sortir le fœtus… bien qu’il existe certains cas de naissance dite coiffée, c’est-à-dire que l’enfant nait dans son sac amniotique intact, la rupture des membranes a lieu dans la plupart des situations avant la sortie de l’enfant. Qu’elle soit spontanée avant le travail ou pendant le travail, ou qu’elle soit artificielle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une fois les membranes rompues, le liquide amniotique va pouvoir s’écouler en dehors de l’œuf. Ce n’est pas la totalité du LA qui est expulsé à ce moment, puisque la présentation va venir faire bouchon et empêcher l’ensemble de s’écouler.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque le fœtus sera sorti, il sera toujours relié au placenta par le cordon et on pourra alors sectionner celui-ci.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="278" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="11.53" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="278"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a2a50f02b5ff46a3a3edea85b3aa8316yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 11530">
+				<media url="a24x4.mp3" startMsecs="0" duration="11530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Embryologie@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="282" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="110.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="282"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_de8ed63b9b314c1d8e094c30253f3742yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="28450" isStartRelative="false" duration="167"/>
+				<click startTime="51050" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 110680">
+				<media url="a24x5.mp3" startMsecs="0" duration="110680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Première semaine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;lorsque la nidation est achevée, le bouton embryonnaire est constitué schématiquement de deux cavités hémisphériques superposées: la cavité amniotique (dorsal) et la vésicule vitelline (ventral). On commence à voir des lacunes dans le trophoblaste (composé des ST et C) : &lt;/span&gt;&lt;span &gt;cf&lt;/span&gt;&lt;span &gt; cours 1.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En fait, entre l'ectoblaste et les cellules trophoblastiques avoisinant, on voit apparaître des petits espaces intercellulaires qui fusionnent pour former une cavité sous forme de fente, c'est la cavité amniotique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le plancher de la cavité amniotique est formé par l'épiblaste et le toit de la vésicule vitelline par l'hypoblaste. Ces deux feuillets accolés constituent l'embryon ou le disque embryonnaire didermique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En fait sur ce schéma, l’hypoblaste est en train de proliférer et, puisque la membrane de &lt;/span&gt;&lt;span &gt;Heuser&lt;/span&gt;&lt;span &gt; n’existe pas encore, la cavité vitelline n’est pas encore créée. Elle le sera à la fin de la deuxième semaine. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Du liquide s'insinue entre les épiblastes et créée la cavité amniotique, ce qui plaque une couche unicellulaire &lt;/span&gt;&lt;span &gt;épiblastique&lt;/span&gt;&lt;span &gt; contre les cellules trophoblastiques donnant les &lt;/span&gt;&lt;span &gt;amnioblastes&lt;/span&gt;&lt;span &gt;. Le plafond de la cavité amniotique est donc tapissé par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'amnios&lt;/span&gt;&lt;span &gt;, il est composé à ce stade d'une couche de cellules aplaties (les &lt;/span&gt;&lt;span &gt;amnioblastes&lt;/span&gt;&lt;span &gt;) d'origine &lt;/span&gt;&lt;span &gt;épiblastique&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="283" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="46.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="283"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_69d5dbda51924f1ebba0528a54f70e1eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="630" isStartRelative="false" duration="167"/>
+				<click startTime="29190" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 46220">
+				<media url="a24x6.mp3" startMsecs="0" duration="46220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Troisième semaine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vers la 3&lt;/span&gt;&lt;span &gt;e&lt;/span&gt;&lt;span &gt; semaine, le Chorion villeux est formé à partir des ST + cytotrophoblastes. Cette&lt;/span&gt;&lt;span &gt; période est marquée par le &lt;/span&gt;&lt;span &gt;Dvlpt&lt;/span&gt;&lt;span &gt; cavité amniotique, limitée&lt;/span&gt;&lt;span &gt; par les &lt;/span&gt;&lt;span &gt;amnioblastes&lt;/span&gt;&lt;span &gt; et vésicule &lt;/span&gt;&lt;span &gt;vitteline&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans la cavité choriale se trouve donc&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;le cœlome externe, dans lequel l'embryon , son amnios et son sac vitellin sont suspendus par le pédicule embryonnaire qui deviendra le cordon ombilical&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="284" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="81.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="284"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ff0feecd6c9a47e6b5373f13263a7eebyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="20650" isStartRelative="false" duration="167"/>
+				<click startTime="27150" isStartRelative="false" duration="167"/>
+				<click startTime="70330" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 81220">
+				<media url="a24x7.mp3" startMsecs="0" duration="81220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Quatrième semaine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Une&lt;/span&gt;&lt;span &gt; semaine plus tard, le &lt;/span&gt;&lt;span &gt;Disque embryonnaire s’est étendu et replié&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cavité amniotique est bien sur le « dos » de l’embryon&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La création de la &lt;/span&gt;&lt;span &gt;vesicule&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;vitteline&lt;/span&gt;&lt;span &gt; secondaire va former un pédicule&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;vittelin&lt;/span&gt;&lt;span &gt;. La vésicule &lt;/span&gt;&lt;span &gt;vitteline&lt;/span&gt;&lt;span &gt; primaire va donner naissance à l’allantoïde&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un deuxième&lt;/span&gt;&lt;span &gt; pédicule, auquel est suspendu l’embryon au chorion, existe : &lt;/span&gt;&lt;span &gt;Pédicule&lt;/span&gt;&lt;span &gt; embryonnaire où se trouve l’&lt;/span&gt;&lt;span &gt;allantoide&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces deux pédicules vont créer le cordon ombilical&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous voyez que les villosités ont régressé à certains endroit. Ce chorion lisse ainsi créé sera la future membrane externe de l’œuf. &lt;/span&gt;&lt;span &gt;cf&lt;/span&gt;&lt;span &gt; cours 2 pour savoir pourquoi les villosités ont régressé ici&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="285" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="58.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="285"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b84575a371db4c35952735feaffcd096yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 58960">
+				<media url="a24x8.mp3" startMsecs="0" duration="58960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Cinquième semaine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;5’ semaine&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pédicule embryonnaire : l’&lt;/span&gt;&lt;span &gt;allantoide&lt;/span&gt;&lt;span &gt; ne s’y trouve plus&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pédicule vitellin avec traces&lt;/span&gt;&lt;span &gt; de la &lt;/span&gt;&lt;span &gt;vesicule&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On devine le futur cordon avec la plicature de l’ensemble&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cavité amniotique agrandie et se rapproche du chorion lisse, ce qui implique la disparition, petit à petit de la cavité choriale&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="286" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="49.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="286"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_82bcd62b13eb45cebd659281142659feyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 49200">
+				<media url="a24x9.mp3" startMsecs="0" duration="49200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Huitième semaine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Expension&lt;/span&gt;&lt;span &gt; quasi-totale&lt;/span&gt;&lt;span &gt; de la cavité amniotique. L’amnios touche le chorion&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Persistance de petits espaces entre les 2 : se remplissent de liquide (rupture poche &lt;/span&gt;&lt;span &gt;amniochoriale&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="287" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="86.11" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="287"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_18d65fc2f856486d8b419a26ce4700e4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="21400" isStartRelative="false" duration="167"/>
+				<click startTime="43700" isStartRelative="false" duration="1667"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 86110">
+				<media url="a24x10.mp3" startMsecs="0" duration="86110" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Huitième semaine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Toujours à la 8&lt;/span&gt;&lt;span &gt;e&lt;/span&gt;&lt;span &gt; semaine, l’œuf implanté dans l’endomètre se développe dans la cavité&lt;/span&gt;&lt;span &gt; utérine et va prendre de plus en plus de place.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La caduque est ce que l’endomètre est devenu depuis la nidation. On parle de caduque basilaire à l’endroit où le chorion villeux s’est implanté ; de c. réfléchie à l’endroit où le chorion lisse se trouve ; de c. pariétale à l’opposé de la cavité amniotique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est vers la 12&lt;/span&gt;&lt;span &gt;e&lt;/span&gt;&lt;span &gt; semaine que caduque réfléchie et pariétale vont fusionner : la cavité utérine sera alors complètement remplie par l’œuf.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="290" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="101.74" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="290"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_16168512ef3e4cfe8dd9c882a07a81a5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="14990" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 101740">
+				<media url="a24x11.mp3" startMsecs="0" duration="101740" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Huitième semaine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Encore à la 8&lt;/span&gt;&lt;span &gt;e&lt;/span&gt;&lt;span &gt; semaine, une&lt;/span&gt;&lt;span &gt; coupe du cordon ombilical primitif nous montre les structures que nous avons étudié dans l’avant dernière diapo. &lt;/span&gt;&lt;span &gt;Canal vitellin bien visible avec les Vx vitellins (2 a et 2 v), dans le &lt;/span&gt;&lt;span &gt;coelome&lt;/span&gt;&lt;span &gt; externe, entouré par ce qui deviendra le cordon ombilical, nous voyons l’&lt;/span&gt;&lt;span &gt;allantoide&lt;/span&gt;&lt;span &gt; (qui ne persistera pas) et la veine + les 2 a ombilicales&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Importance nombre vaisseaux&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’amnios recouvre toute la surface externe du futur cordon&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="289" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="96.89" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="289"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_60ccbe0103614ebd852430b82d2bf1d9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="33640" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 96890">
+				<media url="a24x12.mp3" startMsecs="0" duration="96890" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Douzième semaine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A 12 Sem, Structures&lt;/span&gt;&lt;span &gt; visibles en fonction du niveau de coupe. Ici, c’est une coupe proche du fœtus. Lorsque l’on s’en éloigne, on ne retrouve que ce qui sera le cordon définitif (&lt;/span&gt;&lt;span &gt;ie&lt;/span&gt;&lt;span &gt; tout ce qui ne vient pas de la vésicule &lt;/span&gt;&lt;span &gt;viteline&lt;/span&gt;&lt;span &gt;).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Là où se trouvait le canal vitellin, peuvent apparaitre des anses intestinales : hernie physiologique à la base du cordon ombilical. Attention à la coupe à la naissance que des anses ne s’y retrouvent pas.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’&lt;/span&gt;&lt;span &gt;allantoide&lt;/span&gt;&lt;span &gt; continue de dégénérer, 2a et 1v, le reste donnera la gelée de &lt;/span&gt;&lt;span &gt;wharton&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="288" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="74.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="288"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d076d68a859b4ed69217f7e4c55691afyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 74830">
+				<media url="a24x13.mp3" startMsecs="0" duration="74830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Grossesse gémellaire dizygote : bi-choriale bi-amniotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Arrêtons nous quelques instants sur la formation de&lt;/span&gt;&lt;span &gt; l’œuf lorsque les grossesses sont multiples et en particulier gémellaires&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans&lt;/span&gt;&lt;span &gt; le cadre des grossesses gem., le développement de l’amnios et du chorion va dépendre du type de nidation et du type de GG.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans le cadre des GG dizygote, c’est-à-dire que 2 œufs ont été fécondés (faux jumeaux), les nidations des 2 œufs vont se faire indépendamment, à deux endroit différents de l’endomètre. Ainsi deux œufs distinct vont se développer et chaque œuf aura 2 placenta et 2 jeux d’annexes. 2 chorion et 2 amnios : GG BCBA&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="291" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="102.86" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="291"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bc16f36d94ae467dba30adf38d91326fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 102860">
+				<media url="a24x14.mp3" startMsecs="0" duration="102860" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Grossesse gémellaire monozygote : bi-choriale bi-amniotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans les grossesses gem monozygote, un seul œuf est fécondé. La &lt;/span&gt;&lt;span &gt;gemellarité&lt;/span&gt;&lt;span &gt; intervient parce que l’œuf va&lt;/span&gt;&lt;span &gt; se diviser et créer 2 nouveaux œufs au patrimoine génétique identique (vrais jumeaux)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est le moment de la division qui va impliquer le nombre d’annexes qui seront communes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque la division a lieu très &lt;/span&gt;&lt;span &gt;précocément&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span &gt;ie&lt;/span&gt;&lt;span &gt; avant 2 jours après la fécondation, la grossesse étant au stade de 2 à 4 blastomères, alors les 2 nouveaux œufs vont s’implanter à 2 endroits différents, comme dans les grossesses dizygotes. Le &lt;/span&gt;&lt;span &gt;dévloppement&lt;/span&gt;&lt;span &gt; sera alors identique et la GG MZ sera BCBA. Représente environ 30% des GG MZ.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’échographie, lorsqu’il est déterminé que la grossesse est BCBA, c’est la seule situation dans laquelle il est impossible de savoir sans examen complémentaire s’il s’agit d’une grossesse mono ou dizygote&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="292" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="73.05" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="292"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_23f5e06a8ba748389e2068323a5ca32fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 73050">
+				<media url="a24x15.mp3" startMsecs="0" duration="73050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Grossesse gémellaire monozygote : mono-choriale bi-amniotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Lorsque que&lt;/span&gt;&lt;span &gt; la division se fait entre 2 et 8 jours après la fécondation, au stade morula ou blastocyste et avant la formation de l’amnios, chaque fœtus aura sa propre cavité amniotique, mais il n’y a qu’une seule masse placentaire avec des anastomoses vasculaires possibles entre les circulations des 2 fœtus.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La GG MCBA Représente environ 70% des GG MZ&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="293" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="55.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="293"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ee79bf403be14013aebe6961d18a5f65yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 55960">
+				<media url="a24x16.mp3" startMsecs="0" duration="55960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Grossesse gémellaire monozygote : mono-choriale mono-amniotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Lorsque la division se&lt;/span&gt;&lt;span &gt; fait entre 7 et 14 jours après la fécondation, c’est-à-dire lorsque la cavité amniotique est déjà créée avec un disque &lt;/span&gt;&lt;span &gt;di-dermique&lt;/span&gt;&lt;span &gt;, les fœtus se retrouvent dans une même poche amniotique. Il n’y a qu’un seul amnios et un seul chorion. C’est la grossesse G MCMA qui représente entre 1 et 2% des GG MZ.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est à noter que lorsque la division se fait encore plus tardivement, non seulement le chorion et l’amnios seront uniques, mais il existera des organes uniques &lt;/span&gt;&lt;span &gt;ches&lt;/span&gt;&lt;span &gt; les enfants. les fœtus seront dit jumeaux conjoints ou siamois.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="10.45" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_07aaac02952848eaa302bb73245549ddyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 10450">
+				<media url="a24x17.mp3" startMsecs="0" duration="10450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le cordon ombilical@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="116.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_019ccf6a5cd64b5b99832fa7ede51158yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="53340" isStartRelative="false" duration="167"/>
+				<click startTime="75940" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 116040">
+				<media url="a24x18.mp3" startMsecs="0" duration="116040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Description@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Relie&lt;/span&gt;&lt;span &gt; face fœtale du placenta à l’ombilic de l’enfant&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Longue tige blanchâtre, visqueuse, torsadée&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Longueur de 50cm en moyenne &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Spiralisation : environ 10 spires sur un cordon de longueur moyenne&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Épaisseur de 1,5cm en moyenne&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="95.26" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_089016748e0b4c35841f6cf0bcf2259byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 95260">
+				<media url="a24x19.mp3" startMsecs="0" duration="95260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Description@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Isertion&lt;/span&gt;&lt;span &gt; placentaire variable : centrale (plus de ½, rayon de 13cm), &lt;/span&gt;&lt;span &gt;paracentrale&lt;/span&gt;&lt;span &gt; (plus de 1/3, rayon de 13 à 18cm), marginale (ou en raquette) (2%, rayon au-delà de 18cm), &lt;/span&gt;&lt;span &gt;vélamenteuse&lt;/span&gt;&lt;span &gt; (1%)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="120.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3697b2df59604ddc868782365808dd3ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 120280">
+				<media url="a24x20.mp3" startMsecs="0" duration="120280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Structure@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Revêtement amniotique unicellulaire comparable&lt;/span&gt;&lt;span &gt; à l’amnios, indissociable de la gelée de Wharton&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Gelée : tissu conjonctif &lt;/span&gt;&lt;span &gt;myxoïde&lt;/span&gt;&lt;span &gt; et avasculaire, dérivé du &lt;/span&gt;&lt;span &gt;mésoblast&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;extraembryonnaire&lt;/span&gt;&lt;span &gt;. Comporte des &lt;/span&gt;&lt;span &gt;myofibroblastes&lt;/span&gt;&lt;span &gt; qui servent d’adventice aux vaisseaux du cordon, on un rôle supposé dans la régulation du débit &lt;/span&gt;&lt;span &gt;ombilica&lt;/span&gt;&lt;span &gt;. Comporte des mastocytes, plus nombreux autour des vaisseaux, qui ont un rôle important dans la vasomotricité, la dilatation et la perméabilité des vaisseaux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Artères : enroulées autour de la veine et font saillies sous le revêtement amniotique. Présentent différents faisceaux de fibres musculaires ayant différents rôles (fermeture du cordon à la naissance, régulation du flux, spiralisation)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Veine : les vaisseaux du cordon n’ont pas de vasa &lt;/span&gt;&lt;span &gt;vasorum&lt;/span&gt;&lt;span &gt;. Cela explique que peu de substances ont une action sur le cordon ombilical en terme de variations de la circulation&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="106.97" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9282234224a9407694847988c2e53849yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 106970">
+				<media url="a24x21.mp3" startMsecs="0" duration="106970" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Physiologie@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Artères issues de l’aorte&lt;/span&gt;&lt;span &gt; et s’enroulent autour de la veine. Il existe un effet de pompe des artères sur la veine à cause des spires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A quelques cm du placenta, elles anastomosent afin d’égaliser les flux dans le cadre de la distribution du sang dans la structure placentaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Flux sanguin fœtal à environ 500 ml/min&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Débit ombilical représente 40% du débit cardiaque fœtal, mais il varie en fonction des rythmes nycthéméraux, de la pression artérielle, du rythme cardiaque et des mouvements respiratoires fœtaux (qui modifient le RCF)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Fermeture du cordon : contraction de certaines fibres musculaires par phénomènes chimiques et mécaniques&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Étirement&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Oxygène&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Adrénaline, noradrénaline, vasopressine&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;température&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="294" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="101.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="294"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1f08363f39454d558fbdb3f65fa86577yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 101800">
+				<media url="a24x22.mp3" startMsecs="0" duration="101800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Anomalies…@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vélamenteuse&lt;/span&gt;&lt;span &gt; : vaisseaux parviennent au cordon en passant sous l’amnios sans protection de la gelée. Souvent associé à des malformation. Risque de compression ou de rupture des vaisseaux (en particulier si au niveau du col :  vaisseaux &lt;/span&gt;&lt;span &gt;praevia&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Note : les insertions marginales (ou en raquette), sont aussi à risque de vaisseaux et de cotylédons aberrants&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nœuds : favorisé par cordon long, excès de LA, fœtus très actif&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Circulaires : enroulement d’un cordon long autour d’un segment du corps du fœtus. En général autour du cou (mais peut être en bretelle)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Procidence : chute du cordon devant la présentation lorsque les membranes se rompent&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="191.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_53397a13fb1843f3a36c5361ce6d2742yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 191940">
+				<media url="a24x23.mp3" startMsecs="0" duration="191940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Anomalies…@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vélamenteuse&lt;/span&gt;&lt;span &gt; : vaisseaux parviennent au cordon en passant sous l’amnios sans protection de la gelée. Souvent associé à des malformation. Risque de compression ou de rupture des vaisseaux (en particulier si au niveau du col :  vaisseaux &lt;/span&gt;&lt;span &gt;praevia&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Note : les insertions marginales (ou en raquette), sont aussi à risque de vaisseaux et de cotylédons aberrants&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nœuds : favorisé par cordon long, excès de LA, fœtus très actif&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Circulaires : enroulement d’un cordon long autour d’un segment du corps du fœtus. En général autour du cou (mais peut être en bretelle)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Procidence : chute du cordon devant la présentation lorsque les membranes se rompent&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="104.64" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7e975720321c434a9f184e5e1679bad7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 104640">
+				<media url="a24x24.mp3" startMsecs="0" duration="104640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Anomalies…@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Aplasie très rare,&lt;/span&gt;&lt;span &gt; cadre de &lt;/span&gt;&lt;span &gt;polymalformations&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Courts : inférieur à 30cm, risque d’accident lors de l’accouchement par traction&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Longs : plus de 70cm, risque procidence et circulaires&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Maigre : diamètre &lt;/span&gt;&lt;span &gt;inf&lt;/span&gt;&lt;span &gt; à 1cm, RCIU&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Gras : sup à 2cm, œdème &lt;/span&gt;&lt;span &gt;foeto&lt;/span&gt;&lt;span &gt; placentaire ou macrosomie&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;AOU : fréquente, risque malformations fœtales augmentées&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="10.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0f4ae4a45e5846b091174fbd4e45bb40yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 10310">
+				<media url="a24x25.mp3" startMsecs="0" duration="10310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les membranes foetales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="115.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2b1fb956cd274b95a544631212414b6eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 115910">
+				<media url="a24x26.mp3" startMsecs="0" duration="115910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Description@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="280" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="123.58" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="280"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d935675af7ae415e9bbf320034ac9da6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 123580">
+				<media url="a24x27.mp3" startMsecs="0" duration="123580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Structure@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Composées de 3 couches&lt;/span&gt;&lt;span &gt; : Amnios et Chorion + &lt;/span&gt;&lt;span &gt;décidua&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Contient &lt;/span&gt;&lt;span &gt;celluls&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;épithélials&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span &gt;mésenchymateuss&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span &gt;trophoblastiqus&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Amnios : interne, d’origine ectodermique, avasculaire, non innervée, + résistant à l’étirement que le chorion. 5 couches dont la plus externe, au contact du chorion est la couche spongieuse qui est un zone de glissement entre l’amnios et le chorion&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Chorion : externe, d’origine mésodermique, avasculaire (outre en périphérie du placenta), en 3 couches&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Décidua&lt;/span&gt;&lt;span &gt; : cellules maternelles et tissu extracellulaire. Les cellules de l’endomètre se modifient dès l’implantation du &lt;/span&gt;&lt;span &gt;blastocyte&lt;/span&gt;&lt;span &gt;. L’interface entre &lt;/span&gt;&lt;span &gt;décidua&lt;/span&gt;&lt;span &gt; et Chorion permet la diffusion de nutriments vers le versant fœtal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="97.15" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_28d6de043cf24de78a091673c3d23a9dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 97150">
+				<media url="a24x28.mp3" startMsecs="0" duration="97150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Physiologie@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;2 fonctions évidentes : contenant&lt;/span&gt;&lt;span &gt; et protection&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Probable influence&lt;/span&gt;&lt;span &gt; des membranes sur l’environnement liquidien du fœtus (n &lt;/span&gt;&lt;span &gt;aprticulier&lt;/span&gt;&lt;span &gt; passage d’éléments du LA du fœtus vers la mère : preuve par la présence de méconium dans la &lt;/span&gt;&lt;span &gt;décidua&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il existe Dégradation membranaire :&lt;/span&gt;&lt;span &gt; apoptose + matrix &lt;/span&gt;&lt;span &gt;metalloproteinases&lt;/span&gt;&lt;span &gt; (MMP)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="296.37" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_63003b4a6cf047cc90917c753151678fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 296370">
+				<media url="a24x29.mp3" startMsecs="0" duration="296370" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Anomalies@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;- &lt;/span&gt;&lt;span &gt;Modif&lt;/span&gt;&lt;span &gt; équilibre&lt;/span&gt;&lt;span &gt; processus de dégradation et renouvellement membranaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Infection (voie vaginale, hématogène &lt;/span&gt;&lt;span &gt;transplacentaire&lt;/span&gt;&lt;span &gt;, péritonéale par les trompes de &lt;/span&gt;&lt;span &gt;fallope&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span &gt;transutérine&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Facteurs hormonaux (progestérone)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Défaut d’accolement membranaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Stress oxydatif (par exemple hémorragie du 1&lt;/span&gt;&lt;span &gt;er&lt;/span&gt;&lt;span &gt; TRI : sang au contact des membranes ; consommation de &lt;/span&gt;&lt;span &gt;cocaine&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Facteurs mécaniques (hydramnios  et &lt;/span&gt;&lt;span &gt;gg&lt;/span&gt;&lt;span &gt; par augmentation de la tension membranaire)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- Formation de poches &lt;/span&gt;&lt;span &gt;amniochoriales&lt;/span&gt;&lt;span &gt; (&lt;/span&gt;&lt;span &gt;cf&lt;/span&gt;&lt;span &gt; diapo &lt;/span&gt;&lt;span &gt;embryo&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Mécanisme RM : distension des mb, séparation amnios et &lt;/span&gt;&lt;span &gt;choriodécidua&lt;/span&gt;&lt;span &gt;, rupture de la &lt;/span&gt;&lt;span &gt;choriodécidua&lt;/span&gt;&lt;span &gt;, distension non élastique de l’amnios, rupture de l’amnios&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Attention &lt;/span&gt;&lt;span &gt;diag&lt;/span&gt;&lt;span &gt; différentiel sur les ruptures / poche &lt;/span&gt;&lt;span &gt;amniochoriale&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="272" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="4.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="272"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8a34a90cfb3c4daaa08de44a9ddb41e9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 4550">
+				<media url="a24x30.mp3" startMsecs="0" duration="4550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le liquide amniotique@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="274" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="293.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3a5bcd5918ab4cf19d217af10d9c7878yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 293240">
+				<media url="a24x31.mp3" startMsecs="0" duration="293240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Description@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Solution aqueuse&lt;/span&gt;&lt;span &gt; de l&lt;/span&gt;&lt;span &gt;iquide clair et transparent, et à l’odeur fade, contenu&lt;/span&gt;&lt;span &gt; dans le sac amniotique et dans lequel baigne le fœtus&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il contient des cellules fœtales&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Est En dynamique constante, &lt;/span&gt;&lt;span &gt;role&lt;/span&gt;&lt;span &gt; mécanique sensoriel et nutritionnel. Hydrate le fœtus.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Son volume est un &lt;/span&gt;&lt;span &gt;indicatuer&lt;/span&gt;&lt;span &gt; du bien &lt;/span&gt;&lt;span &gt;etre&lt;/span&gt;&lt;span &gt; fœtal&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;VOLUME&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Augmente progressivement jusque 20SA, corrélé au poids fœtal. Pic&lt;/span&gt;&lt;span &gt; de vitesse de production vers 22SA. A proximité du terme la quantité diminue très rapidement. QLA maximale vers 32-34SA&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Limites &lt;/span&gt;&lt;span &gt;patho&lt;/span&gt;&lt;span &gt; : 200 / 2000 ml&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;10 SA : 30ml&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;16 SA : env200ml&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;32SA : env800ml&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;43SA : env400 ml&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Diminution en DT : -150ml par semaine&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;ROLE de protection ++&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Antibactérien&lt;/span&gt;&lt;span &gt; avec activité bactéricide à partir de 31 SA&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Mécanique : LA incompressible : permet augmentation de volume de la cavité amniotique, les MAF (maturation motricité et trophicité musculaire), protège des traumatismes externes, évite les brides amniotiques, &lt;/span&gt;&lt;span &gt;role&lt;/span&gt;&lt;span &gt; dans le développement du poumon fœtal (mouvements respiratoires, ampliation thoracique)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Environnemental : température et volume,&lt;/span&gt;&lt;span &gt; + sens gout odorat et audition&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="275" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="265.46" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c21daccf7b134682963b4604157e6181yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="32" duration=" 265460">
+				<media url="a24x32.mp3" startMsecs="0" duration="265460" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Composition@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;98% d’eau&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Densité&lt;/span&gt;&lt;span &gt; moyenne 1,006&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;pH entre 7,10 et 7,20&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Plutôt hypo-&lt;/span&gt;&lt;span &gt;osmolaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Composition ionique varie au cours de la grossesse (20SA : &lt;/span&gt;&lt;span &gt;kéritinisation&lt;/span&gt;&lt;span &gt; empêche la diffusion à travers la peau : passage rénal modifie l’&lt;/span&gt;&lt;span &gt;osmolalité&lt;/span&gt;&lt;span &gt; (faite à 98% grâce à l’ion Na)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Outre le Na qui diminue en approchant du terme, les autres cations et anions, de même que les oligoéléments ne présentent pas de variation au cours de la grossesse.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Tous les AA sont présents dans le LA&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La source urinaire de LA implique l’augmentation de la concentration au cours de la grossesse, de l’acide urique de l’urée et de la créatinine présents dans le LA.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Plusieurs&lt;/span&gt;&lt;span &gt; familles d’enzymes sont retrouvées dans le LA. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;DiAmineOxydase&lt;/span&gt;&lt;span &gt; : a &lt;/span&gt;&lt;span &gt;lgtps&lt;/span&gt;&lt;span &gt; permis le diagnostic de RPM (autres moyens : mesure du pH vaginal, maintenant : présence IGF-BP1 ou PAMG-1 &lt;/span&gt;&lt;span &gt;placental&lt;/span&gt;&lt;span &gt; alpha &lt;/span&gt;&lt;span &gt;microglobuline&lt;/span&gt;&lt;span &gt; 1)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il y a donc aussi des facteurs de croissance et des protéines&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Phospholipides : rôle dans la composition du surfactant. Rapport lécithine/&lt;/span&gt;&lt;span &gt;sphingomyéline&lt;/span&gt;&lt;span &gt; &amp;gt;2 est associé à une bonne maturation pulmonaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cellules épithéliales fœtales desquamées et des cellules fibroblastiques (permettent d’accéder au patrimoine génétique fœtal : DAN)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="364.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9d2a84ae5ae348eba26525fdf67fd91byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 364660">
+				<media url="a24x33.mp3" startMsecs="0" duration="364660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Physiologie@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Constitution&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Avt&lt;/span&gt;&lt;span &gt; 20SA : ultrafiltrat du plasma maternel :&lt;/span&gt;&lt;span &gt; isotonique au sérum maternel et &lt;/span&gt;&lt;span &gt;foetal&lt;/span&gt;&lt;span &gt;. Du aux échanges à travers la peau du fœtus, non kératinisée, perméable à l’eau, aux électrolytes et aux éléments biochimiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Après 20SA : &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Principale source : diurèse fœtale et sécrétions pulmonaires&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Principale voie de réabsorption  : déglutition fœtale et voie &lt;/span&gt;&lt;span &gt;intramembranaire&lt;/span&gt;&lt;span &gt; (absorption dans le sang fœtal à travers différentes structures).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Diurèse fœtale :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;110 ml/kg/j à 25 SA – 200 ml/kg/j en fin de grossesse&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sécrétions pulmonaires :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dès 18&lt;/span&gt;&lt;span &gt;e&lt;/span&gt;&lt;span &gt; SA, augmente progressivement jusqu’à 200 à 300 ml/j. S’accumule dans les alvéoles et est excrété lors des mouvements respiratoires (50% partent vers la cavité amniotique et 50% sont réabsorbé vers le tube digestif et par le parenchyme pulmonaire).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Déglutition fœtale :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dès 11SA. Donc un obstacle (par exemple &lt;/span&gt;&lt;span &gt;attrésie&lt;/span&gt;&lt;span &gt; œsophage) créée un hydramnios. Débit arrive à 200 à 500 ml/j à terme&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Voie &lt;/span&gt;&lt;span &gt;intramembranaire&lt;/span&gt;&lt;span &gt; :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Placenta : principal flux,&lt;/span&gt;&lt;span &gt; bidirectionnel mais en majorité vers la cavité amniotique (200 à 500 ml/j).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Peau : jusqu’à 20SA. La kératinisation progressive fait que les &lt;/span&gt;&lt;span &gt;prémas&lt;/span&gt;&lt;span &gt; se déshydratent plus facilement&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cordon Ombilical : faible surface, mais possible après 20SA&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il existe ainsi une voie d’administration &lt;/span&gt;&lt;span &gt;intraamniotique&lt;/span&gt;&lt;span &gt; des médicaments, mais qui n’est pas ou très peu utilisée&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Voie transmembranaire : (membranes &lt;/span&gt;&lt;span &gt;amniochoriales&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Flux bidirectionnel. Au 3&lt;/span&gt;&lt;span &gt;e&lt;/span&gt;&lt;span &gt; trimestre, le delta osmotique fait que cela ne devient qu’une sortie de liquide vers la mère&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sécrétions &lt;/span&gt;&lt;span &gt;oronasales&lt;/span&gt;&lt;span &gt; : augmentation du volume de LA, mais négligeable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;REGULATION&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Très bonne coordination car malgré les nombreux moyens d’échange, le volume reste constant. Il existe donc, physiologiquement,&lt;/span&gt;&lt;span &gt; une bonne balance entre production et réabsorption.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Beaucoup d’inconnues, mais par exemple :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Fœtus &lt;/span&gt;&lt;span &gt;capabl&lt;/span&gt;&lt;span &gt; d’augmenter ou diminuer sa diurèse en réponse à une hyper ou une hypovolémie fœtale ; le fœtus oligurique est capable de réagir à une hyper hydratation maternelle n &lt;/span&gt;&lt;span &gt;augmentatn&lt;/span&gt;&lt;span &gt; sa diurèse&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="277" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="291.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="277"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5f10295d8b9d43fe9bbbf7e73b4f37f6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="20280" isStartRelative="false" duration="167"/>
+				<click startTime="46890" isStartRelative="false" duration="167"/>
+				<click startTime="62160" isStartRelative="false" duration="167"/>
+				<click startTime="83860" isStartRelative="false" duration="167"/>
+				<click startTime="128750" isStartRelative="false" duration="167"/>
+				<click startTime="138350" isStartRelative="false" duration="167"/>
+				<click startTime="140960" isStartRelative="false" duration="167"/>
+				<click startTime="169160" isStartRelative="false" duration="167"/>
+				<click startTime="176060" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="34" duration=" 291190">
+				<media url="a24x34.mp3" startMsecs="0" duration="291190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Anomalies@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Hydramnios : principalement du à un défaut d’élimination&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Donc : &lt;/span&gt;&lt;span &gt;Atrésie des choanes, Atrésie œsophage, Fistule &lt;/span&gt;&lt;span &gt;oesophago&lt;/span&gt;&lt;span &gt;-trachéale, Déglutition absente : Neurologique ou Médicamenteux (anti épileptiques)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Plus généralement : retentissement sur transit gastrique (fente labiale, imperforation anale)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Mais aussi si augmentation de production non compensée : Polyurie (anomalie du rein, AVC &lt;/span&gt;&lt;span &gt;foetaux&lt;/span&gt;&lt;span &gt;, diabète maternel)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Défaut de production: &lt;/span&gt;&lt;span  fontWeight="bold"&gt;oligo&lt;/span&gt;&lt;span  fontWeight="bold"&gt;-amnios&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Oligurie/ Insuffisance rénale / agénésie rénale&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Obstruction du tractus urinaire (valves de l’urètre postérieur)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Insuffisance placentaire (hypovolémie et hypoxie qui diminuent le métabolisme fœtal : défaut d’urine et de sécrétion pulmonaire)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Absence de sécrétion pulmonaire (anomalies chromosomiques)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;RPM&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Prise médicamenteuse&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Risque augmentés de &lt;/span&gt;&lt;span &gt;morbimortalité&lt;/span&gt;&lt;span &gt; fœtale : soit à cause de l’étiologie de l’anomalie de QLA, soit à cause de la détérioration des rôles du LA (distension utérine dans HA par exemple, ou défaut d protection mécanique dans &lt;/span&gt;&lt;span &gt;oligoA&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="295" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide34.swf" id="295"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_05458859a0934037816f8a3456943e1eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

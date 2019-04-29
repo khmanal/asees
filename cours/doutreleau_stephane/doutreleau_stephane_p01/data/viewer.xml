@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 1 : activation rythmique de la contraction cardiaque</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Joel LUNARDI</name>
+			<speakerTitle>Professeur de Biochimie (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10037.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Julien FAURÉ</name>
+			<speakerTitle>Maitre de conference-CHU de Grenoble</speakerTitle>
+			<image>spk13724.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean-Paul STAHL</name>
+			<speakerTitle>CHU de Grenoble</speakerTitle>
+			<image>spk14447.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Prénom NOM</name>
+			<speakerTitle>Enseignant de la Faculté</speakerTitle>
+			<image>spk130656.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Stéphane DOUTRELEAU</name>
+			<speakerTitle>Professeur CHU Grenoble ( UGA)</speakerTitle>
+			<image>spk131232.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_97c6b71247c34990a717213a9cbd79f1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_2965e21c9ce1430583255a5ace4ef5f6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_746e0262d70140f9956584e971e629b2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_145ea5b938a14f8ea240a0ce87a770c2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_b31afb9777e1497694c2ee20ab9b7156yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_c5d78403e77043798635eb61119b9f08yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_e16d9ccd5004444ea8e90e9e12f6c966yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout5.swf" id="6" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_d355ee603cfe45e8935aae0cce67dfe4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="391" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="28.12" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="391"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4d5bd83b5d48444e815cf8d996f1c95dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 28120">
+				<media url="a24x1.mp3" startMsecs="0" duration="28120" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 1 :  activation rythmique de la contraction cardiaque@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le cœur est un organe AUTOMATIQUE et le muscle cardiaque se contracte donc régulièrement. Cela signifie qu’il n’a pas besoin de nerfs moteurs pour se contracter, comme c’est le cas pour les muscles striés squelettiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est malgré tout richement innervé ce qui permet de contrôler et de moduler son fonctionnement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans ce premier chapitre, nous allons voir comment est générée et modulée l’automaticité cardiaque et comment cette activité se propage dans toutes les cavités.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="413" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="27.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide1.swf" id="413"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_79339a6610454f169ba5ab85f1f926bayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 27310">
+				<media url="a24x2.mp3" startMsecs="0" duration="27310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs pédagogiques du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A la fin de ce chapitre, vous devrez être capable :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;de décrire les caractéristiques anatomiques et électrophysiologiques du tissu électrogénique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;d’expliquer l’origine de l’automaticité cardiaque et de décrire la conduction du potentiel d’action dans le cœur &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;de connaitre&lt;/span&gt;&lt;span &gt; l’influence du système nerveux autonome sur l’automaticité et la conduction&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;et enfin de connaître les principales anomalies de l’automaticité et de la conduction&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="432" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="15.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="432"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e6b611f6b10c4c25b0a6f274ce7dc054yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 15250">
+				<media url="a24x3.mp3" startMsecs="0" duration="15250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons aborder successivement &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le tissu électrogénique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Automaticité&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Conduction &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Contrôle de l’automaticité et de la conduction&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Anomalies de l’automaticité et de la conduction&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="457" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="457"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9709402f80a14681a96bedcbe21a0991yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 5200">
+				<media url="a24x4.mp3" startMsecs="0" duration="5200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons d’abord décrire le tissu électrogénique et ses particularités&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="412" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="62.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="412"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cb501974fd924b3fbcbbd4f118c294cdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 62910">
+				<media url="a24x5.mp3" startMsecs="0" duration="62910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le Tissu électrogénique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le tissu électrogénique est un tissu spécialisé situé au sein du myocarde.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cellules qui le composent ont la même origine embryologique que les cardiomyocytes et comportent d’ailleurs quelques myofibrilles bien qu’elles soient peu contractiles.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le tissu électrogénique a deux propriétés spécifiques&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il génère automatiquement des impulsions électriques c’est à dire des potentiels d’action – c’est ce que l’on appelle &lt;/span&gt;&lt;span  textDecoration="underline"&gt;L’AUTOMATICITÉ&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et, il transmet ces impulsions à l’ensemble des structures cardiaques, c’est ce que l’on appelle la &lt;/span&gt;&lt;span  textDecoration="underline"&gt;CONDUCTION&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour cela, ce tissu comporte deux &lt;/span&gt;&lt;span &gt;types cellulaires&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cellules nodales (du nœud sinusal, nœud AV et tronc du faisceau de His)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cellules spécialisés du tissu de conduction (branches du faisceau de His et cellules de Purkinje)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="455" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="455"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_55701ce8bcda4258bb1c886aa693304ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 36200">
+				<media url="a24x6.mp3" startMsecs="0" duration="36200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le Tissu électrogénique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ces deux groupes cellulaires se distinguent bien.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontStyle="italic"&gt;Les cellules nodales &lt;/span&gt;&lt;span &gt;sont plus petites que les cardiomyocytes, pauvres en myofibrilles et riches en grain de glycogène – c’est ce que vous pouvez voir sur cette coupe de myocarde en microscopie optique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontStyle="italic"&gt;Les cellules de Purkinje&lt;/span&gt;&lt;span &gt; sont elles beaucoup plus volumineuses que les cardiomyocytes leur cytoplasme est abondant, clair, riche en glycogène et en mitochondries, pauvre en myofibrilles.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;DU fait de leur grande taille, ces cellules offrent peu de résistance à la propagation des PA.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="418" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="91.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="418"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fca46ead3d1f437b9b7d47e1abb34e3dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 91410">
+				<media url="a24x7.mp3" startMsecs="0" duration="91410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le tissu électrogénique : anatomie@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le tissu électrogénique est bien individualisé sur le plan anatomique et cette disposition particulière est essentielle à un fonctionnement optimal du cœur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est composé d’un groupe de cellules situé à la partie supérieure de l’oreillette droite qui est le nœud sinusal de Keith et Flack – ce nœud est vascularisé par une branche de la coronaire droite.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Partant du nœud sinusal, on décrit un réseau internodal parcourant les deux oreillettes et allant jusqu’au nœud auriculo-ventriculaire situé à la partie basse de l’oreillette droite. On décrit 3 faisceaux internodaux (antérieur, médian et postérieur).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le nœud auriculo-ventriculaire d’&lt;/span&gt;&lt;span &gt;Aschoff-Tawara est normalement la seule voie de passage possible entre les oreillettes d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une part et les ventricules d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autre part. Il est lui aussi vascularisé par une branche de la coronaire droite.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Partant du NAV, on trouve ensuite un faisceau, le faisceau de His, avec son tronc et ses branches de bifurcation : la branche droite qui descend jusqu’à la pointe du ventricule droit et deux branches gauches qui descendent jusqu’à la pointe du ventricule gauche. Le faisceau de His et ses branches sont vascularisés par des branches de la coronaire gauche.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Des branches du faisceau de His nait un réseau de plus petite taille se ramifiant et de dispersant à l’intérieur du myocarde que l’on appelle le réseau de Purkinje;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="458" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="4.23" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="458"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_849a6a7fc94e48409e9252dad17028a4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 4230">
+				<media url="a24x8.mp3" startMsecs="0" duration="4230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voyons maintenant quelle est l’origine de l’automaticité cardiaque &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="429" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="100.6" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="429"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_97625aaa162e4d82b6b1c9045d5067aeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 100600">
+				<media url="a24x9.mp3" startMsecs="0" duration="100600" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Automaticité : généralités@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’automaticité, c’est à dire la genèse du rythme cardiaque, fait toujours l’objet de recherches mais nous allons exposer ici les connaissances actuelles sur le sujet.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cellules du tissu électrogénique ont des propriétés particulières, sous-tendus par des échanges ioniques à travers des canaux que nous décrirons plus tard.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces canaux ioniques sont des médiateurs des signaux électriques que l’on retrouve au niveau de nombreux tissus qui peuvent être à l’origine de pathologies et qui sont les cibles pharmacologiques de nombreux médicaments en cardiologie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Leur densité est plus importante au niveau des disques intercalaires qui sont les jonctions intercellulaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On distingue deux types de canaux : ceux dont l’activation est due à la fixation d’un ligand comme l’Ac, l’ATP… et ceux qui sont sensibles à des variations de potentiels membranaires, dit voltage-dépendants.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les canaux voltage dépendants sont plutôt responsables du fonctionnement basal physiologique du cœur normal au repos alors que les ligands vont venir moduler le fonctionnement du système pour l’adapter aux conditions environnementales.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il existe 4 types de canaux voltage dépendants (&lt;/span&gt;&lt;span &gt;Sodiques, calciques, potassique et chlore)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;D’une manière générale, on peut considérer que les canaux sodiques et calciques sont plutôt dépolarisant alors que les canaux potassiques sont plutôt repolarisant.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sur le plan structural, ces canaux sont de grosses glycoprotéines dont la production est régulée par plusieurs gènes – cette notion est importante car des mutations au niveau des gènes codant pour ces protéines sont à l’origine d’anomalie de l’automaticité et/ou de la conduction et peuvent provoquer des troubles du rythme cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="423" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="80.86" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="423"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b2e569523397430297da2bc016fe09b6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 80860">
+				<media url="a24x10.mp3" startMsecs="0" duration="80860" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Automaticité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’automaticité est une propriété fondamentale &lt;/span&gt;&lt;span  textDecoration="underline"&gt;spécifique&lt;/span&gt;&lt;span &gt; du tissu électrogénique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous avez représenté ici sur cette figure l’évolution du potentiel transmembranaire en mV d’une cellule du nœud sinusal en fonction du temps &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  textDecoration="underline"&gt;potentiel de repos&lt;/span&gt;&lt;span &gt; d’une cellule est liée, comme vous le savez, a des différences de concentration ionique entre l’intérieur et l’extérieur de la cellule, l’intérieur de la membrane étant chargée négativement. Les principaux ions concernés sont le potassium, le sodium et le calcium.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La valeur du potentiel de repos varie selon les cellules &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; elle est ici pour les cellules nodales, d’environ -60 mV.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme vous l’avez peut-être déjà remarqué, la particularité de ces cellules est d’avoir un potentiel membranaire de repos &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;INSTABLE&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; cela signifie qu’il n’est pas constant et que progressivement il devient de moins en moins négatif, on parle de potentiel pacemaker, représenté sur ce schéma par la partie verte de la courbe. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque le potentiel membranaire atteint une valeur seuil, que l’on appelle le &lt;/span&gt;&lt;span  textDecoration="underline"&gt;potentiel SEUIL&lt;/span&gt;&lt;span &gt; (aux alentours de -40 mV au repos et représenté sur ce schéma par la ligne pointillée), il déclenche un potentiel d’action, qui est représenté sur ce schéma en noir.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="456" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="60.63" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="456"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2c4914aae9ac4f7e922db23bbc8704adyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 60630">
+				<media url="a24x11.mp3" startMsecs="0" duration="60630" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Automaticité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous avez sur cette diapositive la comparaison des potentiels de repos et des potentiels d’action dans les cellules nodales en haut, et dans les cellules non nodales en bas:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les principales différences qu’il faut retenir sont &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;un potentiel de repos instable, responsable d’une dépolarisation progressive de la membrane plasmique dans les cellules nodales alors que le potentiel de repos est stable dans les cellules non nodales&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;un potentiel de repos plus haut dans les cellules nodales aux alentours de -50 -60 mV alors qu’il est plutôt de -80 -90 mV dans les cellules non nodales. On dit que les cellules nodales sont plus facilement excitables.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;enfin la forme du potentiel d’action est très différente : si le pic est situé au même moment (matérialisé sur ce schéma par la ligne pointillée), les cellules nodales se repolarisent immédiatement alors que le PA est plus long avec une phase de plateau dans les cellules non nodales.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="435" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="15.63" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="435"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a6ce14b7ad4d48ddb41bff85530ae7ffyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 15630">
+				<media url="a24x12.mp3" startMsecs="0" duration="15630" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@les potentiels d’action cardiaques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La forme du potentiel d’action est variable selon l’endroit où on l’enregistre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous pouvez vous amusez à comparer les potentiels de repos et la forme du potentiel d’action dans les différents endroits du cœur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="443" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.34" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="443"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_497ce7a78bae427d813cdfe2f63c5b56yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 47340">
+				<media url="a24x13.mp3" startMsecs="0" duration="47340" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@automaticité – potentiel pacemaker@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pourquoi ce potentiel de repos n’est-il pas stable dans les cellules nodales ?&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;la dérive du potentiel de repos, caractéristique des cellules automatiques dites pacemakers, est sous-tendue par différents courants ioniques. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une dizaine de courants ioniques différents ont été identifiés mais les principaux évènements sont :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une fuite sodique responsable d’un petit courant sodique entrant (Ib)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un courant entrant non sélectif de K+, de Ca&lt;/span&gt;&lt;span &gt;2+ &lt;/span&gt;&lt;span &gt;et surtout de Na+, à travers un canal appelé canal If mais qui se ferme à mesure que l’on approche du potentiel seuil et &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;un courant calcique entrant transitoire, responsable de la dernière partie de la dépolarisation avant l’atteinte du potentiel seuil +++&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="440" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="72.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="440"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1481fde2ae7f493f9f4326dafdf68478yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 72080">
+				<media url="a24x14.mp3" startMsecs="0" duration="72080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@l’automaticité dans le tissu électrogénique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Toutes les cellules du tissu électrogénique sont automatiques, c’est à dire qu’elles ont toutes la propriété de se dépolariser spontanément. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le groupe de cellule qui se dépolarise le plus vite est celui qui imposera son rythme à tout le cœur &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; normalement il s’agit du nœud sinusal : on dit que c’est le pacemaker physiologique du cœur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En cas de défaillance, si le nœud sinusal perd sa capacité à générer un potentiel d’action, l’automaticité sera prise en charge par une autre partie du tissu électrogénique : on dit alors qu’il y a ECHAPPEMENT. Si l’échappement se situe au niveau du NAV, on parle d’échappement jonctionnel (ainsi nommé car le NAV est à la jonction entre les oreillettes et les ventricules) ; si l’échappement se situe au niveau ventriculaire, on parlera d’échappement ventriculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La différence sera la fréquence de genèse du PA qui sera de 90-100/min an niveau du nœud sinusal et seulement de 20-30/min au niveau ventriculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="419" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="24.85" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="419"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_abf9645cd3274ea5ad89bfe57928fbfeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 24850">
+				<media url="a24x15.mp3" startMsecs="0" duration="24850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le potentiel d’action (PA)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le potentiel d’action est la variation dans le temps du potentiel transmembranaire de la cellule cardiaque au cours d’un cycle cardiaque ; c’est donc un cycle électrique lié à des mouvements ioniques passifs et actifs&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Quels sont les principaux mouvements ioniques qui surviennent lors du potentiel d’action ?&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On distingue 5 phases, notés de 0 à 4&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="441" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="24.59" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="441"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ebda9e2c0af846b28bfef363fce3e64byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 24590">
+				<media url="a24x16.mp3" startMsecs="0" duration="24590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@automaticité – conductances ioniques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous avez ici représenté l’évolution des conductances ioniques en bas en fonction du temps et des différentes phases du potentiel d’action en haut&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous pouvez retrouver les différents courants ioniques décrits précédemment mais il faut bien comprendre que ce sont des phénomènes dynamiques et qu’à un instant t, l’effets des différents courants ioniques se superposent.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="420" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="102.85" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="420"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6710e6d8de92444ebd5f2b78088da311yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 102850">
+				<media url="a24x17.mp3" startMsecs="0" duration="102850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Principaux courants ioniques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Sur ce schéma du potentiel d’action, vous avez symbolisé les mouvements ioniques des 3 principaux ions. Le sens de la flèche indique un courant entrant quand elle est dirigée vers l’intérieur de du PA et un courant sortant quand la flèche est dirigée vers l’extérieur du PA.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La phase 0 est la phase dite de dépolarisation rapide. Pendant cette phase il y a une ouverture des canaux sodiques qui est quantitativement le principal événement de cette phase ; les canaux potassiques se ferment et les canaux calciques vont progressivement s’ouvrir ;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La phase 1 est la phase toute initiale de la repolarisation ; c’est une phase très courte liée à un courant sortant de potassium et à la fermeture des canaux sodiques ;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Survient alors la phase 2 dite de plateau &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; cette phase stable est liée à un courant entrant calcique important équilibrant un courant potassique sortant. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La phase 3 est la phase de repolarisation liée à une fermeture des canaux calciques et à l’ouverture des canaux potassiques&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin la phase 4 correspond au potentiel de repos, stable dans cette exemple, où les pompes Na/K rétablissent et maintiennent un équilibre ionique, avant la survenue de la prochaine dépolarisation déclenchée par les cellules automatiques. C’est un phénomène cyclique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Cette diapositive vous montre la coexistence dans le temps ne nombreux courants ioniques dont la résultante est le potentiel d’action. Je ne vous demande évidemment pas de la connaitre – Seuls les évènements principaux de la diapositive précédente doivent être connus.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="459" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="4.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="459"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_872c6df6bc7e47d5b68c646bb5a4af1fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 4920">
+				<media url="a24x18.mp3" startMsecs="0" duration="4920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comment le potentiel d’action est-il conduit à travers les cavités cardiaques ?&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="439" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="63.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="439"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7ded6a1fb80343929a7fcf9d7e0dfbe0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 63680">
+				<media url="a24x19.mp3" startMsecs="0" duration="63680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Conduction du potentiel d’action @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le potentiel d’action est généré dans le nœud sinusal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est transmis à l’oreillette droite puis à l’oreillette gauche de façon un peu retardé, par les voies de conduction intra-nodales et de proche en proche par les cardiomyocytes auriculaires. c’est donc un véritable front de dépolarisation qui se dirige du toit et du fond des oreillettes vers la base des ventricules. Ce front va dépolariser le NAV, seule voie de passage de l’influx entre les oreillettes et les ventricules qui sont fonctionnellement séparés par un plancher fibreux (représenté sur ce schéma par le trait épais gris) où se situent les 4 valves.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le NAV est un frein, c’est à dire qu’il va ralentir la vitesse de dépolarisation &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; c’est une sécurité importante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La dépolarisation se propage alors et accélère du tronc du faisceau de His jusqu’au réseau intra-myocardique de Purkinje où l’influx va alors rapidement se propager de proche en proche dans les cardiomyocytes ventriculaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="447" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="72.48" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="447"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3ea19012bd924ab1b6a49af3d5aad949yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 72480">
+				<media url="a24x20.mp3" startMsecs="0" duration="72480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous avez représenté sur cette diapositive la progression de la dépolarisation en jaune depuis le nœud sinusal jusqu’aux ventricules.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La dépolarisaton se propage aux deux oreillettes, provoquant leur contraction quasi-simultanée, alors que la dépolarisation descend rapidement jusqu’à la pointe du cœur pour remonter de la pointe vers la base des ventricules entrainant leur contraction. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lors d’un cycle cardiaque il y a donc contraction des oreillettes avant contraction des ventricules.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous remarquerez aussi que l’onde de dépolarisation part à chaque fois du fond de la cavité cardiaque vers l’orifice valvulaire de sortie de cette cavité, ce qui permet d’optimiser la circulation du volumes sanguin&lt;/span&gt;&lt;span &gt;…&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On peut, pour comprendre l’importance de la chronologie de la contraction, faire une analogie avec un tube de dentifrice quel l’on voudrait vider &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; si vous pressez le tube juste sous le bouchon une partie du dentifrice sortira par l’orifice mais vous allez séquestrez une bonne partie du dentifrice dans le tube. Au contraire, si vous pressez le tube par la partie opposée et que vous remontez progressivement vers l’orifice de sortie, vous arriverez à faire sortir une plus grande partie du dentifrice du tube. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="437" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="38.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="437"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b97fea37888c42d9ab0fcba1401434e1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 38040">
+				<media url="a24x21.mp3" startMsecs="0" duration="38040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Disques intercalaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La conduction se fait par le tissu électrogénique mais aussi principalement de proche en proche par les cardiomyocytes eux-mêmes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cardiomyocytes sont entrelacées entre elles et fortement adhérentes les unes aux autres par l’intermédiaire de disques intercalaires qui comprennent deux types de jonction intercellulaires : les desmosomes et les gap junctions (encore appelés jonctions communicantes) &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces derniers sont des zones de forte conductance électrique permettant une propagation rapide des potentiels d’action d’une cellule à l’autre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un cardiomyocyte est relié aux cellules voisines en moyenne par un dizaine de jonctions intercellulaires. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="460" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="82.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="460"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4e8f42e0eb7f432db8faafbd1fa073dbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 82200">
+				<media url="a24x22.mp3" startMsecs="0" duration="82200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@la conduction – la période réfractaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Après un potentiel d’action, un second potentiel d’action ne peut être généré. Cette période pendant laquelle la cellule n’est pas excitable est appelée période réfractaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On distingue une période réfractaire ABSOLUE où la cellule n’est pas du tout excitable (c’est le cas des 3 premières stimulation sur ce schéma), quelque soit l’intensité du stimulus, et un période réfractaire RELATIVE pendant laquelle on peut éventuellement générer un nouveau potentiel d’action.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il s’agit d’une propriété importante car lors d’un rythme normal, l’onde de dépolarisation est ainsi unidirectionnelle et se fait depuis la base du cœur vers la pointe &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; on dit que la conduction est antérograde. Parfois, un PA peut-être généré à un autre endroit du cœur. S’il est généré par exemple au niveau du NAV, le PA pourra descendre vers la pointe des ventricules de façon normale, donc antérograde, mais aussi remonter vers le fond des oreillettes puisque les cellules ne seront pas en période réfractaire ; on parlera alors de conduction rétrograde car se faisant dans le sens inverse de la conduction normale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="461" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="9.05" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="461"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d997be748fea49a48efd4d11ca7476eayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 9050">
+				<media url="a24x23.mp3" startMsecs="0" duration="9050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ces paramètres sont contrôlés en permanence et le cœur est influencé en permanence par le SNA.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="417" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.48" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="417"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f589be2372c9417cae00f2d57132846ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 47480">
+				<media url="a24x24.mp3" startMsecs="0" duration="47480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@contrôle de l’automaticité et de la conduction@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le cœur est un organe automatique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est toutefois richement innervé par le SNA, organisé en neurones conduisant les informations centrales vers le cœur et modulant son fonctionnement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le système &lt;/span&gt;&lt;span  textDecoration="underline"&gt;sympathique&lt;/span&gt;&lt;span &gt; fait relai dans les ganglions cervicaux et les ganglions thoraciques jusqu’en T4 &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; ce sont les nerfs cardiaques. En atteignant le cœur, on assiste à une ramification terminale dans le péricarde, le myocarde et l’endocarde des 4 cavités cardiaques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le système &lt;/span&gt;&lt;span  textDecoration="underline"&gt;parasympathique&lt;/span&gt;&lt;span &gt; chemine par le nerf vague (nerf vague droit pour le nœud sinusal et nerf vague gauche pour le nœud AV). Il se ramifie surtout autour du tissu électrogénique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="464" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="59.86" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="464"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_af49c6051e13406898d96309672c9870yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 59860">
+				<media url="a24x25.mp3" startMsecs="0" duration="59860" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effets d’une stimulation sympathique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Lors d’une stimulation sympathique (par exemple l’injection de catécholamines ou une émotion forte), plusieurs modifications sont notables sur l’évolution du potentiel d’action d’une cellule nodale : &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;le potentiel de repos est plus haut, la membrane est donc déjà pré-dépolarisée &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; mais surtout la vitesse à laquelle la membrane se dépolarise spontanément, donc la vitesse à laquelle on atteint le potentiel seuil est plus importante &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; le cycle de dépolarisation-repolarisation est plus court donc la fréquence de décharge du nœud sinusal est plus importante&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces effets sont surtout dus à la stimulation des récepteurs béta-adrénergiques, qui augmente le temps d’ouverture du canal If&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="466" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="61.49" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="466"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8e6317a8099f4e4a96a8b41f343d7a05yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 61490">
+				<media url="a24x26.mp3" startMsecs="0" duration="61490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effets d’une stimulation sympathique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Lors d’une stimulation sympathique on observe donc :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;une augmentation de l’excitabilité &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; la différence entre le potentiel de repos et le potentiel seuil est plus petite, donc on peut facilement déclencher un potentiel d’action : on parle d’effet bathmotrope positif &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; le revers de la médaille est que l’on peut déclencher plus facilement des troubles du rythme, des palpitations, puisque le cœur est facilement excitable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une accélération de l’automaticité et on parle d’effet chronotrope positif&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;les deux effets décrits précédemment doivent logiquement s’accompagner d’une amélioration de la conduction et d’un raccourcissement des périodes réfractaires, on parle d’effet dromotrope positif.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;enfin vous savez déjà sans doute que la stimulation sympathique s’accompagne aussi d’une augmentation de la force de contraction des cardiomyocytes et on parle d’effet inotrope positif&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="465" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="48.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="465"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e271efcb16e14139836f34f1f0db86c9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 48660">
+				<media url="a24x27.mp3" startMsecs="0" duration="48660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effets d’une stimulation parasympathique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les effets d’une stimulation parasysmpathiques vont être presque opposés à ceux de la stimulation sympathique avec :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;un potentiel de repos cette fois-ci plus bas : on parle d’hyperpolarisation de la membrane&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;et une vitesse de dépolarisation spontanée plus lente &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; le cycle de dépolarisation-repolarisation est plus long donc la fréquence de décharge du nœud sinusal est plus lente.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une stimulation parasympathique peut-être obtenue par injection d’acétylcholine ou observée lors d’une stimulation dite vagale comme lors d’un massage du glomus carotidien.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces effets sont surtout dus à la stimulation des récepteurs muscariniques qui augmente la conductance potassique responsable de l’hyperpolarisation membranaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="467" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="59.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="467"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_983a9d2f00784c60ab22dcd11b7a3432yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 59950">
+				<media url="a24x28.mp3" startMsecs="0" duration="59950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effets d’une stimulation parasympathique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Lors d’une stimulation parasympathique on observe donc :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;une diminution de l’excitabilité &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; la différence entre le potentiel de repos et le potentiel seuil est plus importante, donc on peut plus difficilement déclencher un potentiel d’action : on parle d’effet bathmotrope négatif &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; on dit qu’il y a un effet stabilisateur de la membrane.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une diminution de l’automaticité et on parle d’effet chronotrope négatif&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il existe cette fois-ci une altération de la conduction et un allongement des périodes réfractaires, on parle d’effet dromotrope négatif &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; l’effet peut parfois être impressionnant avec un arrêt de l’activité du nœud sinusal ; heureusement comme nous l’avons dit, un échappement survient alors pour prendre en charge l’automaticité cardiaque&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;enfin la stimulation parasympathique n’a pas d’effet sur la contractilité&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="469" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="33.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="469"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_71f659727d5f41a9b3f246105d04e9e5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 33200">
+				<media url="a24x29.mp3" startMsecs="0" duration="33200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@balance sympatho-vagale@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;l’influence des systèmes sympathique et parasympathique est évidemment variable, autours de la fréquence de décharge spontanée du nœud sinusal, que l’on appelle aussi la fréquence intrinsèque cardiaque. Celle-ci est &lt;/span&gt;&lt;span &gt;aux alentours de 100 par minute mais il s’agit d’une caractéristique électrophysiologigue propre à chaque individu.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme vous pouvez le voir sur ces deux schémas, le système parasympathique prédomine dans les basses fréquences et son influence disparaît aux hautes fréquences et inversement pour le système sympathique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="470" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="99.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="470"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a61c3b0dea364c5490ce2397a080654dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 99310">
+				<media url="a24x30.mp3" startMsecs="0" duration="99310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Si la fréquence intrinsèque est de 100/min, la &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;fréquence cardiaque &lt;/span&gt;&lt;span &gt;mesurée au pouls ou sur un électrocadiogramme n’est pourtant que de 60 à 80/min. C’est l’effet de la modulation importante et permanente par le système nerveux autonome. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Chez l’homme sain au repos, il existe un FREIN VAGAL prédominant sur le cœur &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; cela permet de pouvoir instantanément accélérer le rythme cardiaque si besoin en levant le frein vagal avant même de stimuler le système sympathique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La fréquence cardiaque est un paramètre influencé par de nombreux autres paramètres, par exemple :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’âge : la fréquence cardiaque est ainsi plus élevée chez le nouveau-né puis diminue progressivement jusqu’à l’âge adulte&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La respiration : c’est «l’arythmie respiratoire» qui détermine une augmentation de la Fc lors de l’inspiration et une diminution lors de l’expiration&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Certaines hormones : par exemple les hormones thyroïdiennes qui en excès (hyperthyroïdie) déterminent une tachycardie&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La fièvre : l’augmentation de la température centrale s’accompagne d’une tachycardie&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La grossesse qui s’accompagne d’une augmentation de la fréquence cardiaque&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’entraînement sportif en particulier en endurance entraîne une diminution de la fréquence cardiaque de repos&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’anémie, qui s’accompagne d’une tachycardie…&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Beaucoup de pathologies sont susceptibles de faire varier la fréquence cardiaque. C’est donc un paramètre très facile à mesurer mais d’interprétation plus délicate.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="468" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.37" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="468"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bc6b6ad6e2874b17af3c4458ff0addd6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 14370">
+				<media url="a24x31.mp3" startMsecs="0" duration="14370" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons exposer maintenant les principales anomalies de l’automaticité et de la conduction &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous les redécrirons de façon plus évidente dans le chapitre de l’électrocardiogramme qui est l’examen qui permet de les étudier et de les comprendre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="449" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.51" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="449"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_46df24519a314b5bb9d6e81b85cc7a3cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="32" duration=" 53510">
+				<media url="a24x32.mp3" startMsecs="0" duration="53510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Anomalies/particularités de l’automaticité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;les anomalies ou particularités de l’automaticité regroupent toutes les situations où le rythme cardiaque n’est plus le rythme sinusal, c’est à dire quand le nœud sinusal n’est pus le pacemaker physiologique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le rythme jonctionnel est fréquent &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; dans ce cas c’est le nœud AV qui est le pacemaker physiologique &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; on l’observe facilement chez le sportif entrainé&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le rythme idioventriculaire, avec donc un échappement bas situé, est une situation pathologique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, en pathologie et pour diverses raisons, un foyer situé dans les oreillettes (droite ou gauche) peut se dépolariser spontanément et plus rapidement que les cellules nodales &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; il peut donc prendre le dessus et imposer son rythme qui sera donc généralement rapides&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="471" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="48.65" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="471"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f770688d891f4c59968440ad01245548yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 48650">
+				<media url="a24x33.mp3" startMsecs="0" duration="48650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Anomalies de la conduction@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les anomalies de la conduction peuvent être isolées ou associées à des anomalies de l’automaticité&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Certaines sont fréquentes et peuvent être considérées comme des variantes de la normale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On peut observer des anomalies de conduction entre les oreillettes, rares et souvent difficiles à mettre en évidence. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les deux autres anomalies sont beaucoup plus fréquentes &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;on décrit des anomalies de conduction entre les oreillettes et les ventricules et on parle de bloc auriculo-ventriculaires, abrégés par l’acronyme BAV, qui peut être plus ou moins complet&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin les anomalies de conduction sur les branches du faisceau de His sont très fréquentes, surtout le bloc de la branche droite que l’on retrouve dans 20 % de la population dans sa forme incomplète.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="472" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="40.98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="472"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_72e1c7efcc6e4b2983730e5f34414c21yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="34" duration=" 40980">
+				<media url="a24x34.mp3" startMsecs="0" duration="40980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mutations génétiques canaux ioniques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme les autres disciplines, la rythmologie (qui est l’étude des troubles du rythme cardiaque) a largement bénéficié de la révolution du génome. Les gènes codant pour la plupart des canaux ioniques ont été identifiés.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De plus en plus de mutations sur des gènes, responsables d’anomalies de la structure et de la fonction de différents canaux ioniques sont responsables d’anomalie de l’automaticité et/ou de la conduction.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un aperçu est donné dans ce tableau avec l’anomalie clinique ou électrocardiographique correspondante. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il s’agit évidemment d’une information pour vous sensibiliser aux implications pratiques de ce que vous avez appris dans ce cours.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En aucun cas, le contenu de ce tableau n’est à connaitre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="415" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="26.16" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide34.swf" id="415"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f89b8363565349fab34b00cd2fcaa4c2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="35" duration=" 26160">
+				<media url="a24x35.mp3" startMsecs="0" duration="26160" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Tous les éléments de ce cours sont évidemment importants mais il est essentiel de retenir &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;que l’automaticité est liée à des cellules spécialisée qui génèrent régulièrement et spontanément des potentiels d’action &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;que la conduction permet une contraction coordonnée de toutes les cavités cardiaques &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;et que le SNA permet de contrôler ces paramètres&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je vous remercie pour votre attention.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="403" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide35.swf" id="403"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6cfa5048fc8746b382284e62473ffad0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="4"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

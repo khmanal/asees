@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 1 : développement placentaire</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Joel LUNARDI</name>
+			<speakerTitle>Professeur de Biochimie (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10037.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Julien FAURÉ</name>
+			<speakerTitle>Maitre de conference-CHU de Grenoble</speakerTitle>
+			<image>spk13724.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean-Paul STAHL</name>
+			<speakerTitle>CHU de Grenoble</speakerTitle>
+			<image>spk14447.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Prénom NOM</name>
+			<speakerTitle>Enseignant de la Faculté</speakerTitle>
+			<image>spk130656.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Lionel DI MARCO</name>
+			<speakerTitle>Sage-Femme Enseignant - UFR de Médecine / CHU de Grenoble</speakerTitle>
+			<image>spk132281.jpg</image>
+			<email>ldimarco@chu-grenoble.fr</email>
+			<logo>lgo132281.jpg</logo>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_c597ece036e2454aaefe4624ad640f74yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_fbeb3cfdfd5d408a920a7b014c0d08f8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_ace646896c534c2183342a7bc60d01b2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_795547ce20d54688887ef24490194bf3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_a24810fc418b4cae891da90c1b48ec76yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_beb7805ff68545049f01ad6fdbe90410yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_9557c4bb3845460dbc6ca9a35dcc3e48yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout5.swf" id="6" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_7803bc8d17fd4617a7c4093c5c72cd17yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="391" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="45.53" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="391"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_816e2f166c6f4d02ba86b9db98a35af7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 45530">
+				<media url="a24x1.mp3" startMsecs="0" duration="45530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 1 Développement placentaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Présentation LDM&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="413" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="49.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide1.swf" id="413"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8945707fd80742da9b25a9e55eeb1942yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 49800">
+				<media url="a24x2.mp3" startMsecs="0" duration="49800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs pédagogiques du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Prérequis : en particulier cours S Brouillet Hourdequin HBDD(3)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="412" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18.9" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="412"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_75eaa9bb2c12433196252590e32b82eeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 18900">
+				<media url="a24x3.mp3" startMsecs="0" duration="18900" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@De l’implantation aux échanges@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="418" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="51.64" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="418"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ef5374fbcd334c17a123dea35622dfb6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="40780" isStartRelative="false" duration="167"/>
+				<click startTime="44480" isStartRelative="false" duration="167"/>
+				<click startTime="48440" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 51640">
+				<media url="a24x4.mp3" startMsecs="0" duration="51640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Invasion@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Rappels :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le développement du placenta débute durant l'implantation, en même temps que se met en place la réaction déciduale. En particulier à partir de la phase d’invasion (J7). Quand le blastocyste adhère à l'endothélium endométrial, les cellules trophoblastiques se différencient en une couche interne de cytotrophoblastes et une couche externe de syncytiotrophoblastes. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="421" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="46.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="421"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_78066e3ecb4d43c1a5c25f304b74a293yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="9900" isStartRelative="false" duration="167"/>
+				<click startTime="11900" isStartRelative="false" duration="167"/>
+				<click startTime="30900" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 46940">
+				<media url="a24x5.mp3" startMsecs="0" duration="46940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Stade prélacunaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Alors que le cytotrophoblaste prolifère, de nouvelles cellules justes formées migrent vers le syncytiotrophoblaste et perdent leur membrane cellulaire pour former une masse polynucléaire qui se développe rapidement. Le cytotrophoblaste sécrète des enzymes protéolitiques et le syncytiotrophoblaste envoie des projections digiformes permettant au blastocyste d'intégrer l'endomètre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="422" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="45.99" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="422"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c26858866f1d46fbae5e5aee0d682e39yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="25220" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 45990">
+				<media url="a24x6.mp3" startMsecs="0" duration="45990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Stade pré-villeux ou lacunaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt; Vers J9, des lacunes commencent à se former dans le syncytiotrophoblaste. Quand celui-ci va éroder les vaisseaux sanguins et les glandes, les lacunes vont se remplir de sang maternel et de sécrétions glandulaires. Les lacunes isolées vont fusionner pour former un réseau à travers lequel le sang maternel va circuler, établissant ainsi une circulation utéro placentaire primitive.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="423" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="117.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="423"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_330c523cccb84644915f294fc1b628dayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="9570" isStartRelative="false" duration="167"/>
+				<click startTime="51300" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 117100">
+				<media url="a24x7.mp3" startMsecs="0" duration="117100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Stade villeux secondaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vers la fin de la 2e semaine de développement, de petites projections du cytotrophoblaste commencent à s'étendre dans le syncytiotrophoblaste, formant les villosités choriales primitives. Tôt dans la 3e semaine, le mésoderme extra-embryonnaire grandit dans ces villosités, formant un coeur de tissu conjonctif et créant les villosités choriales secondaires. A la fin de la 3e semaine, les vaisseau sanguins embryonnaires ont commencé à se former dans le mésoderme extra embryonnaire des villosités choriales secondaires, les transformant en villosités choriales ternaires. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="424" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="71.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="424"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7a15817620fa4ddeb7462eeed2252f23yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="21610" isStartRelative="false" duration="167"/>
+				<click startTime="26710" isStartRelative="false" duration="167"/>
+				<click startTime="33210" isStartRelative="false" duration="167"/>
+				<click startTime="42810" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 71310">
+				<media url="a24x8.mp3" startMsecs="0" duration="71310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Stade villeux tertiaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Au cours de la 3&lt;/span&gt;&lt;span &gt;e&lt;/span&gt;&lt;span &gt; semaine, les cellules cytotrophoblastiques des villosités choriales ternaires croissent en direction de la décidue basale (decidua basalis) et se propage à travers elle formant une coque cytotrophoblastique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les villosités qui sont connectées à la décidue basale par la coque trophoblastique sont appelées villosités crampons. Les villosités qui se développent depuis les côtés des tiges des villosités sont appelées les villosités flottantes (branch villi). Celles-ci se trouvent dans l'espace appelé chambre intervilleuse et vont servir de sites principaux d'échanges entre la mère et l'enfant.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="425" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="131.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="425"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_35ea6f135569440eba6779f5d7591f1eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="86480" isStartRelative="false" duration="666"/>
+				<click startTime="88680" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 131280">
+				<media url="a24x9.mp3" startMsecs="0" duration="131280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@A terme@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vers la 4e semaine, la circulation foetale est en place. Le sang désaturé est transporté par la paire d'artères ombilicales vers le placenta depuis le foetus. Ces artères se subdivisent dans les villosités choriales et créent un réseau de capillaires dans les extrêmités villositaires. Le CO2 et les déchets sont retirées de la circulations foetale à travers la membrane placentaire vers le sang maternel dans la chambre intervilleuse. L'O2 et les nutriments sont transportés à travers la membrane placentaire depuis le sang maternel vers les capillaires foetaux. Le sang foetal oxygéné revient à travers des veines qui convergent pour former la veine ombilicale pour enfin rejoindre la circulation foetale. Le sang retourne à la circulation maternelle par les veines endométriales, expulsé par la pression créée par les artères spiralées qui amènent le sang à la chambre intervilleuse.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="416" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="7.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="416"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9a12e9395fc345bebfe9b15f09e72b5dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 7930">
+				<media url="a24x10.mp3" startMsecs="0" duration="7930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les structures@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="442" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="191.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="442"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c94a7b0ddf384c36bb2ead9ffcd09cdfyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 191830">
+				<media url="a24x11.mp3" startMsecs="0" duration="191830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réaction déciduale@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Transformation de type épithélial des fibroblastes (cellules fusiformes ) du stroma endométrial &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cellules vont s’agrandir et devenir polygonales, pour stocker glycogène et graisses. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce phénomène est accompagné par l'infiltration de nombreux leucocytes d'origine maternelle et par le remaniement de la matrice extracellulaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Certaines cellules déciduales apoptotiques sont phagocytées par le ST et serviront de substrat nutritif à l'embryon avant l'établissement de la circulation foeto-placentaire. (mécanisme histiotrophes)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La réaction déciduale semble trouver son origine dans le maintient prolongé de la sécrétion de progestérone. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;ST vont éroder les cellules polygonales et permettre ainsi la résorption des nutriments qu’elles contiennent.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La réaction déciduale entraine un recrutement lymphocytaire : rôle dans invasion trophoblastique + immunité maternelle protégeant l’embryon. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les caduques se subdivisent en deux couches : La zone compacte superficielle et la couche spongieuse dessous (=zone de fragilité qui permettra le clivage lors de l’accouchement.)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="436" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="39.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="436"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_859de5fe4d4d4f718a76291bdbf4bd6cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 39250">
+				<media url="a24x12.mp3" startMsecs="0" duration="39250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les villosités choriales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="439" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="210.69" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="439"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_57dddafb66424d199331967deaf47816yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 210690">
+				<media url="a24x13.mp3" startMsecs="0" duration="210690" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;J9 : stade lacunaire : des lacunes du trophoblaste s'ouvrent dans le syncytiotrophoblaste. Erosion capillaires maternels par activité lytique du ST : anastomosent avec lacunes qui vont ensuite communiquer entre elles : CIV&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Entre J11 et J13 : prolifération du CT qui avance dans travées de ST : Vill IR&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A J16 : mésoblaste extraER associé au CT pénètre le tronc des Vill IR =&amp;gt; Vill IIR qui s’étendent jusque dans lacunes&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A J21 : différentiation mésoblaste dans les villosités en tissu conj et vaisseaux sanguins qui se connectent à ceux de l’Eo =&amp;gt; Vill IIIR, dont le diamètre se situe entre 60 et 200 microns&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Après J28, le CT disparait peu à peu de la paroi des V3, réduisant la distance entre CIV et vaisseaux fœtaux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="440" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="130.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="440"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ea6cf48eec1d43889794ab08c405fea4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 130100">
+				<media url="a24x14.mp3" startMsecs="0" duration="130100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L’arbre villositaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Une fois les Vill IIIR formées à la fin de la 4&lt;/span&gt;&lt;span &gt;e&lt;/span&gt;&lt;span &gt; semaine, elles vont encore évoluer au niveau histologique et morphologique. Elles vont croitre en longueur puis en largeur grâce à une prolifération du trophoblaste (avec un système de bourgeonnement de ST rapidement colonisé par du CT, du MEE et des cellules endothéliales.)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un système d’arborisation se met en place entre 9 et 16 semaines : allongement, ramification et modification en vill interm immatures ; puis en vill interm matures à partir de 26 sem, qui sont des vill plus longues et grêles qui elles mêmes devloppent des vill terminales (diamètre de 40 à 80 microns) qui se terminent par de nouveaux bourgeons trophobl.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;A la fin de la grossesse on trouvera donc dans le placenta six types de villosités:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;les villosités tertiaires mésenchymateuses génèrent la croissance en longueur de l'arbre villeux&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;les villosités souches assurant une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;stabilité mécanique&lt;/span&gt;&lt;span &gt; de l'arbre villositaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;les villosités intermédiaires immatures lieu de prolifération du trophoblaste et des bourgeons trophoblastiques&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;les villosités intermédiaires matures dont sont issues&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;les villosités terminales ou libres avec leur vascularisation foetale maximale, qui constituent 40% du volume et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;50% de la surface d'échange&lt;/span&gt;&lt;span &gt; du placenta à terme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;les bourgeons trophoblastiques&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="417" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="134.64" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="417"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_16ee55afa1324309a7944bfb11024276yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 134640">
+				<media url="a24x15.mp3" startMsecs="0" duration="134640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le cytotrophoblaste@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Couche cellulaire interne des villosités du chorion&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Élément clef du placenta&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cellules épithéliales polygonales dérivées du trophectoderme, pluripotentielle&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Différenciation en ST qui va permettre l’enfouissement du blastocyste dans la muqueuse utérine&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Prolifération de CT qui colonise le ST pour ébaucher les VC&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Etre envahies par le mésenchyme embryonnaire : arborisation VC&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Création barrière placentaire : endothélium capillaires placentaire + mésenchyme qui les entoure + CT villeux + ST&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Puis CT prolifère et migrent dans endomètre (CT extra vill) pour persister dans paroi ou vers paroi des artères spiralées et devenir endo vasculaires&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="435" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="165.13" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="435"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_90016578db2c4ed0a1aaeb30a01118ffyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 165130">
+				<media url="a24x16.mp3" startMsecs="0" duration="165130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;CTi ou (extravilleux prolifératif) va proliférer dans la zone d’implantation du blastocyste. Il migre ensuite vers l’endomètre maternel et devient extra villeux (ou extravilleux invasif). Il colonise la décidue et le premier tiers du myomètre. Il va se différencier encore, et remplacer les cell endoth de l’endomètre maternel ou bien devenir des cellules géantes bi ou tri nuclées dans la décidue.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans le placenta, les CTv par agrégation et fusion cellulaire donnent le ST. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="437" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="335.65" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="437"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d3376ac5c8e1429691ade128a743ae03yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 335650">
+				<media url="a24x17.mp3" startMsecs="0" duration="335650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Migration du CT@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Envahissement endomètre en interagissant avec les cell déciduales et les cell immuno compétentes intra décid. (macrophages et cell NK Natural Killer)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;CT non rejetés par organisme maternel car expriment Ag particuliers (HLA-G) + sécrétion cytokines et facteurs immuno modulateurs.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Poursuivent migration vers myomètre : invasion interstitielle =&amp;gt; paroi des a utérines. Les érodent et transforment la tunique élastique en une paroi sans tonus n’offrant pas de résistance au flux sanguin. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Phénomène migratoire dans la matrice  peu connu mais expliqué par expression intégrines de surface au cours de la migration (intégrine récepteur à la laminine devient intégrine récepteur à la fibronectine puis récepteur au collagène puis molécules d’adhérences spécifiques aux cellules endothéliales)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans le cadre d’une des pathologies les plus graves de la grossesse, la pré-éclampsie, un défaut d’invasion trophoblastique et en particulier d’expression de ces intégrines va engendrer une cascade d’évènements physiopathologiques qui entraîne la pré-éclampsie et l’ensemble de ses complications.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les CT modifient aussi leurs récepteurs à certains fact de croiss : perdent le R à l’Epidermal Growth factor, pour exprimer le proto-oncogène c-erb B2&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Des études tenderaient à montrer que la tension en O2 dans l’environnement cellulaire aurait aussi un effet sur la migration. En effet, des facteurs de transcription inductibles par l’hypoxie (HIF) vont induire la transcription de gènes controlés par l’O2 : VEGF (vascular endothelial GF), Glut1 ou Leptine qui vont induire directement ou indirectement la prolifération trophoblastique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, les CT sécrètent des protéases qui dégradent la matrice cellulaire. Ce sont des metalloprotéases  comme des collagénases ou des gélatinases. Il existe à leur propos un système d’auto régulation via les CT extravill qui sécrètent aussi des inhibiteurs de ces protéases : TIMP (tissue inhibitor of metallopeptidase) et PAI (plasminogen activator inhibitor). La décidue a d’ailleurs un rôle dans cette autoregul car elle sécrète du TrasnformingGFbeta1 qui stimule la sécrétion des TIMP (metallopeptidase inhibitor)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="438" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="116.87" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="438"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_878c26e58a2f41a89d1680abd53a69b2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 116870">
+				<media url="a24x18.mp3" startMsecs="0" duration="116870" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le syncytiotrophoblaste@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le syncytiotrophoblaste est la principale interface fœtomaternelle,  assure les fonctions d’échange :diffusion sple, transfert facilité, transfert actif et endocytose &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;CSF-1 : colony stimulating factor 1.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;EGF : epidermal growth factor. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;LIF : leukemia inhibitory factor. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;M-CSF : macrophage-colony stimulating factor.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;TGF&lt;/span&gt;&lt;span &gt;β1 : &lt;/span&gt;&lt;span &gt;transforming growth factor &lt;/span&gt;&lt;span &gt;β1.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="419" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="170.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="419"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6dbaf365f3d94bc8a820b4392adc9830yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 170080">
+				<media url="a24x19.mp3" startMsecs="0" duration="170080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;C’est aussi « la » cellule endocrine du placenta, capable de sécréter des hormones stéroïdes et des hormones polypeptidiques déterminantes pour la suite de la grossesse&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;progestérone  : relaxation du muscle utérin&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lire le reste&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;hCG : maintien du corps jaune , stimule la différenciation du trophoblaste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;hPL (human placental lactogène) : antagoniste de l’insuline sur le métabolisme maternel favorisant ainsi l’apport de nutriments au fœtus. + effet somatotrope sur la mère (donc réserves pour fœtus… on ne mange pas pour 2 !)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lire le reste&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="428" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="189.71" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="428"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_838777e33e35469d860d5718dc9c5f4dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="84960" isStartRelative="false" duration="167"/>
+				<click startTime="93260" isStartRelative="false" duration="167"/>
+				<click startTime="99760" isStartRelative="false" duration="167"/>
+				<click startTime="110060" isStartRelative="false" duration="167"/>
+				<click startTime="148160" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 189710">
+				<media url="a24x20.mp3" startMsecs="0" duration="189710" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La chambre intervilleuse@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le volume de la chambre intervilleuse représente 40 % du volume placentaire total, soit 250 ml à terme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle se remplit deux à trois fois par minute.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce sang est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;une réserve&lt;/span&gt;&lt;span &gt; utilisable par le fœtus en cas d’arrêt de la circulation placentaire physiologique ou pathologique. Le fœtus dispose ainsi d’une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réserve en oxygène de 60 à 90 secondes&lt;/span&gt;&lt;span &gt;, ce délai est moindre en cas d’insuffisance placentaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les artères iliaques internes fœtales donnent chacune une artère ombilicale =&amp;gt; cordon =&amp;gt; se divise en plusieurs branches dans le chorion =&amp;gt; pénètrent dans les troncs villositaires : &lt;/span&gt;&lt;span  fontWeight="bold"&gt;artères cotylédonaires&lt;/span&gt;&lt;span &gt;. Le sang est dispersé dans un réseau extrêmement riche qui pénètre les moindres divisions villositaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les veines cotylédonaires se collectent dans une veine ombilicale unique et le sang regagne finalement le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;système cave inférieur du fœtus&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Le sang maternel, arrivant des artères spiralées sous pression élevée&lt;/span&gt;&lt;span &gt; (70 à 80 mm de Hg), est projeté par saccades dans la chambre intervilleuse en jets qui viennent frapper la plaque choriale. De là, il diffuse et revient vers la plaque basale et est aspiré par les veines utéro-placentaires où la pression est encore plus faible (8 mm de Hg) que dans la chambre intervilleuse (10 mm de Hg). Le flux sanguin maternel très important est estimé à 500 à 600 ml par minute. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="443" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="23.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="443"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_40c4364418684522b522ecc2226b02eeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 23550">
+				<media url="a24x21.mp3" startMsecs="0" duration="23550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les mécanismes@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="430" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="240.48" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="430"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7141730505f94bf4834772ebfcc5585eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 240480">
+				<media url="a24x22.mp3" startMsecs="0" duration="240480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fenêtre implantatoire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;De base, l’endomètre est réfractaire à toute implantation car il défend l’organisme maternel des infection et agression extérieure comme… un embryon. Ce système de défense est constant sauf pendant environ 4 jours (7j après le pic de LH) : la fenêtre implantatoire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un dialogue maternofœtal s’instaure dès la fécondation grâce aux cytokines (LIF : leukemia inhibitory factor, interleukines, CSF : colony stimulating factor, TGFbeta : transforming GF beta).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’endomètre perd ses lymphocytes B et voit arriver les cellules utérines natural killer (uNK). Il existe une immunologie de l’implantation, complexe qui fait intervenir les cytokines et l’expression antigénique par l’embryon.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les pinopodes sont des protrusions apicales des cellules épithéliales de l’endomètre, dont l’apparition est controlée par la progestérone durant la fenetre implant. Ils vont aider à l’ancrage du blastocyste sur l’endomètre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les molécules d’adhésion sont exprimées à différents moments et endroit sur l’épithélium et le stroma endométriaux, sur l’embryon et le trophoblaste. Ce sont les intégrines, L-selectine, mucines,cytokines. Leur importance est primordiale à la phase d’apposition et vont permettre les connexions physiques entre le trophoblaste et l’endomètre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="432" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="164.44" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="432"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f5632b8a782a409aa2c5a7cb9c42e0c0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 164440">
+				<media url="a24x23.mp3" startMsecs="0" duration="164440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Invasion de la matrice extra cellulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;De nombreux phénomènes vont permettre l’enfouissement du blastocyste dans l’endomètre, et certains facteurs sont les mêmes que ceux utilisés au moment de l’apposition : &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;l’IL-1 (qui réalise la liaison avec son récepteur sur les cell épith de l’endom), &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;le LIF (leukemia inhibitory factor) qui lui est synthétisé par les cellules épithéliales utérines et se fixe sur son récepteur exprimé par le blastocyste. Il contribue à la sécrétion d'hCG qui a un role dans la non degen. du corps jaune mais aussi dans la régulation de l’invasion en ayant une action sur l’expression des genes du VEGF (FC de l’endoth. vascul. / vascular endothelial GF)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le récepteur de l'EGF a son expression qui se limite rapidement au trophoblaste du pôle embryonnaire, ce qui explique pourquoi l'implantation intéresse exclusivement cette partie du blastocyste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le trophoblaste se comporte comme un «tissu pseudo-tumoral» envahissant l'endomètre. Les cellules du ST sécrètent des enzymes à activité protéolytique agissant sur la MEC, la rendant plus perméable : les métalloprotéases matricielles (MMP) et des activateurs du plasminogène… mais aussi les inhib des metalloproteases comme vu dans une diapo précédente.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin des facteurs angiogènes entrent en action, sécrétés par le ST qui modifie l’environnement en appelant ou créant des vaisseau (VEGF, Fibroblast GF).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="434" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="319.81" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="434"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fc1fb1ba19354c0a9bf8a6f2bf1a9e72yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 319810">
+				<media url="a24x24.mp3" startMsecs="0" duration="319810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Invasion des artères spiralées@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les cytotrophoblastes &lt;/span&gt;&lt;span &gt;extravilleux&lt;/span&gt;&lt;span &gt; invasifs ont donc migré dans la décidue et le premier tiers du myomètre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ils vont éroder les parois des artères utérines : transforment la tunique élastique artérielle en une paroi fibreuse atone, n’offrant que peu de résistance au flux sanguin maternel. De plus, ils remplacent les cellules endothéliales maternelles dans le conduit artériel.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cytotrophoblastes &lt;/span&gt;&lt;span &gt;extravilleux&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;endovasculaires&lt;/span&gt;&lt;span &gt; vont ainsi former des bouchons trophoblastiques, obstruant les artères spiralées. A ce terme aucun élément figuré (notamment les hématies) n’est présent au niveau de la chambre &lt;/span&gt;&lt;span &gt;intervilleuse&lt;/span&gt;&lt;span &gt;. Le bouchon disparait progressivement vers 9 - 10 SA, ce qui permet la perfusion graduelle de la chambre &lt;/span&gt;&lt;span &gt;intervilleuse&lt;/span&gt;&lt;span &gt; ainsi qu’une augmentation progressive de la pression partielle en oxygène (de 18 à 55 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt; à 12 SA)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les modifications des vaisseaux utérins se font par : &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;un remodelage indépendant de l’invasion trophoblastique par activation du système &lt;/span&gt;&lt;span &gt;renine&lt;/span&gt;&lt;span &gt; angiotensine &lt;/span&gt;&lt;span &gt;decidual&lt;/span&gt;&lt;span &gt; ou a des facteurs hormonaux maternels circulants&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un remodelage par des facteurs sécrétés par les  CT &lt;/span&gt;&lt;span &gt;extravilleux&lt;/span&gt;&lt;span &gt; invasifs : vasodilatateurs,  et VGEF &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un remodelage induit par une interaction directe : Les CT extra &lt;/span&gt;&lt;span &gt;vill&lt;/span&gt;&lt;span &gt; expriment des intégrines de surface spécifiques des cellules endothéliales artérielles. Ainsi ils ajoutent à leur surface des molécules d’adhérence intercellulaire propres aux cellules endothéliales : VE-cadhérine, VCAM-1 (&lt;/span&gt;&lt;span &gt;vascu&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;cell&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;adhesion&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;molecule&lt;/span&gt;&lt;span &gt;) et PECAM-1 (&lt;/span&gt;&lt;span &gt;platelet&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;endoth&lt;/span&gt;&lt;span &gt; celle &lt;/span&gt;&lt;span &gt;adh&lt;/span&gt;&lt;span &gt; mol).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi les artères vont être moins spiralées, moins résistantes, devenir une zone à haut débit, permettant au sang d’arriver dans la CIV &lt;/span&gt;&lt;span &gt;avc&lt;/span&gt;&lt;span &gt; un haut débit&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette invasion est &lt;/span&gt;&lt;span &gt;extremement&lt;/span&gt;&lt;span &gt; importante car mal réalisée, elle va engendrer LA complication de la grossesse : la pré éclampsie. Et du coup ses complications (qui sont gravissimes : RCIU, éclampsie, HRP…). Etiologie de cette mauvaise invasion : anomalie du tonus vasculaire, anomalie génique, désordre immunologiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Non transfo des a &lt;/span&gt;&lt;span &gt;spiralee&lt;/span&gt;&lt;span &gt; vont créer un environnement nocif pour embryon (arrivée du sang avec trop de résistance, création de &lt;/span&gt;&lt;span &gt;plsu&lt;/span&gt;&lt;span &gt; de RL, artères trop toniques et donc diminution des échanges). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le placenta va pourtant réclamer plus d’oxygène pour le &lt;/span&gt;&lt;span &gt;dev&lt;/span&gt;&lt;span &gt; du fœtus =&amp;gt; dysfonction vasculaire systémique (activation coagulation, fragments trophoblastiques) =&amp;gt; &lt;/span&gt;&lt;span &gt;cpk&lt;/span&gt;&lt;span &gt; de la &lt;/span&gt;&lt;span &gt;prééclampsie&lt;/span&gt;&lt;span &gt; (vasoconstriction, &lt;/span&gt;&lt;span &gt;endothliose&lt;/span&gt;&lt;span &gt; rénale, désorganisation endothéliale, &lt;/span&gt;&lt;span &gt;angiopahtie&lt;/span&gt;&lt;span &gt;)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="420" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="28.67" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="420"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4376dbbf95934f26a60f42964e44989cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 28670">
+				<media url="a24x25.mp3" startMsecs="0" duration="28670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="415" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="101.21" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide25.swf" id="415"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_60c258859d9d4494bbd3c8454cd0cb6fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 101210">
+				<media url="a24x26.mp3" startMsecs="0" duration="101210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="403" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="403"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dd99f20748d3450a86f6bd276247cc6ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="4"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

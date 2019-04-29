@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 4 : Le cycle cardiaque, le débit cardiaque et son contrôle</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Joel LUNARDI</name>
+			<speakerTitle>Professeur de Biochimie (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10037.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Julien FAURÉ</name>
+			<speakerTitle>Maitre de conference-CHU de Grenoble</speakerTitle>
+			<image>spk13724.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean-Paul STAHL</name>
+			<speakerTitle>CHU de Grenoble</speakerTitle>
+			<image>spk14447.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Prénom NOM</name>
+			<speakerTitle>Enseignant de la Faculté</speakerTitle>
+			<image>spk130656.jpg</image>
+		</speaker>
+		<speaker>
+			<name>test</name>
+		</speaker>
+		<speaker>
+			<name>Stéphane DOUTRELEAU</name>
+			<speakerTitle>Professeur CHU Grenoble ( UGA)</speakerTitle>
+			<image>spk131338.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_f8e42921d12749f6aabeea45ed6657c7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_b16983e4f3254f769d2d8ec2ccfe11a1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_27409ed36c094405b9fd2a8f7d3e0efdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_a6dcd6eff94240b1ae2edf2cea1e36b4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_b862e411dd5a4c2abea6d9776b12331cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_5aae74473f664cf3abcbd3152954b859yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_d8b71021d2564ebf834ba8ab0d77c489yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="391" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="16.02" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="391"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bb8348b6289c49f69acc85ec90467ef2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 16020">
+				<media url="a24x1.mp3" startMsecs="0" duration="16020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 4 :  Le cycle cardiaque Le débit cardiaque et son contrôle@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons maintenant aborder le dernier chapitre de physiologie cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est un chapitre fondamentale puisque l’on va s’intéresser à la finalité du muscle cardiaque, à savoir assurer un débit sanguin adapté aux besoins physiologiques des différents organes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="413" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="28.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide1.swf" id="413"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dd40dbb4d84343839fcf895fc4eafc25yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 28820">
+				<media url="a24x2.mp3" startMsecs="0" duration="28820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs pédagogiques du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les objectifs de ce chapitre sont multiples&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; comprendre la succession des évènements électriques et hémodynamiques&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; savoir décrire et savoir reconstruire &lt;/span&gt;&lt;span &gt;la boucle pression-volume&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; connaitre la définition et les déterminants de la contractilité, de la précharge et de la postcharge&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Et enfin connaitre les déterminants et les facteurs de contrôle du débit cardiaque&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="462" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="17.85" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="462"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f191fcf5f8c64e21a8736489b28b8773yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 17850">
+				<media url="a24x3.mp3" startMsecs="0" duration="17850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@PLAN@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le plan est court mais le développement et la mise en place des différents paramètres sera plus longue.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je ne peux que vous conseiller pour ce chapitre de comprendre et de visualiser les phénomènes mais de ne pas apprendre par cœur la succession des évènements car c’est une source importante d’erreurs. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="481" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="30.84" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="481"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9af133ed35704d2dae345cde1e7840d6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 30840">
+				<media url="a24x4.mp3" startMsecs="0" duration="30840" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@PLAN@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons d’abord décrire le cycle cardiaque sur le plan hémodynamique cette fois c’est-à-dire en terme de volume et de pression intracavitaire. il existe plusieurs façons de le décrire. Une première plutôt anatomique, une deuxième qui analyse dans le temps la superposition des évènements et permet de comprendre les mouvements des volumes sanguins et enfin une représentation plus fonctionnelle qui nous permettra de comprendre les facteurs de contrôle du débit cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="420" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="86.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="420"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c8889ff540cc40158c7d93a5a8498da3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 86830">
+				<media url="a24x5.mp3" startMsecs="0" duration="86830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le cycle cardiaque@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le cœur a un fonctionnement cyclique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un cycle &lt;/span&gt;&lt;span &gt;peut se définir comme une série de phénomènes qui se suivent dans un ordre déterminé.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  textDecoration="underline"&gt;Le cycle cardiaque&lt;/span&gt;&lt;span &gt; comprend 2 phases principales, initiées par les évènements électriques que vous connaissez maintenant :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;  - La &lt;/span&gt;&lt;span  textDecoration="underline"&gt;diastole&lt;/span&gt;&lt;span &gt; qui &lt;/span&gt;&lt;span &gt;est la&lt;/span&gt;&lt;span &gt; phase de &lt;/span&gt;&lt;span &gt;relaxation &lt;/span&gt;&lt;span &gt;musculaire pendant laquelle une cavité cardiaque se remplit&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;  - La &lt;/span&gt;&lt;span  textDecoration="underline"&gt;systole&lt;/span&gt;&lt;span &gt; qui est la&lt;/span&gt;&lt;span &gt; phase de &lt;/span&gt;&lt;span &gt;contraction&lt;/span&gt;&lt;span &gt; musculaire pendant laquelle le volume intra cavitaire est éjecté&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour des raisons pédagogiques, nous allons décrire les évènements successifs qui surviennent dans le ventricule gauche, mais il faut garder à l’esprit que les mêmes évènements surviennent aussi dans le ventricule droit et qu’il existe évidemment un synchronisme entre les deux ventricules.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il faut aussi garder à l’esprit que les oreillettes sont des réservoirs qui se remplissent en permanence, qu’elles présentent aussi un cycle remplissage-éjection mais qui précède normalement le cycle ventriculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, il faut comprendre que tous les mouvements liquidiens intracavitaires sont liés à des gradients hémodynamiques de pression, les volumes se déplaçant des zones à haute pression vers des zones à plus basse pression. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comprendre l’évolution des pressions, c’est comprendre le cycle cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="421" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="97.43" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="421"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5cf59a88409f48e0a056f30901593139yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 97430">
+				<media url="a24x6.mp3" startMsecs="0" duration="97430" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le cycle cardiaque@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Tout le monde n’a pas la même définition de la diastole et de la systole.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans ce cours de physiologie cardiaque, nous considérerons que la DIASTOLE est la phase de repos qui comprends la relaxation et le remplissage et que la SYSTOLE est la phase de contraction qui comprends la contraction proprement dite et l’éjection.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Chaque phase (la diastole et la systole) est divisée en deux : une courte phase dite isovolumique (car se faisant sans variation du volume intracavitaire) et une phase où se produisent les transferts d’un certain volume sanguin d’une cavité à l’autre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le dernier point avant de commencer est un point de vocabulaire. Pour se repérer dans une phase du cycle cardiaque que ce soit pour des événements électrique, hémodynamique ou pour la description d’un souffle cardiaque, le cycle est artificiellement divisé en 3 : le début de la phase est précédé du préfixe PROTO, le milieu du cycle du préfixe MESO et la fin du cycle du préfixe TELE.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On pourra donc parler de la protodiastole, de la mésodiastole ou de la télédiastole. Pour indiquer que l’é&lt;/span&gt;&lt;span &gt;vènement dure pendant tout le cycle, on utilise le préfixe HOLO.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Concernant le cycle cardiaque et ses caractéristiques, les phases importantes sont les dernières parties de la systole et de la diastole. Ce sont donc les paramètres télédiastoliques ou télésystoliques dont nous reparlerons constamment.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="469" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="49.48" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="469"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_358b6f194b85401f9aa1c72e7f6d3179yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 49480">
+				<media url="a24x7.mp3" startMsecs="0" duration="49480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effet de la Fc sur le cycle cardiaque@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La durée de ces deux phases n’est pas la même et l&lt;/span&gt;&lt;span &gt;’augmentation de la FC s’accompagne de modifications des temps de remplissage et d’éjection puisque le cycle cardiaque se raccourcit à mesure que la Fc augmente&lt;/span&gt;&lt;span &gt;. Au repos et jusqu’à des fréquences cardiaques moyennes, la durée de la diastole est supérieure à la durée de la systole. &lt;/span&gt;&lt;span &gt;Les variations se font surtout par diminution du temps de remplissage (ici en bleu sur le schéma) alors que le temps d’éjection ne varie que peu, de manière à permettre l’augmentation de débit cardiaque qui accompagne l’élévation de la Fc.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ceci est bien compréhensible car sur le plan fonctionnel, le ventricule doit se remplir avant d’éjecter&lt;/span&gt;&lt;span &gt;…&lt;/span&gt;&lt;span &gt; Si le temps de remplissage est trop court, le ventricule n’aura qu’un faible volume à éjecter.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="423" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="70.7" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="423"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a3f383db17d8413ca34c5ec874ef2946yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 70700">
+				<media url="a24x8.mp3" startMsecs="0" duration="70700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fonctionnement de chaque pompe@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Avant de décrire le cycle phase par phase je vous présente ici un modèle non anatomique d’un cœur droit ou gauche &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il comprend &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;une chambre d’admission à basse pression &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; les oreillettes qui sont des réservoirs &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; cette chambre se remplit en permanence mais avec des débits évidemment variables selon le moment du cycle&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;une valve dite d’admission qui est la valve mitrale pour le cœur gauche et la valve tricuspide pour le cœur droit &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; cette valve s’ouvre pour REMPLIR le ventricule &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; ces valves, comme toutes les valves sont unidirectionnelles c’est à dire qu’elles ne peuvent s’ouvrir que dans un sens. On parle aussi de valve auriculo-ventriculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;le ventricule lui même qui est une cavité situé entre la valve d’admission et&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;la valve d’éjection qui est la voie de sortie du ventricule. L’éjection se fait dans les gros vaisseaux de la base du cœur. Il s’agit de la valve aortique et de l’aorte pour le ventricule gauche et de la valve pulmonaire et du tronc de l’artère pulmonaire pour le ventricule droit. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="464" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="166" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="464"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5ed0e6eb55804d27af920ce67b9063d7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 166000">
+				<media url="a24x9.mp3" startMsecs="0" duration="166000" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Décrivons rapidement les 4 différentes phases du cycle en prenant l’exemple du ventricule gauche &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est habituel de commencer la description d’un cycle après l’éjection ventriculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sur ce schéma, vous avez représenté la DIASTOLE avec les différentes phases du remplissage en BLEU et la SYSTOLE donc la contraction en ROUGE&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;1- A la fin de l&lt;/span&gt;&lt;span &gt;’é&lt;/span&gt;&lt;span &gt;jection ventriculaire, la relaxation ventriculaire se produit, entrainant &lt;/span&gt;&lt;span &gt;une baisse de la pression intra-ventriculaire. Une fois que celle-ci devient inférieure à la pression dans l’aorte, le gradient de pression s’inverse et est dirigé vers le ventricule ce qui ferme la valve aortique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;2- Avec la poursuite de la relaxation la pression ventriculaire continue de diminuer et devient inférieure à la pression qui règne dans l’oreillette gauche &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; le gradient de pression est dirigé vers le ventricule gauche et et la valve mitrale s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ouvre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le sang s’écoule de l’oreillettes vers le ventricule gauche d’abord de façon passive puis active car lié à la contraction auriculaire. Environ 80% du remplissage ventriculaire ont lieu alors que les oreillettes sont relâchées. Les  derniers 20% du remplissage ont lieu lorsque les oreillettes se contractent.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Avec la relaxation de l’oreillette, le gradient de pression bien que faible s’inverse et se dirige vers l’oreillette gauche ce qui ferme la valve mitrale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;3 &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; Le ventricule gauche est isolé et contient un certain volume sanguin. La valve d’admission et la valve de sortie étant fermée, on parle de phase isovolumique. La dépolarisation qui a fait se contracter l’oreillette arrive maintenant au niveau du ventricule qui commence à se contracter. C’est la contraction isovolumique. La pression intraventriculaire augmente rapidement (on dit que l’on met en charge le volume intraventriculaire).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;4 - lorsque le gradient de pression se dirige vers l’aorte, c’est à dire que la pression dans le ventricule gauche devient supérieure à la pression aortique, la valve aortique s’ouvre c’est la phase d’éjection ventriculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le ventricule gauche se repolarise, la pression intraventriculaire gauche diminue rapidement et c’est un nouveau cycle qui commence tout ceci à 40 cycles/min au repos chez un sportif entraîné et à 200 cycles par minute lors d’un effort maximum chez un sujet jeune.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="426" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="80.65" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="426"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e6e1884a40134d858c54ba2620d8df41yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 80650">
+				<media url="a24x10.mp3" startMsecs="0" duration="80650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Relaxation isovolumique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons revoir chaque cycle en décrivant l’évolution des pressions aortique (en vert), auriculaire (en rogue) et ventriculaire (en bleu) et parallèlement l’évolution du volume ventriculaire (ici en orange). Les différentes phases de l’ECG sont données en bas.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pendant la phase de relaxation isovolumique, le ventricule se repolarise et se relâche. La valve aortique est fermée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span &gt;pression ventriculaire gauche diminue rapidement &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; c’est une phase active, nécessitant de l’ATP et qui dépend comme nous l’avons vu dans le chapitre précédent de la recapture du calcium intracellulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le volume ventriculaire est minimal et constant&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pendant ce temps, l’oreillette continue de se remplir et comme la valve mitrale est fermée, la pression dans l’OG augmente de quelques mm de mercure.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une fois que la pression dans le ventricule gauche devient inférieure à la pression auriculaire gauche, la valve mitrale s’ouvre : c’est la fin de cette phase isovolumique &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les  oreillettes se remplissent.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="427" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="38.85" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="427"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_727fa4f1e12a4fd4bd6ee7bc167f774eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 38850">
+				<media url="a24x11.mp3" startMsecs="0" duration="38850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Remplissage ventriculaire (passif)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Commence alors le remplissage ventriculaire. Le sang s’écoule de l’oreillette gauche dans le ventricule gauche.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le volume ventriculaire augmente mais la pression intraventriculaire gauche n’augmente que peu. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pendant ce temps, l’oreillette s’étant vidée, la pression intra-auriculaire diminue ce que l’on a du mal à voir sur le schéma car les pressions sont très proches&lt;/span&gt;&lt;span &gt;…&lt;/span&gt;&lt;span &gt; La pression aortique baisse progressivement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette première phase du remplissage ventriculaire est dite passive car ne se faisant que par le jeu des gradients de pression&lt;/span&gt;&lt;span &gt;…&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="465" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="34.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="465"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7e7559046381466183c0ba7b7f7bcca7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 34800">
+				<media url="a24x12.mp3" startMsecs="0" duration="34800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Remplissage ventriculaire (actif)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Survient alors la contraction de l’oreillette qui en augmentant la pression intra-auriculaire gauche permet de remplir encore le ventricule gauche d’un petit volume sanguin. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Par définition, le volume sanguin qui est contenu à ce moment dans le ventricule gauche est le volume télédiastolique ventriculaire gauche (volume de fin de diastole, de fin de remplissage) et la pression intra-ventriculaire est la pression télédiastolique du ventricule gauche, ou PTDVG&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="466" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="28.57" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="466"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a73b89fbbde74441a038530310ff6ad5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 28570">
+				<media url="a24x13.mp3" startMsecs="0" duration="28570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contraction isovolumique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La valve mitrale est fermée et la valve aortique n’est pas encore ouverte.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le ventricule gauche est isolé de l’oreillette et de l’aorte &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; c’est donc une phase isovolumique &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le ventricule gauche se dépolarise et se contracte &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; sa pression augmente rapidement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette phase de contraction isovolumique est en rapport avec les flux calciques entrants que nous avons décrit dans le chapitre précédent.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="467" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="34.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="467"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c673f5682d9f4d8381522bf43b6e7562yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 34660">
+				<media url="a24x14.mp3" startMsecs="0" duration="34660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Éjection ventriculaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La pression ventriculaire gauche augmente.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;quand elle dépasse la pression minimale aortique (la pression diastolique aortique), la valve aortique s’ouvre et une partie du volume sanguin est éjectée dans l’aorte : c’est l’éjection ventriculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le volume qui reste dans le ventricule gauche est appelé la volume télésystolique VG et la pression, la pression télésystolique ventriculaire gauche.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="416" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="56.15" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="416"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2699593f52cf458aa83a0c83c97daf8fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 56150">
+				<media url="a24x15.mp3" startMsecs="0" duration="56150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@cathétérisme cardiaque gauche@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La mesure des pressions est relativement facile à faire chez l’homme. On place par voie artérielle une sonde dans le VG, l’aorte et l’OG et on peut mesurer les pressions en fonction des différentes phases du cycle cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous avez représenté ici la courbe de pression intraVG d’un homme au repos en bas avec une trace électrocardiographique en haut. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous voyez que la forme est un peu différente de celle décrite. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;il y a des mesures automatiques : la pression minimale, la pression maximale et la pression télédiastolique du VG qui est la pression mesurée en fin de remplissage &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; par convention on mesure la pression au pied du complexe QRS, matérialisé ici par la ligne rouge.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="482" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="29.49" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="482"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_70eb35bcc2fb4f8da767028b5050b54ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 29490">
+				<media url="a24x16.mp3" startMsecs="0" duration="29490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@PLAN@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Il existe différente façon de représenter le cycle cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous avons commencé par une vision anatomique et hémodynamique qui est parlante et qui permet de comprendre l’évolution et la chronologie des évènements.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;ça n’est pas la plus pertinente sur le plan physiologique et physiopathologique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous allons donc maintenant construire une relation pression-volume dans le ventricule gauche qui, puisque les événements sont cycliques, forment une boucle, la boucle pression-volume.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="433" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="39.53" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="433"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_357887994d8e4933875fd31bd97fafe0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 39530">
+				<media url="a24x17.mp3" startMsecs="0" duration="39530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@boucle pression-volume@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La boucle pression-volume est une représentation graphique qui exprime l’évolution des pressions intra-cavitaires en ordonnée en fonction des volumes intracavitaires en abscisse. Elle ne s’intéresse donc qu’au ventricule. On peut individualiser les 4 phases du cycle cardiaque que nous avons déjà décrites mais nous allons la reconstruire ensemble sur les prochaines diapositives.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette représentation est très pratique pour comprendre les conséquences d’une modification d’un paramètre sur l’hémodynamique cardiaque. Nous verrons des exemples précis au fur et à mesure de l’avancée dans le cours.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="434" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="91.37" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="434"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b6d8fe18d0a4477394ba50c13ed28884yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 91370">
+				<media url="a24x18.mp3" startMsecs="0" duration="91370" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le remplissage ventriculaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Commençons la construction de cette relation avec le remplissage ventriculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous sommes en diastole, dans un régime à basse pression.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La valve mitrale vient de s’ouvrir et le sang s’écoule selon le gradient de pression, de l’oreillette gauche vers le ventricule gauche. Dans cet exemple, le volume sanguin contenu dans le ventricule était de 50 ml avant remplissage et de 120 ml après remplissage. Rappelons qu’en fin de remplissage, le volume contenu dans le ventricule est le volume télédiastolique ventriculaire gauche.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La pression qui règne dans le ventricule à ce moment du cycle n’est que de quelques mmHg. L’addition d’un volume supplémentaire n’entraine normalement qu’une augmentation minime de la pression intraventriculaire gauche. Toutefois le gradient de pression s’inversant, la valve mitrale se ferme. Sur cette représentation la distinction entre remplissage passif et remplissage actif n’est pas aussi évidente.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La pression dans le ventricule gauche en fin de remplissage, donc en fin de diastole, est la pression télédiastolique du VG ou PTDVG&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le VTD du VG et la PTD du VG sont appelés les conditions de charge du ventricule gauche.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="470" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="26.35" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="470"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ba3d25b1a8bb41b8815ce97973ec315dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 26350">
+				<media url="a24x19.mp3" startMsecs="0" duration="26350" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La contraction isovolumique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le ventricule commence à se contracter. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La valve mitrale est fermée et la valve aortique est toujours fermée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le volume ventriculaire est donc constant. C’est la phase de contraction isovolumique qui est une phase très courte.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque la pression intraventriculaire gauche devient supérieure à la pression aortique, la valve aortique s’ouvre&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="471" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="118.45" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="471"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_422117a4a1a14a25b5135ecacb855b92yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 118450">
+				<media url="a24x20.mp3" startMsecs="0" duration="118450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L’éjection ventriculaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;le ventricule continue à se contracter expliquant que la pression intraventriculaire augmente encore, et l’éjection ventriculaire commence. Le volume intraventriculaire diminue donc &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; le volume éjecté est appelé la volume d’éjection systolique ou VES et le volume qui reste dans le ventricule à la fin de l’éjection est appelé le volume télésystolique du VG. Il est dans cet exemple de 50 ml.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La pression intraventriculaire gauche passe par un maximum (120 mmHg dans cet exemple) puis diminue alors que le ventricule gauche arrête de se contracter et commence à se repolariser. La pression qui règne à la fin de l’éjection est la pression télésystolique du ventricule gauche (80 mmHg ici dans cet exemple).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le VES est donc la différence entre le volume en fin de remplissage, donc le volume télédiastolique et le volume en fin d’éjection donc le volume télésystolique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une autre façon de l’exprimer est de calculer le % du volume contenu dans le ventricule qui a été éjecté. Il s’agit alors de la fraction éjecté ou fraction d’éjection noté FE. La FE est donc le rapport entre le VES et le VTD. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En prenant les valeurs graphiques sur le schéma, le VES est de 70 ml et la FE est de 58 %.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="472" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="19.47" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="472"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_729c27c968ec4291b7dac445caec1c17yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 19470">
+				<media url="a24x21.mp3" startMsecs="0" duration="19470" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La relaxation isovolumique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Après la fermeture de la valve aortique, le ventricule qui continue &lt;/span&gt;&lt;span  fontWeight="bold"&gt;de se &lt;/span&gt;&lt;span  fontWeight="bold"&gt;repolariser&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;voit sa pression &lt;/span&gt;&lt;span &gt;intracavitaire&lt;/span&gt;&lt;span &gt; baisser de façon rapide.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La valve mitrale n’étant pas encore ouverte, nous sommes dans une phase &lt;/span&gt;&lt;span &gt;isovolumique&lt;/span&gt;&lt;span &gt; : la relaxation &lt;/span&gt;&lt;span &gt;isovolumique&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="475" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="66.63" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="475"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f05de2b2e6824a6fabd59d63cafbb0eeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 66630">
+				<media url="a24x22.mp3" startMsecs="0" duration="66630" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La boucle débit-volume@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Sur cette représentation graphique, vous devez parfaitement pouvoir repérer les volumes télédiastoliques et télésystoliques du VG ainsi que les pressions correspondantes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous devez pouvoir repérer et calculer le volume d’éjection systolique et la fraction d’éjection et être parfaitement familiers avec ces paramètres qui sont des reflets de la fonction systolique du ventricule gauche donc un reflet indirect de l’&lt;/span&gt;&lt;span &gt;inotropisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La surface de cette boucle correspond au travail myocardique pendant un cycle cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le débit cardiaque, donc le volume de sang éjecté par le cœur par unité de temps, est le produit du volume éjecté à chaque contraction par le nombre de contraction par minute.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est donc le produite VES x Fc&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Tout ceci est résumé sur cette figure.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous allons voir maintenant les déterminants du remplissage et de l’éjection ventriculaire, qui seront vous l’avez compris des facteurs majeurs de contrôle du débit cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="476" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="149.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="476"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d21fd438d81f4c38b8e61163ff59209eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 149240">
+				<media url="a24x23.mp3" startMsecs="0" duration="149240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Déterminants de la boucle débit-volume@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous avez représenté sur ce schéma les principaux déterminants de la surface ce la courbe débit-volume, donc du volume d’éjection systolique, donc du débit cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Tous ces paramètres sont dépendants les uns des autres mais peuvent varier dans des proportions différentes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  textDecoration="underline"&gt;Premièrement&lt;/span&gt;&lt;span &gt;, le remplissage ventriculaire dépend de l’élasticité du myocarde, de sa compliance qui est une propriété intrinsèque du myocarde &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; plus le myocarde est élastique, plus grande sera sa compliance &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; vous avez déjà vu cette relation en biophysique. Concrètement un ventricule compliant signifie que l’on peut le remplir facilement sans entrainer d’élévation importante de la pression à l’intérieur de la cavité. Les sujets jeunes sans pathologie ont un ventricule très compliant et c’est pour ça que, comme nous l’avons dit, 80 % du remplissage est passif se faisant uniquement grâce à cette qualité. Inversement les sujets âgés ont un myocarde moins élastique &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; il est moins compliant donc il se laisse moins bien remplir passivement et la pression à l’intérieur du ventricule augmentera plus vite.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Quel que soit le niveau de compliance, lorsque la valve mitrale se ferme, il y a dans le ventricule un certain volume de sang et une certaine pression &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; ce sont les paramètres télédiastoliques qui sont des composants majeurs de ce que l’on appelle la &lt;/span&gt;&lt;span  textDecoration="underline"&gt;PRECHARGE&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le niveau de précharge est lui un déterminant majeur de la contraction : c’est la loi fondamentale du cœur  que l’on redécrira. S’y ajoute la CONTRACTILITE qui est la capacité du muscle cardiaque à générer une force pour une précharge donnée. C’est donc, comme pour la compliance, une propriété du muscle cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, l’éjection se fera contre un ensemble d’éléments qui faciliteront plus ou moins l’éjection : il s’agit de la &lt;/span&gt;&lt;span  textDecoration="underline"&gt;POSTCHARGE,&lt;/span&gt;&lt;span &gt; que nous reverrons dans le cours de physiologie vasculaire car il s’agit essentiellement d’une propriété du système artériel.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;la PRECHARGE, la CONTRACTILITE et la POSTCHARGE ventriculaire sont les déterminants majeurs de la boucle débit volume, donc du débit cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous allons revoir ces différents éléments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="483" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="2.98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="483"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_75a73746c1294ad9870dde7e16a573d2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 2980">
+				<media url="a24x24.mp3" startMsecs="0" duration="2980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@PLAN@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Tout d’abord la précharge&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="448" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="26.53" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="448"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_92c3b126d5bb477d868f30755ddee733yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 26530">
+				<media url="a24x25.mp3" startMsecs="0" duration="26530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La précharge@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La définition de la précharge est assez facile à comprendre, mais ses déterminants sont multiples.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On la définit comme étant l’ensemble des facteurs qui contribuent à la grandeur du volume télédiastolique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le système CV étant un circuit fermé, on peut l’assimiler à tout ce qui revient au niveau du cœur droit c’est à dire le volume du retour veineux&lt;/span&gt;&lt;span &gt;…&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="447" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="98.73" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="447"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_823dc47486d7413f81f591b972b7db48yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 98730">
+				<media url="a24x26.mp3" startMsecs="0" duration="98730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La précharge@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour comprendre l’influence de la précharge plaçons nous dans les conditions d’une augmentation de la précharge. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cela survient lorsque l’on augmente la quantité de sang qui revient dans l’oreillette. Il suffit par exemple à l’aide d’une perfusion d’ajouter un volume à l’intérieur du système veineux ; chez un sujet jeune on peut facilement remplir le système de plusieurs centaines de ml sur quelques minutes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sous réserve d’avoir un ventricule bien compliant donc se laissant facilement remplir, &lt;/span&gt;&lt;span &gt;on augmente le volume en fin de remplissage passant sur ce schéma du VTD1 au VTD2.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De façon automatique, toute augmentation de la précharge, donc du remplissage, s’accompagne la systole suivante d’une augmentation de l’éjection du volume équivalent. Le cycle suivant le VES est donc plus important. (ici VES2).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous pouvons introduire ici une notion supplémentaire : la notion de volume mort. C’est une notion que nous retrouverons en physiologie vasculaire. Le cœur est un organe creux &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; il faut le remplir d’un certain volume avant d’observer une augmentation de pression à l’intérieur de la cavité. On peut observer cette situation en cas de baisse importante de la précharge comme par exemple lors d’une hémorragie massive. On dit qu’il y a désamorçage de la pompe cardiaque &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; celle-ci ne peut fonctionner à vide. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="478" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="478"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1c8c02308e41446a82b39c0d7abb9729yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 43980">
+				<media url="a24x27.mp3" startMsecs="0" duration="43980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La loi fondamentale du cœur @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La loi fondamentale du cœur, ou loi de Frank Starling, est une propriété intrinsèque du myocarde.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle dit que, dans les limites physiologiques, et si j’interprète les propos de Starling rapportés sur la diapositive, plus le cœur se remplit, plus il éjecte. &lt;/span&gt;&lt;span &gt;Le cœur rend toujours ce qu’il reçoit.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sur le plan mécanistique, on peut faire une analogie avec la relation tension/longueur déjà vue dans le muscle strié squelettique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;é&lt;/span&gt;&lt;span &gt;tirement des fibres myocardiques aboutit à une optimisation des ponts actine/myosine permettant lors de la contraction une augmentation de la force de contraction qui y est proportionnelle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="450" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="38.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="450"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_13823354367a487db29f28ff34443dd3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 38660">
+				<media url="a24x28.mp3" startMsecs="0" duration="38660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les déterminants de la précharge@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les déterminants de la précharge sont nombreux&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous avez ici une liste non exhaustive des facteurs qui peuvent la modifier.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il s’agit de tous les facteurs de variations du retour veineux que nous reverrons dans le cours de physiologie vasculaire et de la compliance du ventricule donc de ce que l’on peut appeler sa performance à se remplir pendant la diastole, donc sa performance diastolique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On gardera aussi à l’esprit que la géométrie des cavités cardiaques qui peuvent varier de façon importante influence aussi la précharge ventriculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour moi : stress = Pr/2h&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="484" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="7.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="484"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ac72ab4ded8a4f4fbea3c82a6669f8d5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 7200">
+				<media url="a24x29.mp3" startMsecs="0" duration="7200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@PLAN@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Intéressons nous maintenant à ce que représente la postcharge ventriculaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="479" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="60.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="479"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2e7a513438594fe68b1b59d5c8306433yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 60660">
+				<media url="a24x30.mp3" startMsecs="0" duration="60660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La postcharge ventriculaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La postcharge est l’ensemble des facteurs qui s’opposent à l’éjection.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Que se passe-t-il si j’augmente la post-charge c’est à dire si par exemple j’augmente la pression dans l’aorte. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La précharge ne varie pas ici dans cet exemple &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; je pars donc d’un même volume télédiastolique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque le VG éjecte le temps mis pour dépasser la pression aortique peut-être plus long et l’ouverture de la valve aortique se faire plus tardivement &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; puis lors de l’éjection, lorsque la pression baisse, l’inversion du gradient de pression survient aussi plus tôt et la fermeture de la valve est plus précoce.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le volume éjecté est donc plus petit. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une augmentation de la post-charge se traduira, à précharge constante, à une diminution du VES donc à une diminution du débit cardiaque.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="480" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="480"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_14f080548bf44b4eb4fed6bcec6fdf17yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 14220">
+				<media url="a24x31.mp3" startMsecs="0" duration="14220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Déterminants de la post-charge@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;les déterminants de la post-charge sont essentiellement en rapport avec des propriétés du système vasculaire que sont les résistances vasculaires périphériques et tout leurs facteurs de variations que nous reverrons dans un chapitre ultérieur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="485" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="9.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="485"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_68ee1364b15046b9acd3983092000729yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="32" duration=" 9950">
+				<media url="a24x32.mp3" startMsecs="0" duration="9950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@PLAN@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;le dernier paramètre est la contractilité, paramètre que l’on a déjà approché avec le couplage excitation/contraction &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="443" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="86.33" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="443"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_57ca7f70c8a04d559563ffce0a53477eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 86330">
+				<media url="a24x33.mp3" startMsecs="0" duration="86330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Élastance ventriculaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici le potentiel d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;augmentation du travail cardiaque qui constitue la capacité de réserve cardiaque physiologique, càd les capacités d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;adaptation de la fonction pompe aux besoins en augmentant la précharge et la post-charge : nous sommes partis d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;en bas à G et nous pouvons atteindre les limites en-haut à D.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La courbe verte de remplissage, représente la relation P/V diastolique passive (ou compliance) du VG obtenue à différents niveaux de précharge &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; c’est l’ELASTANCE PASSIVE, que l’on a appeler avant la performance diastolique. Comme vous le voyez la relation n’est pas linéaire mais au delà d’un certain niveau de précharge, la pression télédiastolique VG peut augmenter fortement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La droite noire qui relie tous les points de fermeture aortique, représente la relation P/V active du VG et reflète la réponse contractile du myocarde : c’est l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;é&lt;/span&gt;&lt;span &gt;lastance Active télésystolique Emax que l’on peut calculer à partir du VES, du VM et de la PTS du VG.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="477" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.64" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="477"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_90d5003b985d4e409c2c96a175680307yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="34" duration=" 53640">
+				<media url="a24x34.mp3" startMsecs="0" duration="53640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La contractilité myocardique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La contractilité myocardique (donc la fonction inotrope) est une propriété intrinsèque des fibres myocadiques isolées, indépendamment des conditions de charge. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est donc une mesure difficile en pratique surtout chez l’homme. On peut la mesurer en calculant l’&lt;/span&gt;&lt;span &gt;élastance active, notion que nous allons redéfinir, mais en pratique on l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;approche avec la mesure facile à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aide de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;échographie cardiaque, de la fraction d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;éjection. On gardera toutefois à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;esprit que la FE mesurée in vivo dépendra du niveau de précharge et de postcharge au moment de la mesure.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le contrôle de la contractilité est à la fois mécanique &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; c’est la loi fondamentale du cœur mais aussi par le SNA et hormonal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="457" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="19.13" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide34.swf" id="457"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9a862691cd4643a68c0fcbd6b384651fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="35" duration=" 19130">
+				<media url="a24x35.mp3" startMsecs="0" duration="19130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contractilité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Il est possible d’augmenter la contractilité &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; cela se traduit par une augmentation de la pente de l’&lt;/span&gt;&lt;span &gt;élastance active.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Inversement une baisse de la contractilité, que l’on peut observer en pathologie, se traduit par une diminution de la pente de cette relation&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="458" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="102.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide35.swf" id="458"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2c1609d47ce24c7bbfd630f451e125a8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="37" duration=" 102820">
+				<media url="a24x37.mp3" startMsecs="0" duration="102820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le ventricule droit@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour terminer, un mot sur le ventricule droit.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le ventricule droit, longtemps considéré comme inutile sur le plan strictement hémodynamique, joue un rôle fondamental puisque &lt;/span&gt;&lt;span  textDecoration="underline"&gt;c’est lui qui récupère tout le retour veineux et qui doit donc générer le débit&lt;/span&gt;&lt;span &gt;….&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous avez sur la partie gauche de la diapositive une reconstruction tridimensionnelle du ventricule en bleu qui entoure le ventricule gauche en rouge.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La forme de la courbe débit-volume ventriculaire droite est représentée à droite superposée à celle du VG que nous venons de décrire. Elle a été obtenue chez l’homme sain bénéficiant d’un cathétérisme cardiaque. Si les mesures de pression sont faciles le calcul du volume ventriculaire est plus compliqué.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les caractéristiques de la contraction VD sont très dépendantes de ses conditions de charge &lt;/span&gt;&lt;span &gt;–&lt;/span&gt;&lt;span &gt; il n’y a pas de phases isovolumiques clairement identifiées dans le VD. Cela signifie que pour une éjection optimale il faut que le ventricule soit remplit de façon importante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le débit généré par le VD est évidemment équivalent à celui généré par le VG (la largeur de la boucle donc le VES est évidemment identique à droite et à gauche) mais avec un coût énergétique 5 fois moindre que pour le VG. Ceci s’explique bien sur parce que l’on est dans un système à basse pression mais aussi par les caractéristiques uniques de la relation P/V ventriculaire…&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="486" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="9.47" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide36.swf" id="486"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d6c383a747d24a0ebf90ece65728a153yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="36" duration=" 9470">
+				<media url="a24x36.mp3" startMsecs="0" duration="9470" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@PLAN@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Tout cela nous amène à la finalité de cette pompe cardiaque : générer un débit sanguin en adéquation avec les besoins.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="445" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide37.swf" id="445"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_45fea23efe7b41c7ab93b6097ffe58aayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="38" duration=" 47930">
+				<media url="a24x38.mp3" startMsecs="0" duration="47930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le débit cardiaque@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le débit cardiaque est la quantité de sang éjecté par le ventricule par unité de temps. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est une mesure globale de la performance du système cardiovasculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le cœur fonctionnement en série, les débit des ventricules gauche et droit sont bien sur équivalent&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au repos le débit cardiaque est en moyenne de 5 l/min variant selon la surface corporelle de 4 à 7 l/min&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour comparer les débits cardiaques entre les sujets, on utilise donc l’index cardiaque qui est la quantité de sang éjectée par unité de temps et par mètre de surface corporelle. il est alors de 3 à 3,5 l/min/m2.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="446" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.67" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide38.swf" id="446"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ba1138336bd54d4eb664b86234db09a4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="39" duration=" 43670">
+				<media url="a24x39.mp3" startMsecs="0" duration="43670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Facteurs de contrôle du débit cardiaque@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les facteurs de contrôle du débit cardiaque sont multiples.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;vous avez schématisez ici le cœur au centre qui se remplit (la précharge) et qui se contracte contre une résistance (la contractilité et la postcharge)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En vert vous avez les éléments de contrôle du débit cardiaque et en blanc quelques facteurs permettant encore de moduler chaque paramètre. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le débit cardiaque n’est pas une valeur constante. Il ne fait pas l’objet d’une régulation mais d’un simple contrôle qui vise à l’adapter aux besoins. Il s’adapte en permanence quasiment battement par battement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="417" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="41.58" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide39.swf" id="417"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6d25f20336cf46dc8b5983e1798b035byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="40" duration=" 41580">
+				<media url="a24x40.mp3" startMsecs="0" duration="41580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@distribution du débit cardiaque@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous verrons comment est contrôlé le débit sanguin local (c’est-à-dire le débit délivré à chaque organe) en fonction des besoins de cet organe. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il faut par contre comprendre que le cœur fixe la valeur TOTALE du débit cardiaque ; Ce débit va ensuite se répartir différemment selon les besoins. A chaque bifurcation artérielle, la valeur de débit sera inférieure au débit à la sortie du cœur. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le seul organe à systématiquement recevoir TOUT le débit cardiaque, quelque soient les circonstances, est le poumon situé entre le ventricule droit et l’oreillette gauche.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="415" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="42.01" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide40.swf" id="415"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ebd595daedf44d1dabc9f4e46ac14e6eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="41" duration=" 42010">
+				<media url="a24x41.mp3" startMsecs="0" duration="42010" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ce cours est dense et les concepts exposés peuvent être assez abstraits. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les exemples que l’on donnera après le cours de physiologie vasculaire permettra de comprendre des interactions permanentes entre tous ces paramètres. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il faut comprendre que le cœur s’adapte cycle à cycle et que le comportement des ventricules dépend à la fois de paramètres physiologiques mais aussi de paramètres hémodynamiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Tous ces paramètres permettent de moduler le débit cardiaque dont le niveau est fixé par la débit du retour veineux donc par les besoins tissulaires des organes périphériques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Merci pour votre attention et bon courage !&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+			<slideSpeaker index="5"/>
+		</slide>
+		<slide id="403" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide41.swf" id="403"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0e975056444c4de5b86d3aecf79a4766yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="42"/>
+			<slideSpeaker index="5"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>
