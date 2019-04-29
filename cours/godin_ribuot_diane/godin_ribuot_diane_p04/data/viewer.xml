@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 4 : la filtration glomérulaire et sa régulation</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Pierre Alexis GAUCHARD</name>
+			<speakerTitle>Agrégé de chimie, Docteur ès sciences (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk113048.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Diane GODIN-RIBUOT</name>
+			<speakerTitle>Professeur CHU Grenoble  (UGA)</speakerTitle>
+			<image>spk113051.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_b0b4f81dfaec496bb75644ce2bcd91f6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_53af943cf64b4500a4410f3705c737fbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_f8befe72069840db9860e956dbe2df91yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_c3755162d7314168aead661fd01f3777yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_7dc93754590b4c318b7f5cd3038ef827yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_33b744801a594a0793fc0dd0128b7597yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_f0c6c0fdabac46f2a48cae1eff9b4e7fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout5.swf" id="6" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_ca576cdab3e54962a527567e67d48672yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="360" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="10.57" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="360"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4b435812f93a4d00951c7daf0296a759yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 10570">
+				<media url="a24x33.mp3" startMsecs="0" duration="10570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 4 :  La filtration glomérulaire et sa régulation@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c36bc782058c4642987a44ac1137b4beyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 57080">
+				<media url="a24x2.mp3" startMsecs="0" duration="57080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La filtration glomérulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;filtration&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;glomérulaire &lt;/span&gt;&lt;span &gt;s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effectue au niveau du corpuscule rénal qui comprend les capillaires glomérulaires entourés par la capsule de Bowman. Il s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;agit essentiellement d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un processus unidirectionnel, passif et non sélectif envers tous les solutés du plasma sauf les protéines. Ces solutés et le liquide plasmatique sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;poussés&lt;/span&gt;&lt;span &gt; à travers la membrane de filtration par la pression qui règne à l’intérieur des capillaires glomérulaires. Comme ce processus ne demande pas d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;énergie, on peut considérer les glomérules comme de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;simples filtres mécaniques&lt;/span&gt;&lt;span &gt;. La filtration glomérulaire est un processus &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ultrafiltration&lt;/span&gt;&lt;span &gt; puisqu’elle se fait à travers une membrane &lt;/span&gt;&lt;span  fontWeight="bold"&gt;semi-perméable &lt;/span&gt;&lt;span &gt;qui retient les globules sanguins, les plaquettes et les protéines, et laisse passer l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et les substances dissoutes du plasma.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="301" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="79.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="301"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f59be57030ad40ac95406d64d5f86ee6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 79410">
+				<media url="a24x3.mp3" startMsecs="0" duration="79410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le corpuscule rénal@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Avant d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aborder le processus de filtration, nous allons d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;abord examiner la structure du corpuscule rénal. La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;capsule &lt;/span&gt;&lt;span &gt;de Bowman est formée de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;2 feuillets &lt;/span&gt;&lt;span &gt;séparés par une cavité, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;espace capsulaire&lt;/span&gt;&lt;span &gt;,&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;également appelé &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;chambre de filtration&lt;/span&gt;&lt;span &gt;, qui se prolonge au niveau du pôle urinaire par le tubule rénal&lt;/span&gt;&lt;span  fontWeight="bold"&gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;feuillet pariétal  &lt;/span&gt;&lt;span  fontWeight="bold"&gt;externe&lt;/span&gt;&lt;span &gt; de la capsule est composé d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un épithélium simple squameux, c’est-à-dire constitué de cellules aplaties, qui a un rôle strictement &lt;/span&gt;&lt;span  fontWeight="bold"&gt;structural&lt;/span&gt;&lt;span &gt;. Il ne participe donc pas à la formation du filtrat. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;feuillet viscéral&lt;/span&gt;&lt;span &gt;  s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;attache aux capillaires du glomérule et il est composé de cellules épithéliales modifiées et ramifiées appelées &lt;/span&gt;&lt;span  fontWeight="bold"&gt;podocytes&lt;/span&gt;&lt;span &gt;. Le corps cellulaire des podocytes émet de longs prolongements cytoplasmiques qui entourent les capillaires glomérulaires et s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;entrelacent les uns avec les autres comme des doigts qui se croisent. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;opposé du pôle urinaire, le sang arrive et repart du glomérule au niveau du pôle &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vasculaire&lt;/span&gt;&lt;span &gt; où se trouvent par les artérioles afférentes et efférentes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="303" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="31.32" advance="pause" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="303"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8baace5d829e4c64a8db7b464f770b2eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents><flvContent url="resources/p04dia4_1_303_1_19854.mp4" PosX="120" PosY="99" Height="405" Width="720" playAfterTime="0" duration="31320" StartTime="0" StopTime="31320" FadeIn="0" FadeOut="0" FadeSpeed="1" MuteAudio="0" IsH264="1" ISORATEVIDEO=""/></flvContents>
+			<audios id="4" duration=" 8880">
+				<media url="a24x4.mp3" startMsecs="0" duration="8880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le corpuscule rénal@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous pouvez, en cliquant sur les légendes de ces images, revoir les différentes parties du corpuscule rénal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;corpuscule 1.swf et corpuscule histo01.swf&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="362" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="362"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_becbe2e755474eaaae5aa8a1c422b464yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents><flvContent url="resources/p04dia5_1_362_1_25814.mp4" PosX="121" PosY="122" Height="405" Width="720" playAfterTime="0" duration="36800" StartTime="0" StopTime="36800" FadeIn="0" FadeOut="0" FadeSpeed="1" MuteAudio="0" IsH264="1" ISORATEVIDEO=""/></flvContents>
+			<slideTitle>@Le corpuscule rénal suite@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="302" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="32" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="302"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a20bc3f126c24dd3afbac622fac45b34yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 32000">
+				<media url="a24x5.mp3" startMsecs="0" duration="32000" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le corpuscule rénal Podocytes de l’épithélium viscéral@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les podocytes de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;épithélium viscéral ont un peu la forme de pieuvres. Leurs prolongements cytoplasmiques se terminent en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pédicelles&lt;/span&gt;&lt;span &gt;, des petites formations enchevêtrées qui s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;attachent à la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;lame basale des capillaires glomérulaires&lt;/span&gt;&lt;span &gt;. Le filtrat s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;échappant des capillaires glomérulaires passe à travers les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fentes de filtration&lt;/span&gt;&lt;span &gt;, des espaces entre les pédicelles fermés par une fine membrane.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="309" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="46.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="309"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_35fa9e27976045dea3d3ba5c5de99c8fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 46080">
+				<media url="a24x6.mp3" startMsecs="0" duration="46080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le corpuscle rénal@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En fait, pour sortir du plasma et atteindre l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;espace capsulaire les substances doivent franchir &lt;/span&gt;&lt;span  fontWeight="bold"&gt;trois barrières &lt;/span&gt;&lt;span &gt;qui constituent &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la membrane de filtration&lt;/span&gt;&lt;span &gt;.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;D&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;abord, elles passent par les pores présents dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;endothélium des capillaires glomérulaires, qu’on qualifie ainsi de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;capillaires fenestrés&lt;/span&gt;&lt;span &gt;. Puis par la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;membrane basale &lt;/span&gt;&lt;span &gt;constituée par la fusion des lames basales de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;endothélium capillaire et de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;épithélium viscéral capsulaire. La dernière barrière à franchir est la membrane qui ferme les fentes de filtration de podocytes, que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;on appelle également &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diaphragmes&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="299" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="82.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="299"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c45cebd5e93b4ab680c049459607b277yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 82940">
+				<media url="a24x7.mp3" startMsecs="0" duration="82940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La membrane de filtration Trois filtres en série@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;trois filtres en série &lt;/span&gt;&lt;span &gt;qui composent cette membrane de filtration ont chacun des propriétés particulières qui leur permettent de bloquer la filtration des éléments figurés du sang et des protéines plasmatiques et de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;laisser passer l’eau et tous les autres solutés&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;D’abord, les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pores des capillaires glomérulaires &lt;/span&gt;&lt;span &gt;retiennent les cellules sanguines et les macromolécules de poids moléculaire supérieur à 68000 daltons.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Puis, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;membrane basale, &lt;/span&gt;&lt;span &gt;faite d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un réseau de glycoprotéines et de fibres de collagène, qui bloque le passage de la plupart des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;protéines plasmatiques dont l’albumine (d’un poids moléculaire de 65000 dalton). &lt;/span&gt;&lt;span &gt;Ce sont tout particulièrement les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;glycoprotéines anioniques &lt;/span&gt;&lt;span &gt;de la membrane qui refoulent ces protéines puisque celles-ci, comme l’albumine, sont également chargées négativement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Finalement, les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;toutes&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;petites protéines &lt;/span&gt;&lt;span &gt;qui réussissent à traverser la membrane basale sont bloquées par les &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;diaphragmes &lt;/span&gt;&lt;span &gt;des fentes de filtration. Elles sont ensuite englobées par les podocytes puis dégradées.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6e414932618f4b0a9ab09ed3b021540eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 53520">
+				<media url="a24x8.mp3" startMsecs="0" duration="53520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le filtrat glomérulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le filtrat glomérulaire que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;on retrouve dans la capsule de Bowman est donc simplement un ultrafiltrat du sang sans ses globules, ses plaquettes ses protéines. Les quelques protéines qui arriveraient éventuellement à franchir la membrane de filtration sont en plus éliminées du filtrat par les cellules du tubule rénal qui les récupèrent par endocytose.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La composition et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité de 300 mosmoles par litre du filtrat sont presque identiques à celle du plasma sauf pour les substances liées aux protéines plasmatiques qui ne peuvent pas passer la membrane de filtration.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est le cas du calcium (qui est lié à 40%), des acides gras, des hormones stéroïdiennes et de certains médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="311" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="90.87" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="311"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_36cc5719a4474741a79986fde7e4db49yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 90870">
+				<media url="a24x9.mp3" startMsecs="0" duration="90870" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fraction de filtration et  débit de filtration glomérulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En conditions normales, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;un cinquième du plasma qui circule dans les capillaires glomérulaires est filtré à l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;intérieur des néphrons&lt;/span&gt;&lt;span &gt;. Les quatre autres cinquièmes s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;écoulent dans les capillaires péri-tubulaires et retournent par les veines rénales dans la circulation générale. Ce pourcentage de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;20% de volume plasmatique filt&lt;/span&gt;&lt;span &gt;ré est appelé &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fraction de filtration&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous pouvons donc estimer le débit de filtration glomérulaire, c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire la quantité de filtrat produite par les reins en une minute, à partir de la valeur du&lt;/span&gt;&lt;span  fontWeight="bold"&gt; débit plasmatique rénal &lt;/span&gt;&lt;span &gt;et de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fraction de filtration&lt;/span&gt;&lt;span &gt;. Ainsi, pour un débit plasmatique rénal de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;625 ml/min &lt;/span&gt;&lt;span &gt;et une fraction de filtration de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;20%&lt;/span&gt;&lt;span &gt;, le débit de filtration glomérulaire sera &lt;/span&gt;&lt;span  fontWeight="bold"&gt;125 ml/min &lt;/span&gt;&lt;span &gt;pour les deux reins. &lt;/span&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;avantage de ce grand débit de filtration est l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;enlèvement rapide des déchets métaboliques dont l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;excrétion repose en grande partie sur la filtration. Cela permet aussi de traiter plusieurs fois par jour les liquides de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisme, ce qui peut s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;avérer essentiel lors de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ingestion d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une substance toxique ou tout simplement pour l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ajustement du volume et de la composition de ces liquides corporels.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="358" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="70.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="358"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7e825b07773944afb50c540e2ca9b9c7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 70080">
+				<media url="a24x10.mp3" startMsecs="0" duration="70080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les chiffres de la filtration glomérulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En effet tout le plasma sanguin, qui est d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;environ 3 litres, est filtré près de 60 fois par jour par les reins. 180 litres de filtrat traversent donc tous les jours le filtre glomérulaire. Les quantités filtrées sont considérables :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- 180 litres d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau qui représentent plus de 4 fois la quantité d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau corporelle totale et près de 10 fois celle du liquide extracellulaire d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un homme adulte de 70 kg.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- Environ 25000 mosmoles de Na, 19000 mosmoles de chlore et 700 mosmoles de potassium (que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;on peut calculer en multipliant leurs concentrations plasmatiques par le volume du filtrat). Pour ces ions, les quantités filtrées représentent plus de 10 fois celles contenues dans le compartiment extracellulaire. Ces chiffres impressionnants nous montrent bien la formidable capacité des reins à réguler la composition et le volume du plasma et des autres liquides corporels.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="77.69" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9a1f272bae364456a000a4f2c2568562yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 77690">
+				<media url="a24x11.mp3" startMsecs="0" duration="77690" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les forces en jeu dans la filtration glomérulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons maintenant regarder les mécanismes qui déterminent la filtration à travers la membrane de filtration. La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression nette de filtration (PNF)&lt;/span&gt;&lt;span &gt; est la force motrice qui permet la formation du filtrat à la vitesse de 125 ml/min.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Tout comme la pression qui détermine les échanges entre les capillaires et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;espace interstitiel au niveau des tissus, elle dépend du jeu des forces de Starling à savoir :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La&lt;/span&gt;&lt;span  fontWeight="bold"&gt; pression hydrostatique glomérulaire&lt;/span&gt;&lt;span &gt; qui correspond essentiellement à la pression sanguine dans les capillaires glomérulaires. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression hydrostatique capsulaire &lt;/span&gt;&lt;span &gt;exercée par le liquide présent dans la capsule rénale, et&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression osmotique glomérulaire ou pression oncotique &lt;/span&gt;&lt;span &gt;dans les capillaires glomérulaires. Elle est supérieure à celle du liquide capsulaire à cause de la présence des protéines restées dans le plasma et comme la composition des autres solutés est la même dans le sang et dans le liquide capsulaire, nous pouvons ignorer la pression osmotique capsulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="72.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_144c58c1d25b49afbba4d9bbf7ff4e08yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="27680" isStartRelative="false" duration="167"/>
+				<click startTime="54990" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 72920">
+				<media url="a24x12.mp3" startMsecs="0" duration="72920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les forces en jeu dans la filtration glomérulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La&lt;/span&gt;&lt;span  fontWeight="bold"&gt; pression hydrostatique glomérulaire&lt;/span&gt;&lt;span &gt; est en moyenne de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;55 mmHg &lt;/span&gt;&lt;span &gt;et c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est la principale force qui pousse le filtrat &lt;/span&gt;&lt;span  fontWeight="bold"&gt;hors&lt;/span&gt;&lt;span &gt; du glomérule. La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression hydrostatique capsulaire &lt;/span&gt;&lt;span &gt;(de 15 mmHg) s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;y oppose de même que la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression oncotique glomérulaire&lt;/span&gt;&lt;span &gt; (de 30 mmHg) qui tend à faire rentrer l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau dans les capillaires glomérulaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;La PNF à l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;origine du débit de filtration de 125 ml/min est donc de 10 mmHg. &lt;/span&gt;&lt;span &gt;Ceci peu sembler faible mais comme elle s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;exerce à travers une membrane très perméable, elle entraîne une filtration rapide et abondante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le débit de filtration glomérulaire est également influencé par deux facteurs : la pression nette de filtration mais également par le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;coefficient d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ultrafiltration Kf &lt;/span&gt;&lt;span &gt;de la membrane de filtration qui tient compte de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;perméabilité&lt;/span&gt;&lt;span &gt; et de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;surface totale des capillaires disponibles pour la filtration&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="308" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.81" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="308"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e90f7c32efe347d5aae6a6ed3555c185yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 52810">
+				<media url="a24x13.mp3" startMsecs="0" duration="52810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les déterminants du DFG Le coefficient d’ultrafiltration Kf@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le coefficient d'ultrafiltration (&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Kf&lt;/span&gt;&lt;span &gt;) est donc le produit de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;surface de filtration &lt;/span&gt;&lt;span &gt;des capillaires glomérulaires et de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;perméabilité&lt;/span&gt;&lt;span &gt; de la paroi capillaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;surface de filtration &lt;/span&gt;&lt;span &gt;est régulée par les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules mésangiales &lt;/span&gt;&lt;span &gt;glomérulaires. Ce sont des cellules étoilées disposées &lt;/span&gt;&lt;span  fontWeight="bold"&gt;entre&lt;/span&gt;&lt;span &gt; les capillaires glomérulaires qui contiennent des faisceaux de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;filaments contractiles&lt;/span&gt;&lt;span &gt;. En présence de certaines substances, elle peuvent se &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contracter&lt;/span&gt;&lt;span &gt; et diminuer le DFG en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réduisant la surface totale des capillaires actifs &lt;/span&gt;&lt;span &gt;et donc le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;coefficient de filtration&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Toutefois, en conditions physiologiques normales, leur rôle est négligeable et le coefficient de filtration membranaire varie peu. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="352" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="85.42" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="352"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6054cc0581cf4dbfb8c169cdbb42c946yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 85420">
+				<media url="a24x14.mp3" startMsecs="0" duration="85420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les déterminants du DFG Effet de la pression nette de filtration@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le DFG est directement proportionnel à la PNF. Par conséquent, toute variation des pressions qui la gouvernent aura un impact sur le DFG.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Normalement, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression hydrostatique capsulaire varie peu &lt;/span&gt;&lt;span &gt;mais une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;obstruction des voies urinaires &lt;/span&gt;&lt;span &gt;par un calcul ou une tumeur peut augmenter la pression hydrostatique dans la capsule de Bowman et diminuer voire arrêter le débit de filtration glomérulaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression oncotique liée aux protéines plasmatiques varie également peu en conditions normales&lt;/span&gt;&lt;span &gt; mais une augmentation ou une diminution pathologique de la quantité de protéines plasmatiques peut diminuer ou augmenter, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;respectivement&lt;/span&gt;&lt;span &gt;, la PNF et le débit de filtration glomérulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Finalement, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression hydrostatique glomérulaire &lt;/span&gt;&lt;span &gt;est aussi susceptible d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;affecter le DFG. Elle est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;directement liée à la pression artérielle &lt;/span&gt;&lt;span &gt;mais l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effet de cette dernière est négligeable à moins qu’elle ne soit &lt;/span&gt;&lt;span  fontWeight="bold"&gt;très&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;basse&lt;/span&gt;&lt;span &gt; ou &lt;/span&gt;&lt;span  fontWeight="bold"&gt;très&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;élevée&lt;/span&gt;&lt;span &gt;. Ceci est possible grâce à des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;mécanismes de régulation puissants &lt;/span&gt;&lt;span &gt;qui font intervenir les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;résistances des artérioles glomérulaires&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="356" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="86.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="356"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8730e42876f8454f8bf29c8a600cde18yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 86750">
+				<media url="a24x15.mp3" startMsecs="0" duration="86750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contrôle du débit et de la pression par les artérioles@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Afin de mieux comprendre comment s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effectue le contrôle du débit de filtration glomérulaire par les artérioles, il faut d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;abord aborder quelques mécanismes que vous verrez plus en détail dans le cours de physiologie de la circulation. De façon générale, toutes les artérioles de notre organisme ont la capacité de se contracter et de se relâcher grâce à leur paroi riche en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fibres musculaires lisses innervées par le système nerveux sympathique&lt;/span&gt;&lt;span &gt;. Rappelez-vous également la notion de résistance à l’écoulement que nous avons vue au chapitre 3 lorsque nous avons regarder les caractéristiques hémodynamiques de la circulation du néphron.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Come vous le voyez dans le petit schéma en bas à droite, le diamètre de ces vaisseaux est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réduit&lt;/span&gt;&lt;span &gt; par la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vasoconstriction&lt;/span&gt;&lt;span &gt; et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmenté&lt;/span&gt;&lt;span &gt; par la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vasodilatation&lt;/span&gt;&lt;span &gt;. Par conséquent, une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vasoconstriction artériolaire et donc &lt;/span&gt;&lt;span &gt;une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution de diamètre&lt;/span&gt;&lt;span &gt; se traduira par une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation de la résistance à l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;écoulement &lt;/span&gt;&lt;span &gt;et donc par une accumulation de sang et une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation de pression en amont &lt;/span&gt;&lt;span &gt;et une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution de débit &lt;/span&gt;&lt;span &gt;et donc &lt;/span&gt;&lt;span  fontWeight="bold"&gt;de pression en aval&lt;/span&gt;&lt;span &gt; du site de constriction. Une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vasodilatation&lt;/span&gt;&lt;span &gt; aura bien sûr &lt;/span&gt;&lt;span  fontWeight="bold"&gt;les effets inverses&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="313" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="91.51" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="313"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_72865d395ca44f6a9f0f01c3471bc8e4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 91510">
+				<media url="a24x16.mp3" startMsecs="0" duration="91510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Débit sanguin rénal et DFG Rôle de l'artériole afférente@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Autrement dit, lorsque la résistance des artérioles rénales augmente, le débit sanguin rénal (FSR sur ce schéma pour flux sanguin rénal)&lt;/span&gt;&lt;span  fontWeight="bold"&gt;, situé en aval&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminue&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;L&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;effet sur le débit de filtration glomérulaire &lt;/span&gt;&lt;span &gt;dépendra cependant &lt;/span&gt;&lt;span  fontWeight="bold"&gt;du lieu où se fera l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation de résistance&lt;/span&gt;&lt;span &gt;. Ceci est dû à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisation particulière de la circulation glomérulaire avec ses deux artérioles afférente et efférente. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sur cette diapositive, le schéma de gauche représente le flux c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire le débit sanguin rénal et le débit de filtration glomérulaire en dehors de tout changement de rayon des artérioles. Nous voyons à droite que &lt;/span&gt;&lt;span  fontWeight="bold"&gt;lors d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;une vasoconstriction de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;artériole afférente&lt;/span&gt;&lt;span &gt;, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;augmentation de résistance se traduit par une diminution de la pression en aval donc de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression hydrostatique glomérulaire et de la PNF&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une vasoconstriction de l’artériole afférente entrainera donc une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution du débit sanguin rénal &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;et&lt;/span&gt;&lt;span  fontWeight="bold"&gt; du débit de filtration glomérulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effet inverse sera observé avec une vasodilatation, et donc une diminution, de la résistance de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;artériole afférente.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="316" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="35.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="316"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_84dc37a4aa084bbca40c8ba5d91f8496yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 35910">
+				<media url="a24x17.mp3" startMsecs="0" duration="35910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Débit sanguin rénal et DFG@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Lorsque la vasoconstriction se produit sur l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;artériole &lt;/span&gt;&lt;span  fontWeight="bold"&gt;efférente&lt;/span&gt;&lt;span &gt;, le sang s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;accumule &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en amont &lt;/span&gt;&lt;span &gt;et donc la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression hydrostatique glomérulaire et la PNF augmentent&lt;/span&gt;&lt;span &gt;. Dans ce cas, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;augmentation de la résistance à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;écoulement se traduit par une Une vasoconstriction de l’artériole efférente entrainera donc une &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;diminution&lt;/span&gt;&lt;span  fontWeight="bold"&gt; du débit sanguin rénal &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;mais&lt;/span&gt;&lt;span  fontWeight="bold"&gt; une &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;augmentation&lt;/span&gt;&lt;span  fontWeight="bold"&gt; du débit de filtration glomérulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effet inverse sera observé avec une vasodilatation. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="353" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="39.13" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="353"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4ae82849c0ab4b81bc3c9627faba6a97yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 39130">
+				<media url="a24x18.mp3" startMsecs="0" duration="39130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation du débit sanguin rénal  et du débit de filtration glomérulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En résumé, la vasoconstriction des deux artérioles &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réduit le débit sanguin rénal &lt;/span&gt;&lt;span &gt;mais a des effets diamétralement &lt;/span&gt;&lt;span  fontWeight="bold"&gt;opposés&lt;/span&gt;&lt;span &gt; sur le débit de filtration glomérulaire. Nous allons voir que ces propriétés sont importantes dans la régulation de ces débits.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On distingue 2 niveaux de régulation :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- une régulation intrinsèque c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire au niveau du rein lui-même, on parle alors d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autorégulation&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; et une régulation extrinsèque à travers des influences hormonale et nerveuse &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="312" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="82.7" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="312"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_30af0e6d3385443f904709c6863f40c9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 82700">
+				<media url="a24x19.mp3" startMsecs="0" duration="82700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Autorégulation du débit sanguin rénal et du débit de filtration glomérulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le mécanisme rénal &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;autorégulation&lt;/span&gt;&lt;span &gt; permet de maintenir le débit sanguin rénal (DSR) et le débit de filtration glomérulaire (DFG) lors des variations de pression artérielle. Ainsi, les deux débits restent stables lorsque la pression artérielle moyenne varie entre 80 et 180 mmHg. En l’absence de cette autorégulation les deux débits varieraient proportionnellement aux changements de la pression artérielle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce mécanisme d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;adaptation est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;effectué par les artérioles rénales&lt;/span&gt;&lt;span &gt;. Ce phénomène est observé même sur le rein isolé et perfusé, ce qui montre bien que ce sont des mécanismes &lt;/span&gt;&lt;span  fontWeight="bold"&gt;intrinsèques&lt;/span&gt;&lt;span &gt;, c à d propres au rein, qui en sont responsables.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autorégulation du débit est observée dans la plupart des tissus et comme vous le verrez en physiologie cardiovasculaire, sa principale fonction est de maintenir l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;apport en oxygène et en nutriments en dépit des variations de pression artérielle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans le cas des reins, le rôle primordial de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autorégulation du débit sanguin est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;assurer la constance du débit de filtration glomérulaire et donc de la fonction rénale&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="317" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.11" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="317"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cf35659cf03a496ba1af8976b0ec4c8dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="36810" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 47110">
+				<media url="a24x20.mp3" startMsecs="0" duration="47110" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Autorégulation du DSG et du DFG Mécanismes intrinsèques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autorégulation du DSR et du DFG est possible grâce à des mécanismes de régulation intrinsèques c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire des mécanismes locaux par lequel le rein ajuste en permanence le DFG pour le maintenir constant à 125 ml/min. Ces mécanismes n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ont pas tous été élucidés mais parmi ceux-ci, deux mécanismes sont bien connus. Il s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;agit du mécanisme vasculaire myogène et du rétrocontrôle tubulo-glomérulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : Dans les deux cas, nous verrons que la régulation s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effectue systématiquement au niveau des artérioles afférentes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="289" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.21" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="289"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_df40c2f17c1f4ac9865ef576e7c81f01yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 53210">
+				<media url="a24x21.mp3" startMsecs="0" duration="53210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Autorégulation Mécanisme vasculaire myogène@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le mécanisme vasculaire myogène n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est pas observé uniquement dans les artérioles afférentes rénales. Il reflète la tendance générale du muscle lisse vasculaire à se contracter sous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effet de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;étirement. C&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est ainsi que &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;étirement de la paroi des artérioles afférentes &lt;/span&gt;&lt;span &gt;par une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation&lt;/span&gt;&lt;span &gt; de pression sanguine entraîne une ouverture &lt;/span&gt;&lt;span  fontWeight="bold"&gt;de canaux calciques sensibles à l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;étirement,  une entrée de calcium dans les cellules musculaires lisses et leur contraction&lt;/span&gt;&lt;span &gt;. La vasoconstriction provoque une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution du débit de filtration glomérulaire &lt;/span&gt;&lt;span &gt;limitant ainsi l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effet indésirable de la pression sur le débit. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une diminution de la pression artérielle a l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effet inverse, provoquant une relaxation du muscle lisse artériolaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="320" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="75.78" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="320"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6af079e5869240ab85972d803f51c7d0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 75780">
+				<media url="a24x22.mp3" startMsecs="0" duration="75780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Autorégulation Rétrocontrôle tubulo-glomérulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Contrairement au mécanisme vasculaire myogène, le mécanisme de rétrocontrôle tubulo-gomérulaire est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;propre au rein&lt;/span&gt;&lt;span &gt;. C&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;boucle de contrôle locale &lt;/span&gt;&lt;span &gt;impliquant l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;appareil juxta-glomérulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On parle de &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;rétro&lt;/span&gt;&lt;span  fontWeight="bold"&gt;contrôle&lt;/span&gt;&lt;span &gt; car, dans ce mécanisme, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;filtration glomérulaire &lt;/span&gt;&lt;span &gt;est régulée par les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules&lt;/span&gt;&lt;span &gt; de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;macula densa &lt;/span&gt;&lt;span &gt;de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;appareil juxta-glomérulaire qui sont situées dans le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tubule rénal distal &lt;/span&gt;&lt;span &gt;donc bien en aval du lieu de la filtration. Ces cellules sont de véritables &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmorécepteurs&lt;/span&gt;&lt;span &gt; sensibles à la composition du liquide tubulaire. En réponse à des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;variations de la concentration tubulaire de NaCl, &lt;/span&gt;&lt;span &gt;les cellules de la macula densa libèrent une substance qui va agir sur &lt;/span&gt;&lt;span  fontWeight="bold"&gt;les cellules musculaires lisses de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;artériole afférente&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On parle dans ce cas de régulation &lt;/span&gt;&lt;span  fontWeight="bold"&gt;paracrine&lt;/span&gt;&lt;span &gt;, car les effets de la substance libérée s'exercent &lt;/span&gt;&lt;span  fontWeight="bold"&gt;à&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;proximité&lt;/span&gt;&lt;span &gt;, par opposition à la régulation endocrine, comme celle de plusieurs hormones, qui agissent à distance de leur site de libération.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="329" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="99.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="329"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_acf5856155734784ae3c20b71e508a09yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 99240">
+				<media url="a24x23.mp3" startMsecs="0" duration="99240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Rétrocontrôle tubulo-glomérulaire Effets sur l’artériole afférente@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le mécanisme tubulo-glomérulaire fonctionne de la façon suivante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation&lt;/span&gt;&lt;span &gt; du DFG entraine une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation de la concentration tubulaire de NaCl &lt;/span&gt;&lt;span &gt;(parce que sa &lt;/span&gt;&lt;span  fontWeight="bold"&gt;filtration&lt;/span&gt;&lt;span &gt; est augmentée mais également parce que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;augmentation de la vitesse d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;écoulement du filtrat dans les tubules &lt;/span&gt;&lt;span  fontWeight="bold"&gt;limite la capacité de réabsorption tubulaire&lt;/span&gt;&lt;span &gt;). En réponse à l’élévation de la concentration en NaCl du liquide tubulaire, les cellules de la macula densa vont libérer une substance vasoconstrictrice qui va provoquer la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contraction de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;artériole afférente &lt;/span&gt;&lt;span &gt;et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminuer le DFG&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution&lt;/span&gt;&lt;span &gt; du DFG aura les effets &lt;/span&gt;&lt;span  fontWeight="bold"&gt;inverses&lt;/span&gt;&lt;span &gt; sur la concentration tubulaire de NaCl. Les cellules de la macula libèreront &lt;/span&gt;&lt;span  fontWeight="bold"&gt;moins de substance vasoconstrictrice&lt;/span&gt;&lt;span &gt;. La conséquence sera une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vasodilatation&lt;/span&gt;&lt;span &gt; de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;artériole afférente et une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation du DFG&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La signalisation paracrine entre la macula densa et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;artériole afférente est complexe et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;on ne connaît toujours pas la (ou les) substances impliquées. Plusieurs médiateurs ont été proposés comme l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;adénosine, le monoxyde d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;azote, les prostaglandines ou encore l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;endothéline.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="342" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="93.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="342"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fee9f853a8e6401cac33bf181280681eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 93080">
+				<media url="a24x24.mp3" startMsecs="0" duration="93080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation extrinsèque du DFG@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La figure présentée à la diapositive 19 montre que tant que la pression artérielle systémique se maintient entre 80 et 180 mmHg, les mécanismes d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autorégulation rénale compensent ses fluctuations en modifiant la résistance des artérioles afférentes. Toutefois, ces mécanismes ne fonctionnent plus lorsque la pression artérielle chute en dessous de 80 mmHg par exemple suite à une hémorragie ou à une déshydratation sévères. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme vous le verrez au cours de physiologie cardiovasculaire, la pression artérielle est maintenue constante grâce entre autres à des mécanismes hormonaux et nerveux. Lorsque la pression chute en-dessous de 80 mmHg, l’activation de ces mécanismes extrinsèques peut avoir un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;impact sur &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le DFG&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A noter finalement que lorsque la chute de pression artérielle n’est pas compensée et que la pression glomérulaire atteint &lt;/span&gt;&lt;span  fontWeight="bold"&gt;45 mmHg ou moins&lt;/span&gt;&lt;span &gt;, la pression hydrostatique glomérulaire devient égale aux forces qui s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;y opposent, la PNF devient nulle et la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;filtration s&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;arrête&lt;/span&gt;&lt;span &gt;. Cet arrêt de la filtration est en fait une adaptation bénéfique car elle permet de préserver, pour un temps du moins, le volume plasmatique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="346" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="148.47" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="346"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_337d0ce9308644fc9d36d1f0cb61360eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 148470">
+				<media url="a24x25.mp3" startMsecs="0" duration="148470" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation hormonale par le système rénine-angiotensine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Parmi les mécanismes hormonaux déclenchés par une chute de la pression artérielle, le plus important est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;activation du système rénine-angiotensine&lt;/span&gt;&lt;span &gt;. Celle-ci commence par la libération de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;rénine&lt;/span&gt;&lt;span &gt; par les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;juxtaglomérulaires&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;rénales&lt;/span&gt;&lt;span &gt;. Divers stimuli peuvent provoquer la libération de rénine lors d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une chute de pression artérielle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi, lorsque la pression artérielle moyenne diminue sous les 80 mmHg, la paroi de l’artériole afférente est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;moins étirée &lt;/span&gt;&lt;span &gt;et ceci est détecté par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;les cellules juxtaglomérulaires&lt;/span&gt;&lt;span &gt;, qui ont une fonction de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;barorécepteurs&lt;/span&gt;&lt;span &gt;. Elles libèrent alors la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;rénine qu’elles produisent &lt;/span&gt;&lt;span &gt;dans le sang qui circule dans l’artériole afférente.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Egalement, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réduction du DFG &lt;/span&gt;&lt;span &gt;qui accompagne la chute de pression &lt;/span&gt;&lt;span &gt;entraine une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution de la concentration tubulaire de NaCl &lt;/span&gt;&lt;span &gt;(pour les mêmes raisons que celles évoquées à la diapositive 23) L&lt;/span&gt;&lt;span &gt;es &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules de la macula densa &lt;/span&gt;&lt;span &gt;ont également la capacité de déclencher une libération de rénine par les cellules juxtaglomérulaires. On ne sait toutefois pas si la substance utilisée pour provoquer cette libération est la même que celle responsable du rétrocontrôle tubulo-glomérulaire. &lt;/span&gt;&lt;span  fontWeight="bold"&gt;Attention de bien &lt;/span&gt;&lt;span  fontWeight="bold"&gt;distinguer les deux effets des cellules de la macula densa sur le DFG : elles peuvent réguler localement le DFG via le rétrocontrôle tubulo-glomérulaire, une autorégulation présente même sur rein isolé perfusé. Alors que la libération de rénine qu’elles induisent est une régulation hormonale qui nécessite une série de réactions biochimiques dans la circulation sanguine, donc extrinsèques au rein, pour moduler le DFG.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Finalement, un dernier stimulus mis en jeu lors d’une chute de la pression artérielle est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’activation du SN sympathique &lt;/span&gt;&lt;span &gt;qui va &lt;/span&gt;&lt;span  fontWeight="bold"&gt;stimuler directement &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la libération de rénine &lt;/span&gt;&lt;span &gt;à travers des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;récepteurs adrénergiques de type béta1 situés sur les cellules juxtaglomérulaires&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="321" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.63" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="321"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1a86cd63f8f847e587d270018427b5beyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 14630">
+				<media url="a24x26.mp3" startMsecs="0" duration="14630" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Résumé  Mécanismes de libération de la rénine par l’AJG@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici une synthèse des différents facteurs qui favorisent ou inhibent la libération de rénine par les cellules juxtaglomérulaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="357" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="99.71" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="357"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3728adbc77a9468198c697fe707f80cfyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 99710">
+				<media url="a24x27.mp3" startMsecs="0" duration="99710" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le système rénine-angiotensine-aldostérone@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;activation du système rénine-angiotensine commence avec la sécrétion de rénine par les cellules de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;appareil juxtaglomérulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La rénine est une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;enzyme&lt;/span&gt;&lt;span &gt; dont le substrat est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;angiotensinogène&lt;/span&gt;&lt;span &gt;, une protéine plasmatique inactive produite par le foie. Sous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;action de la rénine, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;angiotensinogène est converti dans la circulation sanguine en un décapeptide, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;angiotensine I&lt;/span&gt;&lt;span &gt;, également inactive. Puis l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;angiotensine I est à son tour convertie en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;angiotensine II&lt;/span&gt;&lt;span &gt; sous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effet d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une enzyme appelée &lt;/span&gt;&lt;span  fontWeight="bold"&gt;enzyme de conversion de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;angiotensine&lt;/span&gt;&lt;span &gt;, que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;on trouve dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;endothélium capillaire des poumons mais également dans d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autres organes dont le rein. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;angiotensine II est un tout petit peptide de 8 acides aminés qui a un rôle &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fondamental&lt;/span&gt;&lt;span &gt; dans la régulation de la pression artérielle. Elle a de multiples actions &lt;/span&gt;&lt;span  fontWeight="bold"&gt;toutes destinées à augmenter la pression artérielle&lt;/span&gt;&lt;span &gt;. Parmi celles-ci, nous citerons &lt;/span&gt;&lt;span  fontWeight="bold"&gt;un effet vasoconstricteur puissant&lt;/span&gt;&lt;span &gt;, en particulier au niveau des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;artérioles&lt;/span&gt;&lt;span &gt;, et une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;stimulation de la synthèse et de la libération d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;aldostérone par les surrénales&lt;/span&gt;&lt;span &gt;. Comme nous le verrons au chapitre 8, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aldostérone augmente le volume du liquide extracellulaire, et donc le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;volume plasmatique&lt;/span&gt;&lt;span &gt;, en favorisant la réabsorption de sodium et d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau par le rein.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="355" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="355"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_78aec57cf22946698d409f3db0c6c916yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 36960">
+				<media url="a24x28.mp3" startMsecs="0" duration="36960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le système rénine-angiotensine Maintien du DFG lors d’une chute de pression@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Bien que la principale fonction du système rénine-angiotensine soit &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la régulation de la pression artérielle et du volume du liquide extracellulaire&lt;/span&gt;&lt;span &gt;, son activation en réponse à une chute de pression&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;a un effet bénéfique sur le débit de filtration glomérulaire&lt;/span&gt;&lt;span &gt;. En effet, son action vasoconstrictrice est plus importante au niveau de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;artériole &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;efférente&lt;/span&gt;&lt;span &gt; ce qui &lt;/span&gt;&lt;span  fontWeight="bold"&gt;favorise le maintien de la pression hydrostatique glomérulaire et limite la chute du débit de filtration glomérulaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="359" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="85.49" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="359"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_248732c10bcc40deb046a669cec68982yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 85490">
+				<media url="a24x29.mp3" startMsecs="0" duration="85490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation nerveuse@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span  fontWeight="bold"&gt;A l’inverse&lt;/span&gt;&lt;span &gt; les mécanismes nerveux peuvent réduire considérablement voire arrêter la circulation rénale &lt;/span&gt;&lt;span &gt;en cas de stress extrême comme une hémorragie ou une hypotension sévères ou encore dans une situation d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urgence qui requiert toutes les ressources de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisme. Afin de pourvoir aux besoins, ils peuvent ainsi détourner le sang vers le cœur, le cerveau et les muscles squelettiques &lt;/span&gt;&lt;span  fontWeight="bold"&gt;aux dépens de la circulation rénale&lt;/span&gt;&lt;span &gt;. Ceci se fait à travers l’activation du système nerveux sympathique qui innerve presque tous les vaisseaux rénaux, et en particulier les artérioles afférentes et efférentes. Une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;forte&lt;/span&gt;&lt;span &gt; activation des nerfs sympathiques rénaux fait contracter &lt;/span&gt;&lt;span  fontWeight="bold"&gt;surtout les artérioles afférentes&lt;/span&gt;&lt;span &gt; et diminue donc le DFG. Une activation faible ou modérée a par contre &lt;/span&gt;&lt;span  fontWeight="bold"&gt;peu d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;effet&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;activation sympathique est sans doute très importante dans ces situations extrêmes ou elle permet de préserver le volume plasmatique en arrêtant la filtration. Toutefois, pour des chutes de pression ou de volume faibles à modérées, la contribution du tonus sympathique rénal est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;négligeable&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="340" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="16.43" advance="pause" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="340"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bbb908b15d8d481f869c3c21afa9f6f7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 16430">
+				<media url="a24x30.mp3" startMsecs="0" duration="16430" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contrôlez vos connaissances@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour terminer ce cours voici un petit problème qui vous permettra de vérifier si vous avez bien compris certaines des notions que nous avons abordées. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Appuyez sur la touche « diapositive suivante » pour voir la réponse.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="341" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="24.99" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="341"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8d2543de96f24cb29f762b27f10a1623yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 24990">
+				<media url="a24x31.mp3" startMsecs="0" duration="24990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réponse@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici la réponse…. L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;inverse est bien sûr également vrai à savoir qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une hyperprotéinémie (souvent liée à une déshydratation) entraînera une augmentation de la pression oncotique et une diminution du DFG. Ce qui dans le cas d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une déshydratation sera &lt;/span&gt;&lt;span  fontWeight="bold"&gt;plutôt bénéfique&lt;/span&gt;&lt;span &gt;… &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="361" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="361"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_125735e5fb1c42d6ae7707ba1a16be3dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="1"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

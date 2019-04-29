@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 7 : réabsortion dans le tubule proximal et l'anse de Henlé. Le gradient médulaire</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Pierre Alexis GAUCHARD</name>
+			<speakerTitle>Agrégé de chimie, Docteur ès sciences (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk109913.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Diane GODIN-RIBUOT</name>
+			<speakerTitle>Professeur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk109939.jpg</image>
+		</speaker>
+		<speaker>
+			<name>test</name>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_84c0fa50bc3c47deb05e969f8b2fe610yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_69828be9f20e43e6b09b6aa3d11ed2bayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_9a9fcc4bf1ce446f8d09a13ca5f7694cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_493406fe94d243fd8e209a2d048dec35yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_1e03be0831074a1e8b07840910658f5ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_245a6d1382f64f9ab464be091d1c0f58yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_763f94d84e6f4d929a640a15572c2557yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="491" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="10.36" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="491"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8210c21a7a364b0c8aa52cb9d6d09927yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 10360">
+				<media url="a24x19.mp3" startMsecs="0" duration="10360" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 7 :  Réabsorption dans le tubule proximal et l’anse de Henlé Le gradient médullaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="489" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="33.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="489"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_54b5b3f0135541c786438e7c8828dc9eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 33310">
+				<media url="a24x2.mp3" startMsecs="0" duration="33310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La réabsorption tubulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans ce cours nous allons regarder les mécanismes responsables de la réabsorption de l’eau et des solutés dans &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le tubule contourné proximal &lt;/span&gt;&lt;span &gt;et dans &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’anse de Henlé&lt;/span&gt;&lt;span &gt;. Rappelons que la réabsorption dans cette partie du tubule rénal est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;systématique&lt;/span&gt;&lt;span &gt;, c’est-à-dire que la quantité de substances réabsorbées dans chacune de ces parties du tubule est toujours la même. Elle n’est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pas influencée &lt;/span&gt;&lt;span &gt;par les mécanismes régulateurs qui modulent la réabsorption dans la portion terminale du tubule rénal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Commençons donc par le tubule contourné proximal qui est la partie &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la plus active &lt;/span&gt;&lt;span &gt;du tubule rénal en termes de réabsorption.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="372" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="78.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="372"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9ee7d1b4e3ec458790d92609808434b9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 78950">
+				<media url="a24x3.mp3" startMsecs="0" duration="78950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le tubule contourné proximal (TCP) Histologie fonctionnelle@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tubule contourné proximal&lt;/span&gt;&lt;span &gt; effectue en effet &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;presque tout le travail de réabsorption&lt;/span&gt;&lt;span &gt; du néphron et ceci se reflète dans la structure des ses cellules.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Son épithélium est composé de cellules cuboïdes contenant de nombreuses microvillosités sur la membrane apicale formant ainsi une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;bordure en brosse&lt;/span&gt;&lt;span &gt; qui augmente énormément la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;surface de contact &lt;/span&gt;&lt;span &gt;des cellules avec le filtrat et donc leur capacité à réabsorber l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et les solutés.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Du côté &lt;/span&gt;&lt;span  fontWeight="bold"&gt;basolatéral&lt;/span&gt;&lt;span &gt;, le cytoplasme s'invagine et forme plusieurs prolongements dans lesquels se trouvent de nombreuses &lt;/span&gt;&lt;span  fontWeight="bold"&gt;mitochondries. &lt;/span&gt;&lt;span &gt; Les replis de la membrane basolatérale facilitent également le transport et la présence des mitochondries démontre une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;forte activité métabolique liée à la présence de nombreuses pompes sodium potassium &lt;/span&gt;&lt;span &gt;à ce niveau.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cellules sont reliées les unes aux autres par des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;jonctions serrées&lt;/span&gt;&lt;span &gt;, ce qui réduit le transport &lt;/span&gt;&lt;span  fontWeight="bold"&gt;paracellulaire&lt;/span&gt;&lt;span &gt; des substances sauf pour l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et quelques ions importants comme le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sodium&lt;/span&gt;&lt;span &gt;, le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;chlore&lt;/span&gt;&lt;span &gt; et le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;potassium&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="436" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="62.21" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="436"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c4fe1e09211846e4915e98c460e44538yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 62210">
+				<media url="a24x4.mp3" startMsecs="0" duration="62210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réabsorption dans le TCP@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici résumés sur cette diapositive les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;principaux mécanismes de réabsorption au niveau du TCP&lt;/span&gt;&lt;span &gt;. Je vous rappelle que c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gradient du Na+ &lt;/span&gt;&lt;span &gt;créé par les pompes de la membrane &lt;/span&gt;&lt;span &gt;basolatérale&lt;/span&gt;&lt;span &gt; qui est la principale force motrice de tous ces transports. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Grâce ceux-ci, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;65% de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau et du sodium filtrés &lt;/span&gt;&lt;span &gt;au niveau du glomérule sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;très rapidement &lt;/span&gt;&lt;span &gt;réabsorbés par le tubule contourné proximal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les ions Na+ entrent par diffusion facilitée à travers des canaux de fuite &lt;/span&gt;&lt;span  fontWeight="bold"&gt;(comme nous le voyons sur le schéma de gauche) ou encore tel &lt;/span&gt;&lt;span  fontWeight="bold"&gt;qu&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;illustré à droite par &lt;/span&gt;&lt;span &gt;des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;symports&lt;/span&gt;&lt;span &gt; (glucose, acides aminés) et par un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;antiport&lt;/span&gt;&lt;span &gt; particulièrement important au niveau du tubule contourné proximal qui est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;échangeur sodium-proton&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="406" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="108.15" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide4.swf" id="406"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_15e8add2a57246728b00069208a83d90yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 108150">
+				<media url="a24x5.mp3" startMsecs="0" duration="108150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mécanisme de réabsorption  des bicarbonates par le TCP@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Cette figure illustre le fonctionnement de cet &lt;/span&gt;&lt;span  fontWeight="bold"&gt;antiport&lt;/span&gt;&lt;span &gt; qui permet de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorber du sodium mais également des &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;bicarbonates&lt;/span&gt;&lt;span &gt; en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;envoyant &lt;/span&gt;&lt;span &gt;des protons dans la lumière du tubule. Ce mécanisme est le seul capable de réabsorber les ions bicarbonates du filtrat car la membrane &lt;/span&gt;&lt;span  fontWeight="bold"&gt;apicale&lt;/span&gt;&lt;span &gt; des cellules tubulaires est totalement &lt;/span&gt;&lt;span  fontWeight="bold"&gt;imperméable aux ions bicarbonates&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En &lt;/span&gt;&lt;span  fontWeight="bold"&gt;4&lt;/span&gt;&lt;span &gt;, nous voyons que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;antiport &lt;/span&gt;&lt;span  fontWeight="bold"&gt;expulse&lt;/span&gt;&lt;span &gt; des protons dans la lumière tubulaire et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorbe le sodium filtré&lt;/span&gt;&lt;span &gt; (indiqué en 1)&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;selon le gradient instauré par la pompe sodium potassium de la membrane basale (qui n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est pas représentée sur cette figure). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En &lt;/span&gt;&lt;span  fontWeight="bold"&gt;2&lt;/span&gt;&lt;span &gt; : les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;protons&lt;/span&gt;&lt;span &gt; se combinent aux &lt;/span&gt;&lt;span  fontWeight="bold"&gt;bicarbonates&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;du filtrat &lt;/span&gt;&lt;span &gt;sous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;action de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;anhydrase carbonique&lt;/span&gt;&lt;span &gt; présente dans le filtrat pour donner de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt; et du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;CO2&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En &lt;/span&gt;&lt;span  fontWeight="bold"&gt;3&lt;/span&gt;&lt;span &gt; : le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;CO2 &lt;/span&gt;&lt;span &gt;diffuse dans la cellule et, là encore sous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;action de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;anhydrase carb&lt;/span&gt;&lt;span &gt;onique, se combine avec de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt; pour donner des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;protons&lt;/span&gt;&lt;span &gt; et des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;bicarbonates&lt;/span&gt;&lt;span &gt;. Ces &lt;/span&gt;&lt;span  fontWeight="bold"&gt;protons&lt;/span&gt;&lt;span &gt; sont ceux qui sont échangés &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en 4&lt;/span&gt;&lt;span &gt; contre du sodium par l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;antiport.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Quant aux &lt;/span&gt;&lt;span  fontWeight="bold"&gt;bicarbonates&lt;/span&gt;&lt;span &gt;, nous voyons qu’&lt;/span&gt;&lt;span &gt;ils sont réabsorbés &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en 5 &lt;/span&gt;&lt;span &gt;par un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;symport&lt;/span&gt;&lt;span &gt; conjointement avec du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sodium&lt;/span&gt;&lt;span &gt; ce qui permet de maintenir &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;électroneutralité&lt;/span&gt;&lt;span &gt; des charges.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="433" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="68.6" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="433"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8241044ef7f343a3bf8879bca8689f65yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 68600">
+				<media url="a24x6.mp3" startMsecs="0" duration="68600" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@En résumé @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En résumé, la capacité de réabsorption &lt;/span&gt;&lt;span  fontWeight="bold"&gt;active&lt;/span&gt;&lt;span &gt; et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;passive&lt;/span&gt;&lt;span &gt; du tubule contourné proximal est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;considérable&lt;/span&gt;&lt;span &gt;. Il fait la plus grosse partie du travail du néphron en réabsorbant les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;deux tiers &lt;/span&gt;&lt;span  fontWeight="bold"&gt;du sodium, du potassium et de l’eau &lt;/span&gt;&lt;span &gt;et la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;moitié du chlore&lt;/span&gt;&lt;span &gt;. En conditions normales, il récupère &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tout le glucose, les acides aminés, les lactates, les vitamines et presque tous les bicarbonates.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au final, il réabsorbe tout ce qui est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;essentiel à la survie &lt;/span&gt;&lt;span &gt;et ne laisse derrière que les substances destinées à subir des régulations précises : c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est le cas de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau pour le contrôle de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité des liquides corporels&lt;/span&gt;&lt;span &gt;, du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sodium&lt;/span&gt;&lt;span &gt; pour le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contrôle du volume des liquides corporels&lt;/span&gt;&lt;span &gt; et des ions bicarbonates pour le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contrôle du pH sanguin&lt;/span&gt;&lt;span &gt;. Nous explorerons ces mécanismes régulateurs au cours du dernier chapitre de ce cycle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="479" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="63.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="479"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1d86529096064800bb4e7b9ca55194b8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 63080">
+				<media url="a24x7.mp3" startMsecs="0" duration="63080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L’anse de Henlé Histologie fonctionnelle@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Passons maintenant à la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorption dans l’anse de Henlé&lt;/span&gt;&lt;span &gt;. Du point de vue fonctionnel, deux de ces segments ont un rôle majeur. Il s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;agit de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;branche descendante fine &lt;/span&gt;&lt;span &gt;et de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;branche ascendante large&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;branche descendante fine &lt;/span&gt;&lt;span &gt;a un épithélium squameux donc aplati qui est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;très perméable à l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau &lt;/span&gt;&lt;span &gt;mais non aux solutés du filtrat, y compris le sodium. Dans ce segment de l’anse, il y a simplement &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diffusion d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau directement à travers la paroi&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;branche ascendante large&lt;/span&gt;&lt;span &gt;, qui commence à peu près au milieu du segment ascendant, a un épithélium &lt;/span&gt;&lt;span  fontWeight="bold"&gt;épais&lt;/span&gt;&lt;span &gt; constitué de cellules à forte activité métabolique riches en mitochondries et capables de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorber activement du sodium, du potassium et du chlore&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="480" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="60.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="480"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1af0cfb242b64a819de874e339edc17fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 60940">
+				<media url="a24x8.mp3" startMsecs="0" duration="60940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Anse de Henlé Transport actif du NaCl dans la partie ascendante@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Contrairement aux cellules de la branche descendante fine, les cellules du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;segment large de la partie ascendante &lt;/span&gt;&lt;span &gt;de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;anse de Henlé &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sont &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;imperméables&lt;/span&gt;&lt;span  fontWeight="bold"&gt; à l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt;. Par contre elles &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorbent activement du sodium, du potassium et du chlore&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les 3 ions sont réabsorbés &lt;/span&gt;&lt;span  fontWeight="bold"&gt;simultanément &lt;/span&gt;&lt;span &gt;par un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;symport &lt;/span&gt;&lt;span &gt;situé sur la membrane &lt;/span&gt;&lt;span  fontWeight="bold"&gt;apicale&lt;/span&gt;&lt;span &gt; des cellules. La réabsorption est  effectuée dans des conditions &lt;/span&gt;&lt;span  fontWeight="bold"&gt;de neutralité électrique &lt;/span&gt;&lt;span &gt;puisque les symports transportent &lt;/span&gt;&lt;span  fontWeight="bold"&gt;un sodium-un potassium-et 2 chlores&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;Encore une fois, il s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;agit d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;transport&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;actif&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;secondaire&lt;/span&gt;&lt;span &gt; utilisant le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gradient du sodium &lt;/span&gt;&lt;span &gt;de la cellule.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une fois réabsorbé, le sodium est expulsé par les pompes de la membrane basolatérale  et le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;chlore le suit&lt;/span&gt;&lt;span &gt; pour préserver l’égalité des charges.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="493" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="70.9" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="493"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_06b400d93e4a4e85af35b615d0ec44a0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 70900">
+				<media url="a24x21.mp3" startMsecs="0" duration="70900" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réabsorption dans l’anse de Henlé Gradient d’osmolarité médullaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Après la dia 8 :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous allons voir dans les prochaines diapositives comment les différences de perméabilité et de réabsorption des&lt;/span&gt;&lt;span &gt; deux&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;segments &lt;/span&gt;&lt;span &gt;contribue à &lt;/span&gt;&lt;span &gt;la création d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gradient &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité &lt;/span&gt;&lt;span &gt;dans  la médullaire &lt;/span&gt;&lt;span &gt;rénale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi, la&lt;/span&gt;&lt;span &gt; branche descendante fine de l’anse est perméable à l’eau et, contrairement à la plupart des autres parties du tubule rénal, elle ne réabsorbe pas activement du NaCl. La branche ascendante large quant à elle est imperméable à l’eau et réabsorbe active du NaCl&lt;/span&gt;&lt;span &gt;. Les différences entre les deux branches de l’anse sont&lt;/span&gt;&lt;span &gt; illustrées sur le schéma de droite où l’on voit également le gradient d’osmolarité médullaire avec une &lt;/span&gt;&lt;span &gt;osmolarité du liquide tubulaire et du liquide interstitiel qui augmente progressivement au fur et à mesure qu’on descend dans la &lt;/span&gt;&lt;span &gt;médullaire rénale puisqu’elle passe de &lt;/span&gt;&lt;span &gt;300 &lt;/span&gt;&lt;span &gt;mOsm&lt;/span&gt;&lt;span &gt;/L au départ de l’anse de Henlé à 1200 &lt;/span&gt;&lt;span &gt;mOsm&lt;/span&gt;&lt;span &gt;/L au niveau de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;boucle de l’anse&lt;/span&gt;&lt;span &gt; dans la partie la plus profonde de la médullaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="482" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="33.27" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="482"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e0ac8467c3ca48d7aff2e6908761415byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 33270">
+				<media url="a24x10.mp3" startMsecs="0" duration="33270" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le système de circulation à contre-courant  de l’anse de Henlé@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le mécanisme responsable de la création du gradient médullaire rénal est complexe. Il nécessite les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;différences de perméabilité des deux branches &lt;/span&gt;&lt;span &gt;mais également la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;disposition anatomique en épingle à cheveu &lt;/span&gt;&lt;span &gt;de ces deux branches qui permet une circulation du liquide tubulaire dite « &lt;/span&gt;&lt;span  fontWeight="bold"&gt;à contre-courant&lt;/span&gt;&lt;span &gt; ». On appelle d’ailleurs le mécanisme à l’origine de la création du gradient médullaire rénal : la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;multiplication par contre-courant&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="483" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.18" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="483"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_53daf5b5913b4c039aeb5dfb4c4d565eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 47180">
+				<media url="a24x11.mp3" startMsecs="0" duration="47180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Multiplication par contre-courant dans l’anse de Henlé@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici le principe de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;multiplication par contre-courant &lt;/span&gt;&lt;span &gt;dans l’anse de Henlé.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Tout démarre au niveau de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;branche ascendante large de l’anse de Henlé (qui transporte activement du NaCl mais est imperméable à l'eau&lt;/span&gt;&lt;span &gt;. Comme l'eau ne peut pas suivre les solutés, la concentration osmotique du liquide interstitiel augmente et celle du liquide tubulaire diminue. C'est ce &lt;/span&gt;&lt;span  fontWeight="bold"&gt;petit gradient horizontal initial &lt;/span&gt;&lt;span &gt;(d’environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;200 mosm par litre&lt;/span&gt;&lt;span &gt;) entre les liquides &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tubulaire&lt;/span&gt;&lt;span &gt; et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;interstitiel&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;qui est &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;multiplié verticalement&lt;/span&gt;&lt;span  textDecoration="underline"&gt; &lt;/span&gt;&lt;span &gt;le long de l'anse par la circulation à contre-courant.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="494" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="96.72" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="494"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_16154b67f9f6466890afc200b366da44yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 96720">
+				<media url="a24x22.mp3" startMsecs="0" duration="96720" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Après la diapo 11 :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’augmentation de l’osmolarité du liquide interstitiel produite par la&lt;/span&gt;&lt;span &gt; réabsorption active de &lt;/span&gt;&lt;span &gt;NaCl&lt;/span&gt;&lt;span &gt; par la branche ascendante de l’anse &lt;/span&gt;&lt;span  fontWeight="bold"&gt;entraine une sortie d’eau de la branche descendante &lt;/span&gt;&lt;span &gt;et elle y fait &lt;/span&gt;&lt;span  fontWeight="bold"&gt;également entrer un peu de sodium et de chlore selon leur gradient de concentration&lt;/span&gt;&lt;span &gt;. (&lt;/span&gt;&lt;span &gt;Rappelez-vous que les&lt;/span&gt;&lt;span &gt; cellules de la branche descendante ont une paroi fine et sont donc &lt;/span&gt;&lt;span  fontWeight="bold"&gt;très perméables à l’eau et aux solutés)&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;La répétition de ce phénomène le long de l’anse de Henlé, couplée à la circulation à contre-courant, augmente l'osmolarité du liquide tubulaire &lt;/span&gt;&lt;span  fontWeight="bold"&gt;au fur et à mesure qu'il descend&lt;/span&gt;&lt;span &gt; dans l'anse. Le petit gradient horizontal de 200mOsm/L se trouve ainsi &lt;/span&gt;&lt;span  fontWeight="bold"&gt;multiplié de façon verticale par la circulation à contre-courant&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque le liquide contourne la base de l'anse et commence à remonter dans la branche ascendante, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;du NaCl, mais pas de l'eau, &lt;/span&gt;&lt;span &gt;est expulsé du tubule et le liquide tubulaire devient de plus en plus dilué au fur et à mesure qu'il remonte pour se&lt;/span&gt;&lt;span &gt; déverser dans &lt;/span&gt;&lt;span &gt;le tubule contourné distal. En effet, le liquide tubulaire qui entre dans la médullaire aune osmolarité d'environ 300 &lt;/span&gt;&lt;span &gt;mosm&lt;/span&gt;&lt;span &gt; par litre et celui qui en ressort a une osmolarité de 100 &lt;/span&gt;&lt;span &gt;mosm&lt;/span&gt;&lt;span &gt; par litre. Cette différence&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;nous montre que le liquide tubulaire a perdu &lt;/span&gt;&lt;span  fontWeight="bold"&gt;plus de solutés que d'eau&lt;/span&gt;&lt;span &gt; lors de son passage dans la médullaire rénale. En effet, une partie du NaCl réabsorbé est recyclée&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;dans la médullaire en circulant entre les deux branches de l’anse : ce NaCl sort par la branche ascendante large et retourne dans l’anse par la branche descendante fine. C’est ainsi qu’une petite quantité de solutés est retenue dans la médullaire pour créer le gradient d’osmolarité.&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="486" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="102.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide12.swf" id="486"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cebd2b4a2be149ee9cbcb9c0ff89244eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 102680">
+				<media url="a24x13.mp3" startMsecs="0" duration="102680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les vasa recta sont des échangeurs à contre-courant@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Si les vaisseaux sanguins de la médullaire rénale ressemblaient à ceux du cortex, ils emporteraient tout simplement avec eux le NaCl expulsé de la branche &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ascendante&lt;/span&gt;&lt;span &gt; de l’anse et le gradient médullaire n’existerait pas. Cependant, les vasa recta ont le même trajet que l’anse de Henlé et forment des boucles en d’épingle à cheveux. Par conséquent, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le sang qui descend &lt;/span&gt;&lt;span &gt;dans la médullaire &lt;/span&gt;&lt;span  fontWeight="bold"&gt;perd de l’eau et reçoit du NaCl &lt;/span&gt;&lt;span &gt;en réponse au &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gradient d’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité et à la différence de concentration en NaCl&lt;/span&gt;&lt;span &gt;. Il devient donc de plus en plus concentré au fur et à mesure qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;il s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;approche de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;extrémité de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;anse. En retournant vers le cortex il traverse un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;espace interstitiel de plus en plus dilué &lt;/span&gt;&lt;span &gt;ce qui entraine une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;entrée d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau &lt;/span&gt;&lt;span &gt;et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;une sortie de NaCl&lt;/span&gt;&lt;span &gt;. Au final, le sang quitte la médullaire avec plus d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et de solutés qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;à son arrivée mais &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ces échanges entre les vasa recta et le liquide interstitiel permettent de préserver le gradient médullaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="495" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="24.36" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="495"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bf1c9afdcd8f4459948bb6225f3d71adyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 24360">
+				<media url="a24x23.mp3" startMsecs="0" duration="24360" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="485" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="204.2" advance="pause" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="485"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_668d9b7618fc4e68b1778db9d30529acyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents><flvContent url="resources/p07 dia14_1_485_1_96239.mp4" PosX="120" PosY="67" Height="405" Width="720" playAfterTime="0" duration="204200" StartTime="0" StopTime="204200" FadeIn="0" FadeOut="0" FadeSpeed="1" MuteAudio="0" IsH264="1" ISORATEVIDEO=""/></flvContents>
+			<audios id="14" duration=" 161440">
+				<media url="a24x14.mp3" startMsecs="0" duration="161440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Animation : Gradient médullaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le mécanisme de multiplication par contre-courant est un des concepts de la physiologie les plus difficile à comprendre. Entre autres parce qu’il est difficile d’imaginer simultanément les propriétés des deux branches couplées à la dynamique de la circulation du liquide tubulaire. C’est pourquoi je vous propose cette animation qui, bien qu’elle soit en anglais, illustre parfaitement le mécanisme. Vous pouvez d’ailleurs en appuyant sur les deux boutons du bas, la mettre en pause, la redémarrer et la recommencer à volonté.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="487" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="88.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="487"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_39fe19389e4c48ce9e169c3f35915148yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 88250">
+				<media url="a24x15.mp3" startMsecs="0" duration="88250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Importance du gradient médullaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Il est important pour vous de bien comprendre le gradient médullaire rénal car son rôle dans la production d’une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;urine concentrée &lt;/span&gt;&lt;span &gt;est capitale. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette adaptation rénale s’est mise en place lors du passage de la vie aquatique à la vie terrestre où l’économie de l’eau est nécessaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les mammifères ont résolu cette contrainte grâce à l'adaptation prodigieuse de leurs reins. Le fait de pouvoir produire une urine concentrée leur permet d’excréter dans une petite quantité d'eau tous les déchets métaboliques et les ions en excès. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A cause de son système de multiplication &lt;/span&gt;&lt;span  fontWeight="bold"&gt;longitudinal&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la longueur&lt;/span&gt;&lt;span &gt; de l’anse de Henlé est un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;facteur déterminant de la grandeur&lt;/span&gt;&lt;span &gt; du gradient médullaire. C’est ainsi que certains rongeurs du désert, comme le rat kangourou, peuvent se passer de boire. Certaines de leurs anses de Henlé sont tellement longues qu’elles descendent dans les uretères. L'eau produite par la dégradation et l'oxydation de leurs aliments suffit pour former leur urine dont la concentration peut être 15 fois plus élevée que celle de leur sang. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Chez l’homme, seulement 15 % des néphrons ont de longues anses, d’environ 1cm de long. L’&lt;/span&gt;&lt;span &gt;osmolarité maximale pouvant ainsi être atteinte dans un rein humain est d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;1400&lt;/span&gt;&lt;span &gt; mosmoles par litre. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="490" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="41.03" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="490"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1bbde3064c684ac8a8bbf13d50e5b013yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 41030">
+				<media url="a24x16.mp3" startMsecs="0" duration="41030" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réabsorption dans la première partie du TCD@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous terminerons avec la réabsorption dans la première partie du tubule distal car elle ressemble en fait à celle du segment ascendant large de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;anse de Henlé. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet, cette partie du tubule distal possède &lt;/span&gt;&lt;span  fontWeight="bold"&gt;un symport sodium chlore &lt;/span&gt;&lt;span &gt;et est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pratiquement imperméable à l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt;. En réabsorbant les ions sodium et chlore &lt;/span&gt;&lt;span  textDecoration="underline"&gt;sans eau&lt;/span&gt;&lt;span &gt;, elle continue de diluer le liquide tubulaire. C&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est pour cela qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;avec la branche ascendante large de l’anse de Henlé, elle constitue ce qu’on appelle le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;segment diluant &lt;/span&gt;&lt;span &gt;du tubule rénal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="488" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="40.63" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="488"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8d85bf7639c44eb09edc98dc3e3d13aayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 40630">
+				<media url="a24x17.mp3" startMsecs="0" duration="40630" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@En résumé@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En résumé, &lt;/span&gt;&lt;span &gt;environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;15% de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt; est réabsorbé au niveau de la branche &lt;/span&gt;&lt;span  fontWeight="bold"&gt;descendante&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;de l’anse de Henlé&lt;/span&gt;&lt;span &gt; et environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;25% du sodium, du chlore et du potassium &lt;/span&gt;&lt;span &gt;est réabsorbé par la branche &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ascendante&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce mode &lt;/span&gt;&lt;span  fontWeight="bold"&gt;asymétrique&lt;/span&gt;&lt;span &gt; de réabsorption de l’eau et des solutés, couplé à l’effet &lt;/span&gt;&lt;span  fontWeight="bold"&gt;multiplicateur&lt;/span&gt;&lt;span &gt; de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;circulation à contre-courant&lt;/span&gt;&lt;span &gt;, permet la création d’un gradient d’osmolarité dans la médullaire rénale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="492" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="4.77" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="492"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_207f0db51e584d2eb2a8fc7f6b0e5687yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="4770"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="1"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

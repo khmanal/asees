@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 2 : Les compartiments liquidiens de l'organisme</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Diane GODIN-RIBUOT</name>
+			<speakerTitle>Professeur CHU Grenoble  (UGA)</speakerTitle>
+			<image>spk128740.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_3ed4ad24f6c54e10a7a15e5e58f05d9fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_5142eabcb9d04ad18d4588bee60fc7a8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_a562eec2d83e4bfc85ef3c8c596db533yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_3c7bf4379fb34ca6818427a4a962fd93yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_c74f06d0871a4d8296e596222e10d994yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_76f24f7246f24cfda8c205ca9dd91331yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_b7a2d0ab4c3547aaa2fce2ad793a660ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="468" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="15.42" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="468"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4ef80355ddb549faa037dbbeb5d2cda9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="44" duration=" 15420">
+				<media url="a24x44.mp3" startMsecs="0" duration="15420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 2 :  Les compartiments liquidiens de l’organisme @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="64.11" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4c255b921a5145bdbc540960a19fa328yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 64110">
+				<media url="a24x2.mp3" startMsecs="0" duration="64110" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le milieu intérieur@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Parmi ceux-ci se trouve le fameux milieu intérieur décrit par Claude Bernard. Ce physiologiste français du 19&lt;/span&gt;&lt;span &gt;ème&lt;/span&gt;&lt;span &gt; siècle a été le premier à formuler le concept d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;'homéostasie  &lt;/span&gt;&lt;span &gt;et dans son ouvrage intitulé « Introduction à la médecine expérimentale », il propose que : &amp;quot;La fixité du milieu intérieur est la condition d'une vie libre et indépendante » (autrement dit elle permet à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisme de ne pas être affecté par les variations des conditions extérieures).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le milieu intérieur d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un organisme multicellulaire comme le nôtre correspond essentiellement au liquide extracellulaire dans lequel baignent nos cellules et il est séparé du milieu extérieur par le tissu cutané. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La survie et le fonctionnement de nos cellules sont liés à la stabilité de cet environnement interne dont les conditions physico-chimiques sont maintenues les plus stables possibles par le rôle fondamental des reins.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="310" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="128.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="310"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0c5308e78dbd413bbbc0f188d0d5dfe4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 128280">
+				<media url="a24x3.mp3" startMsecs="0" duration="128280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Rappels Unités de mesure des concentrations de solutés@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Avant d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;examiner la composition des différents compartiments liquidiens de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisme, voici quelques rappels concernant les différentes mesures utilisées pour les concentrations des solutés suivies de notions sur l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité des liquides corporels.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En général, les concentrations des solutés sont exprimées en molarité c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire en nombre de moles de solutés dissous par litre de solution. La concentration molaire tient alors compte du poids moléculaire du soluté.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans les liquides biologiques, la concentration des solutés est plutôt exprimée en osmolarité. Cette dernière tient compte du nombre de particules dissoutes à activité osmotique, qu’on appelle alors &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmoles&lt;/span&gt;&lt;span &gt;, plutôt que du nombre de molécules et le déplacement osmotique de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau se fera en réponse à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité&lt;/span&gt;&lt;span &gt; plutôt qu’à la molarité d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une solution.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Bien que toutes les particules dissoutes contribuent à l'activité osmotique d'un liquide, les électrolytes ont un pouvoir osmotique plus puissant que les non électrolytes car chaque molécule d'électrolyte se dissocie en au moins deux ions. Par exemple, une molécule de chlorure de sodium produit deux fois plus de particules solubles qu'une molécule de glucose (qui ne se dissocie pas); et une molécule de chlorure de calcium en produit trois fois plus. &lt;/span&gt;&lt;span  fontWeight="bold"&gt;L&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité&lt;/span&gt;&lt;span &gt; représente donc le nombre &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmoles c&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;est-à-dire de particules à activité osmotique par litre de solution. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Quant à l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolalité,&lt;/span&gt;&lt;span &gt; elle représente la concentration en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmoles par kilogramme de solvant&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les concentrations en électrolytes des liquides corporels sont aussi parfois exprimées en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;équivalents par litre&lt;/span&gt;&lt;span &gt;; cette mesure prend alors en compte le nombre total de charges électriques d'une solution. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="428" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="108.39" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="428"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d2f7ae376ce547f883fdd7cf9ae936f3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 108390">
+				<media url="a24x4.mp3" startMsecs="0" duration="108390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Osmose et tonicité  dans les liquides corporels@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme nous le verrons dans un moment, l’eau est le composant principal de notre organisme. Les liquides corporels sont donc des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;solutions très diluées &lt;/span&gt;&lt;span &gt;et leur concentration s’exprime en mmoles, mequivalents ou mosmoles par litre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une petite précision concernant l’osmolarité et l’&lt;/span&gt;&lt;span &gt;osmolalité  des liquides corporels. L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité représente le nombre d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmoles par litre de solution alors que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolalité est le nombre d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmoles par kilogramme de solvant. L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité est influencée par le volume des solutés et par la température de la solution alors que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolalité ne l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est pas.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La température des liquides corporels varie peu et les substances osmotiquement actives y sont dissoutes dans de l’eau. Comme la densité de celle-ci est égale à un, l’&lt;/span&gt;&lt;span &gt;osmolalité et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité des liquides corporels sont presque identiques.  Pour les cours de physiologie rénale, nous utiliserons donc les concentrations &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolaires&lt;/span&gt;&lt;span &gt;, plus précisément &lt;/span&gt;&lt;span  fontWeight="bold"&gt;milli-osmolaires&lt;/span&gt;&lt;span &gt;, et elles seront donc exprimées &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en milli-osmoles par litre d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si on compare entre elles les osmolarités de deux solutions, elles sont dites &lt;/span&gt;&lt;span  fontWeight="bold"&gt;iso-osmotiques &lt;/span&gt;&lt;span &gt;lorsqu’elles ont la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;même osmolarité&lt;/span&gt;&lt;span &gt;. Si une des deux solutions contient une quantité plus importante d’osmoles par volume, elle est dite &lt;/span&gt;&lt;span  fontWeight="bold"&gt;hyperosmotique&lt;/span&gt;&lt;span &gt; par rapport à l’autre. Et si elle en contient moins, elle est alors qualifiée d’ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;hypo-osmotique&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="460" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="60.99" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="460"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e10206b4e17b49bcb0c3e25703c7863dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 60990">
+				<media url="a24x5.mp3" startMsecs="0" duration="60990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Osmose et tonicité  dans les liquides corporels@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tonicité&lt;/span&gt;&lt;span &gt; d’une solution décrit son effet sur le volume cellulaire. Lorsqu’une cellule est placée dans une solution qui la fait gonfler voire même éclater, c’est que de l’eau entre dans la cellule et la solution est dite &lt;/span&gt;&lt;span  fontWeight="bold"&gt;hypotonique&lt;/span&gt;&lt;span &gt; par rapport à la cellule. Elle est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;isotonique&lt;/span&gt;&lt;span &gt; si le volume cellulaire ne change pas et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;hypertonique&lt;/span&gt;&lt;span &gt; si elle fait sortir l’eau de la cellule qui se met à rétrécir.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Attention de ne pas confondre osmolarité et tonicité : l’osmolarité est mesurable, elle représente le nombre de particules à activité osmotique par litre d’eau. La tonicité ne se mesure pas mais s’observe. L’osmolarité de deux solutions peut être comparée alors que la tonicité compare toujours une solution avec son effet sur une cellule.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="76.15" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_73877e96cf2a4387956007132e1daa4byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 76150">
+				<media url="a24x6.mp3" startMsecs="0" duration="76150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les liquides corporels@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nos liquides corporels sont essentiellement des solutions aqueuses contenant de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et des solutés dissociés ou non. Ces solutions sont présentes dans des compartiments de dimensions variables qui échangent les uns avec les autres à travers des membranes lipidiques. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le milieu intérieur, autrement dit le liquide extracellulaire (&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ou LEC&lt;/span&gt;&lt;span &gt;), est séparé du liquide intracellulaire (&lt;/span&gt;&lt;span  fontWeight="bold"&gt;LIC&lt;/span&gt;&lt;span &gt;) par la membrane cellulaire et il est lui-même composé de deux grands compartiments : le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;plasma&lt;/span&gt;&lt;span &gt; et le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;liquide interstitiel &lt;/span&gt;&lt;span &gt;eux-mêmes&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;séparés par la paroi capillaire. La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;lymphe&lt;/span&gt;&lt;span &gt; est comprise dans le compartiment interstitiel où elle joue un rôle important, comme nous le verrons par la suite. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il y a en fait très peu d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau libre dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;espace interstitiel entre les cellules. Dans cet espace, le liquide est associé à du tissu conjonctif  et à des filaments de protéoglycanes, ce qui forme une sorte de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gel&lt;/span&gt;&lt;span &gt; qui l’empêche de se déplacer sous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effet de la gravité.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="461" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="103.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="461"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f798ee43d7de4ba7a37ec4dd6ffbf76byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 103410">
+				<media url="a24x7.mp3" startMsecs="0" duration="103410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Importance de la stabilité  des liquides corporels@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le rôle des reins dans la stabilité du milieu extracellulaire est primordial car de celle-ci dépend la stabilité du volume et de la composition du liquide &lt;/span&gt;&lt;span  fontWeight="bold"&gt;intracellulaire&lt;/span&gt;&lt;span &gt;, toutes deux essentielles au fonctionnement cellulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour ce faire, les reins vont donc maintenir le volume et la composition du LEC à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;intérieur de limites physiologiques très étroites.  L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;importance de cette régulation est évidente lorsqu’on voit qu’une diminution de la natrémie (c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire de la concentration plasmatique du sodium) en dessous de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;120 mosmoles par litre par exemple, va entraîner une entrée d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau par osmose dans les cellules. Ceci peut avoir des conséquences au niveau cérébral puisque les neurones sont enfermés dans la boite crânienne, incompressible. Les symptômes peuvent aller de la douleur à la confusion mentale, au coma et à la mort.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De même, si la kaliémie (c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire la concentration plasmatique de potassium) &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmente au dessus de 7 mosmoles par litre&lt;/span&gt;&lt;span &gt;, le rapport entre la concentration externe et interne en potassium, qui est habituellement de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ordre de 30, est diminué et le potentiel membranaire devient moins &lt;/span&gt;&lt;span  fontWeight="bold"&gt;négatif&lt;/span&gt;&lt;span &gt;. Cette dépolarisation modifie l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;excitabilité des cellules nerveuses et surtout des cellules cardiaques avec un risque de troubles du rythmes mortel.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="288" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="96.76" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="288"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_512e5a96f0744f12999c9cba973e7a1ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 96760">
+				<media url="a24x8.mp3" startMsecs="0" duration="96760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Composition des liquides corporels  Contenu corporel en eau@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons maintenir aborder la composition des liquides corporels en commençant par la substance la plus abondante : &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt; qui est le principal solvant dans tous les liquides corporels. Ainsi, chez un jeune adulte en bonne santé, elle représente plus de la moitié de la masse corporelle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La quantité totale d'eau corporelle varie toutefois d'un individu à l'autre. Elle varie non seulement en fonction de la masse et de l'âge mais aussi du sexe et de la proportion de graisse corporelle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A cause de leur faible masse graisseuse et osseuse, les nourrissons sont composés de près de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;75% d'eau &lt;/span&gt;&lt;span &gt;(comme le montre la qualité veloutée de leur peau). Après l'enfance, la quantité d'eau corporelle diminue tout au long de la vie pour atteindre 45% du poids corporel chez la personne âgée. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un homme jeune en bonne santé est composé à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;60% d'eau &lt;/span&gt;&lt;span &gt;et une jeune femme à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;50%&lt;/span&gt;&lt;span &gt;. Ceci est dû au fait que le corps de la femme contient plus de tissu graisseux et moins de muscle que celui de l'homme. De tous les tissus corporels, le tissu adipeux est celui qui est le moins hydraté (il contient au maximum 20% d'eau), en fait même l'os contient plus d'eau que la graisse. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En revanche, le muscle contient environ 65% d'eau. Les personnes avec une masse musculaire élevée ont donc proportionnellement plus d'eau corporelle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="467" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="81.23" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="467"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4091f1248ce549fb8b435dcdeba95e04yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 81230">
+				<media url="a24x9.mp3" startMsecs="0" duration="81230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Composition des liquides corporels  Compartiments liquidiens@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L'eau corporelle se répartit essentiellement dans deux grands compartiments liquidiens. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les deux tiers occupent le compartiment &lt;/span&gt;&lt;span  fontWeight="bold"&gt;intracellulaire&lt;/span&gt;&lt;span &gt;. Ainsi, chez un homme adulte de 70 kg (la référence en physiologie) le liquide intracellulaire représentera environ 28 litres d'eau (sur un total de 42). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le tiers restant se situe à l'extérieur des cellules. Chez cet individu, le compartiment &lt;/span&gt;&lt;span  fontWeight="bold"&gt;extracellulaire&lt;/span&gt;&lt;span &gt; représente donc 14 litres au total. En conclusion nous avons deux foisplus d’eau dans nos cellules qu’à l’extérieur de celle-ci.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le liquide extracellulaire peut lui-même être divisé en deux sous-compartiments : le plasma, c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire la fraction liquidienne du sang, qui représente le quart du LEC, les ¾ restant étant le liquide interstitiel situé entre les cellules. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Notons que sont aussi inclus dans le compartiment interstitiel d'autres liquides extracellulaires: la lymphe, comme nous l’avons déjà vu, mais également le liquide cérébrospinal, l'humeur aqueuse de l'œil, les sécrétions gastro-intestinales, etc.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="293" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="65.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="293"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ad468e2786e84a08b8b582279c2c126fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 65610">
+				<media url="a24x10.mp3" startMsecs="0" duration="65610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure des volumes corporels@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;On ne peut pas bien sûr mesurer directement le volume de chacun de ces compartiments liquidiens. Il est toutefois possible de les estimer indirectement en mesurant la dilution d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une quantité connue d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un marqueur qui se distribue uniquement, uniformément et entièrement dans le compartiment que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;on veut mesurer.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le volume de distribution du marqueur dans le compartiment, donc le volume du compartiment lui-même, est égal au rapport de la quantité de marqueur qui a été administrée sur la concentration de marqueur mesurée une fois l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre atteint.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le marqueur idéal pour ce genre de technique doit posséder les propriétés suivantes :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;il doit se distribuer de façon homogène dans tout le compartiment&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;il ne doit pas passer dans un autre compartiment&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;il ne doit pas être synthétisé ou métabolisé par l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisme et finalement&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;il ne doit pas présenter de toxicité. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="294" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="110.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="294"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_df436543ff154a87b1a28d45665dce37yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 110910">
+				<media url="a24x11.mp3" startMsecs="0" duration="110910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure des volumes corporels@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Trois compartiments liquidiens peuvent être mesurés à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aide de divers marqueurs isotopiques ou non. Il s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;agit de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau corporelle totale, du liquide extracellulaire et du liquide plasmatique. Le volume du liquide intracellulaire et du liquide interstitiel ne peuvent pas être mesurés et devront être estimés tel qu’indiqué dans le tableau.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Des marqueurs de faible poids moléculaire pouvant franchir la membrane cellulaire comme l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urée et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;éthanol, vont se distribuer dans tous les compartiments liquidiens et donc permettre de mesurer le volume d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau corporelle totale. Il existe aussi des marqueurs isotopiques comme l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau tritiée dans laquelle tout ou une partie des atomes d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;hydrogène a été remplacé par du tritium. De faibles concentrations d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;'eau tritiée peuvent être employées pour mesurer le volume d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau total. Elle se comporte comme l'eau normale et se répartit rapidement dans tous les compartiments corporels.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Des marqueurs pouvant franchir la paroi vasculaire mais trop gros pour traverser la membrane cellulaire, comme le mannitol et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;inuline, ou isotopiques comme le sodium24 ou le chlore 36, vont servir à estimer le volume du LEC.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et finalement, des marqueurs de poids moléculaire élevé qui restent dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;espace vasculaire et ne rentrent pas dans les globules rouges, comme le bleu Evans (qui se fixe à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;albumine plasmatique), ou encore l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;albumine marquée à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;iode125 ou 131, servent à mesurer le volume du liquide plasmatique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="295" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="295"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ba438ac6258843f1b4856d513fe80814yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 36410">
+				<media url="a24x12.mp3" startMsecs="0" duration="36410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure du volume sanguin total@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Lorsque l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;on connaît le volume plasmatique, il est possible de calculer le volume sanguin total à partir de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;hématocrite puisque ce dernier nous donne la proportion du sang occupée par les hématies. La fraction des globules rouges (V2) par rapport au sang total (V1) est obtenue après centrifugation et sa valeur moyenne est comprise entre 35-45% chez l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;homme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On peut donc calculer le volume sanguin total en divisant le volume plasmatique par 1 moins l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;hématocrite.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="304" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.26" advance="pause" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="304"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_97c3261ab247469fa189d0aeb26afa1byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 14260">
+				<media url="a24x13.mp3" startMsecs="0" duration="14260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contrôlez vos connaissances@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour ceux qui le souhaitent, essayez de calculer à partir des informations suivantes, les volumes plasmatique et sanguin de ce patient. Pour voir la réponse, passez à la diapositive suivante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="449" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="16.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="449"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a5a6313e6e16444d8977d1ada475173byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 16310">
+				<media url="a24x14.mp3" startMsecs="0" duration="16310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réponse@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici la réponse et si vous reportez aux valeurs fournies à la diapositive 12, vous voyez que les volumes plasmatiques et sanguins obtenus sont tout à fait compatibles avec l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;âge et le poids corporel de Monsieur L.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="290" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="74.36" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="290"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dc912c1653024a4eb1cf05ce41fecaa4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 74360">
+				<media url="a24x15.mp3" startMsecs="0" duration="74360" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les solutés des liquides corporels@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En ce qui concerne les solutés, c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire les particules dissoutes, retrouvés dans les liquides corporels, la  plupart sont dissociés en ions chargés électriquement que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;on appelle électrolytes. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cations (chargés positivement) comprennent le sodium, le potassium, le magnésium, le calcium, et les protons ou ions hydrogènes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Les anions (chargés négativement) incluent le chlore, le bicarbonate, les anions organiques, les phosphates, les sulfates et les protéines qui ont plusieurs charges négatives par molécule.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les solutés non-électrolytes ont des liaisons (en général covalentes) qui les empêchent de se dissocier lorsque en solution et donc de générer des particules chargées électriquement. C'est le cas de molécules organiques comme le glucose, les lipides, la créatinine et l'urée. Malgré l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;importance physiologique de certaines de ces substances, comme le glucose, ces particules ne constituent qu’une toute petite fraction des particules dissoutes à activité osmotique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="446" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="117.98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="446"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_259e52aca5ee4e4b873a5abba7808ddbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 117980">
+				<media url="a24x16.mp3" startMsecs="0" duration="117980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Composition ionique du LEC Plasma et liquide interstitiel@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A cause de la très grande perméabilité de la paroi capillaire qui sépare ces deux compartiments, la composition ionique du plasma et du liquide interstitiel est presque identique. Leur principal cation est le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sodium&lt;/span&gt;&lt;span &gt; accompagné d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;anions, essentiellement du chlore et des ions bicarbonates.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Toutefois, malgré la forte perméabilité de la paroi capillaire, le plasma contient un peu moins de chlore et de bicarbonates et un peu plus de sodium que le liquide interstitiel. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ceci est dû la concentration plus élevée en protéines du plasma car la paroi capillaire n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est pas perméable à ces dernières. Le liquide interstitiel n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;en contient pas alors que leur concentration dans le plasma est d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;environ 2 mosmoles par litre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;D&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;après &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;équilibre de Gibbs-Donnan&lt;/span&gt;&lt;span &gt;, les protéines plasmatiques, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;chargées négativement&lt;/span&gt;&lt;span &gt;, attirent les ions positifs et repoussent les ions négatifs. La distribution passive de ces ions est donc modifiée afin de permettre de maintenir &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;électroneutralité&lt;/span&gt;&lt;span &gt; des deux compartiments. Ceci explique que la quantité des cations est légèrement supérieure dans le plasma et que celle des anions diffusibles comme chlore et les bicarbonates est légèrement inférieure.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une autre conséquence de cet équilibre est qu’&lt;/span&gt;&lt;span &gt;il y a &lt;/span&gt;&lt;span  fontWeight="bold"&gt;plus de particules osmotiquement actives dans le plasma &lt;/span&gt;&lt;span &gt;ce qui fait que son osmolarité est légèrement plus élevée que celle du liquide interstitiel (d’environ 2 mosmoles/L). Cette force osmotique va retenir l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau dans le plasma et la pression osmotique ainsi générée, également appelée &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression oncotique&lt;/span&gt;&lt;span &gt;, est d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;environ 25mmHg.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="438" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.54" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="438"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dbc27af99bee4fd9bf615e967ec25f68yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 57540">
+				<media url="a24x17.mp3" startMsecs="0" duration="57540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Composition ionique du LIC@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Contrairement aux liquides extracellulaires, le liquide intracellulaire ne contient presque pas de sodium et de chlore. Son cation le plus abondant est le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;potassium&lt;/span&gt;&lt;span &gt; et son principal anion est l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ion phosphate &lt;/span&gt;&lt;span  fontWeight="bold"&gt;HPO4(--). &lt;/span&gt;&lt;span &gt;Les cellules contiennent aussi du magnésium et surtout des quantités importantes de protéines, environ trois fois plus que dans le plasma. L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité du liquide intracellulaire résulte donc en grande partie des sels de potassium. Elle est voisine de celle du LEC à cause de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre osmotique à travers la membrane cellulaire mais ici encore la forte concentration de protéines intracellulaires osmotiquement actives fait que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité du LIC est légèrement plus élevée que celle du LEC. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="435" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="435"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_903b7c41b18149f8992f936ac0ff8e17yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 53290">
+				<media url="a24x18.mp3" startMsecs="0" duration="53290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Equilibre de Gibbs-Donnan entre LIC et liquide interstitiel@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme dans le plasma, la présence de ces protéines chargées négativement va influencer la distribution des charges entre le liquide intracellulaire et le liquide interstitiel. L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre de Gibbs-Donnan assurant le maintien de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;électroneutralité des compartiments, il y a donc plus de particules osmotiquement actives dans les cellules que dans le liquide interstitiel. Sans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;activité de la pompe sodium-potassium ATPase qui fait sortir plus de particules de la cellule qu’elle n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;en fait entrer, neutralisant ainsi les effets de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre de Gibbs-Donnan, les cellules finiraient pas gonfler et par éclater. La pompe Na-K est donc responsable non seulement du maintien du potentiel membranaire des cellules mais également de la taille et du volume cellulaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="439" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="45.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="439"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_02aa6af8df7f478ca7785437567572acyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 45380">
+				<media url="a24x19.mp3" startMsecs="0" duration="45380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Echanges d’eau et de solutés entre les divers compartiments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons maintenant regarder les différents échanges d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et de solutés entre les compartiments liquidiens de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les trois principaux endroits où se produisent ces échanges sont :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- entre les compartiments extracellulaire et intracellulaire à travers la membrane cellulaire, &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- entre les compartiments plasmatique et interstitiel du liquide extracellulaire à travers la paroi capillaire et finalement&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;entre le compartiment plasmatique et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;environnement extérieur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les deux premiers types d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;échange sont impliqués dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre interne et le dernier dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre externe des substances de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="300" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="26.13" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="300"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1316452c4e7e4aa78d3dff61a2ca5213yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 26130">
+				<media url="a24x20.mp3" startMsecs="0" duration="26130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Echanges d’eau@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En ce qui concerne les échanges d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau, à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;exception de certaines cellules du tubule rénal, les membranes cellulaires sont très perméables à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau ce qui permet son libre mouvement d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un compartiment à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autre&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Deux forces vont déterminer les mouvements d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau entre les compartiments liquidiens :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmose et &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La pression hydrostatique générée par le système cardiovasculaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="280" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.34" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="280"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6c0f5c874280437483b91987f2de6a0cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="47010" isStartRelative="false" duration="667"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 57340">
+				<media url="a24x21.mp3" startMsecs="0" duration="57340" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mécanismes de déplacement de l’eau à travers les membranes cellulaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La bicouche lipidique de la membrane est perméable à la plupart des molécules non polaires et non chargées telles que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;oxygène, le gaz carbonique et les stéroïdes, mais elle est imperméable aux ions et aux molécules chargées ou polaires telles que le glucose.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle est toutefois perméable à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau, ce qui est surprenant puisque l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau est composée de molécules &lt;/span&gt;&lt;span  fontWeight="bold"&gt;polaires&lt;/span&gt;&lt;span &gt;. Même les membranes artificielles, composées uniquement de phospholipides, sont perméables à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau. On croit que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau traverse la bicouche lipidique de la façon suivante : les queues d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;acides gras des phospholipides et des glycolipides de la membrane se déplacent de façon aléatoire ce qui crée momentanément de petits espaces dans le milieu hydrophobe de la membrane.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; :  Les molécules d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau sont assez petites pour se faufiler d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un interstice à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autre pour ainsi traverser la membrane par simple diffusion.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="281" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="64.36" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="281"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4f31561ee485469fa8dfbdfc40d93baayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 64360">
+				<media url="a24x22.mp3" startMsecs="0" duration="64360" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mécanismes de déplacement de l’eau à travers les membranes cellulaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous voyons à droite sur ce schéma que l’eau peut également traverser les membranes en passant par certains canaux ioniques si la perméabilité de ceux-ci le permet. Mais le mode de déplacement de l’eau le plus important est celui qui se fait à travers les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;aquaporines&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’existence de pores à eau a été longtemps suspectée dans la membrane des globules rouges, car la perméabilité de ces cellules est nettement supérieure à celle d’une bicouche lipidique de surface équivalente. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il y a maintenant plus d’une dizaine d’années que l’&lt;/span&gt;&lt;span &gt;aquaporine 1 a été mise en évidence et clonée à partir des globules rouges. Cette découverte majeure a été récompensée en 2003 par le Prix Nobel de Chimie décerné au Professeur Peter Agre (ahgray). Les aquaporines sont des protéines spécialisées dans le transport de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et actuellement &lt;/span&gt;&lt;span  fontWeight="bold"&gt;onze&lt;/span&gt;&lt;span &gt; sous-types différents ont été identifiés chez les mammifères.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="282" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="41.46" advance="pause" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="282"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7329efcda8e74be8a16e522ceb1094e3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents><flvContent url="resources/chemanim1_1_282_1_65308.mp4" PosX="160" PosY="90" Height="393" Width="603" playAfterTime="0" duration="38000" StartTime="0" StopTime="38000" FadeIn="0" FadeOut="0" FadeSpeed="1" MuteAudio="0" IsH264="1" ISORATEVIDEO=""/></flvContents>
+			<audios id="23" duration=" 41460">
+				<media url="a24x23.mp3" startMsecs="0" duration="41460" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Simulation du fonctionnement d’une aquaporine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici une simulation du fonctionnement d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une aquaporine créée par une équipe de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;Université de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;Illinois. Il est estimé que près d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un milliard de molécules d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau (les sphères rouges et blanches) passent par seconde par le canal formé par une aquaporine. La sphère jaune nous montre le trajet effectué par une seule molécule d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau. La simulation a révélé que la sélectivité du passage de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau est apportée par une rotation de la molécule d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau à mi-parcours que vous pourrez voir avec un peu de patience.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="437" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="74.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="437"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_272e73172fff4a238c1386a4d3fb315dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 74940">
+				<media url="a24x24.mp3" startMsecs="0" duration="74940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@1. Echanges d’eau entre les compartiments extra- et intracellulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Bien que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et plusieurs solutés traversent la membrane cellulaire entre les compartiments extra et intracellulaire, celle-ci est beaucoup plus perméable à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aux solutés. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle est même imperméable à plusieurs d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;entre eux et les forces osmotiques créées par les solutés qui ne traversent pas les membranes vont donc gouverner le déplacement de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un compartiment à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autre. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En ce qui concerne le liquide extracellulaire, les solutés non diffusibles sont principalement le sodium et ses anions associés et pour le liquide intracellulaire, il s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;agit du potassium et de ses anions associés.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La forte perméabilité des membranes à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et son déplacement sous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effet des gradients osmotiques fait que, à part les petites variations liées à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre de Gibbs Donnan, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité est à la même dans presque tous les liquides corporels et sa valeur est d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;environ 300 mosmoles par litre. Parmi les exceptions notons la sueur qui est hypoosmotique par rapport aux autres liquides corporels et l’urine dont l’osmolarité varie en fonction des besoins en eau de l’organisme (nous verrons en détail cet aspect au chapitre 5).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="448" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="48.88" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="448"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b76d67bd9896403a932f281e1e69f7a8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 48880">
+				<media url="a24x25.mp3" startMsecs="0" duration="48880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@1. Echanges d’eau entre les compartiments extra- et intracellulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme le plasma est en contact direct avec le milieu extérieur au niveau du tube digestif et des reins, il est possible de perdre ou de gagner de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau ou des solutés et de modifier ainsi la composition des liquides corporels. Le liquide extracellulaire est donc toujours le premier à subir des changements de volume et d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité et ceux-ci vont ensuite se transmettre au liquide intracellulaire. Nous allons dans les prochaines diapositives examiner diverses situations qui affectent le volume ou l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité du LEC et regarder l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;impact de ces modifications sur la distribution de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau entre les compartiments extra et intracellulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="393" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="48.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="393"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_72a9bf3c48e7413ea431ce117f2702a5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 48550">
+				<media url="a24x26.mp3" startMsecs="0" duration="48550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Volume et osmolarité des compartiments liquidiens@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Afin de simplifier les choses nous allons dans les exemples qui vont suivre laisser de côté le prototype classique de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;homme adulte de 70 kg pour utiliser les valeurs moyennes mesurées chez une femme de 60 kg car ceci nous donne des chiffres ronds avec une proportion corporelle d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;50% &lt;/span&gt;&lt;span &gt;soit &lt;/span&gt;&lt;span  fontWeight="bold"&gt;30 litres &lt;/span&gt;&lt;span &gt;répartis en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;10 litres de liquide extracellulaire &lt;/span&gt;&lt;span &gt;et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;20 litres de liquide intracellulaire&lt;/span&gt;&lt;span &gt;. A l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité des compartiments est identique soit environ 300 mosmoles par litre et nous avons le même nombre d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmoles par litre dans les liquides extra et intracellulaire c’est-à-dire 3000 et 6000 osmoles respectivement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="410" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="70.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="410"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d3058d5bff7b410fa859ba67b079592fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="4960" isStartRelative="false" duration="167"/>
+				<click startTime="26660" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 70950">
+				<media url="a24x27.mp3" startMsecs="0" duration="70950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Gain de liquide isotonique Expansion iso-osmotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un gain de liquide iso-osmotique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : comme ici l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;infusion ou l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ingestion de trois litres d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une solution saline, va affecter uniquement le volume du liquide extracellulaire qui va augmenter de 3 litres sans changer celui du liquide intracellulaire qui restera stable à 20 litres. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;apport de liquide est iso-osmotique,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC : il n&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;y aura pas de mouvements d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau entre les compartiments &lt;/span&gt;&lt;span &gt;et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité de ceux-ci ne changera pas. Nous qualifierons cette situation &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;expansion iso-osmotique du compartiment extracellulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le liquide en excès va se répartir dans tout le compartiment extracellulaire et se distribuera entre les compartiments plasmatiques et interstitiels proportionnellement à la dimension de chaque compartiment. Ainsi, comme le compartiment plasmatique représente le quart du liquide extracellulaire, il recevra le quart soit 750 ml des trois litres infusés ou ingérés.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="441" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="441"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_87432bb5bc30438bbce8dae5fe66f346yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="6050" isStartRelative="false" duration="167"/>
+				<click startTime="13850" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 47660">
+				<media url="a24x28.mp3" startMsecs="0" duration="47660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Perte de liquide isotonique Contraction iso-osmotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A l’inverse, une perte de 3 litres de liquide iso-osmotique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : comme lors d’une une diarrhée sévère ou encore d’une hémorragie, a les effets inverses. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : C&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire une diminution du volume du liquide extracellulaire (toujours avec la proportion un quart, trois quart entre les compartiments plasmatiques et interstitiel) sans changement du volume du liquide intracellulaire ni de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité des différents compartiments. Il n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;y a toujours pas de mouvements osmotiques d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau entre les compartiments. Nous sommes ici dans une situation de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contraction iso-osmotique du compartiment extracellulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="451" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="30.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="451"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a7ddeae0387e4142bdd82574fd1c4adfyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="6510" isStartRelative="false" duration="167"/>
+				<click startTime="11910" isStartRelative="false" duration="167"/>
+				<click startTime="20310" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 30250">
+				<media url="a24x29.mp3" startMsecs="0" duration="30250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Gain d’eau pure Expansion hypo-osmotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un gain de 3 litres &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau pure &lt;/span&gt;&lt;span &gt;dans le compartiment extracellulaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : &lt;/span&gt;&lt;span &gt;comme lors de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ingestion d’une quantité importante d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau va &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC &lt;/span&gt;&lt;span &gt;: augmenter le volume du liquide extracellulaire mais également &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminuer son osmolarité&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : Ceci va entraîner un mouvement d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau vers le compartiment intracellulaire selon le gradient osmotique instauré.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="452" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="38.58" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="452"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cb090ed32d2d4d6c94c2fc67d83c9a14yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 38580">
+				<media url="a24x30.mp3" startMsecs="0" duration="38580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Gain d’eau pure Expansion hypo-osmotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau en excès se sera répartie dans les deux compartiments extra- et intracellulaire &lt;/span&gt;&lt;span  fontWeight="bold"&gt;proportionnellement à la taille de chaque compartiment&lt;/span&gt;&lt;span &gt;. Comme le compartiment intracellulaire contient deux fois plus d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmoles que le compartiment extracellulaire, son volume augmentera de 2 litres et celui du compartiment extracellulaire d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un litre. Dans les deux compartiments, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité sera diminuée par le surplus d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et on parlera alors &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;expansion hypo-osmotique&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="453" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18.6" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="453"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a9e025b7adcd422a92e3730f0aa02182yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8200" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 18600">
+				<media url="a24x31.mp3" startMsecs="0" duration="18600" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Perte d’eau pure Contraction hyper-osmotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Finalement, une perte de 3 litres d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau pure par le compartiment extracellulaire,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : comme par exemple dans le syndrome de diabète insipide où nous perdons de grandes quantités d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau dans les urines, se traduira par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;CHANGEMENT DE DIAPO&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="456" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="20.44" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="456"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_538fedd3735b4ad781d5f5e540d3b1bbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="9430" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="32" duration=" 20440">
+				<media url="a24x32.mp3" startMsecs="0" duration="20440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Perte d’eau pure Contraction hyper-osmotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Une diminution du volume et une augmentation de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité du liquide extracellulaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau du compartiment intracellulaire se déplacera alors &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vers le compartiment extracellulaire &lt;/span&gt;&lt;span &gt;selon le gradient de concentration.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="455" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="27.11" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="455"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cdf172df8a5d453a8650e1547dd44678yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 27110">
+				<media url="a24x33.mp3" startMsecs="0" duration="27110" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Perte d’eau pure Contraction hyper-osmotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre, la perte d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau se fera dans les deux compartiments et ce, proportionnellement à leur taille initiale. Le compartiment intracellulaire perdra donc 2 litres d’eau et le compartiment extracellulaire 1 litre. Dans les deux compartiments, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité sera augmentée par la perte d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et on parlera alors de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contraction hyper-osmotique&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="466" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="85.84" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="466"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9952a7977cef4cda9f48be0fca6640feyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="34" duration=" 85840">
+				<media url="a24x34.mp3" startMsecs="0" duration="85840" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@1. Echanges d’eau entre les compartiments extra- et intracellulaire Effets sur le volume cellulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les exemples que nous venons de voir nous montrent que tout changement aigu de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité et donc de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tonicité&lt;/span&gt;&lt;span &gt; du liquide extracellulaire va entrainer des mouvements d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau dans ou hors des cellules et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;modifier leur volume&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une baisse de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité et donc de la tonicité du liquide extracellulaire fait rentrer l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;intérieur des cellules. Comme nous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;avons vu au début du cours, les effets les plus néfastes sont observés au niveau cérébral car le gonflement des neurones augmente la pression intracrânienne avec des conséquences qui peuvent, selon la sévérité du déséquilibre, engendrer des maux de de tête, des convulsions, de la confusion et un coma. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;inverse, une hausse de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité et donc de la tonicité du liquide extracellulaire fait sortir l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau des cellules qui rapetissent.  Au niveau cérébral, la perte d’eau engendre une chute de la pression intracrânienne avec ici aussi un risque de convulsions, confusion et coma. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Toutefois, en cas de changements chroniques de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité extracellulaire, ces effets disparaissent car les cellules s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;adaptent et régulent leur volume en modifiant de diverses façons la composition de leur milieu intracellulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="470" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="169.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide34.swf" id="470"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f543771c99b542eca1991e6f71bc4efbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents><flvContent url="resources/p02 dia35_470_1_07975.mp4" PosX="520" PosY="350" Height="168" Width="299" playAfterTime="0" duration="158440" StartTime="0" StopTime="158440" FadeIn="0" FadeOut="0" FadeSpeed="1" MuteAudio="0" IsH264="1" ISORATEVIDEO=""/></flvContents>
+			<audios id="46" duration=" 169220">
+				<media url="a24x46.mp3" startMsecs="0" duration="169220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Echanges de cations entre les liquides extra- et intracellulaire @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="299" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="73.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide35.swf" id="299"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_73284e4d50344cf69c72c176332565f2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="36" duration=" 73930">
+				<media url="a24x36.mp3" startMsecs="0" duration="73930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@2. Echanges entre les compartiments plasmatique et interstitiel@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons maintenant aborder les échanges à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;intérieur du compartiment extracellulairec’est-à-dire ceux qui se produisent &lt;/span&gt;&lt;span  fontWeight="bold"&gt;de part et d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;autre de la paroi capillaire entre le plasma et le liquide interstitiel&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La paroi capillaire est essentiellement formée d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une seule couche de cellules endothéliales. Les substances la traversent en passant soit directement à travers les cellules endothéliales soit entre les cellules.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les substances nutritives comme le glucose et les déchets métaboliques, de même que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;oxygène et le dioxide de carbone, vont quant à elles, s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;échanger principalement par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diffusion&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les échanges de liquide ont un impact moins important, ils servent surtout à équilibrer les volumes liquidiens des deux compartiments. Ils vont s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effectuer essentiellement par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;filtration&lt;/span&gt;&lt;span &gt; sous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effet des différences de pressions de part et d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autre de la paroi capillaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les deux pressions qui vont déterminer les échanges liquidiens sont la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression osmotique &lt;/span&gt;&lt;span &gt;et la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression hydrostatique &lt;/span&gt;&lt;span &gt;du sang contre la paroi vasculaire. Ces pressions sont parfois appelées&lt;/span&gt;&lt;span  fontWeight="bold"&gt; forces de Starling&lt;/span&gt;&lt;span &gt; du nom du physiologiste anglais qui les a décrites en premier.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="297" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="172.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide36.swf" id="297"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_01bb65b99c81424d812255033972badeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="37" duration=" 172750">
+				<media url="a24x37.mp3" startMsecs="0" duration="172750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Echanges liquidiens entre les compartiments plasmatique et interstitiel@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Sur cette figure, nous voyons comment sont déterminées la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;direction des échanges liquidiens entre les deux compartiments sous l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;effet de ces forces de Starling.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;La première de ces forces est le gradient de pression hydrostatique. La pression hydrostatique capillaire est d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;environ 35 mmHg du côté artériel et elle diminue à mesure que le sang avance dans le capillaire pour atteindre environ 17 mmHg à son extrémité veineuse. Quant à la pression hydrostatique du liquide interstitiel, elle est voisine de zéro car le liquide qui sort dans le compartiment interstitiel est drainé en permanence par les vaisseaux lymphatiques. Le gradient hydrostatique est donc égal à la pression hydrostatique capillaire et il tend à pousser les liquides par filtration hors des capillaires. Notez bien que sa valeur est plus importante du côté artériel que du côté veineux du capillaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;L&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;autre force est le gradient de pression osmotique exercée par les molécules non diffusibles comme les protéines. La pression osmotique exercée par les protéines plasmatiques est également appelée pression oncotique (rappelez vous de l’équilibre de Gibbs-Donan...) et sa valeur est d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;environ 26 mmHg. Comme la membrane capillaire est imperméable aux protéines, le liquide interstitiel en contient peu et sa pression osmotique est faible, de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ordre de 1 mmHg. Le gradient osmotique à travers la paroi capillaire est donc de 25 mmHg, il attire les liquides dans les capillaires et, contrairement au gradient hydrostatique, &lt;/span&gt;&lt;span &gt;il ne varie pas d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une extrémité à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autre du capillaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;La pression nette de filtration &lt;/span&gt;&lt;span &gt;tient compte de toutes ces forces et si on la calcule on voit que la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression hydrostatique domine &lt;/span&gt;&lt;span &gt;à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;extrémité &lt;/span&gt;&lt;span  fontWeight="bold"&gt;artérielle&lt;/span&gt;&lt;span &gt; avec une PNF de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;10 mmHg &lt;/span&gt;&lt;span &gt;qui force les liquides à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sortir&lt;/span&gt;&lt;span &gt; du capillaire. A l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;inverse, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression osmotique domine &lt;/span&gt;&lt;span &gt;à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;extrémité &lt;/span&gt;&lt;span  fontWeight="bold"&gt;veineuse&lt;/span&gt;&lt;span &gt; du capillaire avec une PNF &lt;/span&gt;&lt;span  fontWeight="bold"&gt;négative de 8 mmHg&lt;/span&gt;&lt;span &gt; qui force les liquides à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;revenir dans la circulation sanguine&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme les valeurs des deux pressions de filtration ne sont pas identiques, la quantité de liquide filtrée vers le compartiment interstitiel dépasse légèrement celle qui est réabsorbée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="431" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="28.3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide37.swf" id="431"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_871d223a6de94aba92ee7a044891d474yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="38" duration=" 28300">
+				<media url="a24x38.mp3" startMsecs="0" duration="28300" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Echanges liquidiens entre les compartiments plasmatique et interstitiel Rôle du système lymphatique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Il en résulte une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;perte nette de liquide&lt;/span&gt;&lt;span &gt; dans le liquide interstitiel d’environ 2 ml par minute et donc de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;presque 3 litres par jour&lt;/span&gt;&lt;span &gt;. Ce liquide est récupéré par les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;capillaires lymphatiques&lt;/span&gt;&lt;span &gt; et retourné au compartiment plasmatique au niveau de la circulation veineuse. A l’équilibre, le drainage lymphatique permet donc de maintenir inchangés les volumes des compartiments plasmatique et interstitiel. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="436" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.06" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide38.swf" id="436"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_be098b15231c4861aaf412e4dce368cbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="39" duration=" 36060">
+				<media url="a24x39.mp3" startMsecs="0" duration="36060" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Echanges liquidiens entre les compartiments plasmatique et interstitiel@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme nous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;avons vu lors de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;expansion et la contraction du volume extracellulaire, les échanges continus entre les compartiments plasmatique et interstitiel permettent de maintenir constants le volume plasmatique (et donc le volume sanguin) malgré le gain ou la perte de liquide isotonique par le compartiment plasmatique. Cette fonction de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tampon&lt;/span&gt;&lt;span &gt; du compartiment interstitiel permet de prévenir une hausse ou une chute trop rapide de volume plasmatique et ainsi de maintenir une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;circulation sanguine normale&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="459" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="42.02" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide39.swf" id="459"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0d8ed6d1ca0246429039cf5c73649389yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="40" duration=" 42020">
+				<media url="a24x40.mp3" startMsecs="0" duration="42020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@3. Echanges entre le plasma et l’extérieur Equilibre externe@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les échanges d’eau et de solutés que nous venons de voir entre les différents compartiments liquidiens représentent l’équilibre &lt;/span&gt;&lt;span  fontWeight="bold"&gt;interne&lt;/span&gt;&lt;span &gt; de ces composés. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;L’équilibre externe&lt;/span&gt;&lt;span &gt;, quant à lui, représente la différence entre &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’entrée&lt;/span&gt;&lt;span &gt; et la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sortie&lt;/span&gt;&lt;span &gt; d’une substance dans l’organisme. Le tube digestif est la principale voie d’entrée naturelle des substances alors que plusieurs voies de sortie sont possibles comme le tube digestif, les poumons, la peau et les reins. Toutefois, seuls les reins ont la possibilité de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réguler&lt;/span&gt;&lt;span &gt;  avec précision l’équilibre entre les entrées et les sorties et donc de préserver &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’équilibre de masse et la stabilité du milieu intérieur&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="426" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.56" advance="pause" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide40.swf" id="426"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3dcdcaa65d7c449aa9ade925787aff43yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="41" duration=" 12560">
+				<media url="a24x41.mp3" startMsecs="0" duration="12560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contrôlez vos connaissances@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour ceux d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;entre vous qui ont envie de vérifier s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ils ont bien compris la dynamique des liquides corporels, voici un petit tableau à compléter. La réponse est à la diapositive suivante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="312" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="69.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide41.swf" id="312"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_58a29960e1bb4de3a8db30daf23e5b6eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="42" duration=" 69190">
+				<media url="a24x42.mp3" startMsecs="0" duration="69190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réponse@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Et voici les réponses.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Certains d’entre vous ont peut-être eu de la difficulté avec l’expansion hyperosmotique et la contraction hypo-osmotique. Voici donc les explications :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’expansion hyperosmotique va se traduire dans un premier temps par une augmentation du volume et de l’osmolarité du LEC. Le LEC étant hypertonique, l’eau va sortir des cellules entrainant donc une diminution du volume du LIC mais une augmentation de son osmolarité.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La contraction hypo-osmotique va diminuer l’osmolarité et le volume du LEC qui devient hypotonique. L’eau en excès va donc entrer dans les cellules entrainant une augmentation du volume du LIC et une diminution de son osmolarité.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Maintenant, que vous vous êtes bien familiarisés avec la composition et les aspects dynamiques des différents liquides corporels, nous allons enfin pouvoir aborder la physiologie rénale en tant que telle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="42"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="469" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide42.swf" id="469"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_83546b77d4414d1898f1a2402b93f758yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="43"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

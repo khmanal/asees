@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 8: réabsortion et sécrétion dans le tubule terminal et leur régulation</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Diane GODIN-RIBUOT</name>
+			<speakerTitle>Professeur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk109936.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_78a86683317a4016af25eff93aea5d30yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_de70d8835a7045d998ef4653eb8b2078yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master2.swf" id="3" totalFrames="1"><backdrop frameNum="2"/><slidexml><AS3Class className="TL_a365362ab3414db49c193b8ee4437b32yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_136b22146ef04a48acdbdb529fd0f1b2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_8ac704ccef4b43068e3ef20f0cb8eed9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_33babd8f51664468abd269db459ba2efyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_02530f7744b54b31bfebcf2c0872a904yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_f350339d385d4dc291d5f79d62533546yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout5.swf" id="6" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_7731d759663b4f049f81cd24d63d5f6dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout6.swf" id="7" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_15ce2d73cc5d4d57b95047cce8ac8f1dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout7.swf" id="8" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_ca334f7dcaf342bd89bae1912e01a315yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout8.swf" id="9" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_8c6fa4e0db7246278079c9fb595c753dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="494" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6.48" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="494"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b9c45555b96a43a88f07a934a9ca8531yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="47" duration=" 6480">
+				<media url="a24x47.mp3" startMsecs="0" duration="6480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 8 : Réabsorption et sécrétion dans le tubule terminal et leur régulation@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="477" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="60.23" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="477"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b827efbdd18d4b11b3bdb5211c05ce5byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="25770" isStartRelative="false" duration="167"/>
+				<click startTime="39470" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 60230">
+				<media url="a24x1.mp3" startMsecs="0" duration="60230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réabsorption et sécrétion dans le dernier segment du tubule rénal@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons terminer ce cycle de physiologie rénale par le dernier segment du tubule rénal. Ce segment comprend la dernière partie du tubule contourné distal et le tubule collecteur. Comme le montre la fiche mémo que je vous fournis à la fin de ce diaporama, le liquide qui entre dans cette partie du tubule contient environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;10% du Na+, du K+ et des bicarbonates &lt;/span&gt;&lt;span &gt;et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;20% de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau &lt;/span&gt;&lt;span &gt;filtrés à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;origine.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : Nous verrons dans ce cours comment se fait l’ajustement précis de l’osmolarité et du volume de nos liquides corporels grâce à une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;régulation hormonale de la réabsorption de sodium et d’eau&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : Nous verrons également que cette partie du tubule rénal permet &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d’éliminer par sécrétion &lt;/span&gt;&lt;span &gt;certaines substances en excès dans l’organisme, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;comme le potassium et les protons&lt;/span&gt;&lt;span &gt;. Contrairement à la réabsorption, cette sécrétion n’est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pas systématiquement sous contrôle hormonal&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="419" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.99" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="419"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d059688d69c84ed6bbf0c5e034f41cdcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 52990">
+				<media url="a24x2.mp3" startMsecs="0" duration="52990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réabsorption et sécrétion dans le TCD  et dans le tubule collecteur@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;D’un point de vue &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fonctionnel&lt;/span&gt;&lt;span &gt; mais également &lt;/span&gt;&lt;span  fontWeight="bold"&gt;histologique&lt;/span&gt;&lt;span &gt;, les parois du tubule contourné distal et du tubule collecteur se ressemblent. Elles comportent &lt;/span&gt;&lt;span  fontWeight="bold"&gt;deux types de cellules&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;D&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;abord les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules principales &lt;/span&gt;&lt;span &gt;qui &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorbent&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;du sodium et sécrètent du potassium&lt;/span&gt;&lt;span &gt; et nous verrons que cette fonction est régulée par une hormone, l’aldostérone. La perméabilité à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt; de ces cellules est également sous le contrôle d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une hormone, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;hormone antidiurétique ou ADH. Ainsi, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en présence d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ADH, les cellules principales réabsorbent de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules intercalaires&lt;/span&gt;&lt;span &gt;, quant à elles,&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;sont impliquées de façon majoritaire dans la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;régulation de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;équilibre acido-basique&lt;/span&gt;&lt;span &gt;. Selon les besoins de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisme elles ont la capacité de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorber des ions bicarbonates &lt;/span&gt;&lt;span &gt;et de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécréter&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;des protons&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="424" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="23.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="424"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_85e4e8dc0e4847b089d504da41e7ee31yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 23820">
+				<media url="a24x3.mp3" startMsecs="0" duration="23820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Cellules principales vs intercalaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Sur cette coupe de tubule collecteur, la coloration nous permet &lt;/span&gt;&lt;span &gt;de distinguer les cellules principales des cellules intercalaires. En effet, les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules principales&lt;/span&gt;&lt;span &gt; à gauche ont un cytoplasme clair alors que les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules intercalaires&lt;/span&gt;&lt;span &gt; (qui comme leur nom l’indique sont intercalées entre les cellules principales) ont un cytoplasme &lt;/span&gt;&lt;span  fontWeight="bold"&gt;foncé&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="478" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="29.06" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="478"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8aaa8ffafee840598601f7b552a9c669yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 29060">
+				<media url="a24x4.mp3" startMsecs="0" duration="29060" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réabsorption de l’eau et régulation de l’osmolarité des liquides corporels@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons examiner en détail le fonctionnement de chacune de ces cellules en commençant par les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules principales&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On les appelle ainsi car elles sont plus nombreuses que les cellules intercalaires et aussi parce qu’elles ont plusieurs fonctions toutes destinées à maintenir l’homéostasie des liquides corporels. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La première consiste à réguler &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’osmolarité&lt;/span&gt;&lt;span &gt; du liquide extracellulaire &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en ajustant le contenu corporel en eau&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="443" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="65.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="443"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_996daa9c6d214343b2cd1cf1108ff03fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 65950">
+				<media url="a24x5.mp3" startMsecs="0" duration="65950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L’équilibre hydrique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Afin de maintenir constant le volume d’eau de notre organisme, nous devons consommer autant d’eau que nous en excrétons. Autrement dit : les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;entrées&lt;/span&gt;&lt;span &gt; doivent être &lt;/span&gt;&lt;span  fontWeight="bold"&gt;égales aux sorties&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous ingérons en moyenne &lt;/span&gt;&lt;span  fontWeight="bold"&gt;un peu plus de deux litres d’eau par jour &lt;/span&gt;&lt;span &gt;dans nos aliments ou nos boissons. Si on y ajoute l’eau produite par la respiration cellulaire, cela fait un apport quotidien total d’environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;deux litres et demi&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A part un petit volume perdu dans les selles, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;principale source de perte d’eau de l’organisme est l’urine &lt;/span&gt;&lt;span &gt;et nous en produisons environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;un litre et demi par jour&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsqu'on souffle sur une vitre on se rend très bien compte que nous perdons également de l’eau par la respiration. Et même lorsque nous ne transpirons pas, une certaine quantité d’eau s’évapore par notre peau, c’est ce qu’on appelle la perspiration Ces pertes sont dites &lt;/span&gt;&lt;span  fontWeight="bold"&gt;insensibles&lt;/span&gt;&lt;span &gt; puisque nous n’en sommes pas conscients.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au final, nous perdons chaque jour autant d’eau que nous en ingérons.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="444" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="138.79" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="444"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2d8cfccdfc1d49a19428afb68011a6aeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 138790">
+				<media url="a24x6.mp3" startMsecs="0" duration="138790" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le problème physiologique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A l’équilibre, les entrées et les sorties sont donc d’environ deux litres et demi par jour chez l’adulte. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation de l'apport en eau, &lt;/span&gt;&lt;span &gt;par exemple&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;lorsque vous ingérez plus que les 1 litres et demi habituels, va perturber cet équilibre et entraîner une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;expansion hypo-osmotique&lt;/span&gt;&lt;span &gt; avec une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation du volume&lt;/span&gt;&lt;span &gt; et une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution de l’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité plasmatique&lt;/span&gt;&lt;span &gt;. Pour rétablir l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre, il va falloir &lt;/span&gt;&lt;span  fontWeight="bold"&gt;excréter&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ce&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;surplus&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d'eau. &lt;/span&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;adaptation sera la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;production d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;une urine diluée &lt;/span&gt;&lt;span &gt;avec une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;inférieure&lt;/span&gt;&lt;span &gt; à celle du plasma.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’inverse, une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;forte&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;transpiration &lt;/span&gt;&lt;span &gt;comme lors d'une activité sportive intense&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;entraîne une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;perte d’eau &lt;/span&gt;&lt;span &gt;car la sueur a une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité inférieure &lt;/span&gt;&lt;span &gt;à celle du plasma (pour info environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;40 mmol/L&lt;/span&gt;&lt;span &gt;). Cette &lt;/span&gt;&lt;span  fontWeight="bold"&gt;perte d'eau hypotonique&lt;/span&gt;&lt;span &gt; entraîne une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contraction hyperosmotique&lt;/span&gt;&lt;span &gt; avec une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution du volume&lt;/span&gt;&lt;span &gt; et une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation de l’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité plasmatique&lt;/span&gt;&lt;span &gt;. Dans ces conditions, vous ne pourrez pas vous permettre de perdre de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau dans les urines. Au contraire, les reins retiendront l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau dans votre corps et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;adaptation sera la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;production d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;une urine concentrée &lt;/span&gt;&lt;span &gt;avec une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;supérieure&lt;/span&gt;&lt;span &gt; à celle du plasma.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je vous rappelle que le plasma fait partie du milieu &lt;/span&gt;&lt;span  fontWeight="bold"&gt;extracellulaire&lt;/span&gt;&lt;span &gt; et que toute modification de son osmolarité &lt;/span&gt;&lt;span  fontWeight="bold"&gt;a un impact direct sur le fonctionnement cellulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme nous venons de le voir, le maintien de l'osmolarité du milieu extracellulaire est obtenu en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;régulant la quantité d'eau &lt;/span&gt;&lt;span &gt;qu'il contient. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Autrement dit, l'équilibre hydrique de notre organisme sert à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réguler&lt;/span&gt;&lt;span &gt; l’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité&lt;/span&gt;&lt;span &gt; des liquides corporels. Dans ce cours, nous allons voir que cette &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité est maintenue constante&lt;/span&gt;&lt;span &gt; grâce à la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;régulation de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;excrétion d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau par les reins&lt;/span&gt;&lt;span &gt; sous l'effet d'une hormone, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;hormone antidiurétique&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="493" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="81.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="493"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2289dbca5eda420ab30bcafb662d6ab2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 81250">
+				<media url="a24x7.mp3" startMsecs="0" duration="81250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La concentration et la dilution de l’urine@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Même la moyenne se situe autour &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d'un litre et demi&lt;/span&gt;&lt;span &gt;, la production &lt;/span&gt;&lt;span  fontWeight="bold"&gt;quotidienne&lt;/span&gt;&lt;span &gt; d’urine peut varier &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d'un demi&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;à 20 litres car&lt;/span&gt;&lt;span &gt; elle est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;directement proportionnelle à la quantité de liquide ingérée&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet, notre consommation quotidienne de liquide est très variable. Par contre, la quantité de solutés que nous ingérons chaque jour varie très peu en conditions normales. Par conséquent, selon l’équilibre de masse, la quantité de solutés excrétés dans l’urine est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;égale à l’apport et est donc relativement stable&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette stabilité des solutés dans l’urine fait que l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’osmolarité urinaire est inversement proportionnelle au volume urinaire. &lt;/span&gt;&lt;span &gt;Prenons le cas d’une personne qui ingère 1000 mosmoles par jour qui sont éliminés dans l’urine&lt;/span&gt;&lt;span  fontWeight="bold"&gt;. En fonction de ce qu’elle aura bu, &lt;/span&gt;&lt;span &gt;cette quantité pourra être excrétée aussi bien sous la forme de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;100 mosmoles par litre dans 10 litres d’urine &lt;/span&gt;&lt;span &gt;que de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;1000 mosmoles par litre dans 1 litre d’urine&lt;/span&gt;&lt;span &gt;, et ainsi de suite. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En général, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’osmolarité urinaire peut varier de 50 à 1200 mosmoles par litres chez l’homme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="446" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="38.98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="446"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a7bde76628a7428f8bae590617237792yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 38980">
+				<media url="a24x8.mp3" startMsecs="0" duration="38980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Maintien de l’équilibre hydrique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La régulation de la l’équilibre hydrique de notre organisme est très précise puisque notre osmolarité plasmatique varie très peu entre 280 à 285 mosmoles par litre. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ceci est possible grâce à trois mécanismes essentiels qui sont :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- la sécrétion d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’hormone antidiurétique ou ADH, aussi appelée vasopressine&lt;/span&gt;&lt;span &gt;, capable de modifier la perméabilité du tubule rénal à l'eau;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;un rôle majeur du rein qui permet de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diluer&lt;/span&gt;&lt;span &gt; ou de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;concentrer&lt;/span&gt;&lt;span &gt; l’urine selon les besoins;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;et le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réflexe de la soif&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="447" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="75.87" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="447"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4285a18cda104299b7a8c4dfc2389a1fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 75870">
+				<media url="a24x9.mp3" startMsecs="0" duration="75870" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L’hormone antidiurétique (ADH)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’ADH est en fait une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;neurohormone &lt;/span&gt;&lt;span &gt;car elle est produite par des cellules nerveuses situées dans une structure du cerveau dont vous avez peut-être déjà entendu parler, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’hypothalamus&lt;/span&gt;&lt;span &gt;. C’est un centre de contrôle majeur qui intervient dans la régulation de nombreux paramètres physiologiques.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les neurones hypothalamiques projettent leurs terminaisons axonales jusqu'au niveau de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l'hypophyse&lt;/span&gt;&lt;span &gt;, une toute petite glande de la taille d’un petit pois située à la base du cerveau juste en dessous de l'hypothalamus. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Plus précisément, les neurones sécréteur d’ADH se projettent dans la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;partie postérieure de l'hypophyse&lt;/span&gt;&lt;span &gt;, également appelée &lt;/span&gt;&lt;span  fontWeight="bold"&gt;neurohypophyse&lt;/span&gt;&lt;span &gt;. L’ADH est d'abord synthétisée au niveau de l’hypothalamus puis elle est emmagasinée dans des granules de sécrétion qui se &lt;/span&gt;&lt;span  fontWeight="bold"&gt;déplacent le long des axones&lt;/span&gt;&lt;span &gt; jusqu’aux terminaisons nerveuses situées dans l’hypophyse postérieure. Elle est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;libérée dans la circulation sanguine de l'hypophyse postérieure &lt;/span&gt;&lt;span &gt;en réponse à la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;stimulation des neurones hypothalamiques&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="448" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="87.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="448"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1456bf3b1de94db29296a2ac86d30e88yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 87750">
+				<media url="a24x10.mp3" startMsecs="0" duration="87750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mécanisme d’action de l’ADH@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’hormone antidiurétique agit sur les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules principales du TCD et du tubule collecteur &lt;/span&gt;&lt;span &gt;pour modifier leur &lt;/span&gt;&lt;span  fontWeight="bold"&gt;perméabilité membranaire à l’eau&lt;/span&gt;&lt;span &gt;. Les cellules principales ont la propriété de n’&lt;/span&gt;&lt;span &gt;être perméables à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau &lt;/span&gt;&lt;span  fontWeight="bold"&gt;qu&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;en présence d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ADH&lt;/span&gt;&lt;span &gt;. En effet leur membrane apicale ne possède &lt;/span&gt;&lt;span  fontWeight="bold"&gt;qu&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;un seul type d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;aquaporine, l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;aquaporine 2,&lt;/span&gt;&lt;span &gt; et la quantité membranaire de ces aquaporines &lt;/span&gt;&lt;span  fontWeight="bold"&gt;est régulée par l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ADH&lt;/span&gt;&lt;span &gt;. Ainsi, en l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;absence d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ADH, les aquaporines 2 sont stockées dans des vésicules cytoplasmiques (comme indiqué &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en 3&lt;/span&gt;&lt;span &gt; sur cette figure).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Nous voyons &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en 1&lt;/span&gt;&lt;span &gt; que la fixation de l’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ADH &lt;/span&gt;&lt;span &gt;sur son &lt;/span&gt;&lt;span  fontWeight="bold"&gt;récepteur V2 &lt;/span&gt;&lt;span &gt;sur&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;la membrane &lt;/span&gt;&lt;span  fontWeight="bold"&gt;basale&lt;/span&gt;&lt;span &gt; du tubule collecteur active une cascade de signalisation à travers une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;protéine G stimulatrice &lt;/span&gt;&lt;span &gt;couplée à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;adénylate cyclase&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span  fontWeight="bold"&gt;La production d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;AMPc &lt;/span&gt;&lt;span &gt;et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;activation de la protéine kinase A &lt;/span&gt;&lt;span &gt;déclenchent alors la migration des vésicules de stockage des aquaporines 2 vers la membrane apicale avec laquelle elles fusionnent. Cette &lt;/span&gt;&lt;span  fontWeight="bold"&gt;exocytose&lt;/span&gt;&lt;span &gt; permet &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;insertion&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;des aquaporines 2 dans la membrane &lt;/span&gt;&lt;span &gt;et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation&lt;/span&gt;&lt;span &gt; de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;perméabilité&lt;/span&gt;&lt;span &gt;  à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt; des tubules distal et collecteur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="449" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="89.44" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="449"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_49de9fbd67e34879833048d4cafef3fbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 89440">
+				<media url="a24x11.mp3" startMsecs="0" duration="89440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le diabète insipide@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;syndrome du diabète insipide &lt;/span&gt;&lt;span &gt;est caractérisé par l’excrétion de grandes quantités &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d’urine diluée&lt;/span&gt;&lt;span &gt;. On parle alors de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;polyurie &lt;/span&gt;&lt;span &gt;et celle-ci peut atteindre plus de 4 litres par jour. Autrefois les médecins goûtaient à l’urine afin d'identifier la cause d'une polyurie. Ils ont donné à ce syndrome le nom de diabète insipide pour le distinguer du diabète « sucré ». Dans le cas du diabète sucré, la polyurie est due à la présence de glucose dans l’urine, également appelée &lt;/span&gt;&lt;span  fontWeight="bold"&gt;glycosurie&lt;/span&gt;&lt;span &gt;, ce qui crée une diurèse osmotique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les causes du diabète insipide sont nombreuses. On retiendra le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diabète insipide héréditaire &lt;/span&gt;&lt;span &gt;dû à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;un défaut de la réponse rénale à l’ADH &lt;/span&gt;&lt;span &gt;suite à des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;mutations du gène du récepteur à l’ADH &lt;/span&gt;&lt;span &gt;ou &lt;/span&gt;&lt;span  fontWeight="bold"&gt;de celui de l’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;aquaporine 2. &lt;/span&gt;&lt;span &gt;Un diabète insipide peut également apparaître lorsque la sécrétion d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ADH par l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;hypothalamus est altérée par une lésion traumatique ou interne (comme un accident vasculaire cérébral). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Tant que l’ingestion d’eau est suffisante, ce syndrome n’a pas de conséquences sérieuses; cependant, si l’apport en eau est insuffisant (comme cela peut arriver chez un patient inconscient ou comateux), une déshydratation grave peut rapidement se produire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="450" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="85.81" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="450"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1314bca65f6d47b7990f45755754978cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 85810">
+				<media url="a24x12.mp3" startMsecs="0" duration="85810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation de la sécrétion d’ADH Régulation osmotique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le principal stimulus de la sécrétion d’ADH est une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation de l’osmolarité du liquide extracellulaire qui devient hypertonique&lt;/span&gt;&lt;span &gt;. Les changements &lt;/span&gt;&lt;span  fontWeight="bold"&gt;de volume et d’osmolarité intracellulaire qui en découlent activent des osmorécepteurs&lt;/span&gt;&lt;span &gt;, situés dans &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’hypothalamus au voisinage des neurones sécréteurs d’ADH&lt;/span&gt;&lt;span &gt;. Les osmorécepteurs &lt;/span&gt;&lt;span  fontWeight="bold"&gt;stimulent les neurones à ADH provoquant sa libération par l’hypophyse postérieure&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’augmentation de la perméabilité à l’eau du segment terminal du néphron par l’ADH &lt;/span&gt;&lt;span  fontWeight="bold"&gt;favorise la&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorption d'eau &lt;/span&gt;&lt;span &gt;et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminue son excrétion&lt;/span&gt;&lt;span &gt;. Le volume urinaire diminue et la concentration de l’urine augmente.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque la réabsorption d’eau est suffisante pour rétablir l’osmolarité plasmatique, la sécrétion d’ADH s’interrompt.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Bien évidemment, l’inverse se produit lorsque le liquide extracellulaire devient &lt;/span&gt;&lt;span  fontWeight="bold"&gt;hypotonique&lt;/span&gt;&lt;span &gt;, par exemple en cas d’ingestion massive d’eau. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette régulation réflexe de la sécrétion d’ADH est un bon exemple de boucle de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;rétroaction négative &lt;/span&gt;&lt;span &gt;tel qu’il en existe à plusieurs niveaux dans notre organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="451" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="120.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="451"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0ea98c9b28d44d8da628f5f3c5895148yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 120250">
+				<media url="a24x13.mp3" startMsecs="0" duration="120250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation de la sécrétion d’ADH@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le réflexe que nous venons de d'examiner est de loin le facteur de régulation le plus puissant de la sécrétion d'ADH puisqu’une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation aussi faible que 2% &lt;/span&gt;&lt;span &gt;de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’osmolarité corporelle suffit pour induire &lt;/span&gt;&lt;span &gt;une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécrétion maximale d’ADH &lt;/span&gt;&lt;span &gt;et donc pour faire passer l’osmolarité urinaire de 50 à 1200 milliosmoles par litre et le débit urinaire de 20 à un demi litre par jour. Lorsque l’osmolarité extracellulaire chute en dessous de 280 mosmoles par litre, la sécrétion d’ADH &lt;/span&gt;&lt;span  fontWeight="bold"&gt;est inhibée&lt;/span&gt;&lt;span &gt; et son métabolisme la fait disparaître du sang en quelques minutes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Des facteurs &lt;/span&gt;&lt;span  fontWeight="bold"&gt;hémodynamiques&lt;/span&gt;&lt;span &gt; peuvent également &lt;/span&gt;&lt;span  fontWeight="bold"&gt;stimuler la sécrétion d’ADH&lt;/span&gt;&lt;span &gt;. Mais leur effet est moins puissant puisqu’il faut une chute &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d’au moins 10% &lt;/span&gt;&lt;span &gt;de la pression artérielle ou du volume sanguin pour la déclencher. Ceci se fait à travers la stimulation des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;barorécepteurs &lt;/span&gt;&lt;span &gt;du système à haute pression et des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;volorécepteurs &lt;/span&gt;&lt;span &gt;du système à basse pression. Ces récepteurs sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;beaucoup moins sensibles que les osmorécepteurs hypothalamiques &lt;/span&gt;&lt;span &gt;mais ont toutefois la capacité de stimuler l’axe hypothalamo-hypophysaire et de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;déclencher la sécrétion d’ADH&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Indépendamment de l'osmolarité ou de la pression artérielle, d'autres facteurs peuvent influencer la sécrétion d’ADH : par exemple, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’angiotensine II&lt;/span&gt;&lt;span &gt;, le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;stress émotionnel&lt;/span&gt;&lt;span &gt;, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;douleur&lt;/span&gt;&lt;span &gt;, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nausée&lt;/span&gt;&lt;span &gt;, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nicotine &lt;/span&gt;&lt;span &gt;et certains &lt;/span&gt;&lt;span  fontWeight="bold"&gt;médicaments &lt;/span&gt;&lt;span &gt;stimulent sa sécrétion. Par contre, l’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;alcool&lt;/span&gt;&lt;span &gt;, le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;facteur natriurétique auriculaire &lt;/span&gt;&lt;span &gt;et là encore certains &lt;/span&gt;&lt;span  fontWeight="bold"&gt;médicaments l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;inhibent&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="452" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="63.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="452"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_eded7f93421c4b9d8a90ca551c447c7fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 63610">
+				<media url="a24x14.mp3" startMsecs="0" duration="63610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Manipulation rénale de l’eau Rôle du TCD et du tubule collecteur@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Cette figure nous montre la façon dont le rein contribue à la concentration et à la dilution de l’urine. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous voyons que lorsque le filtrat quitte l’anse de Henlé et la première partie du tubule distal (rappelez-vous qu’ils constituent à eux deux le segment &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diluant&lt;/span&gt;&lt;span &gt; du tubule rénal),  il arrive dans le tubule contourné distal et dans le tubule collecteur avec une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité diluée de 100 mosmoles&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cet à ce niveau que, sous l’action &lt;/span&gt;&lt;span  fontWeight="bold"&gt;conjointe&lt;/span&gt;&lt;span &gt; de l’ADH et du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gradient médullaire&lt;/span&gt;&lt;span &gt;, va pouvoir se faire l’ajustement final l’osmolarité urinaire qui pourra varier, comme on le voit en 3, de 50 à 1200 mosmoles par litre. Ceci est possible grâce à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’organisation anatomique &lt;/span&gt;&lt;span &gt;de ce dernier segment du néphron qui fait que le tubule collecteur doit &lt;/span&gt;&lt;span  fontWeight="bold"&gt;obligatoirement&lt;/span&gt;&lt;span &gt; traverser &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la médullaire et son gradient osmotique &lt;/span&gt;&lt;span &gt;pour atteindre la papille rénale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="453" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="40.07" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide15.swf" id="453"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_18cfc1d459894c22a00c786a94e421d5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 40070">
+				<media url="a24x15.mp3" startMsecs="0" duration="40070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Production d’une urine diluée@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span  fontWeight="bold"&gt;En l’absence d’ADH&lt;/span&gt;&lt;span &gt;, la membrane apicale des cellules du TCD et du tubule est imperméable à l’eau. Celle-ci reste dans le tubule et le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;filtrat reste dilué&lt;/span&gt;&lt;span &gt;. Le rein va alors éliminer une grande quantité d’urine diluée avec une osmolarité qui, si on prend en compte la petite quantité de solutés supplémentaire qui peut être réabsorbée à ce niveau, peut atteindre des valeurs très basses, de l’ordre de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;50 mosmoles par litre.  &lt;/span&gt;&lt;span &gt;L’élimination d’eau en excès par le rein est appelée &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diurèse&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="454" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide16.swf" id="454"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_792085d80c6144c9b2360cb3faa4780eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 57550">
+				<media url="a24x16.mp3" startMsecs="0" duration="57550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Production d’une urine concentrée@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A l’inverse, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en présence d’ADH&lt;/span&gt;&lt;span &gt;, les parois de la dernière portion du TCD et du tubule collecteur deviennent &lt;/span&gt;&lt;span  fontWeight="bold"&gt;perméables&lt;/span&gt;&lt;span &gt; à l’eau. Celle-ci va d’abord sortir du TCD au niveau du cortex attirée par l’&lt;/span&gt;&lt;span &gt;osmolarité plus élevée du liquide interstitiel (je vous invite à retourner voir les valeurs sur le schéma de la diapositive 15 si nécessaire). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Puis, l’eau va être réabsorbée sous l’effet du gradient de concentration au fur et à mesure que le liquide tubulaire s’écoule dans le tubule collecteur et traverse la médullaire. Cette conservation de l’eau par les reins s’appelle &lt;/span&gt;&lt;span  fontWeight="bold"&gt;antidiurèse&lt;/span&gt;&lt;span &gt;. La conséquence en est la production d’une urine très concentrée avec une osmolarité qui peut atteindre des valeurs jusqu’à 4 fois plus élevées que celle du plasma.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="455" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="33.581" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="455"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_043c174fb13b4be89d267c624dd48585yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents><flvContent url="resources/d18_455_1_11372.mp4" PosX="189" PosY="77" Height="435" Width="580" playAfterTime="0" duration="56100" StartTime="22519" StopTime="56100" FadeIn="0" FadeOut="0" FadeSpeed="1" MuteAudio="0" IsH264="1" ISORATEVIDEO=""/></flvContents>
+			<audios id="17" duration=" 11090">
+				<media url="a24x17.mp3" startMsecs="0" duration="11090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effets de l’hormone antidiurétique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En appuyant sur les deux éléments de la légende de cette animation, vous pourrez visualiser ces mécanismes de dilution et de concentration de l’urine en absence et en présence d’hormone antidiurétique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="456" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="80.09" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="456"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8a2b5518aaa54c439d6069a70d122096yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents><flvContent url="resources/d19_456_1_30142.mp4" PosX="462" PosY="139" Height="326" Width="435" playAfterTime="0" duration="25760" StartTime="0" StopTime="25760" FadeIn="0" FadeOut="0" FadeSpeed="1" MuteAudio="0" IsH264="1" ISORATEVIDEO=""/></flvContents>
+			<audios id="18" duration=" 80090">
+				<media url="a24x18.mp3" startMsecs="0" duration="80090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effets de l’hormone antidiurétique Rôle de l’urée@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour terminer nous allons rapidement regarder la contribution de l’urée au gradient médullaire. C’est l’&lt;/span&gt;&lt;span &gt;osmole la plus abondante de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urine puisqu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;elle n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est réabsorbée &lt;/span&gt;&lt;span  fontWeight="bold"&gt;qu&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;en partie au niveau du tubule contourné proximal&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;En présence d’ADH&lt;/span&gt;&lt;span &gt;, l’eau est réabsorbée dans le tubule distal et le tubule collecteur &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cortical&lt;/span&gt;&lt;span &gt; qui sont imperméables à l’urée. La concentration de cette dernière dans le filtrat urinaire &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmente donc proportionnellement&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette augmentation de concentration facilite son passage dans l’&lt;/span&gt;&lt;span &gt;insterstitium de la médullaire car à ce niveau le tubule collecteur &lt;/span&gt;&lt;span  fontWeight="bold"&gt;devient très perméable à l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;urée &lt;/span&gt;&lt;span &gt;et il l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est encore &lt;/span&gt;&lt;span  fontWeight="bold"&gt;plus en présence d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ADH&lt;/span&gt;&lt;span &gt;. Bien qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une partie de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urée soit ainsi réabsorbée, sa concentration reste malgré tout forte dans le liquide tubulaire et finalement dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urine excrétée. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce mécanisme contribue de façon substantielle au gradient dans les zones profondes de la médullaire et donc à la concentration de l’urine. Ceci est confirmé par le fait que les sujets ayant un régime &lt;/span&gt;&lt;span  fontWeight="bold"&gt;riche en protéines &lt;/span&gt;&lt;span &gt;ont une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;capacité de concentration de l’urine plus importante &lt;/span&gt;&lt;span &gt;que ceux dont l’apport protéique est faible. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="457" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="9.02" advance="pause" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="457"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bee9200831554ee5beb3ee940e8bd093yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 9020">
+				<media url="a24x19.mp3" startMsecs="0" duration="9020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Contrôlez vos connaissances@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un petit quiz pour vérifier où vous en êtes de votre compréhension de ce cours ! La réponse est à la diapositive suivante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="458" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.87" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="458"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a0d80469f6f44edb9a7c88781a6d7f66yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 12870">
+				<media url="a24x20.mp3" startMsecs="0" duration="12870" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réponse@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Et voici la réponse que je vous laisse lire librement. Bien évidemment, il est rare que l’on passe 24 heures sans boire et ceci nous amène au dernier mécanisme régulateur : la soif.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="459" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="66.49" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="459"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_20167d6ad0db486893c1692c00e6830fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 66490">
+				<media url="a24x21.mp3" startMsecs="0" duration="66490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le mécanisme de la soif@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Si l’on passe 24 heures sans boire, la première chose que l’on remarque ce n’est pas la diminution du volume urinaire mais bien sûr la soif. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce mécanisme est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;essentiel&lt;/span&gt;&lt;span &gt; car la réabsorption d’eau par les reins sous le contrôle de l’ADH ne peut rien faire pour &lt;/span&gt;&lt;span  fontWeight="bold"&gt;restaurer&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la perte de volume liquidien&lt;/span&gt;&lt;span &gt;. Seule l’ingestion ou la perfusion d’eau peuvent remplacer celle qui a été perdue.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La prise de liquide est fonction de la soif qui est également régulée par des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmorécepteurs&lt;/span&gt;&lt;span &gt; situés au niveau de l’hypothalamus dans le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;centre de la soif&lt;/span&gt;&lt;span &gt;. Ce centre se situe dans la même région qui régule la sécrétion d’ADH et les osmorécepteurs des deux régions fonctionnent selon le même principe. De plus, plusieurs des facteurs qui stimulent la sécrétion d’ADH déclenchent également la sensation de soif. A ceux-ci on peut ajouter la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécheresse de la bouche &lt;/span&gt;&lt;span &gt;qui déclenche la soif et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la distension de l’estomac &lt;/span&gt;&lt;span &gt;qui l’inhibe.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="479" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.87" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="479"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f41f816da99f4d3086e48413543c3401yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 12870">
+				<media url="a24x22.mp3" startMsecs="0" duration="12870" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réabsorption du sodium et régulation  du volume des liquides corporels@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La deuxième fonction des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules principales &lt;/span&gt;&lt;span &gt;consiste &lt;/span&gt;&lt;span  fontWeight="bold"&gt;à réguler le volume du liquide extracellulaire &lt;/span&gt;&lt;span &gt;en ajustant le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contenu corporel en sodium&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="460" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="68.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="460"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f5ec6ec9a9594ec793941011166b30ddyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 68080">
+				<media url="a24x23.mp3" startMsecs="0" duration="68080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Sodium et volume du liquide extracellulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour rappel, le volume du liquide extracellulaire représente environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;20% du poids corporel&lt;/span&gt;&lt;span &gt;, soit 14 litres chez un adulte de 70 kilos. Ce volume dépend du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contenu total en sodium &lt;/span&gt;&lt;span &gt;qui &lt;/span&gt;&lt;span  fontWeight="bold"&gt;avec les anions qui l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;accompagnent constitue la majorité des solutés du liquide extracellulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est déterminé avant tout par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;égalité des entrées et des sorties de sel et d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet, les variations de la concentration en sodium du LEC s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;accompagnent en général de variations dans le même sens de son volume à condition que le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;système de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;hormone antidiurétique et de la soif fonctionnement normalement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme la prise de sel et de liquide varie en fonction des habitudes alimentaires et même d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un jour à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autre, les reins maintiennent l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre sodique et régulent le volume extracellulaire en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ajustant l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;excrétion urinaire de sel et d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau en fonction des apports.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="461" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="93.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="461"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bb9fbb1d29934a2ba5b1b05c1ff00baayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 93930">
+				<media url="a24x24.mp3" startMsecs="0" duration="93930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Importance de l’équilibre sodique @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous ingérons beaucoup de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;chlorure de sodium &lt;/span&gt;&lt;span &gt;dans notre alimentation, près de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;9 grammes par jour &lt;/span&gt;&lt;span &gt;ce qui représente une ingestion quotidienne moyenne d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;environ 150 mosmoles de sodium et de chlore.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Des pertes de sodium plus ou moins importantes peuvent se faire &lt;/span&gt;&lt;span  fontWeight="bold"&gt;par la sueur&lt;/span&gt;&lt;span &gt;; quant aux pertes digestives elles sont faibles mais peuvent augmenter en cas de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diarrhée&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En conditions normales, le rein est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le principal organe d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;excrétion du sodium&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span  fontWeight="bold"&gt;Comme pour l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt;, les reins ont la capacité d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ajuster l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;excrétion urinaire de sodium (aussi appelée &lt;/span&gt;&lt;span  fontWeight="bold"&gt;natriurèse&lt;/span&gt;&lt;span &gt;) en fonction des apports ce qui fait qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ils peuvent excréter aussi bien une urine &lt;/span&gt;&lt;span  fontWeight="bold"&gt;dépourvue&lt;/span&gt;&lt;span &gt; qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une urine &lt;/span&gt;&lt;span  fontWeight="bold"&gt;chargée&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sodium&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cet équilibre permet de maintenir constants la quantité de sodium et donc &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le volume du LEC&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span  fontWeight="bold"&gt;La fraction plasmatique &lt;/span&gt;&lt;span &gt;du sang contribue de façon substantielle au &lt;/span&gt;&lt;span  fontWeight="bold"&gt;volume sanguin total&lt;/span&gt;&lt;span &gt;. Et comme le volume plasmatique fait partie du volume du liquide extracellulaire, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le contrôle de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;équilibre sodique est essentiel au maintien à l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;intérieur des limites physiologiques du débit cardiaque, de la pression sanguine et de la perfusion tissulaire. &lt;/span&gt;&lt;span &gt;Vous avez d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ailleurs déjà abordé cette notion lors des cours de physiologie cardiovasculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="463" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="67.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="463"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7cfe3c2698d24a11babbd33a1f709457yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 67940">
+				<media url="a24x25.mp3" startMsecs="0" duration="67940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Système de contrôle@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme pour la régulation de la pression artérielle&lt;/span&gt;&lt;span  fontWeight="bold"&gt;, la régulation rénale de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;équilibre sodique et du volume du LEC utilise des récepteurs capables de détecter l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;état de remplissage du compartiment extracellulaire &lt;/span&gt;&lt;span &gt;et divers &lt;/span&gt;&lt;span  fontWeight="bold"&gt;mécanismes effecteurs&lt;/span&gt;&lt;span &gt; qui vont modifier en conséquence la fonction rénale. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le liquide extracellulaire comprend le compartiment &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vasculaire&lt;/span&gt;&lt;span &gt; et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le liquide interstitiel&lt;/span&gt;&lt;span &gt;. Or le volume du compartiment interstitiel est essentiellement déterminé par les échanges qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;il effectue avec le compartiment plasmatique sous l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;action des forces de Starling à travers la membrane capillaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les récepteurs impliqués dans le contrôle de la volémie surveillent donc essentiellement l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;état de remplissage &lt;/span&gt;&lt;span  fontWeight="bold"&gt;du compartiment vasculaire&lt;/span&gt;&lt;span &gt;, c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est-à-dire le volume plasmatique ou sanguin efficace qui est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;de toute façon le volume essentiel au  bon fonctionnement de la circulation&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="464" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="67.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="464"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a3c3de57b1d24272869352176d683362yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 67290">
+				<media url="a24x26.mp3" startMsecs="0" duration="67290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Récepteurs du volume sanguin efficace@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les variations du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;volume sanguin efficace&lt;/span&gt;&lt;span &gt; sont perçues par différents types de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;récepteurs&lt;/span&gt;&lt;span &gt; dans le compartiment vasculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans le compartiment à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;haute&lt;/span&gt;&lt;span &gt; pression, les variations de VSE vont se traduire par des changements du débit cardiaque et donc de la pression artérielle. Les variations de pression seront ensuite perçues par les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;barorécepteurs aortiques et carotidiens &lt;/span&gt;&lt;span &gt;et par les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;barorécepteurs intrarénaux  situés sur les artérioles afférentes glomérulaires &lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; -Dans le compartiment à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;basse&lt;/span&gt;&lt;span &gt; pression, caractérisé par sa forte compliance, les changements de VSE vont modifier le niveau de distension des parois. Ceci sera détecté par les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;volorécepteurs&lt;/span&gt;&lt;span &gt; situés dans les oreillettes à la jonction avec les gros troncs veineux des circulations pulmonaire et systémique.&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; A noter que le compartiment interstitiel ne contient &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pas de récepteurs &lt;/span&gt;&lt;span &gt;capables de détecter ses changements de volume.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="465" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="86.01" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="465"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_72c8f5445d584cd8ac4524dc8dc623bayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 86010">
+				<media url="a24x27.mp3" startMsecs="0" duration="86010" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mécanismes effecteurs Régulation neurohormonale de la fonction rénale@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les divers mécanismes effecteurs qui vont permettre la régulation de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;équilibre sodique et du volume du liquide extracellulaire sont essentiellement d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;origine &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nerveuse&lt;/span&gt;&lt;span &gt; ou &lt;/span&gt;&lt;span  fontWeight="bold"&gt;hormonale&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces mécanismes ont tous la capacité de modifier d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une façon ou d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une autre &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la fonction rénale &lt;/span&gt;&lt;span &gt;et d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ainsi ajuster &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;excrétion urinaire de sodium et d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau &lt;/span&gt;&lt;span &gt;en fonction des informations fournies par les barorécepteurs et les volorécepteurs. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour ce faire, les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;deux facteurs déterminants de la fonction rénale &lt;/span&gt;&lt;span &gt;vont être la cible de ces régulation : le débit de filtration glomérulaire dans une moindre mesure &lt;/span&gt;&lt;span  fontWeight="bold"&gt;et surtout la réabsorption tubulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La majorité des mécanismes régulateurs sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;activés par une diminution du volume sanguin efficac&lt;/span&gt;&lt;span &gt;e et leurs effets sur le rein vont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminuer&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;natriurèse&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;et la diurèse&lt;/span&gt;&lt;span &gt;. Il s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;agit du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;système rénine-angiotensine-aldostérone&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;du SN sympathique &lt;/span&gt;&lt;span &gt;et de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’ADH&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;facteur natriurétique auriculaire &lt;/span&gt;&lt;span &gt;est le seul à être libéré par une augmentation du volume sanguin efficace et ses effets sur le rein vont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmenter la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;natriurèse&lt;/span&gt;&lt;span  fontWeight="bold"&gt; et la diurèse&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="466" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.07" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="466"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_528711dd3b6f4034a9d8e97855bf5e66yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 57070">
+				<media url="a24x28.mp3" startMsecs="0" duration="57070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mécanismes d’activation du système rénine-angiotensine par la diminution de la volémie@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici un rappel des différents facteurs qui favorisent &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la libération de rénine &lt;/span&gt;&lt;span &gt;par les cellules juxtaglomérulaires en réponse à la diminution du volume sanguin circulant. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La baisse de pression artérielle couplée à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;hypovolémie diminue le degré d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;étirement des barorécepteurs de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;artérioles afférente, des barorécepteurs artériels et des volorécepteurs. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ceci active la sécrétion de rénine soit &lt;/span&gt;&lt;span  fontWeight="bold"&gt;directement&lt;/span&gt;&lt;span &gt; dans le cas des barorécepteurs &lt;/span&gt;&lt;span  fontWeight="bold"&gt;intrarénaux&lt;/span&gt;&lt;span &gt;, soit à travers &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;activation&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;du système nerveux sympathique &lt;/span&gt;&lt;span &gt;pour les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;barorécepteurs artériels et les volorécepteurs&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Finalement, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;hypovolémie induit une réduction du débit de filtration glomérulaire, ce qui &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réduit l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;apport de NaCl délivré à la macula densa&lt;/span&gt;&lt;span &gt; et active la sécrétion de rénine.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="467" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="95.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="467"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8ac000e49eab4bc9aba1fc6c119885d0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 95190">
+				<media url="a24x29.mp3" startMsecs="0" duration="95190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Synthèse et libération d’aldostérone@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span  fontWeight="bold"&gt;Le système rénine-angiotensine &lt;/span&gt;&lt;span &gt;est le principal mécanisme de régulation de la synthèse et de la libération &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;aldostérone&lt;/span&gt;&lt;span &gt; par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;les glandes surrénales&lt;/span&gt;&lt;span &gt;, qui comme leur nom l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;indique sont situées juste au-dessus des reins. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La conversion d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;angiotensinogène en angiotensine I par la rénine puis de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;angiotensine I par l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;enzyme de conversion de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;angiotensine aboutit à la formation &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;angiotensine II&lt;/span&gt;&lt;span &gt; et cette dernière est un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;puissant stimulant de la libération d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;aldostérone par le cortex surrénalien&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le cortex est la portion la plus volumineuse de la surrénale et il entoure la médullosurrénale qui appartient au système nerveux sympathique et qui libère des catécholamines lors d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une activation sympathique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cellules du cortex synthétise une grande variété d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;hormones stéroïdes à partir du cholestérol. Elles sont organisées en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;trois couches concentriques autour de la médullosurrénale&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span  fontWeight="bold"&gt;L&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;aldostérone &lt;/span&gt;&lt;span &gt;est synthétisée et libérée par les cellules en amas de la couche &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la plus superficielle du cortex également appelée zone glomérulée&lt;/span&gt;&lt;span &gt;. Elle représente plus de 95% des hormones minéralocorticoïdes synthétisées par cette zone. Le nom de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;minéralocorticoïde&lt;/span&gt;&lt;span &gt;  leur a été attribué à cause de leur rôle dans la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;régulation du sodium et du potassium&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="468" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="76.56" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="468"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_93a00c161b304861a06e97c5599bfe62yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 76560">
+				<media url="a24x30.mp3" startMsecs="0" duration="76560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation de la sécrétion d’aldostérone@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En plus de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;angiotensine II, deux autres facteurs régulent la sécrétion d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aldostérone par le cortex surrénalien. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les variations des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;concentrations plasmatiques de sodium et de potassium agissent directement sur les cellules de la zone glomérulée&lt;/span&gt;&lt;span &gt;. La diminution de la concentration en sodium et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation&lt;/span&gt;&lt;span &gt; de la concentration en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;potassium&lt;/span&gt;&lt;span &gt; stimulent la libération d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aldostérone.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’inverse, une augmentation de la concentration de sodium et une diminution de la concentration de potassium auront un effet &lt;/span&gt;&lt;span  fontWeight="bold"&gt;inhibiteur&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La sécrétion d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aldostérone est également &lt;/span&gt;&lt;span  fontWeight="bold"&gt;inhibée par le facteur natriurétique auriculaire&lt;/span&gt;&lt;span &gt;, libéré par l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;étirement de la paroi des oreillettes lors d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une élévation de la volémie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce schéma nous montre également la cible de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aldostérone, à savoir les tubules rénaux où elle &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmente la réabsorption de sodium et favorise l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;excrétion de potassium&lt;/span&gt;&lt;span &gt;. Lorsque la réabsorption de sodium s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;accompagne d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une réabsorption d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau, la volémie et la pression artérielle augmentent.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="469" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.88" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="469"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d64a3a31ffa647d29011e212dd9137b4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 57880">
+				<media url="a24x31.mp3" startMsecs="0" duration="57880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effets de l’aldostérone Cellules principales du tubule rénal@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aldostérone agit sur &lt;/span&gt;&lt;span  fontWeight="bold"&gt;les cellules principales &lt;/span&gt;&lt;span &gt;du tubule contourné distal et sur le tubule collecteur qui ont comme particularité de posséder &lt;/span&gt;&lt;span  fontWeight="bold"&gt;des canaux de fuite pour le sodium et le potassium &lt;/span&gt;&lt;span &gt;sur leur membrane &lt;/span&gt;&lt;span  fontWeight="bold"&gt;apicale&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sur ce schéma, nous voyons &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en 1 &lt;/span&gt;&lt;span &gt;que l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;aldostérone, comme toutes les hormones stéroïdes, traverse la membrane cellulaire par simple diffusion pour aller se lier &lt;/span&gt;&lt;span  fontWeight="bold"&gt;à son récepteur cytoplasmique&lt;/span&gt;&lt;span &gt;. Le complexe hormone-récepteur migre ensuite vers le noyau où il déclenche la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;transcription de gènes &lt;/span&gt;&lt;span &gt;codant pour de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nouvelles pompes sodium-potassium &lt;/span&gt;&lt;span &gt;et de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nouveaux canaux de fuite &lt;/span&gt;&lt;span &gt;qui sont ajoutés dans les membranes basolatérale et apicale, respectivement. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le résultat est une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation de la réabsorption de sodium &lt;/span&gt;&lt;span &gt;et de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécrétion de potassium &lt;/span&gt;&lt;span &gt;par les cellules principales. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="470" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="42.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="470"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5c752f3492814420a5f3176d51dda50eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="32" duration=" 42220">
+				<media url="a24x32.mp3" startMsecs="0" duration="42220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réabsorption indépendante  du sodium et de l’eau@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La réabsorption du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sodium&lt;/span&gt;&lt;span &gt; et de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt; sont donc &lt;/span&gt;&lt;span  fontWeight="bold"&gt;indépendantes&lt;/span&gt;&lt;span &gt; et régulées séparément dans &lt;/span&gt;&lt;span  fontWeight="bold"&gt;les cellules principales &lt;/span&gt;&lt;span &gt;du dernier segment du néphron. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet, contrairement au TCP qui est très perméable à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et où la réabsorption de sodium s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;accompagne automatiquement d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une réabsorption d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau, le tubule contourné distal et le tubule collecteur ne sont perméables à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau &lt;/span&gt;&lt;span  fontWeight="bold"&gt;qu&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;en présence d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ADH&lt;/span&gt;&lt;span &gt;. La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorption de sodium par l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;aldostérone &lt;/span&gt;&lt;span &gt;ne s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;accompagne donc &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pas systématiquement &lt;/span&gt;&lt;span &gt;d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;une réabsorption d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sauf en présence d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ADH&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="473" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="122.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="473"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7abe72aca8e64c4897e2a693a2183b4eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 122250">
+				<media url="a24x33.mp3" startMsecs="0" duration="122250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effets du facteur  natriurétique auriculaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;facteur ou peptide natriurétique auriculaire &lt;/span&gt;&lt;span &gt;est une hormone peptidique sécrétée par des cardiomyocytes spécialisés des oreillettes lorsque la paroi auriculaire est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;étirée&lt;/span&gt;&lt;span &gt; par une augmentation de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression de remplissage&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Contrairement aux mécanismes que nous venons de voir qui répondent surtout aux variations de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pression&lt;/span&gt;&lt;span &gt; induites par les changements de volume, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;expansion &lt;/span&gt;&lt;span  fontWeight="bold"&gt;volémique&lt;/span&gt;&lt;span &gt; est le principal facteur physiologique de la libération de FNA.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Son effet sur la fonction rénale est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;puissant&lt;/span&gt;&lt;span &gt; et se traduit par une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;excrétion urinaire rapide de NaCl et d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette puissance et cette rapidité d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;action s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;expliquent par diverses actions physiologiques toutes destinées à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réduire la volémie&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au niveau &lt;/span&gt;&lt;span  fontWeight="bold"&gt;glomérulaire&lt;/span&gt;&lt;span &gt;, le FNA produit une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vasodilatation des artérioles afférentes &lt;/span&gt;&lt;span &gt;et une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vasoconstriction des artérioles efférentes&lt;/span&gt;&lt;span &gt;. La conséquence en est que le débit sanguin rénal n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est pas modifié mais que &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le DFG augmente de façon substantielle&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au niveau &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tubulaire&lt;/span&gt;&lt;span &gt;, le FNA &lt;/span&gt;&lt;span  fontWeight="bold"&gt;inhibe la réabsorption passive de sodium par les canaux sodiques des cellules principales&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et finalement, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;il inhibe la sécrétion de rénine &lt;/span&gt;&lt;span &gt;par les cellules juxtaglomérulaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ses actions &lt;/span&gt;&lt;span  fontWeight="bold"&gt;extrarénales&lt;/span&gt;&lt;span &gt; sont :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un effet &lt;/span&gt;&lt;span  fontWeight="bold"&gt;inhibiteur direct sur la sécrétion d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;aldostérone par le cortex surrénalien &lt;/span&gt;&lt;span &gt;(voir la diapo 32) et indirect à travers la diminution de la rénine. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et finalement, un effet sur l’hypothalamus avec comme conséquence une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution de la sécrétion d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ADH et de la soif.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="476" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="97.73" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide34.swf" id="476"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_aa668769a2c945e08300c4c995411d65yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="34" duration=" 97730">
+				<media url="a24x34.mp3" startMsecs="0" duration="97730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@En résumé@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici en résumé la contribution des différents mécanismes que nous venons de voir à la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;régulation du volume du liquide extracellulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En réponse à une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmentation&lt;/span&gt;&lt;span &gt; du volume du liquide extracellulaire, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;augmentation du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;volume sanguin efficace inhibe les mécanismes nerveux et hormonaux à l’origine de la libération d’aldostérone &lt;/span&gt;&lt;span &gt;par les surrénales. Elle induit par contre une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;libération de facteur natriurétique auriculaire&lt;/span&gt;&lt;span &gt;. Ces deux mécanismes vont alors favoriser &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;excrétion urinaire de sodium&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution d’osmolarité du LEC &lt;/span&gt;&lt;span &gt;qui en résulte entraine une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution de la production d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;hormone antidiurétique &lt;/span&gt;&lt;span &gt;et une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diurèse&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;L&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;excrétion urinaire de sodium et d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau &lt;/span&gt;&lt;span &gt;permet ainsi de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminuer le volume du liquide extracellulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;inverse&lt;/span&gt;&lt;span  fontWeight="bold"&gt;, la diminution du volume du liquide extracellulaire et du VSE active&lt;/span&gt;&lt;span &gt; les mécanismes à l’origine de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;libération d’aldostérone &lt;/span&gt;&lt;span &gt;et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;inhibe&lt;/span&gt;&lt;span &gt; celle du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;FNA&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ceci entraine une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorption de sodium &lt;/span&gt;&lt;span &gt;qui va &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmenter l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité du LEC et la sécrétion d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ADH&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diminution de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;excrétion de sodium et d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau&lt;/span&gt;&lt;span &gt;, couplées à la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;stimulation de la soif&lt;/span&gt;&lt;span &gt;, vont alors permettre de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;rétablir le volume de liquide extracellulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="480" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="37.81" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide35.swf" id="480"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3bd7a9e9a6774e53a7afc9e56ae7318fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="35" duration=" 37810">
+				<media url="a24x35.mp3" startMsecs="0" duration="37810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation de l’équilibre acido-basique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons terminer par la régulation de l’équilibre acido-basique effectuée par les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules intercalaires &lt;/span&gt;&lt;span &gt;du TCD et du tubule collecteur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le Docteur Launois-Rollinat vous a présenté les principales caractéristiques de l’équilibre acido-basique dans le cycle de physiologie respiratoire puisqu’environ &lt;/span&gt;&lt;span  fontWeight="bold"&gt;75% des perturbations du pH sont prises en charge très rapidement par les poumons&lt;/span&gt;&lt;span &gt;. La contribution rénale est plus lente à se mettre en œuvre mais elle permettra &lt;/span&gt;&lt;span  fontWeight="bold"&gt;un ajustement précis du pH&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="483" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="73.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide36.swf" id="483"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e2861dddb556434b9aa8e14d065e56f3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="36" duration=" 73100">
+				<media url="a24x36.mp3" startMsecs="0" duration="73100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le rein et le pH@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le rein a un rôle &lt;/span&gt;&lt;span  fontWeight="bold"&gt;très important &lt;/span&gt;&lt;span &gt;dans la régulation du pH, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;quantitativement moins que la respiration&lt;/span&gt;&lt;span &gt;, puisqu’il ne prend en charge que &lt;/span&gt;&lt;span  fontWeight="bold"&gt;25% de la compensation du pH &lt;/span&gt;&lt;span &gt;ce qui correspond à ce que les poumons n’ont pas effectué. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La régulation rénale se fait d’abord grâce à la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorption massive des bicarbonates au niveau du tubule contourné proxima&lt;/span&gt;&lt;span &gt;l, que nous avons vue au chapitre précédent. Cette réabsorption de près de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;90% &lt;/span&gt;&lt;span &gt;des bicarbonates filtrés est nécessaire puisque le métabolisme cellulaire produit quotidiennement une charge acide importante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Puis le rein, à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;travers les cellules intercalaires, ajuste finement le pH en réabsorbant ou en sécrétant des protons et &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;En produisant ou excrétant des ions bicarbonates selon les besoins de l’organismes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Deux&lt;/span&gt;&lt;span &gt; types de cellules intercalaires vont intervenir selon le type de perturbation : &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cellules &lt;/span&gt;&lt;span  fontWeight="bold"&gt;intercalaires de type A &lt;/span&gt;&lt;span &gt;vont intervenir en cas &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d’acidose&lt;/span&gt;&lt;span &gt; et&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les cellules &lt;/span&gt;&lt;span  fontWeight="bold"&gt;intercalaires de type B &lt;/span&gt;&lt;span &gt;en cas &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d’alcalose&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="491" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="81.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide37.swf" id="491"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1176de4ae3fd4f48b96ef116359a6e89yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="37" duration=" 81750">
+				<media url="a24x37.mp3" startMsecs="0" duration="81750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Cellules intercalaires de type A Acidose@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici le fonctionnement des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules intercalaires de type A&lt;/span&gt;&lt;span &gt; en réponse à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’acidose&lt;/span&gt;&lt;span &gt; donc à l’élévation de la concentration plasmatique des protons.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elles sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;riches en anhydrase carbonique &lt;/span&gt;&lt;span &gt;ce qui leur permet de combiner les protons en excès avec des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;bicarbonates&lt;/span&gt;&lt;span &gt;. Cette étape est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;essentielle&lt;/span&gt;&lt;span &gt; car la membrane basolatérale de ces cellules est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;imperméable&lt;/span&gt;&lt;span &gt; aux &lt;/span&gt;&lt;span  fontWeight="bold"&gt;protons&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Leur combinaison avec les bicarbonates permet la formation &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d’eau&lt;/span&gt;&lt;span &gt; et de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;CO2&lt;/span&gt;&lt;span &gt; qui peut alors &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diffuser à l’intérieur de la cellule &lt;/span&gt;&lt;span &gt;où il sera reconverti en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;protons&lt;/span&gt;&lt;span &gt; et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;bicarbonates&lt;/span&gt;&lt;span &gt;. Les protons seront alors &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécrétés&lt;/span&gt;&lt;span &gt; dans la lumière du tubule par de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;véritables pompes à protons par transport actif direct lié à l’ATP&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ATPases&lt;/span&gt;&lt;span &gt; expulsent les protons en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;échange avec du potassium qui sera réabsorbé &lt;/span&gt;&lt;span &gt;dans la circulation sanguine.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A noter que les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;bicarbonates&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;produits &lt;/span&gt;&lt;span &gt;dans la cellule retournent vers l’espace interstitiel, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en échange avec du chlore &lt;/span&gt;&lt;span &gt;pour préserver l’&lt;/span&gt;&lt;span &gt;électroneutralité des charges. Les bicarbonates générés par les cellules de type A servent ainsi de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tampons&lt;/span&gt;&lt;span &gt; participant à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;élimination urinaire des protons.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="492" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="51.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide38.swf" id="492"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_82449ea4b1ff4e84bb1f5c5863835644yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="38" duration=" 51660">
+				<media url="a24x38.mp3" startMsecs="0" duration="51660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Cellule intercalaire de type B Alcalose@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En ce qui concerne les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules intercalaires de type B&lt;/span&gt;&lt;span &gt;, elles interviennent dans &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’alcalose&lt;/span&gt;&lt;span &gt; c’est-à-dire lorsque la concentration plasmatique de protons est faible. Comme les cellules de type A, elles sont également riches en anhydrase carbonique mais leurs &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ATPases pompes à protons &lt;/span&gt;&lt;span &gt;sont situées sur leur membrane &lt;/span&gt;&lt;span  fontWeight="bold"&gt;basolatérale&lt;/span&gt;&lt;span &gt; ce qui leur permet de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorber activement les protons&lt;/span&gt;&lt;span &gt;, toujours en échange avec du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;potassium&lt;/span&gt;&lt;span &gt; qui sera alors &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécrété&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les protons réabsorbés sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;formés&lt;/span&gt;&lt;span &gt; dans les cellules sous l’action de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’anhydrase carbonique &lt;/span&gt;&lt;span &gt;à partir &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d’eau&lt;/span&gt;&lt;span &gt; et de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;CO2&lt;/span&gt;&lt;span &gt;. Les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;bicarbonates&lt;/span&gt;&lt;span &gt; ainsi &lt;/span&gt;&lt;span  fontWeight="bold"&gt;générés&lt;/span&gt;&lt;span &gt; sont quant à eux &lt;/span&gt;&lt;span  fontWeight="bold"&gt;excrétés&lt;/span&gt;&lt;span &gt; dans l’urine du côté apical des cellules en échange avec du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;chlore&lt;/span&gt;&lt;span &gt; pour préserver l’&lt;/span&gt;&lt;span &gt;électroneutralité des charges.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="362" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="85.27" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide39.swf" id="362"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5a0b6c5b5a7b47369c1ab7d965a0a2f4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="39" duration=" 85270">
+				<media url="a24x39.mp3" startMsecs="0" duration="85270" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Homéostasie du potassium@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Quelques mots sur la régulation de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;kaliémie&lt;/span&gt;&lt;span &gt; qui s’effectue également dans ce dernier segment du néphron.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet, près de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;90% du K+ est réabsorbé dans le TCP et l’anse de Henlé&lt;/span&gt;&lt;span &gt;. La régulation de l’homéostasie du potassium se fera donc sur les 10% qui arrivent dans le TCD et le tubule collecteur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette régulation se fera principalement au niveau &lt;/span&gt;&lt;span  fontWeight="bold"&gt;des cellules principales.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet les variations de la concentration plasmatique de potassium ont un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;effet direct sur la libération d’aldostérone par le cortex surrénalien &lt;/span&gt;&lt;span &gt;(tel qu’illustré à la diapositive &lt;/span&gt;&lt;span  fontWeight="bold"&gt;31&lt;/span&gt;&lt;span &gt;). Les cellules principales pourrons ainsi corriger le déséquilibre &lt;/span&gt;&lt;span  fontWeight="bold"&gt;en sécrétant plus ou moins de potassium&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En ce qui concerne les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cellules intercalaires&lt;/span&gt;&lt;span &gt;, elles ont un impact sur la kaliémie puisqu’elles &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorbent du potassium en cas d’acidose &lt;/span&gt;&lt;span &gt;et en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécrètent en cas d’alcalose&lt;/span&gt;&lt;span &gt;. Ces effets peuvent s’avérer &lt;/span&gt;&lt;span  fontWeight="bold"&gt;bénéfiques&lt;/span&gt;&lt;span &gt; en cas &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d’hypokaliémie&lt;/span&gt;&lt;span &gt; et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d’hyperkaliémie&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;respectivement&lt;/span&gt;&lt;span &gt;. Par contre si la kaliémie est stable, l’action des cellules intercalaires aura &lt;/span&gt;&lt;span  fontWeight="bold"&gt;un effet néfaste sur la kaliémie &lt;/span&gt;&lt;span &gt;et celle-ci devra alors être &lt;/span&gt;&lt;span  fontWeight="bold"&gt;corrigée par la régulation hormonale au niveau des cellules principales&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="432" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="15.67" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide40.swf" id="432"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_06ca4ef6e60f4bbf9b443e0a5ea5ea1eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="40" duration=" 15670">
+				<media url="a24x40.mp3" startMsecs="0" duration="15670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fiche mémo@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Afin de conclure cette série de cours, je vous ai préparé cette petite fiche qui regroupe l'essentiel des notions que je vous ai présentées dans ce cycle, en espérant qu'elle vous sera utile dans vos révisions.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="428" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="27.11" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide41.swf" id="428"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_949854f5e3814bc18bcbd5ba90a605dfyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="41" duration=" 27110">
+				<media url="a24x41.mp3" startMsecs="0" duration="27110" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Et je vous ai mis dans les prochaines diapositives quelques images destinées à vous montrer que les néphrons ne ressemblent en fait pas du tout aux images que j&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ai utilisées dans mes cours.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Celles-ci sont bien pratiques pour expliquer les mécanismes qui s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;y déroulent mais elles sont fausses entre autres parce que le tubule distal n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est pas éloigné du glomérule puisqu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;il passe entre les deux artérioles afférentes. Dans la réalité les choses ressemblent en fait à ceci… &lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="42"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="429" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="15.54" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide42.swf" id="429"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_418ec90814f94c9692fe952ff64150abyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="42" duration=" 15540">
+				<media url="a24x42.mp3" startMsecs="0" duration="15540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici une coupe du cortex rénal qui comme vous le voyez est un véritable enchevêtrement de corpuscules rénaux, avec leurs glomérules faciles à identier, de tubules contournés proximaux et de tubules contournés distaux. &lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="43"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="427" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="16.46" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide43.swf" id="427"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="8" frameNum="0"/>
+			<slidexml><AS3Class className="TL_130060ba04854bed9ce9dd4ed53f46d4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="43" duration=" 16460">
+				<media url="a24x43.mp3" startMsecs="0" duration="16460" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Et cette jolie mosaïque est en fait la médullaire rénale où vous pourrez voir, si vous avez envie de chercher un peu, des anses de Henlé fines, des vasa recta, des tubules distaux et des tubules collecteurs (un indice, ce sont les plus gros). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="44"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="430" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="51.7" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide44.swf" id="430"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="8" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6132efc3911b4e77a9d5ea92cd40b9feyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="44" duration=" 51700">
+				<media url="a24x44.mp3" startMsecs="0" duration="51700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voila, ici se le cycle de physiologie rénale, il ne me reste plus qu’à vous souhaiter bon courage pour la suite, et pour vous aider dans vos révisons voici quelques conseils sur la façon de réviser la physiologie rénale. D’abord, attachez-vous plus aux mécanismes qu’aux chiffres. Ceux que je considère important de mémoriser sont les proportions et les volumes moyens des différents compartiments liquidiens, la fraction de filtration glomérulaire, les valeurs normales de créatininémie de même que les valeurs moyenne du DSR, du DFG, de la natrémie et de la kaliémie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et je vous ai mis ici deux liens vers des vidéos « grand public » mais plutôt bien faites histoire de vous permettre encore une fois une vision plus dynamique de la fonction rénale . &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="45"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="495" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide45.swf" id="495"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="9" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bb4f44cc8b4d4d3eab67007fa2820e0fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="46"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

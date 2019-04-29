@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 6: la réabsortion et la sécrétion tubulaire</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Diane GODIN-RIBUOT</name>
+			<speakerTitle>Professeur CHU Grenoble  (UGA)</speakerTitle>
+			<image>spk109899.jpg</image>
+		</speaker>
+		<speaker>
+			<name>test</name>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_f0d9f6c3a7e04da6990cd58132b4fe32yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_d9b537beeb0b4a709a7bea554462e488yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_5889ec3e83164718bea65b6c6efea0cbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_a47cfb3cbc52477f8f20d4eb9e67dc74yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_89e561d063e54e8ba0bc9492658fe2aayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_f69412cb94c343b6bedef2a513274c35yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="435" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="15.48" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="435"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3da9baa919d849ebbc7d786bdc9b1a7dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 15480">
+				<media url="a24x1.mp3" startMsecs="0" duration="15480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 6 :  La réabsorption et  la sécrétion tubulaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="370" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="67.05" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="370"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_41ca0b6dddff49c69af9e68f2d0ef386yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 67050">
+				<media url="a24x2.mp3" startMsecs="0" duration="67050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La fonction rénale@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Si nous retournons au schéma de la fonction rénale que nous avions vu lors du cours d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;introduction, nous voyons qu’après son entrée dans le tubule, l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urine primitive formée lors de la filtration glomérulaire va parcourir la totalité du tubule rénal avant d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;être excrétée sous sa forme définitive. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans les trois derniers cours de ce cycle nous allons suivre ce parcours durant lequel certaines substances seront réabsorbées et retourneront dans le sang alors que d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;autres seront sécrétées à partir du sang vers la lumière du tubule. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;opposée de la filtration, qui laisse passer presque tous les composants du plasma hormis les protéines, la réabsorption et la sécrétion sont des processus &lt;/span&gt;&lt;span  fontWeight="bold"&gt;très sélectifs&lt;/span&gt;&lt;span &gt;. Nous allons voir que c&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;grâce à cette sélectivité et grâce à des systèmes de régulation spécifiques &lt;/span&gt;&lt;span &gt;que les reins contrôlent l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;excrétion des substances indépendamment les unes des autres, ce qui est fondamental pour la stabilité de la composition des divers liquides de notre organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="320" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="82.49" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="320"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a661c1dbb9304bdc81dda37f46b2fa65yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="10400" isStartRelative="false" duration="167"/>
+				<click startTime="34300" isStartRelative="false" duration="167"/>
+				<click startTime="61400" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 82490">
+				<media url="a24x3.mp3" startMsecs="0" duration="82490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La réabsorption tubulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Sur les 180 litres de liquide qui passent chaque jour dans le système des tubules, seulement 1 à 1,5 litre d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urine est excrété. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : Cela signifie que plus de 99% du liquide du filtrat a été &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorbé&lt;/span&gt;&lt;span &gt; par les cellules de la paroi des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tubules&lt;/span&gt;&lt;span &gt; et est retourné dans les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;capillaires péritubulaires&lt;/span&gt;&lt;span &gt;. La réabsorption tubulaire est un &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;mécanisme de transport transépithélial&lt;/span&gt;&lt;span  fontStyle="italic"&gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;qui débute dès que le filtrat pénètre dans le tubule.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;majeure partie&lt;/span&gt;&lt;span &gt; de cette réabsorption se produit &lt;/span&gt;&lt;span  fontWeight="bold"&gt;dans le premier segment du tubule&lt;/span&gt;&lt;span &gt; au niveau du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tubule contourné proximal&lt;/span&gt;&lt;span &gt;, et à un niveau moindre &lt;/span&gt;&lt;span  fontWeight="bold"&gt;dans l’anse de Henlé&lt;/span&gt;&lt;span &gt;. La réabsorption dans ces deux structures est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;systématique&lt;/span&gt;&lt;span &gt;, c’est-à-dire que les quantités réabsorbées sont fixes et ne seront pas modifiées par d’éventuelles influences hormonales ou nerveuses.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : Par contre, la réabsorption qui s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effectue &lt;/span&gt;&lt;span  fontWeight="bold"&gt;dans le dernier segment du tubule, &lt;/span&gt;&lt;span &gt;c’est-à-dire dans le TCD et le tubule collecteur, est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sous régulation hormonale&lt;/span&gt;&lt;span &gt;, ce qui permet aux reins de contrôler de façon très précise le volume et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;osmolarité du plasma.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="321" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="111.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="321"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6eab1a5f5f2946779a4e2894bdea82fbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="67390" isStartRelative="false" duration="167"/>
+				<click startTime="78190" isStartRelative="false" duration="167"/>
+				<click startTime="99490" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 111250">
+				<media url="a24x4.mp3" startMsecs="0" duration="111250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La réabsorption est sélective@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ce tableau nous montre le devenir de diverses substances lors de leur passage par le néphron. La première colonne nous donne les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;quantités (en litres ou en g) apportées au rein dans le plasma pendant 24 heures&lt;/span&gt;&lt;span &gt;. La deuxième, représente la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;quantité de substances passées dans le filtrat glomérulaire &lt;/span&gt;&lt;span &gt;et donc dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urine primitive. La troisième, la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;quantité de substances réabsorbées toujours par 24h &lt;/span&gt;&lt;span &gt;et la dernière correspond à &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ce qui est éliminé dans l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;urine finale&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En comparant les deux premières colonnes, nous voyons que, à part les protéines, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;toutes ces substances sont facilement filtrées au niveau du glomérule &lt;/span&gt;&lt;span &gt;avec une fraction de filtration de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;20%&lt;/span&gt;&lt;span &gt;. Ceci illustre bien l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;absence de sélectivité du filtre glomérulaire. Par contre, la réabsorption tubulaire est elle, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;très sélective&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : Certaines substances, comme le glucose et les acides aminés, sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;totalement&lt;/span&gt;&lt;span &gt; réabsorbées et ne sont pas excrétées dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urine.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : De nombreux ions du plasma, comme le sodium, le chlore, les bicarbonates et le potassium, sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;presque entièrement réabsorbés &lt;/span&gt;&lt;span &gt;et l’excrétion dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urine de la partie non réabsorbée sera variable selon les besoins de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisme. Et finalement,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;CLIC&lt;/span&gt;&lt;span &gt; : Certains déchets métaboliques, comme l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urée et la créatinine, sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;peu ou pas réabsorbés &lt;/span&gt;&lt;span &gt;et sont donc excrétés en grande quantité.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="437" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="65.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="437"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3aa220c6b61047daa41ad07d80a3fc88yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents><flvContent url="resources/diffusion_1_437_1_97914.mp4" PosX="156" PosY="298" Height="215" Width="382" playAfterTime="0" duration="63360" StartTime="0" StopTime="63360" FadeIn="0" FadeOut="0" FadeSpeed="1" MuteAudio="0" IsH264="1" ISORATEVIDEO=""/></flvContents>
+			<audios id="15" duration=" 65940">
+				<media url="a24x15.mp3" startMsecs="0" duration="65940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les mécanismes de réabsorption Mouvements passifs@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="322" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="65.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="322"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0d1aae7e238f4c37ba1e11bfc3aebd74yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents><flvContent url="resources/convestion_1_322_1_56669.mp4" PosX="474" PosY="301" Height="205" Width="365" playAfterTime="0" duration="62920" StartTime="0" StopTime="62920" FadeIn="0" FadeOut="0" FadeSpeed="1" MuteAudio="0" IsH264="1" ISORATEVIDEO=""/></flvContents>
+			<audios id="5" duration=" 65940">
+				<media url="a24x5.mp3" startMsecs="0" duration="65940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les mécanismes de réabsorption Mouvements passifs (vidéo convection)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour être réabsorbées dans la circulation sanguine, les substances doivent traverser &lt;/span&gt;&lt;span  fontWeight="bold"&gt;deux paroi&lt;/span&gt;&lt;span &gt;s : d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;abord celle du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;tubule rénal &lt;/span&gt;&lt;span &gt;puis la celle des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;capillaires péri-tubulaires&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La réabsorption de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau et des substances dissoutes se fait grâce à des transports &lt;/span&gt;&lt;span  fontWeight="bold"&gt;passifs&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;et&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;actifs&lt;/span&gt;&lt;span &gt; similaires à ceux retrouvés dans toutes les membranes de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;organisme. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;mouvements&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;passifs&lt;/span&gt;&lt;span &gt; les plus fréquemment retrouvés au niveau du rein sont illustrés par ces animations qui représentent : à gauche la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diffusion simple &lt;/span&gt;&lt;span &gt;qui s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;effectue &lt;/span&gt;&lt;span  fontWeight="bold"&gt;selon un gradient électrique ou chimique &lt;/span&gt;&lt;span &gt;et à droite la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;convection, &lt;/span&gt;&lt;span &gt;dans laquelle &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le solvant qui se déplace &lt;/span&gt;&lt;span &gt;selon un gradient de pression hydrostatique ou osmotique &lt;/span&gt;&lt;span  fontWeight="bold"&gt;emporte avec lui les solutés&lt;/span&gt;&lt;span &gt;. Vous pouvez en tout temps appuyer sur les boutons en-dessous des animations pour les re-visualiser.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="323" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="121.51" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="323"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_feb34d96aeb64fd9b7f95ab497763effyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 121510">
+				<media url="a24x6.mp3" startMsecs="0" duration="121510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les mécanismes de réabsorption@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un transport &lt;/span&gt;&lt;span  fontWeight="bold"&gt;actif&lt;/span&gt;&lt;span &gt; peut déplacer une substance dissoute &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contre &lt;/span&gt;&lt;span &gt;son gradient de concentration électrique et/ou chimique. Pour ce faire, il &lt;/span&gt;&lt;span  fontWeight="bold"&gt;consomme de l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;énergie &lt;/span&gt;&lt;span &gt;fournie par le métabolisme cellulaire. Le transport actif est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;toujours unidirectionnel &lt;/span&gt;&lt;span &gt;et il est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;limité par le nombre de transporteurs &lt;/span&gt;&lt;span &gt;et la disponibilité des substrats énergétiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un transport &lt;/span&gt;&lt;span  fontWeight="bold"&gt;directement lié à une source d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;énergie&lt;/span&gt;&lt;span &gt;, comme l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;hydrolyse de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;ATP, est appel&lt;/span&gt;&lt;span  fontWeight="bold"&gt;é transport actif primaire. &lt;/span&gt;&lt;span &gt;C&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est le cas de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pompe sodium potassium ATPase &lt;/span&gt;&lt;span &gt;qui fonctionne dans &lt;/span&gt;&lt;span  fontWeight="bold"&gt;presque toutes les parties&lt;/span&gt;&lt;span &gt; du tubule rénal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;transport actif secondaire&lt;/span&gt;&lt;span &gt;, le transport d’une substance contre son gradient de concentration est lié de façon &lt;/span&gt;&lt;span  fontWeight="bold"&gt;indirecte&lt;/span&gt;&lt;span &gt; à la source d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;énergie, comme celle fournie par le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gradient d’une autre substance&lt;/span&gt;&lt;span &gt;, c'est la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;différence de potentiel électrochimique &lt;/span&gt;&lt;span &gt;qui lui fournit l’énergie&lt;/span&gt;&lt;span  fontWeight="bold"&gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les deux principales formes de transport actif secondaire sont le symport et antiport.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;symports&lt;/span&gt;&lt;span &gt; transportent les deux substances &lt;/span&gt;&lt;span  fontWeight="bold"&gt;dans la même direction. &lt;/span&gt;&lt;span &gt;L'une des substances se déplace &lt;/span&gt;&lt;span  fontWeight="bold"&gt;dans le sens de son gradient de concentration &lt;/span&gt;&lt;span &gt;et l’énergie ainsi générée permet le transport de l’autre substance &lt;/span&gt;&lt;span  fontWeight="bold"&gt;dans le sens opposé à son gradient de concentration&lt;/span&gt;&lt;span &gt;. Un bon exemple de symport est celui utilisé pour la réabsorption tubulaire du glucose que nous verrons dans un moment, &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;antiports&lt;/span&gt;&lt;span &gt;, les deux substances sont transportées &lt;/span&gt;&lt;span  fontWeight="bold"&gt;dans des directions opposées &lt;/span&gt;&lt;span &gt;de part et d'autre de la membrane. Un exemple typique d’antiport est l’échangeur sodium-proton.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="373" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="102.6" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="373"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_21bfb4cc639448499b1421c9f73d1292yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 102600">
+				<media url="a24x7.mp3" startMsecs="0" duration="102600" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Transport actif du sodium@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans presque tous les segments du tubule rénal, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le transport actif du sodium &lt;/span&gt;&lt;span &gt;fournit la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;principale force motrice &lt;/span&gt;&lt;span &gt;des mécanismes de réabsorption. La plus grande partie de la consommation d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;oxygène du rein est consacrée au transport actif du sodium. D&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;abord, parce que sa réabsorption est &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic" textDecoration="underline"&gt;toujours active &lt;/span&gt;&lt;span  textDecoration="underline"&gt; &lt;/span&gt;&lt;span &gt;et que ce sont les ions les plus abondants du filtrat qui, rappelez-vous, a la même composition ionique que le plasma. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous voyons sur la figure de gauche que le transport actif primaire du sodium par les pompes sodium potassium de la membrane &lt;/span&gt;&lt;span  fontWeight="bold"&gt;basolatérale&lt;/span&gt;&lt;span &gt; crée un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gradient électrochimique élevé&lt;/span&gt;&lt;span &gt; entre le liquide tubulaire et le liquide intracellulaire qui facilite son entrée au niveau de la membrane &lt;/span&gt;&lt;span  fontWeight="bold"&gt;apicale&lt;/span&gt;&lt;span &gt; . Le passage du sodium au niveau &lt;/span&gt;&lt;span  fontWeight="bold"&gt;apical&lt;/span&gt;&lt;span &gt; peut ainsi se faire par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diffusion facilitée &lt;/span&gt;&lt;span &gt;à travers des &lt;/span&gt;&lt;span  fontWeight="bold"&gt;canaux de fuite&lt;/span&gt;&lt;span &gt;, tel qu’&lt;/span&gt;&lt;span &gt;illustré ici, mais également à travers toute une variété de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;symports&lt;/span&gt;&lt;span &gt; et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;antiports&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les pompes sodium potassium de la membrane basolatérale expulsent 3 ions sodium à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;extérieur de la cellule et font entrer 2 ions potassium. Dans les deux cas, les ions se déplacent contre leur gradient de concentration. Le sodium ainsi réabsorbé s&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;accumule ainsi dans le liquide interstitiel avant de diffuser dans le plasma &lt;/span&gt;&lt;span  fontWeight="bold"&gt;selon son gradient de concentration&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="434" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="136.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="434"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a11cd6c276ea464ebead92ffd7c270fayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 136380">
+				<media url="a24x8.mp3" startMsecs="0" duration="136380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les mécanismes de réabsorption@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ce schéma récapitule les différents modes de réabsorption observés au niveau du tubule rénal et tout particulièrement dans le tubule proximal. Rappelons d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;abord que la composition du filtrat qui arrive dans le tubule est au départ identique à celle du plasma hormis les protéines. Le liquide tubulaire et le liquide interstitiel autour du tubule ont donc tous les deux la même &lt;/span&gt;&lt;span  fontWeight="bold"&gt;osmolarité&lt;/span&gt;&lt;span &gt; d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;environ 300 mOsm par litre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;En 1 &lt;/span&gt;&lt;span &gt;: Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;transport actif de sodium&lt;/span&gt;&lt;span &gt; de la lumière du tubule vers le liquide interstitiel créée un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gradient électrique&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;à travers l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;épithélium tubulaire &lt;/span&gt;&lt;span &gt;dans lequel la lumière du tubule est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;plus électronégative &lt;/span&gt;&lt;span &gt;que le liquide interstitiel.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;En 2 &lt;/span&gt;&lt;span &gt;: Ceci amène les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;anions&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;à suivre le sodium &lt;/span&gt;&lt;span &gt;et le déplacement de sodium et d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;anions vers le liquide interstitiel est accompagné d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;un mouvement d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau par osmose &lt;/span&gt;&lt;span &gt;(&lt;/span&gt;&lt;span  fontWeight="bold"&gt;illustré en 3&lt;/span&gt;&lt;span &gt;).  Alors que la réabsorption des substances dissoutes peut être active ou passive, celle de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau est &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;toujours&lt;/span&gt;&lt;span  fontWeight="bold"&gt; passive&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;par osmose&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;En 4&lt;/span&gt;&lt;span &gt; : &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la perte d&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;eau &lt;/span&gt;&lt;span &gt;dans la lumière du tubule fait &lt;/span&gt;&lt;span  fontWeight="bold"&gt;augmenter les concentrations des solutés &lt;/span&gt;&lt;span &gt;restés dans le filtrat qui deviennent supérieures à celles du liquide interstitiel. &lt;/span&gt;&lt;span  fontWeight="bold"&gt;Si la perméabilité du tubule le permet&lt;/span&gt;&lt;span &gt;, ces substances, comme le potassium, le calcium et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urée, se déplacent vers le liquide interstitiel selon leur gradient de concentration. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous voyons également sur ce schéma que les substances du filtrat peuvent être réabsorbées soit &lt;/span&gt;&lt;span  fontWeight="bold"&gt;intracellulairement  &lt;/span&gt;&lt;span &gt;soit &lt;/span&gt;&lt;span  fontWeight="bold"&gt;paracellulairement&lt;/span&gt;&lt;span &gt;  c’est-à-dire entre les cellules. Selon le segment tubulaire, l'&lt;/span&gt;&lt;span  fontWeight="bold"&gt;espace intercellulaire&lt;/span&gt;&lt;span &gt; peut être plus ou moins large et les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;jonctions&lt;/span&gt;&lt;span &gt; entre les cellules peuvent êtres plus ou moins perméables aux molécules.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="332" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.12" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="332"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_698531c486354dccaf90181ee5f8d381yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents><flvContent url="resources/reabsortion_1_332_1_63260.mp4" PosX="502" PosY="190" Height="177" Width="315" playAfterTime="0" duration="36120" StartTime="0" StopTime="36120" FadeIn="0" FadeOut="0" FadeSpeed="1" MuteAudio="0" IsH264="1" ISORATEVIDEO=""/></flvContents>
+			<audios id="9" duration=" 32670">
+				<media url="a24x9.mp3" startMsecs="0" duration="32670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réabsorption passive Réabsorption obligatoire de l’eau@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La réabsorption du sodium crée un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fort gradient osmotique &lt;/span&gt;&lt;span &gt;et l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau se déplace &lt;/span&gt;&lt;span  fontWeight="bold"&gt;par osmose &lt;/span&gt;&lt;span &gt;par voie &lt;/span&gt;&lt;span  fontWeight="bold"&gt;transcellulaire (en particulier à travers les aquaporines) &lt;/span&gt;&lt;span &gt;ou&lt;/span&gt;&lt;span  fontWeight="bold"&gt; paracellulaire &lt;/span&gt;&lt;span &gt;pour rejoind&lt;/span&gt;&lt;span  fontWeight="bold"&gt;re &lt;/span&gt;&lt;span &gt;les capillaires péri-tubulaires. Ce phénomène est appelé &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;réabsorption obligatoire de l&lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;eau&lt;/span&gt;&lt;span &gt;. La conséquence en est que, &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;tant que la membrane du tubule est perméable à l&lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;eau&lt;/span&gt;&lt;span &gt;, les échanges seront &lt;/span&gt;&lt;span  fontWeight="bold"&gt;iso-osmotiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="340" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="54.59" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="340"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_376c5da9ed4848bcb75595494353d6d6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 54590">
+				<media url="a24x10.mp3" startMsecs="0" duration="54590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réabsorption passive Exemples du chlore et de l’urée@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici deux exemples de réabsorption passive de substance à travers la membrane tubulaire. Dans le cas de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’urée&lt;/span&gt;&lt;span &gt;, la réabsorption obligatoire de l’eau augmente de façon proportionnelle sa concentration &lt;/span&gt;&lt;span &gt;dans le filtrat. Si la perméabilité membranaire le permet, l’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;urée&lt;/span&gt;&lt;span &gt; va alors &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diffuser passivement &lt;/span&gt;&lt;span &gt;vers les capillaires péritubulaires selon son gradient de concentration.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;chlore,&lt;/span&gt;&lt;span &gt; quant à lui, peut se déplacer &lt;/span&gt;&lt;span  fontWeight="bold"&gt;par simple diffusion&lt;/span&gt;&lt;span &gt; sous l’effet du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;gradient électrique &lt;/span&gt;&lt;span &gt;créé par la réabsorption du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sodium&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;De plus, la réabsorption d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;eau &lt;/span&gt;&lt;span  fontWeight="bold"&gt;concentre&lt;/span&gt;&lt;span &gt; le chlore dans le tubule et le gradient de concentration ainsi créé vient &lt;/span&gt;&lt;span  fontWeight="bold"&gt;s&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;ajouter au gradient électrique &lt;/span&gt;&lt;span &gt;pour favoriser la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorption passive &lt;/span&gt;&lt;span &gt;du chlore.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="334" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="111.33" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="334"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1bd2cbaa48544b078955fab7fd2226b7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 111330">
+				<media url="a24x11.mp3" startMsecs="0" duration="111330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Transport actif secondaire  Exemple du glucose@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Parmi les substances réabsorbées par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;transport actif secon&lt;/span&gt;&lt;span &gt;daire on retrouve &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le glucose, les acides aminés, le lactate, les phosphates, les vitamines, les protons et plusieurs autres&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Voici le fonctionnement de ce type de transport illustré ici par la réabsorption du glucose.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le schéma de droite nous montre que le transporteur de la membrane &lt;/span&gt;&lt;span  fontWeight="bold"&gt;apicale&lt;/span&gt;&lt;span &gt; est ici un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;symport&lt;/span&gt;&lt;span &gt; qui déplace les ions Na+ dans le sens de leur gradient de concentration par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diffusion facilitée &lt;/span&gt;&lt;span &gt;en même temps qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;il &lt;/span&gt;&lt;span  fontWeight="bold"&gt;co-transporte &lt;/span&gt;&lt;span &gt;le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;glucose contre son gradient de concentration&lt;/span&gt;&lt;span &gt;. Le glucose traverse ensuite tout simplement la membrane basolatérale  &lt;/span&gt;&lt;span  fontWeight="bold"&gt;par simple diffusion selon son gradient de concentration &lt;/span&gt;&lt;span &gt;pour ensuite rejoindre les capillaires péritubulaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Sur le schéma de gauche nous voyons le fonctionnement de ce symport : &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Quand le transporteur est ouvert vers le liquide tubulaire, il possède une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;forte affinité pour le Na+&lt;/span&gt;&lt;span &gt; mais une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;faible affinité pour le glucose&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;liaison du Na+ &lt;/span&gt;&lt;span &gt;entraîne une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;modification de la structure du transporteur &lt;/span&gt;&lt;span &gt;qui lui confère une &lt;/span&gt;&lt;span  fontWeight="bold"&gt;forte affinité pour le glucose&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;liaison du glucose &lt;/span&gt;&lt;span &gt;entraîne un &lt;/span&gt;&lt;span  fontWeight="bold"&gt;autre changement de conformation &lt;/span&gt;&lt;span &gt;qui &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ouvre le transporteur vers l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;espace intracellulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;Na+ est alors libéré dans la cellule &lt;/span&gt;&lt;span &gt;et ceci entraîne un retour à la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;conformation de faible affinité pour le glucose &lt;/span&gt;&lt;span &gt;qui est libéré à son tour.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="335" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="98.84" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="335"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2fa1b2f714734a3293fea6c2133d78b4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 98840">
+				<media url="a24x12.mp3" startMsecs="0" duration="98840" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les mécanismes de transport actif  sont saturables@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Il existe &lt;/span&gt;&lt;span  fontWeight="bold"&gt;un taux maximal de réabsorption (T&lt;/span&gt;&lt;span  fontWeight="bold"&gt;m&lt;/span&gt;&lt;span  fontWeight="bold"&gt;)&lt;/span&gt;&lt;span &gt; exprimé en mmol ou en mg/min pour presque toutes les substances réabsorbées &lt;/span&gt;&lt;span  fontWeight="bold"&gt;activement&lt;/span&gt;&lt;span &gt; (sauf pour le sodium). Cette limite reflète le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nombre de transporteurs &lt;/span&gt;&lt;span &gt;et de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;canaux protéiques &lt;/span&gt;&lt;span &gt;disponibles sur les membranes des cellules tubulaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En général, les substances qui &lt;/span&gt;&lt;span  fontWeight="bold"&gt;doivent être réabsorbées &lt;/span&gt;&lt;span &gt;trouvent suffisamment de transporteurs et leur taux maximal de réabsorption est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;élevé&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;inverse, les transporteurs protéiques sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;inexistants&lt;/span&gt;&lt;span &gt; pour les substances qui ne doivent &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pas être réabsorbées comme la créatinine&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Quand les transporteurs sont &lt;/span&gt;&lt;span  fontWeight="bold"&gt;saturés&lt;/span&gt;&lt;span &gt;, les &lt;/span&gt;&lt;span  fontWeight="bold"&gt;substances en excès sont excrétées dans l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;urine&lt;/span&gt;&lt;span &gt;. Le meilleur exemple de ce phénomène est la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;glycosurie&lt;/span&gt;&lt;span &gt; associée au &lt;/span&gt;&lt;span  fontWeight="bold"&gt;diabète non équilibré&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les chiffres donnés ici ne sont pas à retenir, ils sont uniquement là pour vous aider à comprendre ce concept de taux maximal de réabsorption. Ils montrent que lorsque le taux sanguin de glucose, qui est normalement de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;3 à 6 mmol par litre&lt;/span&gt;&lt;span &gt;, dépasse la valeur seuil de 16 mmol par litre, le &lt;/span&gt;&lt;span  fontWeight="bold"&gt;Tm du glucose est dépassé&lt;/span&gt;&lt;span &gt; et les transporteurs ne peuvent plus réabsorber tout le glucose qui traverse le tubule. Il en résulte un passage de glucose dans les urines appelé glycosurie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="416" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="56.46" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="416"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fbbb9d68076a4d2ebe6b89c65da3e2f9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 56460">
+				<media url="a24x13.mp3" startMsecs="0" duration="56460" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Sécrétion tubulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécrétion&lt;/span&gt;&lt;span &gt;, comme la réabsorption, est réalisée principalement par des systèmes &lt;/span&gt;&lt;span  fontWeight="bold"&gt;spécifiques&lt;/span&gt;&lt;span &gt; de transports membranaires. C&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est un mécanisme &lt;/span&gt;&lt;span  fontWeight="bold"&gt;toujours&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;actif&lt;/span&gt;&lt;span &gt; puisque les substances sont transportées &lt;/span&gt;&lt;span  fontWeight="bold"&gt;contre&lt;/span&gt;&lt;span &gt; leur gradient de concentration et il permet au néphron d&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;augmenter l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;excrétion de ces substances. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Plusieurs substances &lt;/span&gt;&lt;span  fontWeight="bold"&gt;organiques&lt;/span&gt;&lt;span &gt; sont concernées. Citons l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;exemple le cas de l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;acide urique qui est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;réabsorbé passivement comme l&lt;/span&gt;&lt;span  fontWeight="bold"&gt;’&lt;/span&gt;&lt;span  fontWeight="bold"&gt;urée au niveau du tubule  proximal&lt;/span&gt;&lt;span &gt; puis ensuite &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécrété&lt;/span&gt;&lt;span &gt; dans l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;urine. Le cas de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pénicilline&lt;/span&gt;&lt;span &gt; est également intéressant puisque sa &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécrétion tubulaire rapide&lt;/span&gt;&lt;span &gt; complique son utilisation comme antibiotique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Finalement, nous verrons que la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sécrétion&lt;/span&gt;&lt;span &gt; joue un rôle majeur dans la régulation de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’homéostasie du pH et de la kaliémie&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="436" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="436"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f2f34f34982f4ec78cd93b0fa63f6c35yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>
