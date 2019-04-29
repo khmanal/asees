@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 16 : Parois du pelvis</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Jérôme TONETTI</name>
+			<speakerTitle>Professeur d' Anatomie (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10019.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie CHUGA</speakerTitle>
+			<image>spk10058.swf</image>
+		</speaker>
+		<speaker>
+			<name>Maurice DEMATTEIS</name>
+			<speakerTitle>Docteur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk15148.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_49fa2be8780747ac986858a4b696699fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_1223838789924de1bd9c48b39eac47b5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_7ee20802e42e4846ae58300592095cccyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_2de25b0a5b9a45899e2b7d5ff541c8bcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_4072b736db93432e9eda875c416f0e59yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="410" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="21.62" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="410"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f484b671bf0c46cfb7d086d642d92577yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 21620">
+				<media url="a24x1.mp3" startMsecs="0" duration="21620" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Parois du pelvis@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="408" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="34.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="408"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c5ca83faba924091a9a222f26e65bf44yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="500" isStartRelative="false" duration="534"/>
+				<click startTime="6610" isStartRelative="false" duration="534"/>
+				<click startTime="10260" isStartRelative="false" duration="534"/>
+				<click startTime="21360" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 34190">
+				<media url="a24x2.mp3" startMsecs="0" duration="34190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Parois du pelvis@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="257" showInTOC="" inSequence="" frameRate="30" totalFrames="510" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="210.44" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="257"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a52bdc7db9714806869226d5dd9c1d20yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8590" isStartRelative="false" duration="1034"/>
+				<click startTime="19200" isStartRelative="false" duration="534"/>
+				<click startTime="20500" isStartRelative="false" duration="1034"/>
+				<click startTime="27330" isStartRelative="false" duration="1034"/>
+				<click startTime="34020" isStartRelative="false" duration="1034"/>
+				<click startTime="35920" isStartRelative="false" duration="1034"/>
+				<click startTime="39120" isStartRelative="false" duration="1034"/>
+				<click startTime="62170" isStartRelative="false" duration="1034"/>
+				<click startTime="78490" isStartRelative="false" duration="1034"/>
+				<click startTime="85790" isStartRelative="false" duration="1034"/>
+				<click startTime="94940" isStartRelative="false" duration="1034"/>
+				<click startTime="117440" isStartRelative="false" duration="1034"/>
+				<click startTime="134710" isStartRelative="false" duration="1034"/>
+				<click startTime="161610" isStartRelative="false" duration="1034"/>
+				<click startTime="180900" isStartRelative="false" duration="1034"/>
+				<click startTime="185300" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 210440">
+				<media url="a24x3.mp3" startMsecs="0" duration="210440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe frontale@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="300" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="348.417" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c0a6cfc8cf1546adb8cd2fe8f8c7fbf0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="17390" isStartRelative="false" duration="167"/>
+				<click startTime="73160" isStartRelative="false" duration="1034"/>
+				<click startTime="90380" isStartRelative="false" duration="1034"/>
+				<click startTime="107770" isStartRelative="false" duration="1034"/>
+				<click startTime="135190" isStartRelative="false" duration="1034"/>
+				<click startTime="143670" isStartRelative="false" duration="534"/>
+				<click startTime="187220" isStartRelative="false" duration="534"/>
+				<click startTime="195940" isStartRelative="false" duration="534"/>
+				<click startTime="217310" isStartRelative="false" duration="534"/>
+				<click startTime="248090" isStartRelative="false" duration="1034"/>
+				<click startTime="339910" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 340760">
+				<media url="a24x4.mp3" startMsecs="0" duration="340760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notions de biométrie sur le bassin osseux@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="330" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="197.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_06ae4fd333c442bdb4b9a38c461665ecyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="51400" isStartRelative="false" duration="1034"/>
+				<click startTime="58160" isStartRelative="false" duration="1034"/>
+				<click startTime="71290" isStartRelative="false" duration="1034"/>
+				<click startTime="84290" isStartRelative="false" duration="1034"/>
+				<click startTime="101340" isStartRelative="false" duration="1034"/>
+				<click startTime="102690" isStartRelative="false" duration="1034"/>
+				<click startTime="122910" isStartRelative="false" duration="1034"/>
+				<click startTime="137710" isStartRelative="false" duration="534"/>
+				<click startTime="167410" isStartRelative="false" duration="1034"/>
+				<click startTime="177210" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 197920">
+				<media url="a24x5.mp3" startMsecs="0" duration="197920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les parois pelviennes@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="107.57" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2c636f34d1e64737b7a5800c15d656a3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="20270" isStartRelative="false" duration="1034"/>
+				<click startTime="31320" isStartRelative="false" duration="1534"/>
+				<click startTime="84180" isStartRelative="false" duration="1034"/>
+				<click startTime="97630" isStartRelative="false" duration="1034"/>
+				<click startTime="100430" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 107570">
+				<media url="a24x6.mp3" startMsecs="0" duration="107570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les parois pelviennes@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="240" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="154.668" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_aaf93f40ed10433a97bfdea159afa039yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="21200" isStartRelative="false" duration="1034"/>
+				<click startTime="54010" isStartRelative="false" duration="1034"/>
+				<click startTime="71460" isStartRelative="false" duration="1034"/>
+				<click startTime="81450" isStartRelative="false" duration="1034"/>
+				<click startTime="93560" isStartRelative="false" duration="1034"/>
+				<click startTime="127130" isStartRelative="false" duration="1034"/>
+				<click startTime="147430" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 152580">
+				<media url="a24x7.mp3" startMsecs="0" duration="152580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les parois pelviennes@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="480" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="365.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6ec2d9ee0d774aaebfcaacc9aac3d663yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8850" isStartRelative="false" duration="1034"/>
+				<click startTime="21050" isStartRelative="false" duration="1034"/>
+				<click startTime="42150" isStartRelative="false" duration="1034"/>
+				<click startTime="45310" isStartRelative="false" duration="1034"/>
+				<click startTime="53410" isStartRelative="false" duration="1034"/>
+				<click startTime="80510" isStartRelative="false" duration="1034"/>
+				<click startTime="95420" isStartRelative="false" duration="1034"/>
+				<click startTime="124420" isStartRelative="false" duration="1034"/>
+				<click startTime="167630" isStartRelative="false" duration="534"/>
+				<click startTime="177930" isStartRelative="false" duration="1034"/>
+				<click startTime="185130" isStartRelative="false" duration="1034"/>
+				<click startTime="213930" isStartRelative="false" duration="1034"/>
+				<click startTime="243330" isStartRelative="false" duration="1034"/>
+				<click startTime="263130" isStartRelative="false" duration="1034"/>
+				<click startTime="289830" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 365190">
+				<media url="a24x8.mp3" startMsecs="0" duration="365190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vue supérieure du pelvis féminin@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="540" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="351.47" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7eb7bcdeb36247e58aa37318401148e0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="45500" isStartRelative="false" duration="1034"/>
+				<click startTime="53900" isStartRelative="false" duration="1034"/>
+				<click startTime="69700" isStartRelative="false" duration="1034"/>
+				<click startTime="74900" isStartRelative="false" duration="1034"/>
+				<click startTime="81800" isStartRelative="false" duration="1034"/>
+				<click startTime="89100" isStartRelative="false" duration="1034"/>
+				<click startTime="99300" isStartRelative="false" duration="1034"/>
+				<click startTime="120100" isStartRelative="false" duration="1034"/>
+				<click startTime="138000" isStartRelative="false" duration="1034"/>
+				<click startTime="158500" isStartRelative="false" duration="1034"/>
+				<click startTime="180100" isStartRelative="false" duration="1034"/>
+				<click startTime="190000" isStartRelative="false" duration="1034"/>
+				<click startTime="214900" isStartRelative="false" duration="1034"/>
+				<click startTime="227900" isStartRelative="false" duration="1034"/>
+				<click startTime="255100" isStartRelative="false" duration="1034"/>
+				<click startTime="283200" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 351470">
+				<media url="a24x9.mp3" startMsecs="0" duration="351470" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe frontale du pelvis@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="600" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="361.932" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_23bc467b333c4a029b434ffee2ecef9cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="20700" isStartRelative="false" duration="1034"/>
+				<click startTime="38810" isStartRelative="false" duration="1034"/>
+				<click startTime="45290" isStartRelative="false" duration="1034"/>
+				<click startTime="48600" isStartRelative="false" duration="1034"/>
+				<click startTime="61300" isStartRelative="false" duration="1034"/>
+				<click startTime="74600" isStartRelative="false" duration="1034"/>
+				<click startTime="83800" isStartRelative="false" duration="1034"/>
+				<click startTime="96700" isStartRelative="false" duration="1034"/>
+				<click startTime="157580" isStartRelative="false" duration="1034"/>
+				<click startTime="185950" isStartRelative="false" duration="1034"/>
+				<click startTime="222250" isStartRelative="false" duration="1034"/>
+				<click startTime="250990" isStartRelative="false" duration="1034"/>
+				<click startTime="271690" isStartRelative="false" duration="1034"/>
+				<click startTime="292000" isStartRelative="false" duration="1034"/>
+				<click startTime="299320" isStartRelative="false" duration="1034"/>
+				<click startTime="328020" isStartRelative="false" duration="1034"/>
+				<click startTime="338720" isStartRelative="false" duration="1034"/>
+				<click startTime="343320" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 357950">
+				<media url="a24x10.mp3" startMsecs="0" duration="357950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe horizontale@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="720" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="310.78" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_51b57126734447bbb0713e05bc63cb05yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="9100" isStartRelative="false" duration="1034"/>
+				<click startTime="20500" isStartRelative="false" duration="1034"/>
+				<click startTime="37400" isStartRelative="false" duration="1034"/>
+				<click startTime="57100" isStartRelative="false" duration="1034"/>
+				<click startTime="72600" isStartRelative="false" duration="1034"/>
+				<click startTime="88400" isStartRelative="false" duration="1034"/>
+				<click startTime="103300" isStartRelative="false" duration="1034"/>
+				<click startTime="113200" isStartRelative="false" duration="1034"/>
+				<click startTime="121900" isStartRelative="false" duration="1034"/>
+				<click startTime="133600" isStartRelative="false" duration="1034"/>
+				<click startTime="145200" isStartRelative="false" duration="1034"/>
+				<click startTime="159600" isStartRelative="false" duration="1034"/>
+				<click startTime="198600" isStartRelative="false" duration="1166"/>
+				<click startTime="207700" isStartRelative="false" duration="1034"/>
+				<click startTime="213600" isStartRelative="false" duration="1034"/>
+				<click startTime="229500" isStartRelative="false" duration="1034"/>
+				<click startTime="250900" isStartRelative="false" duration="1034"/>
+				<click startTime="256800" isStartRelative="false" duration="1034"/>
+				<click startTime="261700" isStartRelative="false" duration="1034"/>
+				<click startTime="267000" isStartRelative="false" duration="1034"/>
+				<click startTime="282400" isStartRelative="false" duration="1034"/>
+				<click startTime="287900" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 290820">
+				<media url="a24x11.mp3" startMsecs="0" duration="290820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Hémi bassin droit@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="630" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="259.186" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_23b2a728e08446bbafdb3f30ea4386cbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8990" isStartRelative="false" duration="1034"/>
+				<click startTime="20870" isStartRelative="false" duration="1034"/>
+				<click startTime="27080" isStartRelative="false" duration="1034"/>
+				<click startTime="44320" isStartRelative="false" duration="1034"/>
+				<click startTime="62640" isStartRelative="false" duration="1034"/>
+				<click startTime="66900" isStartRelative="false" duration="1034"/>
+				<click startTime="76250" isStartRelative="false" duration="1034"/>
+				<click startTime="93260" isStartRelative="false" duration="1034"/>
+				<click startTime="122050" isStartRelative="false" duration="1034"/>
+				<click startTime="130850" isStartRelative="false" duration="1034"/>
+				<click startTime="162240" isStartRelative="false" duration="1034"/>
+				<click startTime="169590" isStartRelative="false" duration="1034"/>
+				<click startTime="189550" isStartRelative="false" duration="1034"/>
+				<click startTime="194840" isStartRelative="false" duration="1034"/>
+				<click startTime="199390" isStartRelative="false" duration="1034"/>
+				<click startTime="199390" isStartRelative="false" duration="534"/>
+				<click startTime="203190" isStartRelative="false" duration="1034"/>
+				<click startTime="206950" isStartRelative="false" duration="1034"/>
+				<click startTime="240040" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 254660">
+				<media url="a24x12.mp3" startMsecs="0" duration="254660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Hémi bassin droit – Structures veineuses et lymphatiques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="330" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="227.05" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_82773613b5a04f7db8a539c3dc668317yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="12200" isStartRelative="false" duration="534"/>
+				<click startTime="23300" isStartRelative="false" duration="1034"/>
+				<click startTime="47700" isStartRelative="false" duration="534"/>
+				<click startTime="73560" isStartRelative="false" duration="1034"/>
+				<click startTime="78160" isStartRelative="false" duration="534"/>
+				<click startTime="95460" isStartRelative="false" duration="534"/>
+				<click startTime="113960" isStartRelative="false" duration="534"/>
+				<click startTime="129630" isStartRelative="false" duration="1034"/>
+				<click startTime="150080" isStartRelative="false" duration="1034"/>
+				<click startTime="182840" isStartRelative="false" duration="1034"/>
+				<click startTime="194940" isStartRelative="false" duration="534"/>
+				<click startTime="201440" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 227050">
+				<media url="a24x13.mp3" startMsecs="0" duration="227050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Hémi bassin droit – Structures veineuses au niveau des parois@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="360" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="253.59" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_58bb9931800141e1bbe796d51ef9827dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="41150" isStartRelative="false" duration="534"/>
+				<click startTime="55780" isStartRelative="false" duration="1034"/>
+				<click startTime="114410" isStartRelative="false" duration="1034"/>
+				<click startTime="115350" isStartRelative="false" duration="1034"/>
+				<click startTime="118200" isStartRelative="false" duration="1034"/>
+				<click startTime="139700" isStartRelative="false" duration="1034"/>
+				<click startTime="178710" isStartRelative="false" duration="1034"/>
+				<click startTime="200210" isStartRelative="false" duration="1034"/>
+				<click startTime="214210" isStartRelative="false" duration="1034"/>
+				<click startTime="224480" isStartRelative="false" duration="1034"/>
+				<click startTime="228580" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 253590">
+				<media url="a24x14.mp3" startMsecs="0" duration="253590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Partie autonome végétative de l’innervation pelvienne@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="411" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide14.swf" id="411"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ff4b17b95876416d96f0fbfc10f27791yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="1"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

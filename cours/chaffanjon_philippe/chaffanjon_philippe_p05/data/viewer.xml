@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 5 : Les cavités cardiaques</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie CHUGA</speakerTitle>
+			<image>spk10018.swf</image>
+		</speaker>
+		<speaker>
+			<name>Maurice DEMATTEIS</name>
+			<speakerTitle>Docteur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk11637.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_b02f496462f8448bb2ef9bf087f448b9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_1c692cc3b59a4e57a17d91e394b0741fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_6203cc2b9eaa42a095488b3f1a9076afyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_f782a59e2f17493ebbba4de8b14989b6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_7a1bf08dd2cf42989b148da0f8f57e24yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="612" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="16.48" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="612"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2a342ef26bfd4cdda4e0be020b8eed26yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 16480">
+				<media url="a24x1.mp3" startMsecs="0" duration="16480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES CAVITES CARDIAQUES@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="490" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="371.72" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="490"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f9184a7d54354b2895a7bdf3d751e67eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1370" isStartRelative="false" duration="167"/>
+				<click startTime="15880" isStartRelative="false" duration="167"/>
+				<click startTime="25000" isStartRelative="false" duration="167"/>
+				<click startTime="30400" isStartRelative="false" duration="167"/>
+				<click startTime="39200" isStartRelative="false" duration="167"/>
+				<click startTime="41000" isStartRelative="false" duration="167"/>
+				<click startTime="67300" isStartRelative="false" duration="167"/>
+				<click startTime="70200" isStartRelative="false" duration="167"/>
+				<click startTime="75300" isStartRelative="false" duration="167"/>
+				<click startTime="83800" isStartRelative="false" duration="167"/>
+				<click startTime="89200" isStartRelative="false" duration="167"/>
+				<click startTime="93300" isStartRelative="false" duration="167"/>
+				<click startTime="103400" isStartRelative="false" duration="167"/>
+				<click startTime="116600" isStartRelative="false" duration="167"/>
+				<click startTime="133300" isStartRelative="false" duration="167"/>
+				<click startTime="138200" isStartRelative="false" duration="167"/>
+				<click startTime="161300" isStartRelative="false" duration="167"/>
+				<click startTime="199400" isStartRelative="false" duration="167"/>
+				<click startTime="213490" isStartRelative="false" duration="167"/>
+				<click startTime="264500" isStartRelative="false" duration="167"/>
+				<click startTime="288900" isStartRelative="false" duration="167"/>
+				<click startTime="319370" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 371720">
+				<media url="a24x2.mp3" startMsecs="0" duration="371720" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : muscle creux à quatre cavités@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="492" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="71.99" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="492"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7c633e0f2092482ea5576346c3a20f82yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="800" isStartRelative="false" duration="167"/>
+				<click startTime="25800" isStartRelative="false" duration="167"/>
+				<click startTime="35300" isStartRelative="false" duration="167"/>
+				<click startTime="45700" isStartRelative="false" duration="167"/>
+				<click startTime="53900" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 71990">
+				<media url="a24x3.mp3" startMsecs="0" duration="71990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VALVES ATRIO-VENTRICULAIRES : CORDAGES ET PILIERS@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="493" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="81.58" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="493"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_27e4574f90c2489ea9050754f24d0f49yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="800" isStartRelative="false" duration="167"/>
+				<click startTime="6100" isStartRelative="false" duration="167"/>
+				<click startTime="15600" isStartRelative="false" duration="167"/>
+				<click startTime="24900" isStartRelative="false" duration="167"/>
+				<click startTime="38700" isStartRelative="false" duration="167"/>
+				<click startTime="56100" isStartRelative="false" duration="167"/>
+				<click startTime="61700" isStartRelative="false" duration="167"/>
+				<click startTime="70600" isStartRelative="false" duration="167"/>
+				<click startTime="71300" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 81580">
+				<media url="a24x4.mp3" startMsecs="0" duration="81580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VALVES ATRIO-VENTRICULAIRES : LES CUSPIDES@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="611" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="28.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="611"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_38b28bcf44e1410095540a5ef1725e5byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 28310">
+				<media url="a24x5.mp3" startMsecs="0" duration="28310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VALVES ATRIO-VENTRICULAIRES : LES CUSPIDES@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="614" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="95.03" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="614"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7b086a1e81cf4fafad037662f72e8d1cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8400" isStartRelative="false" duration="167"/>
+				<click startTime="27000" isStartRelative="false" duration="167"/>
+				<click startTime="40700" isStartRelative="false" duration="167"/>
+				<click startTime="53400" isStartRelative="false" duration="167"/>
+				<click startTime="62100" isStartRelative="false" duration="167"/>
+				<click startTime="68200" isStartRelative="false" duration="167"/>
+				<click startTime="76700" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 95030">
+				<media url="a24x6.mp3" startMsecs="0" duration="95030" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VALVES ATRIO-VENTRICULAIRES : rôle des muscles papillaires@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="494" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="353.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="494"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e0f609cea3a14dbb8a15a77ec535b6bdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="770" isStartRelative="false" duration="167"/>
+				<click startTime="1620" isStartRelative="false" duration="167"/>
+				<click startTime="6120" isStartRelative="false" duration="167"/>
+				<click startTime="23620" isStartRelative="false" duration="167"/>
+				<click startTime="62320" isStartRelative="false" duration="167"/>
+				<click startTime="65020" isStartRelative="false" duration="167"/>
+				<click startTime="75520" isStartRelative="false" duration="3667"/>
+				<click startTime="114420" isStartRelative="false" duration="167"/>
+				<click startTime="167020" isStartRelative="false" duration="167"/>
+				<click startTime="196720" isStartRelative="false" duration="167"/>
+				<click startTime="213020" isStartRelative="false" duration="167"/>
+				<click startTime="237620" isStartRelative="false" duration="167"/>
+				<click startTime="240920" isStartRelative="false" duration="167"/>
+				<click startTime="280520" isStartRelative="false" duration="167"/>
+				<click startTime="321120" isStartRelative="false" duration="167"/>
+				<click startTime="337750" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 353250">
+				<media url="a24x7.mp3" startMsecs="0" duration="353250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : ATRIUM DROIT@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="495" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="187.71" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="495"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_493122079cf446e18f9bb98b6aa22b43yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="800" isStartRelative="false" duration="167"/>
+				<click startTime="5600" isStartRelative="false" duration="167"/>
+				<click startTime="16700" isStartRelative="false" duration="167"/>
+				<click startTime="33600" isStartRelative="false" duration="167"/>
+				<click startTime="40200" isStartRelative="false" duration="167"/>
+				<click startTime="44600" isStartRelative="false" duration="167"/>
+				<click startTime="47000" isStartRelative="false" duration="167"/>
+				<click startTime="49300" isStartRelative="false" duration="167"/>
+				<click startTime="50200" isStartRelative="false" duration="167"/>
+				<click startTime="59700" isStartRelative="false" duration="167"/>
+				<click startTime="61700" isStartRelative="false" duration="167"/>
+				<click startTime="83200" isStartRelative="false" duration="167"/>
+				<click startTime="105000" isStartRelative="false" duration="167"/>
+				<click startTime="121100" isStartRelative="false" duration="167"/>
+				<click startTime="132800" isStartRelative="false" duration="167"/>
+				<click startTime="173100" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 187710">
+				<media url="a24x8.mp3" startMsecs="0" duration="187710" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : VENTRICULE DROIT@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="496" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="219.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="496"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5af89a5f53cc49d087f2fbb7097a8066yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1500" isStartRelative="false" duration="167"/>
+				<click startTime="3300" isStartRelative="false" duration="167"/>
+				<click startTime="16600" isStartRelative="false" duration="167"/>
+				<click startTime="31200" isStartRelative="false" duration="167"/>
+				<click startTime="36200" isStartRelative="false" duration="167"/>
+				<click startTime="44600" isStartRelative="false" duration="167"/>
+				<click startTime="59000" isStartRelative="false" duration="167"/>
+				<click startTime="64500" isStartRelative="false" duration="167"/>
+				<click startTime="74500" isStartRelative="false" duration="167"/>
+				<click startTime="96800" isStartRelative="false" duration="167"/>
+				<click startTime="121600" isStartRelative="false" duration="167"/>
+				<click startTime="133600" isStartRelative="false" duration="167"/>
+				<click startTime="139700" isStartRelative="false" duration="167"/>
+				<click startTime="147800" isStartRelative="false" duration="167"/>
+				<click startTime="149600" isStartRelative="false" duration="167"/>
+				<click startTime="158000" isStartRelative="false" duration="167"/>
+				<click startTime="159400" isStartRelative="false" duration="167"/>
+				<click startTime="191400" isStartRelative="false" duration="167"/>
+				<click startTime="209200" isStartRelative="false" duration="167"/>
+				<click startTime="216620" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 219950">
+				<media url="a24x9.mp3" startMsecs="0" duration="219950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : ATRIUM GAUCHE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="497" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="110.23" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="497"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_86cb4ba7d6ca4c168c4620bd4d5181e6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1000" isStartRelative="false" duration="167"/>
+				<click startTime="4200" isStartRelative="false" duration="167"/>
+				<click startTime="10300" isStartRelative="false" duration="167"/>
+				<click startTime="19100" isStartRelative="false" duration="167"/>
+				<click startTime="31000" isStartRelative="false" duration="167"/>
+				<click startTime="39500" isStartRelative="false" duration="167"/>
+				<click startTime="47000" isStartRelative="false" duration="167"/>
+				<click startTime="49500" isStartRelative="false" duration="167"/>
+				<click startTime="60400" isStartRelative="false" duration="167"/>
+				<click startTime="85400" isStartRelative="false" duration="167"/>
+				<click startTime="86300" isStartRelative="false" duration="167"/>
+				<click startTime="93100" isStartRelative="false" duration="167"/>
+				<click startTime="94400" isStartRelative="false" duration="167"/>
+				<click startTime="96400" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 110230">
+				<media url="a24x10.mp3" startMsecs="0" duration="110230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : VENTRICULE GAUCHE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="615" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide10.swf" id="615"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4e584f47ff2b4dfab44a30a8b25b53aayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

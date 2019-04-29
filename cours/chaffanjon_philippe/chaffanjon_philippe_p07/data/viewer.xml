@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 7 : Le péricarde</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie CHUGA</speakerTitle>
+			<image>spk10024.swf</image>
+		</speaker>
+		<speaker>
+			<name>Maurice DEMATTEIS</name>
+			<speakerTitle>Docteur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk12156.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_40d1c214ea9f4eefa5495e75f4828b72yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_0b55a1fd70bd45e2996b2bb3786fc1a1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_32e17a3908b746b5a633f2225d5740d7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_c2d5dab45da04b3da4fe8e2c6bdad37eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_5b2f8015cfb04263816703b8ab65c148yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="617" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="27.06" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="617"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a02c227cf1cf431498d4d8a61a95db63yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 27060">
+				<media url="a24x1.mp3" startMsecs="0" duration="27060" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE PERICARDE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="596" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="102.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="596"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_248a152558de4edda60695a3f6d1c7e1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1600" isStartRelative="false" duration="167"/>
+				<click startTime="6490" isStartRelative="false" duration="167"/>
+				<click startTime="31930" isStartRelative="false" duration="167"/>
+				<click startTime="42920" isStartRelative="false" duration="167"/>
+				<click startTime="60150" isStartRelative="false" duration="167"/>
+				<click startTime="81850" isStartRelative="false" duration="167"/>
+				<click startTime="83300" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 102940">
+				<media url="a24x2.mp3" startMsecs="0" duration="102940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@PRESENTATION DU PERICARDE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="519" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="120.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="519"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e3b0ddd303ae4d10ae63a2069df48346yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="780" isStartRelative="false" duration="167"/>
+				<click startTime="1450" isStartRelative="false" duration="167"/>
+				<click startTime="4050" isStartRelative="false" duration="167"/>
+				<click startTime="24760" isStartRelative="false" duration="167"/>
+				<click startTime="26160" isStartRelative="false" duration="167"/>
+				<click startTime="31710" isStartRelative="false" duration="167"/>
+				<click startTime="59490" isStartRelative="false" duration="167"/>
+				<click startTime="68590" isStartRelative="false" duration="167"/>
+				<click startTime="74810" isStartRelative="false" duration="167"/>
+				<click startTime="76310" isStartRelative="false" duration="167"/>
+				<click startTime="77810" isStartRelative="false" duration="167"/>
+				<click startTime="83790" isStartRelative="false" duration="167"/>
+				<click startTime="85660" isStartRelative="false" duration="167"/>
+				<click startTime="98770" isStartRelative="false" duration="167"/>
+				<click startTime="101510" isStartRelative="false" duration="167"/>
+				<click startTime="103010" isStartRelative="false" duration="167"/>
+				<click startTime="104910" isStartRelative="false" duration="167"/>
+				<click startTime="108510" isStartRelative="false" duration="167"/>
+				<click startTime="110110" isStartRelative="false" duration="167"/>
+				<click startTime="111510" isStartRelative="false" duration="167"/>
+				<click startTime="112910" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 120940">
+				<media url="a24x3.mp3" startMsecs="0" duration="120940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@PRESENTATION DU PERICARDE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="520" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="121.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="520"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_686424bcbc784e3f95d717594276620ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="760" isStartRelative="false" duration="167"/>
+				<click startTime="9130" isStartRelative="false" duration="167"/>
+				<click startTime="45630" isStartRelative="false" duration="167"/>
+				<click startTime="55480" isStartRelative="false" duration="167"/>
+				<click startTime="59430" isStartRelative="false" duration="167"/>
+				<click startTime="66010" isStartRelative="false" duration="167"/>
+				<click startTime="69970" isStartRelative="false" duration="167"/>
+				<click startTime="73870" isStartRelative="false" duration="167"/>
+				<click startTime="85440" isStartRelative="false" duration="167"/>
+				<click startTime="91280" isStartRelative="false" duration="167"/>
+				<click startTime="102770" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 121410">
+				<media url="a24x4.mp3" startMsecs="0" duration="121410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@PERICARDE  GENERALITES@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="521" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="120.81" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="521"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5574e34ee4ad4ebc89c4ff7875c7311fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1450" isStartRelative="false" duration="167"/>
+				<click startTime="19230" isStartRelative="false" duration="167"/>
+				<click startTime="40160" isStartRelative="false" duration="167"/>
+				<click startTime="49980" isStartRelative="false" duration="167"/>
+				<click startTime="55130" isStartRelative="false" duration="167"/>
+				<click startTime="66340" isStartRelative="false" duration="167"/>
+				<click startTime="72700" isStartRelative="false" duration="167"/>
+				<click startTime="78700" isStartRelative="false" duration="167"/>
+				<click startTime="92900" isStartRelative="false" duration="167"/>
+				<click startTime="97350" isStartRelative="false" duration="167"/>
+				<click startTime="103330" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 120810">
+				<media url="a24x5.mp3" startMsecs="0" duration="120810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@EMBRYOLOGIE DU PERICARDE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="522" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="154.59" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="522"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_aeee5f9e327e4d469695bc5b133c886fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="960" isStartRelative="false" duration="167"/>
+				<click startTime="2110" isStartRelative="false" duration="167"/>
+				<click startTime="14120" isStartRelative="false" duration="167"/>
+				<click startTime="19330" isStartRelative="false" duration="167"/>
+				<click startTime="29560" isStartRelative="false" duration="167"/>
+				<click startTime="43070" isStartRelative="false" duration="167"/>
+				<click startTime="63170" isStartRelative="false" duration="167"/>
+				<click startTime="78980" isStartRelative="false" duration="167"/>
+				<click startTime="80780" isStartRelative="false" duration="167"/>
+				<click startTime="85180" isStartRelative="false" duration="167"/>
+				<click startTime="86780" isStartRelative="false" duration="167"/>
+				<click startTime="87980" isStartRelative="false" duration="167"/>
+				<click startTime="90270" isStartRelative="false" duration="167"/>
+				<click startTime="90820" isStartRelative="false" duration="167"/>
+				<click startTime="91820" isStartRelative="false" duration="167"/>
+				<click startTime="92740" isStartRelative="false" duration="167"/>
+				<click startTime="126230" isStartRelative="false" duration="167"/>
+				<click startTime="135520" isStartRelative="false" duration="167"/>
+				<click startTime="141420" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 154590">
+				<media url="a24x6.mp3" startMsecs="0" duration="154590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@EMBRYOLOGIE DU PERICARDE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="607" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.88" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="607"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_59f3ebd8491f4e06ba8f25581f740757yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="640" isStartRelative="false" duration="167"/>
+				<click startTime="15170" isStartRelative="false" duration="167"/>
+				<click startTime="20000" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 36880">
+				<media url="a24x7.mp3" startMsecs="0" duration="36880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA LIGNE DE REFLEXION DU PERICARDE  AUTOUR DU POLE ARTERIEL@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="523" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="124.57" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="523"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f60d60335b0e4a1bbc2f11be5cf141afyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2300" isStartRelative="false" duration="167"/>
+				<click startTime="14160" isStartRelative="false" duration="167"/>
+				<click startTime="22510" isStartRelative="false" duration="167"/>
+				<click startTime="25440" isStartRelative="false" duration="167"/>
+				<click startTime="26740" isStartRelative="false" duration="167"/>
+				<click startTime="30740" isStartRelative="false" duration="167"/>
+				<click startTime="36140" isStartRelative="false" duration="167"/>
+				<click startTime="37780" isStartRelative="false" duration="167"/>
+				<click startTime="41180" isStartRelative="false" duration="167"/>
+				<click startTime="44340" isStartRelative="false" duration="167"/>
+				<click startTime="46260" isStartRelative="false" duration="167"/>
+				<click startTime="106100" isStartRelative="false" duration="167"/>
+				<click startTime="107410" isStartRelative="false" duration="167"/>
+				<click startTime="108470" isStartRelative="false" duration="167"/>
+				<click startTime="117280" isStartRelative="false" duration="167"/>
+				<click startTime="118380" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 124570">
+				<media url="a24x8.mp3" startMsecs="0" duration="124570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA LIGNE DE REFLEXION DU PERICARDE  AUTOUR DU POLE ARTERIEL@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="524" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="131.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="524"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8261a0aab0b1485f9d15f19e208d126cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="940" isStartRelative="false" duration="167"/>
+				<click startTime="13250" isStartRelative="false" duration="167"/>
+				<click startTime="19610" isStartRelative="false" duration="167"/>
+				<click startTime="21910" isStartRelative="false" duration="167"/>
+				<click startTime="23510" isStartRelative="false" duration="167"/>
+				<click startTime="25210" isStartRelative="false" duration="167"/>
+				<click startTime="26710" isStartRelative="false" duration="167"/>
+				<click startTime="27810" isStartRelative="false" duration="167"/>
+				<click startTime="28910" isStartRelative="false" duration="167"/>
+				<click startTime="33610" isStartRelative="false" duration="167"/>
+				<click startTime="36460" isStartRelative="false" duration="167"/>
+				<click startTime="44570" isStartRelative="false" duration="167"/>
+				<click startTime="49970" isStartRelative="false" duration="167"/>
+				<click startTime="53940" isStartRelative="false" duration="167"/>
+				<click startTime="58140" isStartRelative="false" duration="167"/>
+				<click startTime="61260" isStartRelative="false" duration="167"/>
+				<click startTime="67310" isStartRelative="false" duration="167"/>
+				<click startTime="68970" isStartRelative="false" duration="167"/>
+				<click startTime="89800" isStartRelative="false" duration="167"/>
+				<click startTime="92730" isStartRelative="false" duration="167"/>
+				<click startTime="102980" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 131520">
+				<media url="a24x9.mp3" startMsecs="0" duration="131520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA LIGNE DE REFLEXION DU PERICARDE  AUTOUR DU POLE VEINEUX@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="525" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="130.35" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="525"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6913592696b240b48d3d95cd8fb4e9c3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1500" isStartRelative="false" duration="167"/>
+				<click startTime="6420" isStartRelative="false" duration="167"/>
+				<click startTime="14030" isStartRelative="false" duration="167"/>
+				<click startTime="42700" isStartRelative="false" duration="167"/>
+				<click startTime="76670" isStartRelative="false" duration="167"/>
+				<click startTime="90480" isStartRelative="false" duration="167"/>
+				<click startTime="102060" isStartRelative="false" duration="167"/>
+				<click startTime="103460" isStartRelative="false" duration="167"/>
+				<click startTime="105400" isStartRelative="false" duration="167"/>
+				<click startTime="108500" isStartRelative="false" duration="167"/>
+				<click startTime="109400" isStartRelative="false" duration="167"/>
+				<click startTime="113330" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 130350">
+				<media url="a24x10.mp3" startMsecs="0" duration="130350" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE SINUS TRANSVERSE DU PERICARDE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="618" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide10.swf" id="618"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e1ab173ef4be4b41b79d6020acd72c6ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

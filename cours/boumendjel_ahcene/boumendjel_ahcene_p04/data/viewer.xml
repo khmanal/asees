@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 4 : Alcools</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Ahcène BOUMENDJEL</name>
+			<speakerTitle>Professeur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10154.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_a39c43a1ba3641eb92f86a81847d2252yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_2f409e00281546d2b8884d1f922c7f58yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_bfe65d09490c40bf85b4d056b012d0bbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_ae0934d816ce4224ba516ca3ae94221ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_2e938da4e7434016ada0b773623a3baayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="256" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="9.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="256"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_613be285c55148ee886721fbc9dc7606yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 9950">
+				<media url="a24x1.mp3" startMsecs="0" duration="9950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 4 : Alcools@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f7b91126a6c14be7b0795596d8402645yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 18250">
+				<media url="a24x2.mp3" startMsecs="0" duration="18250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Alcools@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="49.97" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_adc6626c627447bb8246f03ffec6d5aeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="550" isStartRelative="false" duration="167"/>
+				<click startTime="1460" isStartRelative="false" duration="167"/>
+				<click startTime="11500" isStartRelative="false" duration="167"/>
+				<click startTime="11800" isStartRelative="false" duration="167"/>
+				<click startTime="17080" isStartRelative="false" duration="167"/>
+				<click startTime="20890" isStartRelative="false" duration="167"/>
+				<click startTime="29290" isStartRelative="false" duration="2034"/>
+				<click startTime="33690" isStartRelative="false" duration="2034"/>
+				<click startTime="41690" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 49970">
+				<media url="a24x3.mp3" startMsecs="0" duration="49970" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@1. Généralités@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="84.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_194bc95a9c3442589187f7279dd115f1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="4860" isStartRelative="false" duration="167"/>
+				<click startTime="15760" isStartRelative="false" duration="167"/>
+				<click startTime="18660" isStartRelative="false" duration="167"/>
+				<click startTime="19560" isStartRelative="false" duration="167"/>
+				<click startTime="25560" isStartRelative="false" duration="167"/>
+				<click startTime="35660" isStartRelative="false" duration="167"/>
+				<click startTime="36260" isStartRelative="false" duration="167"/>
+				<click startTime="39860" isStartRelative="false" duration="167"/>
+				<click startTime="43560" isStartRelative="false" duration="167"/>
+				<click startTime="44260" isStartRelative="false" duration="167"/>
+				<click startTime="51160" isStartRelative="false" duration="167"/>
+				<click startTime="57960" isStartRelative="false" duration="167"/>
+				<click startTime="58660" isStartRelative="false" duration="167"/>
+				<click startTime="59560" isStartRelative="false" duration="167"/>
+				<click startTime="66660" isStartRelative="false" duration="167"/>
+				<click startTime="69360" isStartRelative="false" duration="167"/>
+				<click startTime="75060" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 84550">
+				<media url="a24x4.mp3" startMsecs="0" duration="84550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@1.2. Classification des alcools@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="240" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="107.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b1937f68a7c94e1c9fc1e957eb513069yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2490" isStartRelative="false" duration="167"/>
+				<click startTime="8260" isStartRelative="false" duration="167"/>
+				<click startTime="18460" isStartRelative="false" duration="167"/>
+				<click startTime="20860" isStartRelative="false" duration="2034"/>
+				<click startTime="23860" isStartRelative="false" duration="167"/>
+				<click startTime="24160" isStartRelative="false" duration="167"/>
+				<click startTime="41260" isStartRelative="false" duration="167"/>
+				<click startTime="43160" isStartRelative="false" duration="2034"/>
+				<click startTime="45760" isStartRelative="false" duration="167"/>
+				<click startTime="46660" isStartRelative="false" duration="167"/>
+				<click startTime="47460" isStartRelative="false" duration="167"/>
+				<click startTime="54300" isStartRelative="false" duration="167"/>
+				<click startTime="70400" isStartRelative="false" duration="167"/>
+				<click startTime="74200" isStartRelative="false" duration="167"/>
+				<click startTime="86400" isStartRelative="false" duration="167"/>
+				<click startTime="88200" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 107310">
+				<media url="a24x5.mp3" startMsecs="0" duration="107310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@1.3. Propriétés physiques des alcools@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="270" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="91.35" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8a0409a0c14c4b71be5e14939f4a95deyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="16270" isStartRelative="false" duration="167"/>
+				<click startTime="32570" isStartRelative="false" duration="2034"/>
+				<click startTime="39570" isStartRelative="false" duration="2034"/>
+				<click startTime="59470" isStartRelative="false" duration="2034"/>
+				<click startTime="73970" isStartRelative="false" duration="2034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 91350">
+				<media url="a24x6.mp3" startMsecs="0" duration="91350" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@2. Réactivité des alcools@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="89.15" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_91974e17349547cd94869c4643666c88yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="13410" isStartRelative="false" duration="167"/>
+				<click startTime="38710" isStartRelative="false" duration="167"/>
+				<click startTime="50810" isStartRelative="false" duration="167"/>
+				<click startTime="52610" isStartRelative="false" duration="167"/>
+				<click startTime="54210" isStartRelative="false" duration="167"/>
+				<click startTime="56310" isStartRelative="false" duration="167"/>
+				<click startTime="74810" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 89150">
+				<media url="a24x7.mp3" startMsecs="0" duration="89150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@2.1. Réactivité due à l’acidité de l’hydrogène du groupement OH@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="274" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="71.62" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ceb9fb14395a410d918ef9d7736151d1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="5750" isStartRelative="false" duration="167"/>
+				<click startTime="10050" isStartRelative="false" duration="167"/>
+				<click startTime="12150" isStartRelative="false" duration="167"/>
+				<click startTime="28750" isStartRelative="false" duration="167"/>
+				<click startTime="33550" isStartRelative="false" duration="167"/>
+				<click startTime="49510" isStartRelative="false" duration="167"/>
+				<click startTime="62210" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 71620">
+				<media url="a24x8.mp3" startMsecs="0" duration="71620" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Conséquence de l’acidité de l’hydrogène@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bb57a39e3e7b419cba33f5bab9919ffcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2590" isStartRelative="false" duration="167"/>
+				<click startTime="7390" isStartRelative="false" duration="167"/>
+				<click startTime="9690" isStartRelative="false" duration="167"/>
+				<click startTime="12290" isStartRelative="false" duration="167"/>
+				<click startTime="12840" isStartRelative="false" duration="167"/>
+				<click startTime="13840" isStartRelative="false" duration="167"/>
+				<click startTime="19000" isStartRelative="false" duration="167"/>
+				<click startTime="26700" isStartRelative="false" duration="167"/>
+				<click startTime="37500" isStartRelative="false" duration="167"/>
+				<click startTime="41200" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 47800">
+				<media url="a24x9.mp3" startMsecs="0" duration="47800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Exemples@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="275" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="115.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4ab8bf1de65a480cae0c33432b448cf4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="14220" isStartRelative="false" duration="167"/>
+				<click startTime="20420" isStartRelative="false" duration="167"/>
+				<click startTime="23320" isStartRelative="false" duration="167"/>
+				<click startTime="52790" isStartRelative="false" duration="167"/>
+				<click startTime="80390" isStartRelative="false" duration="167"/>
+				<click startTime="89590" isStartRelative="false" duration="167"/>
+				<click startTime="100330" isStartRelative="false" duration="167"/>
+				<click startTime="107330" isStartRelative="false" duration="167"/>
+				<click startTime="109030" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 115930">
+				<media url="a24x10.mp3" startMsecs="0" duration="115930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Utilisation des alcoolates en chimie organique@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="54.33" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f118868120b0466f96d1d58575b2017eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="28540" isStartRelative="false" duration="167"/>
+				<click startTime="33440" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 54330">
+				<media url="a24x11.mp3" startMsecs="0" duration="54330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@2.2. Réactivité due à la nucléophilie et à la basicité de l’oxygène@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="279" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="72.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="279"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f9661452759a47baa65379bf1604e343yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="10570" isStartRelative="false" duration="167"/>
+				<click startTime="11970" isStartRelative="false" duration="167"/>
+				<click startTime="16870" isStartRelative="false" duration="167"/>
+				<click startTime="33470" isStartRelative="false" duration="167"/>
+				<click startTime="41070" isStartRelative="false" duration="167"/>
+				<click startTime="46370" isStartRelative="false" duration="167"/>
+				<click startTime="51960" isStartRelative="false" duration="167"/>
+				<click startTime="53290" isStartRelative="false" duration="167"/>
+				<click startTime="58410" isStartRelative="false" duration="167"/>
+				<click startTime="61110" isStartRelative="false" duration="167"/>
+				<click startTime="62710" isStartRelative="false" duration="167"/>
+				<click startTime="70110" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 72250">
+				<media url="a24x12.mp3" startMsecs="0" duration="72250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Transformation des alcools en halogénures d’alkyle@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="282" showInTOC="" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="114.719" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="282"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fc82edb2531d4c7b8f39e28a976d40b6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="11650" isStartRelative="false" duration="167"/>
+				<click startTime="32050" isStartRelative="false" duration="167"/>
+				<click startTime="38450" isStartRelative="false" duration="167"/>
+				<click startTime="43550" isStartRelative="false" duration="167"/>
+				<click startTime="47750" isStartRelative="false" duration="167"/>
+				<click startTime="52350" isStartRelative="false" duration="167"/>
+				<click startTime="54450" isStartRelative="false" duration="167"/>
+				<click startTime="59150" isStartRelative="false" duration="167"/>
+				<click startTime="62920" isStartRelative="false" duration="167"/>
+				<click startTime="63820" isStartRelative="false" duration="167"/>
+				<click startTime="74610" isStartRelative="false" duration="167"/>
+				<click startTime="75110" isStartRelative="false" duration="167"/>
+				<click startTime="78810" isStartRelative="false" duration="167"/>
+				<click startTime="85810" isStartRelative="false" duration="167"/>
+				<click startTime="90210" isStartRelative="false" duration="167"/>
+				<click startTime="110180" isStartRelative="false" duration="2034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 114230">
+				<media url="a24x13.mp3" startMsecs="0" duration="114230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mécanisme de la réaction de chloration par SOCl2@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="198.79" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_53df43101cae4155951d5d06ecdde0fbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="15770" isStartRelative="false" duration="167"/>
+				<click startTime="20070" isStartRelative="false" duration="167"/>
+				<click startTime="24970" isStartRelative="false" duration="167"/>
+				<click startTime="35270" isStartRelative="false" duration="167"/>
+				<click startTime="38370" isStartRelative="false" duration="167"/>
+				<click startTime="56370" isStartRelative="false" duration="167"/>
+				<click startTime="57770" isStartRelative="false" duration="167"/>
+				<click startTime="62070" isStartRelative="false" duration="167"/>
+				<click startTime="80470" isStartRelative="false" duration="2034"/>
+				<click startTime="81770" isStartRelative="false" duration="167"/>
+				<click startTime="99270" isStartRelative="false" duration="167"/>
+				<click startTime="101070" isStartRelative="false" duration="167"/>
+				<click startTime="105670" isStartRelative="false" duration="167"/>
+				<click startTime="108870" isStartRelative="false" duration="167"/>
+				<click startTime="110870" isStartRelative="false" duration="167"/>
+				<click startTime="111970" isStartRelative="false" duration="167"/>
+				<click startTime="121770" isStartRelative="false" duration="167"/>
+				<click startTime="124270" isStartRelative="false" duration="167"/>
+				<click startTime="170870" isStartRelative="false" duration="167"/>
+				<click startTime="177690" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 198790">
+				<media url="a24x14.mp3" startMsecs="0" duration="198790" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@2.2. Réactivité due à la nucléophilie et à la basicité de l’oxygène@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="129.869" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_955db75e9ae4446b8999f3a9cdaca717yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="31820" isStartRelative="false" duration="167"/>
+				<click startTime="41910" isStartRelative="false" duration="167"/>
+				<click startTime="44610" isStartRelative="false" duration="167"/>
+				<click startTime="47610" isStartRelative="false" duration="167"/>
+				<click startTime="48110" isStartRelative="false" duration="167"/>
+				<click startTime="50510" isStartRelative="false" duration="167"/>
+				<click startTime="53310" isStartRelative="false" duration="167"/>
+				<click startTime="54210" isStartRelative="false" duration="167"/>
+				<click startTime="63610" isStartRelative="false" duration="167"/>
+				<click startTime="76110" isStartRelative="false" duration="167"/>
+				<click startTime="79710" isStartRelative="false" duration="167"/>
+				<click startTime="81910" isStartRelative="false" duration="167"/>
+				<click startTime="87410" isStartRelative="false" duration="167"/>
+				<click startTime="96810" isStartRelative="false" duration="167"/>
+				<click startTime="99710" isStartRelative="false" duration="167"/>
+				<click startTime="117810" isStartRelative="false" duration="167"/>
+				<click startTime="127030" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 128020">
+				<media url="a24x15.mp3" startMsecs="0" duration="128020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Déshydratation des alcools en alcènes@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="273" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="114.86" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="273"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8cde61a62cc5453b934ee06d0a5d9029yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="20900" isStartRelative="false" duration="167"/>
+				<click startTime="30500" isStartRelative="false" duration="167"/>
+				<click startTime="33900" isStartRelative="false" duration="167"/>
+				<click startTime="57670" isStartRelative="false" duration="167"/>
+				<click startTime="58370" isStartRelative="false" duration="167"/>
+				<click startTime="63670" isStartRelative="false" duration="167"/>
+				<click startTime="65870" isStartRelative="false" duration="167"/>
+				<click startTime="67370" isStartRelative="false" duration="167"/>
+				<click startTime="68470" isStartRelative="false" duration="167"/>
+				<click startTime="80270" isStartRelative="false" duration="167"/>
+				<click startTime="82870" isStartRelative="false" duration="167"/>
+				<click startTime="89870" isStartRelative="false" duration="167"/>
+				<click startTime="102440" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 114860">
+				<media url="a24x16.mp3" startMsecs="0" duration="114860" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réactions des alcools avec les acides halogénés HX@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="278" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="77.89" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="278"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0959812cf11349778a48b8cb9a073e3byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="34200" isStartRelative="false" duration="167"/>
+				<click startTime="38400" isStartRelative="false" duration="167"/>
+				<click startTime="46600" isStartRelative="false" duration="167"/>
+				<click startTime="68700" isStartRelative="false" duration="167"/>
+				<click startTime="75300" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 77890">
+				<media url="a24x17.mp3" startMsecs="0" duration="77890" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@2.3. Oxydation des alcools primaires et secondaires@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="281" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="68.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="281"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f6429e25944d4333ab8a7ff1227fd59fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="14050" isStartRelative="false" duration="167"/>
+				<click startTime="15850" isStartRelative="false" duration="167"/>
+				<click startTime="27450" isStartRelative="false" duration="167"/>
+				<click startTime="30950" isStartRelative="false" duration="167"/>
+				<click startTime="34550" isStartRelative="false" duration="167"/>
+				<click startTime="37550" isStartRelative="false" duration="167"/>
+				<click startTime="40250" isStartRelative="false" duration="167"/>
+				<click startTime="41950" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 68100">
+				<media url="a24x18.mp3" startMsecs="0" duration="68100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@2.3. Oxydation des alcools primaires et secondaires@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="280" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="97.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="280"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2b295b1c13f24c1fb7d8b15b9fd941c3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="7190" isStartRelative="false" duration="167"/>
+				<click startTime="10190" isStartRelative="false" duration="167"/>
+				<click startTime="20330" isStartRelative="false" duration="167"/>
+				<click startTime="33930" isStartRelative="false" duration="167"/>
+				<click startTime="37830" isStartRelative="false" duration="167"/>
+				<click startTime="39730" isStartRelative="false" duration="167"/>
+				<click startTime="48530" isStartRelative="false" duration="167"/>
+				<click startTime="53030" isStartRelative="false" duration="167"/>
+				<click startTime="54030" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 97280">
+				<media url="a24x19.mp3" startMsecs="0" duration="97280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@2.3. Oxydation des alcools primaires et secondaires@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide19.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8efcf83a9d0c47678cae561101d45ccbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

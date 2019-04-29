@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 4 : Morphologie externe du coeur</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie CHUGA</speakerTitle>
+			<image>spk10021.swf</image>
+		</speaker>
+		<speaker>
+			<name>Maurice DEMATTEIS</name>
+			<speakerTitle>Docteur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk11464.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_3c6ec95170c649d6bde2eebfe36f3e37yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_e67a65e44e154f3cbb537bb15510185cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_efae32bf463446fca119c37b1ab825deyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_bde9029688484cbb9827238272072e6fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_9693d8e2e51343e9bb1635a1ce669ec3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="612" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="612"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3a1cceae38154989add7ded8aff8d84cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 18200">
+				<media url="a24x1.mp3" startMsecs="0" duration="18200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@MORPHOLOGIE EXTERNE DU COEUR@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="477" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="174.21" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="477"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fac52b5020ae44e995866b26dfd23140yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1090" isStartRelative="false" duration="167"/>
+				<click startTime="10190" isStartRelative="false" duration="167"/>
+				<click startTime="34790" isStartRelative="false" duration="167"/>
+				<click startTime="42990" isStartRelative="false" duration="167"/>
+				<click startTime="53390" isStartRelative="false" duration="167"/>
+				<click startTime="68690" isStartRelative="false" duration="167"/>
+				<click startTime="79390" isStartRelative="false" duration="167"/>
+				<click startTime="84890" isStartRelative="false" duration="167"/>
+				<click startTime="100490" isStartRelative="false" duration="167"/>
+				<click startTime="111890" isStartRelative="false" duration="167"/>
+				<click startTime="114590" isStartRelative="false" duration="167"/>
+				<click startTime="115990" isStartRelative="false" duration="167"/>
+				<click startTime="117190" isStartRelative="false" duration="167"/>
+				<click startTime="143290" isStartRelative="false" duration="167"/>
+				<click startTime="144950" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 174210">
+				<media url="a24x2.mp3" startMsecs="0" duration="174210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : double pompe  entre circulation systémique (générale) et circulation pulmonaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="603" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="121.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="603"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_32648269165142c6abd2bd3ed87732a6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1980" isStartRelative="false" duration="167"/>
+				<click startTime="14480" isStartRelative="false" duration="167"/>
+				<click startTime="22280" isStartRelative="false" duration="167"/>
+				<click startTime="45350" isStartRelative="false" duration="167"/>
+				<click startTime="50150" isStartRelative="false" duration="167"/>
+				<click startTime="69550" isStartRelative="false" duration="167"/>
+				<click startTime="71250" isStartRelative="false" duration="167"/>
+				<click startTime="76450" isStartRelative="false" duration="167"/>
+				<click startTime="110420" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 121100">
+				<media url="a24x3.mp3" startMsecs="0" duration="121100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : les vaisseaux d’éjection@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="478" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="152.05" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="478"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4fa214ba7da642f588d85e0c0d9a5003yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="800" isStartRelative="false" duration="167"/>
+				<click startTime="7000" isStartRelative="false" duration="167"/>
+				<click startTime="20850" isStartRelative="false" duration="167"/>
+				<click startTime="26680" isStartRelative="false" duration="167"/>
+				<click startTime="40680" isStartRelative="false" duration="167"/>
+				<click startTime="43780" isStartRelative="false" duration="167"/>
+				<click startTime="52480" isStartRelative="false" duration="167"/>
+				<click startTime="67980" isStartRelative="false" duration="167"/>
+				<click startTime="80580" isStartRelative="false" duration="167"/>
+				<click startTime="99480" isStartRelative="false" duration="167"/>
+				<click startTime="124480" isStartRelative="false" duration="167"/>
+				<click startTime="125780" isStartRelative="false" duration="167"/>
+				<click startTime="130480" isStartRelative="false" duration="167"/>
+				<click startTime="136880" isStartRelative="false" duration="167"/>
+				<click startTime="143900" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 152050">
+				<media url="a24x4.mp3" startMsecs="0" duration="152050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : situation des quatre cavités dans le médiastin@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="479" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="129.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="479"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bea47372ff5d4a66a7e96ccb4e14848ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2100" isStartRelative="false" duration="167"/>
+				<click startTime="12900" isStartRelative="false" duration="167"/>
+				<click startTime="23900" isStartRelative="false" duration="167"/>
+				<click startTime="30900" isStartRelative="false" duration="167"/>
+				<click startTime="37500" isStartRelative="false" duration="167"/>
+				<click startTime="42200" isStartRelative="false" duration="167"/>
+				<click startTime="43300" isStartRelative="false" duration="167"/>
+				<click startTime="46400" isStartRelative="false" duration="167"/>
+				<click startTime="56500" isStartRelative="false" duration="167"/>
+				<click startTime="70200" isStartRelative="false" duration="167"/>
+				<click startTime="75400" isStartRelative="false" duration="167"/>
+				<click startTime="86800" isStartRelative="false" duration="167"/>
+				<click startTime="91700" isStartRelative="false" duration="167"/>
+				<click startTime="101000" isStartRelative="false" duration="167"/>
+				<click startTime="116530" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 129040">
+				<media url="a24x5.mp3" startMsecs="0" duration="129040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : les 5 faces@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="480" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="167.49" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="480"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d2d8a11cca8d4fcf834e5ae85e4087feyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1900" isStartRelative="false" duration="167"/>
+				<click startTime="8700" isStartRelative="false" duration="167"/>
+				<click startTime="28900" isStartRelative="false" duration="167"/>
+				<click startTime="41100" isStartRelative="false" duration="167"/>
+				<click startTime="65300" isStartRelative="false" duration="167"/>
+				<click startTime="74500" isStartRelative="false" duration="167"/>
+				<click startTime="83900" isStartRelative="false" duration="167"/>
+				<click startTime="94500" isStartRelative="false" duration="167"/>
+				<click startTime="98000" isStartRelative="false" duration="167"/>
+				<click startTime="106100" isStartRelative="false" duration="167"/>
+				<click startTime="112300" isStartRelative="false" duration="167"/>
+				<click startTime="130100" isStartRelative="false" duration="167"/>
+				<click startTime="145400" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 167490">
+				<media url="a24x6.mp3" startMsecs="0" duration="167490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : face supérieure ou crâniale@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="602" showInTOC="" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="276.63" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="602"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b5c93153656d4da68966baced251ee3eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="700" isStartRelative="false" duration="167"/>
+				<click startTime="6300" isStartRelative="false" duration="167"/>
+				<click startTime="25500" isStartRelative="false" duration="167"/>
+				<click startTime="29900" isStartRelative="false" duration="167"/>
+				<click startTime="44200" isStartRelative="false" duration="167"/>
+				<click startTime="46600" isStartRelative="false" duration="167"/>
+				<click startTime="60300" isStartRelative="false" duration="167"/>
+				<click startTime="68400" isStartRelative="false" duration="167"/>
+				<click startTime="85400" isStartRelative="false" duration="167"/>
+				<click startTime="105100" isStartRelative="false" duration="167"/>
+				<click startTime="117400" isStartRelative="false" duration="167"/>
+				<click startTime="134300" isStartRelative="false" duration="167"/>
+				<click startTime="142160" isStartRelative="false" duration="167"/>
+				<click startTime="170460" isStartRelative="false" duration="167"/>
+				<click startTime="193860" isStartRelative="false" duration="167"/>
+				<click startTime="198360" isStartRelative="false" duration="167"/>
+				<click startTime="205160" isStartRelative="false" duration="167"/>
+				<click startTime="210060" isStartRelative="false" duration="167"/>
+				<click startTime="220760" isStartRelative="false" duration="167"/>
+				<click startTime="226260" isStartRelative="false" duration="167"/>
+				<click startTime="234060" isStartRelative="false" duration="167"/>
+				<click startTime="242160" isStartRelative="false" duration="167"/>
+				<click startTime="246360" isStartRelative="false" duration="167"/>
+				<click startTime="259960" isStartRelative="false" duration="167"/>
+				<click startTime="268720" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 276630">
+				<media url="a24x7.mp3" startMsecs="0" duration="276630" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : face sterno-costale @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="482" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="148.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="482"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3222efc7845645e5af8ce9c9d5e71c24yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="2200" isStartRelative="false" duration="167"/>
+				<click startTime="8000" isStartRelative="false" duration="167"/>
+				<click startTime="18800" isStartRelative="false" duration="167"/>
+				<click startTime="20900" isStartRelative="false" duration="167"/>
+				<click startTime="26600" isStartRelative="false" duration="167"/>
+				<click startTime="42600" isStartRelative="false" duration="167"/>
+				<click startTime="45700" isStartRelative="false" duration="167"/>
+				<click startTime="48500" isStartRelative="false" duration="167"/>
+				<click startTime="67400" isStartRelative="false" duration="167"/>
+				<click startTime="71000" isStartRelative="false" duration="167"/>
+				<click startTime="79400" isStartRelative="false" duration="167"/>
+				<click startTime="84800" isStartRelative="false" duration="167"/>
+				<click startTime="91600" isStartRelative="false" duration="167"/>
+				<click startTime="96000" isStartRelative="false" duration="167"/>
+				<click startTime="104900" isStartRelative="false" duration="167"/>
+				<click startTime="120360" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 148950">
+				<media url="a24x8.mp3" startMsecs="0" duration="148950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : face pulmonaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="483" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="159.42" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="483"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cd29cdc8dcca409c9beaaa5f17018ad6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="980" isStartRelative="false" duration="167"/>
+				<click startTime="7580" isStartRelative="false" duration="167"/>
+				<click startTime="9780" isStartRelative="false" duration="167"/>
+				<click startTime="27480" isStartRelative="false" duration="167"/>
+				<click startTime="43780" isStartRelative="false" duration="666"/>
+				<click startTime="47880" isStartRelative="false" duration="167"/>
+				<click startTime="66180" isStartRelative="false" duration="167"/>
+				<click startTime="71680" isStartRelative="false" duration="167"/>
+				<click startTime="82280" isStartRelative="false" duration="167"/>
+				<click startTime="103580" isStartRelative="false" duration="167"/>
+				<click startTime="106580" isStartRelative="false" duration="167"/>
+				<click startTime="111080" isStartRelative="false" duration="167"/>
+				<click startTime="113080" isStartRelative="false" duration="167"/>
+				<click startTime="116480" isStartRelative="false" duration="167"/>
+				<click startTime="127080" isStartRelative="false" duration="167"/>
+				<click startTime="133780" isStartRelative="false" duration="167"/>
+				<click startTime="138360" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 159420">
+				<media url="a24x9.mp3" startMsecs="0" duration="159420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE COEUR : faces dorsale et diaphragmatique@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="608" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="128.114" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="608"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_243bbbb814204da7bd522135d448962dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="710" isStartRelative="false" duration="167"/>
+				<click startTime="1330" isStartRelative="false" duration="167"/>
+				<click startTime="38830" isStartRelative="false" duration="167"/>
+				<click startTime="58330" isStartRelative="false" duration="167"/>
+				<click startTime="63030" isStartRelative="false" duration="167"/>
+				<click startTime="66030" isStartRelative="false" duration="167"/>
+				<click startTime="69330" isStartRelative="false" duration="167"/>
+				<click startTime="73630" isStartRelative="false" duration="167"/>
+				<click startTime="91300" isStartRelative="false" duration="167"/>
+				<click startTime="102400" isStartRelative="false" duration="167"/>
+				<click startTime="125190" isStartRelative="false" duration="167"/>
+				<click startTime="126110" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 127790">
+				<media url="a24x10.mp3" startMsecs="0" duration="127790" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@NAISSANCE DE L'AORTE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="487" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="98.03" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="487"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_28e648946ecb4d1faef19135fd1cb451yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="600" isStartRelative="false" duration="167"/>
+				<click startTime="8200" isStartRelative="false" duration="167"/>
+				<click startTime="11700" isStartRelative="false" duration="167"/>
+				<click startTime="18800" isStartRelative="false" duration="167"/>
+				<click startTime="27200" isStartRelative="false" duration="167"/>
+				<click startTime="53600" isStartRelative="false" duration="167"/>
+				<click startTime="60200" isStartRelative="false" duration="167"/>
+				<click startTime="62300" isStartRelative="false" duration="167"/>
+				<click startTime="64500" isStartRelative="false" duration="167"/>
+				<click startTime="74820" isStartRelative="false" duration="167"/>
+				<click startTime="82070" isStartRelative="false" duration="167"/>
+				<click startTime="92460" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 98030">
+				<media url="a24x11.mp3" startMsecs="0" duration="98030" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA SILHOUETTE CARDIAQUE EN RADIOGRAPHIE THORACIQUE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Fin cours PM&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="488" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="192.13" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="488"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_47c0be910b25418a9c3bdae483890617yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1560" isStartRelative="false" duration="167"/>
+				<click startTime="10760" isStartRelative="false" duration="167"/>
+				<click startTime="22760" isStartRelative="false" duration="167"/>
+				<click startTime="39560" isStartRelative="false" duration="167"/>
+				<click startTime="41460" isStartRelative="false" duration="167"/>
+				<click startTime="53160" isStartRelative="false" duration="167"/>
+				<click startTime="54760" isStartRelative="false" duration="167"/>
+				<click startTime="58760" isStartRelative="false" duration="167"/>
+				<click startTime="64360" isStartRelative="false" duration="167"/>
+				<click startTime="68860" isStartRelative="false" duration="167"/>
+				<click startTime="76960" isStartRelative="false" duration="167"/>
+				<click startTime="98860" isStartRelative="false" duration="167"/>
+				<click startTime="100860" isStartRelative="false" duration="167"/>
+				<click startTime="108760" isStartRelative="false" duration="167"/>
+				<click startTime="110160" isStartRelative="false" duration="167"/>
+				<click startTime="136560" isStartRelative="false" duration="167"/>
+				<click startTime="175540" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 192130">
+				<media url="a24x12.mp3" startMsecs="0" duration="192130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA SILHOUETTE CARDIAQUE EN RADIOGRAPHIE THORACIQUE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="614" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide12.swf" id="614"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_69feaf9de99c48e3a284b2d67f44399eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

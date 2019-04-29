@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 3 : Organisation générale du médiastin</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie CHUGA</speakerTitle>
+			<image>spk10021.swf</image>
+		</speaker>
+		<speaker>
+			<name>Maurice DEMATTEIS</name>
+			<speakerTitle>Docteur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk11251.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_11e864102ffe48be9f0e3ccadd8fd968yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_e2c0ac1681574062a887d8987f14c6b3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_43e03c07f1a9449b9bf2395b6b333663yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_be2d5a3c4d5b4396a94ba3389155f23dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_ba41c9a3849047c5a3d11b6d09629527yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="612" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="16.4" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="612"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e218e594403341bc972e827675241820yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 16400">
+				<media url="a24x1.mp3" startMsecs="0" duration="16400" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ORGANISATION GENERALE DU MEDIASTIN@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="473" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.49" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="473"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ba49f14b83b943f2abf281672f09c8beyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="800" isStartRelative="false" duration="167"/>
+				<click startTime="8070" isStartRelative="false" duration="167"/>
+				<click startTime="13670" isStartRelative="false" duration="666"/>
+				<click startTime="26770" isStartRelative="false" duration="167"/>
+				<click startTime="28170" isStartRelative="false" duration="666"/>
+				<click startTime="35330" isStartRelative="false" duration="167"/>
+				<click startTime="36260" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 43490">
+				<media url="a24x2.mp3" startMsecs="0" duration="43490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES PAROIS DU THORAX : LE CONTENU DU THORAX :@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="474" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="140.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="474"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0e1ce9e7c0a84df38acbf4881107f317yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="940" isStartRelative="false" duration="167"/>
+				<click startTime="4170" isStartRelative="false" duration="167"/>
+				<click startTime="9770" isStartRelative="false" duration="167"/>
+				<click startTime="14970" isStartRelative="false" duration="167"/>
+				<click startTime="24370" isStartRelative="false" duration="167"/>
+				<click startTime="33070" isStartRelative="false" duration="167"/>
+				<click startTime="42170" isStartRelative="false" duration="666"/>
+				<click startTime="58340" isStartRelative="false" duration="167"/>
+				<click startTime="64440" isStartRelative="false" duration="167"/>
+				<click startTime="66340" isStartRelative="false" duration="666"/>
+				<click startTime="74340" isStartRelative="false" duration="167"/>
+				<click startTime="75740" isStartRelative="false" duration="666"/>
+				<click startTime="92240" isStartRelative="false" duration="666"/>
+				<click startTime="104740" isStartRelative="false" duration="666"/>
+				<click startTime="116200" isStartRelative="false" duration="167"/>
+				<click startTime="123100" isStartRelative="false" duration="666"/>
+				<click startTime="126240" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 140190">
+				<media url="a24x3.mp3" startMsecs="0" duration="140190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE MEDIASTIN@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="475" showInTOC="" inSequence="" frameRate="30" totalFrames="300" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="270.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="475"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a108e5841afe46929d33040527baa033yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1160" isStartRelative="false" duration="167"/>
+				<click startTime="23660" isStartRelative="false" duration="167"/>
+				<click startTime="44860" isStartRelative="false" duration="167"/>
+				<click startTime="52360" isStartRelative="false" duration="666"/>
+				<click startTime="67460" isStartRelative="false" duration="666"/>
+				<click startTime="88560" isStartRelative="false" duration="666"/>
+				<click startTime="108860" isStartRelative="false" duration="632"/>
+				<click startTime="130460" isStartRelative="false" duration="666"/>
+				<click startTime="151760" isStartRelative="false" duration="167"/>
+				<click startTime="177790" isStartRelative="false" duration="666"/>
+				<click startTime="178890" isStartRelative="false" duration="133"/>
+				<click startTime="202690" isStartRelative="false" duration="666"/>
+				<click startTime="206190" isStartRelative="false" duration="167"/>
+				<click startTime="237090" isStartRelative="false" duration="666"/>
+				<click startTime="241790" isStartRelative="false" duration="133"/>
+				<click startTime="252890" isStartRelative="false" duration="666"/>
+				<click startTime="258650" isStartRelative="false" duration="2034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 270940">
+				<media url="a24x4.mp3" startMsecs="0" duration="270940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE MEDIASTIN beaucoup de divisions décrites@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="476" showInTOC="" inSequence="" frameRate="30" totalFrames="240" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="263.362" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="476"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4c96c37f2c674cf0a5eb8cfea097b542yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1300" isStartRelative="false" duration="167"/>
+				<click startTime="8500" isStartRelative="false" duration="167"/>
+				<click startTime="13100" isStartRelative="false" duration="167"/>
+				<click startTime="31300" isStartRelative="false" duration="666"/>
+				<click startTime="48300" isStartRelative="false" duration="666"/>
+				<click startTime="49770" isStartRelative="false" duration="666"/>
+				<click startTime="78770" isStartRelative="false" duration="632"/>
+				<click startTime="98970" isStartRelative="false" duration="666"/>
+				<click startTime="100530" isStartRelative="false" duration="666"/>
+				<click startTime="125210" isStartRelative="false" duration="666"/>
+				<click startTime="159310" isStartRelative="false" duration="666"/>
+				<click startTime="173860" isStartRelative="false" duration="167"/>
+				<click startTime="176000" isStartRelative="false" duration="666"/>
+				<click startTime="218200" isStartRelative="false" duration="167"/>
+				<click startTime="256400" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 259210">
+				<media url="a24x5.mp3" startMsecs="0" duration="259210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@SYSTEMATISATION du MEDIASTIN :@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="616" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="143.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="616"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9233b7134878455ebfd2b44d205e06f4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1800" isStartRelative="false" duration="167"/>
+				<click startTime="52400" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 143280">
+				<media url="a24x6.mp3" startMsecs="0" duration="143280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@SYSTEMATISATION du MEDIASTIN :@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="618" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="131.42" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="618"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_88d5316f896b4337bbdc46dadda20969yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="31100" isStartRelative="false" duration="167"/>
+				<click startTime="37930" isStartRelative="false" duration="167"/>
+				<click startTime="46880" isStartRelative="false" duration="167"/>
+				<click startTime="48360" isStartRelative="false" duration="167"/>
+				<click startTime="53440" isStartRelative="false" duration="167"/>
+				<click startTime="57530" isStartRelative="false" duration="167"/>
+				<click startTime="61830" isStartRelative="false" duration="167"/>
+				<click startTime="68670" isStartRelative="false" duration="167"/>
+				<click startTime="74100" isStartRelative="false" duration="167"/>
+				<click startTime="84020" isStartRelative="false" duration="167"/>
+				<click startTime="97190" isStartRelative="false" duration="167"/>
+				<click startTime="102030" isStartRelative="false" duration="167"/>
+				<click startTime="108690" isStartRelative="false" duration="167"/>
+				<click startTime="111290" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 131420">
+				<media url="a24x7.mp3" startMsecs="0" duration="131420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Circulation artérielle systémique supra-aortique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Création chap 3 entre 6 et 7&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="617" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide7.swf" id="617"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5e32e36f62114ec39da0bc635eba3f7dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

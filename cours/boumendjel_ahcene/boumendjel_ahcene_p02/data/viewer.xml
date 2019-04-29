@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 2 : Organométalliques</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Ahcène BOUMENDJEL</name>
+			<speakerTitle>Professeur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10072.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_d7fcf20dee794020b6fd94ae819e209ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_7ab663d2cd9f498ea1f2f506d2c1e550yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_612f52bbef064d66b70cbed4af6aedf9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_44575ccd6ca34863bc42d1c4072d9db8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_96fa49e1e74546a1a925340a9e5ffdfayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="256" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="7.78" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="256"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7ccf8701a71049ffbd8a31f3720c13e9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 7780">
+				<media url="a24x1.mp3" startMsecs="0" duration="7780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 2 :  Organométalliques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="259" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="22.09" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0ed7b618e9e34394b339b882bd056d41yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 22090">
+				<media url="a24x2.mp3" startMsecs="0" duration="22090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Organométalliques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="137.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2ad175dddb914585912534800b67d1d8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="920" isStartRelative="false" duration="167"/>
+				<click startTime="16090" isStartRelative="false" duration="167"/>
+				<click startTime="42420" isStartRelative="false" duration="167"/>
+				<click startTime="44620" isStartRelative="false" duration="167"/>
+				<click startTime="82970" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 137950">
+				<media url="a24x3.mp3" startMsecs="0" duration="137950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@1. Généralités@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="124.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_af9f84d8a3784fce80b07de106d97c6byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="19990" isStartRelative="false" duration="167"/>
+				<click startTime="47030" isStartRelative="false" duration="167"/>
+				<click startTime="62130" isStartRelative="false" duration="167"/>
+				<click startTime="70470" isStartRelative="false" duration="167"/>
+				<click startTime="107870" isStartRelative="false" duration="167"/>
+				<click startTime="117370" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 124290">
+				<media url="a24x4.mp3" startMsecs="0" duration="124290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@2. Organomagnésiens ou réactifs de Grignard*@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="89.99" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_64723b9b232e46cd9b76db3873a94873yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="4540" isStartRelative="false" duration="167"/>
+				<click startTime="12460" isStartRelative="false" duration="167"/>
+				<click startTime="14610" isStartRelative="false" duration="167"/>
+				<click startTime="21010" isStartRelative="false" duration="167"/>
+				<click startTime="34090" isStartRelative="false" duration="167"/>
+				<click startTime="36190" isStartRelative="false" duration="167"/>
+				<click startTime="40570" isStartRelative="false" duration="167"/>
+				<click startTime="59380" isStartRelative="false" duration="167"/>
+				<click startTime="80420" isStartRelative="false" duration="167"/>
+				<click startTime="81920" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 89990">
+				<media url="a24x5.mp3" startMsecs="0" duration="89990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@3. Préparation des organomagnésiens@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="87.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_20db1295fe074c02a3d6d85fc4267e00yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="5980" isStartRelative="false" duration="167"/>
+				<click startTime="14550" isStartRelative="false" duration="167"/>
+				<click startTime="16650" isStartRelative="false" duration="167"/>
+				<click startTime="20450" isStartRelative="false" duration="167"/>
+				<click startTime="23940" isStartRelative="false" duration="167"/>
+				<click startTime="29760" isStartRelative="false" duration="167"/>
+				<click startTime="35960" isStartRelative="false" duration="167"/>
+				<click startTime="42860" isStartRelative="false" duration="167"/>
+				<click startTime="47620" isStartRelative="false" duration="167"/>
+				<click startTime="52220" isStartRelative="false" duration="167"/>
+				<click startTime="63720" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 87040">
+				<media url="a24x6.mp3" startMsecs="0" duration="87040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@4. Réactivité des organomagnésiens@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="141.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cf3b5a5526d649c5a8b83dc1272a0d11yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="17100" isStartRelative="false" duration="167"/>
+				<click startTime="21000" isStartRelative="false" duration="167"/>
+				<click startTime="25900" isStartRelative="false" duration="167"/>
+				<click startTime="28100" isStartRelative="false" duration="167"/>
+				<click startTime="29480" isStartRelative="false" duration="167"/>
+				<click startTime="40090" isStartRelative="false" duration="167"/>
+				<click startTime="56580" isStartRelative="false" duration="167"/>
+				<click startTime="65430" isStartRelative="false" duration="167"/>
+				<click startTime="75150" isStartRelative="false" duration="167"/>
+				<click startTime="78640" isStartRelative="false" duration="167"/>
+				<click startTime="83340" isStartRelative="false" duration="167"/>
+				<click startTime="89840" isStartRelative="false" duration="167"/>
+				<click startTime="95220" isStartRelative="false" duration="167"/>
+				<click startTime="119800" isStartRelative="false" duration="167"/>
+				<click startTime="125200" isStartRelative="false" duration="167"/>
+				<click startTime="127000" isStartRelative="false" duration="167"/>
+				<click startTime="131100" isStartRelative="false" duration="167"/>
+				<click startTime="133800" isStartRelative="false" duration="167"/>
+				<click startTime="136200" isStartRelative="false" duration="167"/>
+				<click startTime="137700" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 139650">
+				<media url="a24x7.mp3" startMsecs="0" duration="139650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@4.1. Nucléophilie@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="120.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d905b190691445d9bfb9a7c210552a75yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="30020" isStartRelative="false" duration="167"/>
+				<click startTime="33120" isStartRelative="false" duration="167"/>
+				<click startTime="37320" isStartRelative="false" duration="167"/>
+				<click startTime="38120" isStartRelative="false" duration="167"/>
+				<click startTime="40420" isStartRelative="false" duration="167"/>
+				<click startTime="45520" isStartRelative="false" duration="167"/>
+				<click startTime="55720" isStartRelative="false" duration="167"/>
+				<click startTime="62420" isStartRelative="false" duration="167"/>
+				<click startTime="65480" isStartRelative="false" duration="167"/>
+				<click startTime="70930" isStartRelative="false" duration="167"/>
+				<click startTime="96000" isStartRelative="false" duration="167"/>
+				<click startTime="100000" isStartRelative="false" duration="167"/>
+				<click startTime="101300" isStartRelative="false" duration="167"/>
+				<click startTime="102100" isStartRelative="false" duration="167"/>
+				<click startTime="103500" isStartRelative="false" duration="167"/>
+				<click startTime="104100" isStartRelative="false" duration="167"/>
+				<click startTime="104800" isStartRelative="false" duration="167"/>
+				<click startTime="105300" isStartRelative="false" duration="167"/>
+				<click startTime="109200" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 120920">
+				<media url="a24x8.mp3" startMsecs="0" duration="120920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@4.1.2. Addition nucléophile (AN)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="83.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e578d3a19d09478a8d6d9389264b90cbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="4080" isStartRelative="false" duration="167"/>
+				<click startTime="6280" isStartRelative="false" duration="167"/>
+				<click startTime="8680" isStartRelative="false" duration="167"/>
+				<click startTime="13880" isStartRelative="false" duration="167"/>
+				<click startTime="17180" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 83800">
+				<media url="a24x9.mp3" startMsecs="0" duration="83800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Résumé de l’addition d’un RMgX sur les carbonyles@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="162.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_17a138c40049407b91e6b3520d1293bdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="24460" isStartRelative="false" duration="167"/>
+				<click startTime="26730" isStartRelative="false" duration="167"/>
+				<click startTime="30230" isStartRelative="false" duration="167"/>
+				<click startTime="35130" isStartRelative="false" duration="167"/>
+				<click startTime="36730" isStartRelative="false" duration="167"/>
+				<click startTime="38630" isStartRelative="false" duration="167"/>
+				<click startTime="41830" isStartRelative="false" duration="167"/>
+				<click startTime="47130" isStartRelative="false" duration="167"/>
+				<click startTime="50230" isStartRelative="false" duration="167"/>
+				<click startTime="51230" isStartRelative="false" duration="167"/>
+				<click startTime="53130" isStartRelative="false" duration="167"/>
+				<click startTime="89230" isStartRelative="false" duration="167"/>
+				<click startTime="91270" isStartRelative="false" duration="167"/>
+				<click startTime="107820" isStartRelative="false" duration="167"/>
+				<click startTime="112420" isStartRelative="false" duration="167"/>
+				<click startTime="113920" isStartRelative="false" duration="167"/>
+				<click startTime="117120" isStartRelative="false" duration="167"/>
+				<click startTime="128510" isStartRelative="false" duration="167"/>
+				<click startTime="132110" isStartRelative="false" duration="167"/>
+				<click startTime="133110" isStartRelative="false" duration="167"/>
+				<click startTime="135510" isStartRelative="false" duration="167"/>
+				<click startTime="142770" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 162240">
+				<media url="a24x10.mp3" startMsecs="0" duration="162240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@4.2. Basicité@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide10.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fcdd9579df1a4eaf83208b14b23aefb0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

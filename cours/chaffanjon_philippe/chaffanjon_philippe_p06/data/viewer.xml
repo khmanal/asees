@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 6 : La paroi du cœur</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>test</name>
+		</speaker>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie CHUGA</speakerTitle>
+			<image>spk13082.swf</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_4b8070e84d7a4b2281d631442de41cfayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_092c765c052746c48e2fad97dcdb0a98yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_188cb5ae32fc4c438c6e5c684a7387afyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_4313b447aec44ea19ae66eceaa8dca88yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_81775eb399324710983bd1e17963250dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="257" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="10.18" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="257"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_826c136bf0d34977a982b760ce7c1a90yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 10180">
+				<media url="a24x1.mp3" startMsecs="0" duration="10180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 6 : La paroi du cœur@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="309.44" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7e8f2fa986dc4abd8be463dcc613957byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="210" isStartRelative="false" duration="167"/>
+				<click startTime="3600" isStartRelative="false" duration="167"/>
+				<click startTime="12450" isStartRelative="false" duration="167"/>
+				<click startTime="17550" isStartRelative="false" duration="167"/>
+				<click startTime="33060" isStartRelative="false" duration="167"/>
+				<click startTime="60480" isStartRelative="false" duration="167"/>
+				<click startTime="64750" isStartRelative="false" duration="167"/>
+				<click startTime="84300" isStartRelative="false" duration="167"/>
+				<click startTime="85290" isStartRelative="false" duration="167"/>
+				<click startTime="101680" isStartRelative="false" duration="167"/>
+				<click startTime="103690" isStartRelative="false" duration="167"/>
+				<click startTime="134640" isStartRelative="false" duration="167"/>
+				<click startTime="142570" isStartRelative="false" duration="167"/>
+				<click startTime="153320" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 309440">
+				<media url="a24x2.mp3" startMsecs="0" duration="309440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LA STRUCTURE DU COEUR : @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="259" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="260.7" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6deccd9f1f21402ebf20a1e490c18b2cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="870" isStartRelative="false" duration="167"/>
+				<click startTime="8700" isStartRelative="false" duration="167"/>
+				<click startTime="21000" isStartRelative="false" duration="167"/>
+				<click startTime="46900" isStartRelative="false" duration="167"/>
+				<click startTime="54200" isStartRelative="false" duration="167"/>
+				<click startTime="72800" isStartRelative="false" duration="167"/>
+				<click startTime="109500" isStartRelative="false" duration="167"/>
+				<click startTime="125800" isStartRelative="false" duration="167"/>
+				<click startTime="140600" isStartRelative="false" duration="167"/>
+				<click startTime="146400" isStartRelative="false" duration="167"/>
+				<click startTime="148700" isStartRelative="false" duration="167"/>
+				<click startTime="163500" isStartRelative="false" duration="167"/>
+				<click startTime="170600" isStartRelative="false" duration="167"/>
+				<click startTime="180900" isStartRelative="false" duration="167"/>
+				<click startTime="192500" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 260700">
+				<media url="a24x3.mp3" startMsecs="0" duration="260700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE TISSU EXCITO-CONDUCTEUR ou cardio-necteur: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="77.87" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f6beb5d6cd8849fb89c98d4b180a0c3eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="750" isStartRelative="false" duration="167"/>
+				<click startTime="4300" isStartRelative="false" duration="167"/>
+				<click startTime="13820" isStartRelative="false" duration="167"/>
+				<click startTime="23420" isStartRelative="false" duration="167"/>
+				<click startTime="35190" isStartRelative="false" duration="167"/>
+				<click startTime="40700" isStartRelative="false" duration="167"/>
+				<click startTime="50160" isStartRelative="false" duration="167"/>
+				<click startTime="53330" isStartRelative="false" duration="167"/>
+				<click startTime="58320" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 77870">
+				<media url="a24x4.mp3" startMsecs="0" duration="77870" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE TISSU EXCITO-CONDUCTEUR@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="99.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a1dd5b688d36412e88197033ef28db09yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1300" isStartRelative="false" duration="167"/>
+				<click startTime="4080" isStartRelative="false" duration="167"/>
+				<click startTime="23500" isStartRelative="false" duration="167"/>
+				<click startTime="28730" isStartRelative="false" duration="167"/>
+				<click startTime="31130" isStartRelative="false" duration="167"/>
+				<click startTime="37080" isStartRelative="false" duration="167"/>
+				<click startTime="46720" isStartRelative="false" duration="167"/>
+				<click startTime="47920" isStartRelative="false" duration="167"/>
+				<click startTime="49600" isStartRelative="false" duration="167"/>
+				<click startTime="50570" isStartRelative="false" duration="167"/>
+				<click startTime="58240" isStartRelative="false" duration="167"/>
+				<click startTime="59440" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 99080">
+				<media url="a24x5.mp3" startMsecs="0" duration="99080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LE TISSU EXCITO-CONDUCTEUR : dépolarisation@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="130.4" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c993fb0869384e25a368b1beefe963a8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8750" isStartRelative="false" duration="167"/>
+				<click startTime="20700" isStartRelative="false" duration="167"/>
+				<click startTime="21700" isStartRelative="false" duration="167"/>
+				<click startTime="25030" isStartRelative="false" duration="167"/>
+				<click startTime="40480" isStartRelative="false" duration="167"/>
+				<click startTime="41980" isStartRelative="false" duration="167"/>
+				<click startTime="44330" isStartRelative="false" duration="167"/>
+				<click startTime="49050" isStartRelative="false" duration="167"/>
+				<click startTime="65730" isStartRelative="false" duration="167"/>
+				<click startTime="68820" isStartRelative="false" duration="167"/>
+				<click startTime="73020" isStartRelative="false" duration="167"/>
+				<click startTime="74090" isStartRelative="false" duration="167"/>
+				<click startTime="89590" isStartRelative="false" duration="167"/>
+				<click startTime="94040" isStartRelative="false" duration="167"/>
+				<click startTime="99780" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 130400">
+				<media url="a24x6.mp3" startMsecs="0" duration="130400" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES ARTERES CORONAIRES  TRAJET@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="86.834" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_32f933b91ca54db9932d1db5bda09760yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1300" isStartRelative="false" duration="167"/>
+				<click startTime="5410" isStartRelative="false" duration="167"/>
+				<click startTime="9810" isStartRelative="false" duration="167"/>
+				<click startTime="15940" isStartRelative="false" duration="167"/>
+				<click startTime="27290" isStartRelative="false" duration="167"/>
+				<click startTime="33830" isStartRelative="false" duration="167"/>
+				<click startTime="39440" isStartRelative="false" duration="167"/>
+				<click startTime="47870" isStartRelative="false" duration="167"/>
+				<click startTime="63440" isStartRelative="false" duration="167"/>
+				<click startTime="68250" isStartRelative="false" duration="167"/>
+				<click startTime="76830" isStartRelative="false" duration="167"/>
+				<click startTime="84830" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 86510">
+				<media url="a24x7.mp3" startMsecs="0" duration="86510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES ARTERES CORONAIRES  ORIGINE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="68.305" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3421854bf8944269808f875d663267dfyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="370" isStartRelative="false" duration="167"/>
+				<click startTime="5240" isStartRelative="false" duration="167"/>
+				<click startTime="10440" isStartRelative="false" duration="167"/>
+				<click startTime="14890" isStartRelative="false" duration="167"/>
+				<click startTime="19560" isStartRelative="false" duration="167"/>
+				<click startTime="21960" isStartRelative="false" duration="167"/>
+				<click startTime="29380" isStartRelative="false" duration="167"/>
+				<click startTime="32300" isStartRelative="false" duration="167"/>
+				<click startTime="35200" isStartRelative="false" duration="167"/>
+				<click startTime="39000" isStartRelative="false" duration="167"/>
+				<click startTime="46010" isStartRelative="false" duration="167"/>
+				<click startTime="47310" isStartRelative="false" duration="167"/>
+				<click startTime="49490" isStartRelative="false" duration="167"/>
+				<click startTime="54190" isStartRelative="false" duration="167"/>
+				<click startTime="65800" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 65850">
+				<media url="a24x8.mp3" startMsecs="0" duration="65850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES ARTERES CORONAIRES  ORIGINE: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="96.49" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_678902410bbd465093e40bad71629844yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1700" isStartRelative="false" duration="167"/>
+				<click startTime="7930" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 96490">
+				<media url="a24x9.mp3" startMsecs="0" duration="96490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES ARTERES CORONAIRES  ORIGINE: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="169.56" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_590ca0afa8844a53872a4319a729aa5eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="500" isStartRelative="false" duration="167"/>
+				<click startTime="7700" isStartRelative="false" duration="167"/>
+				<click startTime="11010" isStartRelative="false" duration="167"/>
+				<click startTime="23320" isStartRelative="false" duration="167"/>
+				<click startTime="30920" isStartRelative="false" duration="167"/>
+				<click startTime="32520" isStartRelative="false" duration="167"/>
+				<click startTime="38100" isStartRelative="false" duration="167"/>
+				<click startTime="42500" isStartRelative="false" duration="167"/>
+				<click startTime="43280" isStartRelative="false" duration="167"/>
+				<click startTime="48910" isStartRelative="false" duration="167"/>
+				<click startTime="56510" isStartRelative="false" duration="167"/>
+				<click startTime="57170" isStartRelative="false" duration="167"/>
+				<click startTime="58470" isStartRelative="false" duration="167"/>
+				<click startTime="69070" isStartRelative="false" duration="167"/>
+				<click startTime="74170" isStartRelative="false" duration="167"/>
+				<click startTime="82680" isStartRelative="false" duration="167"/>
+				<click startTime="92670" isStartRelative="false" duration="167"/>
+				<click startTime="95090" isStartRelative="false" duration="167"/>
+				<click startTime="100450" isStartRelative="false" duration="167"/>
+				<click startTime="111830" isStartRelative="false" duration="167"/>
+				<click startTime="115960" isStartRelative="false" duration="167"/>
+				<click startTime="118160" isStartRelative="false" duration="167"/>
+				<click startTime="142900" isStartRelative="false" duration="167"/>
+				<click startTime="144500" isStartRelative="false" duration="167"/>
+				<click startTime="146470" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 169560">
+				<media url="a24x10.mp3" startMsecs="0" duration="169560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES ARTERES CORONAIRES  BRANCHES@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="222.4" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8a1e65e45cc84a8fa138e16db9c13e13yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1520" isStartRelative="false" duration="167"/>
+				<click startTime="5050" isStartRelative="false" duration="167"/>
+				<click startTime="8350" isStartRelative="false" duration="167"/>
+				<click startTime="10730" isStartRelative="false" duration="167"/>
+				<click startTime="12130" isStartRelative="false" duration="167"/>
+				<click startTime="28650" isStartRelative="false" duration="167"/>
+				<click startTime="52370" isStartRelative="false" duration="167"/>
+				<click startTime="55110" isStartRelative="false" duration="167"/>
+				<click startTime="60710" isStartRelative="false" duration="167"/>
+				<click startTime="66130" isStartRelative="false" duration="167"/>
+				<click startTime="102890" isStartRelative="false" duration="167"/>
+				<click startTime="104290" isStartRelative="false" duration="167"/>
+				<click startTime="105790" isStartRelative="false" duration="167"/>
+				<click startTime="120990" isStartRelative="false" duration="167"/>
+				<click startTime="130410" isStartRelative="false" duration="167"/>
+				<click startTime="137810" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 222400">
+				<media url="a24x11.mp3" startMsecs="0" duration="222400" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES ARTERES CORONAIRES  VASCULARISATION VENTRICULAIRE ET SEPTALE@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="157.459" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b0c808fcdf9f458bbba1e01372f77367yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="830" isStartRelative="false" duration="167"/>
+				<click startTime="5800" isStartRelative="false" duration="167"/>
+				<click startTime="6910" isStartRelative="false" duration="167"/>
+				<click startTime="14000" isStartRelative="false" duration="167"/>
+				<click startTime="17100" isStartRelative="false" duration="167"/>
+				<click startTime="20400" isStartRelative="false" duration="167"/>
+				<click startTime="21430" isStartRelative="false" duration="167"/>
+				<click startTime="22330" isStartRelative="false" duration="167"/>
+				<click startTime="24530" isStartRelative="false" duration="167"/>
+				<click startTime="32170" isStartRelative="false" duration="167"/>
+				<click startTime="34370" isStartRelative="false" duration="167"/>
+				<click startTime="35870" isStartRelative="false" duration="167"/>
+				<click startTime="39170" isStartRelative="false" duration="167"/>
+				<click startTime="42170" isStartRelative="false" duration="167"/>
+				<click startTime="45240" isStartRelative="false" duration="167"/>
+				<click startTime="53830" isStartRelative="false" duration="167"/>
+				<click startTime="55540" isStartRelative="false" duration="167"/>
+				<click startTime="62960" isStartRelative="false" duration="167"/>
+				<click startTime="70520" isStartRelative="false" duration="167"/>
+				<click startTime="75580" isStartRelative="false" duration="167"/>
+				<click startTime="89790" isStartRelative="false" duration="167"/>
+				<click startTime="90990" isStartRelative="false" duration="167"/>
+				<click startTime="105230" isStartRelative="false" duration="167"/>
+				<click startTime="126320" isStartRelative="false" duration="167"/>
+				<click startTime="131590" isStartRelative="false" duration="167"/>
+				<click startTime="139080" isStartRelative="false" duration="167"/>
+				<click startTime="152950" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 155190">
+				<media url="a24x12.mp3" startMsecs="0" duration="155190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@LES VEINES CORONAIRES@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide12.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_81f8a12f5a2740a88023b2759f59da3byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="1"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

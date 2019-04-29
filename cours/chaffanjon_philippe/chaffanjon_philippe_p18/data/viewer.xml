@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 18 : Rectum et canal anal</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Philippe Chaffanjon</name>
+			<speakerTitle>Professeur d'Anatomie CHUGA</speakerTitle>
+			<image>spk10143.swf</image>
+		</speaker>
+		<speaker>
+			<name>Maurice DEMATTEIS</name>
+			<speakerTitle>Docteur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk15371.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_c553ddd2f385448098b1d8c56abcb960yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_56e817bc8794497c810b0369e29f8b1byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_ead0e3f5d7a147b4bf795f5db171fe41yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_2b9fa790efbd4bf7ad960eafefe1f070yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_52eef8d1f79346a7ae6904e5807eb07fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="410" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="25.07" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="410"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9653953b8fc54058aa8d0ee0a00121a1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 25070">
+				<media url="a24x1.mp3" startMsecs="0" duration="25070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Rectum et canal anal@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="409" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="61.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="409"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_08401f3d1da4489789365a9ffa83dbf0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="700" isStartRelative="false" duration="534"/>
+				<click startTime="5670" isStartRelative="false" duration="534"/>
+				<click startTime="9940" isStartRelative="false" duration="534"/>
+				<click startTime="39540" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 61800">
+				<media url="a24x2.mp3" startMsecs="0" duration="61800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le rectum@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="450" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="160.26" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7f15825257264a3b8eb01af65d8a45e5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="10460" isStartRelative="false" duration="1034"/>
+				<click startTime="14600" isStartRelative="false" duration="1034"/>
+				<click startTime="28970" isStartRelative="false" duration="1034"/>
+				<click startTime="33660" isStartRelative="false" duration="1034"/>
+				<click startTime="42690" isStartRelative="false" duration="167"/>
+				<click startTime="52980" isStartRelative="false" duration="1034"/>
+				<click startTime="74060" isStartRelative="false" duration="1034"/>
+				<click startTime="79060" isStartRelative="false" duration="1034"/>
+				<click startTime="87420" isStartRelative="false" duration="1034"/>
+				<click startTime="97230" isStartRelative="false" duration="1034"/>
+				<click startTime="104710" isStartRelative="false" duration="1034"/>
+				<click startTime="120380" isStartRelative="false" duration="1034"/>
+				<click startTime="131310" isStartRelative="false" duration="534"/>
+				<click startTime="137430" isStartRelative="false" duration="1034"/>
+				<click startTime="142840" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 160260">
+				<media url="a24x3.mp3" startMsecs="0" duration="160260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vue antérieure du rectum@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="136.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bec631e55493466082cc9a54a057879ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="12530" isStartRelative="false" duration="1034"/>
+				<click startTime="26450" isStartRelative="false" duration="1034"/>
+				<click startTime="35750" isStartRelative="false" duration="1034"/>
+				<click startTime="47460" isStartRelative="false" duration="534"/>
+				<click startTime="54450" isStartRelative="false" duration="1034"/>
+				<click startTime="64720" isStartRelative="false" duration="534"/>
+				<click startTime="83730" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 136750">
+				<media url="a24x4.mp3" startMsecs="0" duration="136750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe sagittale passant par le plan médian@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="304" showInTOC="" inSequence="" frameRate="30" totalFrames="300" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="227.376" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="304"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7a6aa816f5be420490d59b88d8ecea8fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="18010" isStartRelative="false" duration="1034"/>
+				<click startTime="23420" isStartRelative="false" duration="1034"/>
+				<click startTime="55460" isStartRelative="false" duration="1034"/>
+				<click startTime="78640" isStartRelative="false" duration="1034"/>
+				<click startTime="96840" isStartRelative="false" duration="1034"/>
+				<click startTime="135470" isStartRelative="false" duration="1034"/>
+				<click startTime="159290" isStartRelative="false" duration="1034"/>
+				<click startTime="160800" isStartRelative="false" duration="1034"/>
+				<click startTime="218070" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 219580">
+				<media url="a24x5.mp3" startMsecs="0" duration="219580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe sagittale passant par le plan médian sur le pelvis de l’homme@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="305" showInTOC="" inSequence="" frameRate="30" totalFrames="270" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="181.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="305"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_87d1bbd8a5d04baaaa6ba9ffc1a76593yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="7670" isStartRelative="false" duration="1034"/>
+				<click startTime="30370" isStartRelative="false" duration="1034"/>
+				<click startTime="70890" isStartRelative="false" duration="1034"/>
+				<click startTime="84990" isStartRelative="false" duration="1034"/>
+				<click startTime="93090" isStartRelative="false" duration="1034"/>
+				<click startTime="102620" isStartRelative="false" duration="1034"/>
+				<click startTime="103850" isStartRelative="false" duration="1034"/>
+				<click startTime="105190" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 181680">
+				<media url="a24x6.mp3" startMsecs="0" duration="181680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe sagittale passant par le plan médian sur le pelvis féminin@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="306" showInTOC="" inSequence="" frameRate="30" totalFrames="510" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="293.45" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="306"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_51f8ac0f8ae047949ec439932f833859yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="15700" isStartRelative="false" duration="534"/>
+				<click startTime="19500" isStartRelative="false" duration="534"/>
+				<click startTime="35200" isStartRelative="false" duration="1034"/>
+				<click startTime="43400" isStartRelative="false" duration="534"/>
+				<click startTime="55670" isStartRelative="false" duration="1034"/>
+				<click startTime="70390" isStartRelative="false" duration="1034"/>
+				<click startTime="80790" isStartRelative="false" duration="1034"/>
+				<click startTime="94790" isStartRelative="false" duration="1034"/>
+				<click startTime="99750" isStartRelative="false" duration="1034"/>
+				<click startTime="109930" isStartRelative="false" duration="1034"/>
+				<click startTime="124320" isStartRelative="false" duration="1034"/>
+				<click startTime="135850" isStartRelative="false" duration="534"/>
+				<click startTime="137230" isStartRelative="false" duration="1034"/>
+				<click startTime="154330" isStartRelative="false" duration="1034"/>
+				<click startTime="162630" isStartRelative="false" duration="1034"/>
+				<click startTime="182680" isStartRelative="false" duration="1034"/>
+				<click startTime="204480" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 293450">
+				<media url="a24x7.mp3" startMsecs="0" duration="293450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Rapports latéraux (homme)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="307" showInTOC="" inSequence="" frameRate="30" totalFrames="300" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="163.546" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="307"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_57b006a0add54f5c8f147fe869528aa7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="18890" isStartRelative="false" duration="1034"/>
+				<click startTime="67230" isStartRelative="false" duration="1034"/>
+				<click startTime="111770" isStartRelative="false" duration="1034"/>
+				<click startTime="121640" isStartRelative="false" duration="1034"/>
+				<click startTime="133220" isStartRelative="false" duration="1034"/>
+				<click startTime="143980" isStartRelative="false" duration="1034"/>
+				<click startTime="144930" isStartRelative="false" duration="1034"/>
+				<click startTime="145990" isStartRelative="false" duration="1034"/>
+				<click startTime="154240" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 155610">
+				<media url="a24x8.mp3" startMsecs="0" duration="155610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vue latérale gauche de la cavité pelvienne chez l’homme@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="308" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="123.261" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="308"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dd06587d85e7439cac26933bac09f8c2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="16000" isStartRelative="false" duration="1034"/>
+				<click startTime="28960" isStartRelative="false" duration="1034"/>
+				<click startTime="73540" isStartRelative="false" duration="1034"/>
+				<click startTime="85120" isStartRelative="false" duration="1034"/>
+				<click startTime="98320" isStartRelative="false" duration="1034"/>
+				<click startTime="107410" isStartRelative="false" duration="167"/>
+				<click startTime="116890" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 122070">
+				<media url="a24x9.mp3" startMsecs="0" duration="122070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="272" showInTOC="" inSequence="" frameRate="30" totalFrames="630" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="426.39" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="272"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7e6c226e599440eebee2cb5a33e15b04yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8150" isStartRelative="false" duration="1034"/>
+				<click startTime="39310" isStartRelative="false" duration="1034"/>
+				<click startTime="54770" isStartRelative="false" duration="1034"/>
+				<click startTime="72020" isStartRelative="false" duration="1034"/>
+				<click startTime="91740" isStartRelative="false" duration="1034"/>
+				<click startTime="108620" isStartRelative="false" duration="1034"/>
+				<click startTime="116540" isStartRelative="false" duration="1034"/>
+				<click startTime="147840" isStartRelative="false" duration="1034"/>
+				<click startTime="176440" isStartRelative="false" duration="1034"/>
+				<click startTime="193880" isStartRelative="false" duration="1034"/>
+				<click startTime="220380" isStartRelative="false" duration="1034"/>
+				<click startTime="252060" isStartRelative="false" duration="1034"/>
+				<click startTime="255670" isStartRelative="false" duration="1034"/>
+				<click startTime="264750" isStartRelative="false" duration="1034"/>
+				<click startTime="273080" isStartRelative="false" duration="1034"/>
+				<click startTime="284900" isStartRelative="false" duration="1034"/>
+				<click startTime="296590" isStartRelative="false" duration="1034"/>
+				<click startTime="320200" isStartRelative="false" duration="1034"/>
+				<click startTime="402710" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 426390">
+				<media url="a24x10.mp3" startMsecs="0" duration="426390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Coupe frontale du canal anal@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="273" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="210.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="273"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9f6f18f9a07044e89c71a28676e6237fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 210250">
+				<media url="a24x11.mp3" startMsecs="0" duration="210250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="274" showInTOC="" inSequence="" frameRate="30" totalFrames="240" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="100.51" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5dc19a41b97342c4a9340c154dacfebfyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="13460" isStartRelative="false" duration="1034"/>
+				<click startTime="30720" isStartRelative="false" duration="1034"/>
+				<click startTime="34920" isStartRelative="false" duration="1034"/>
+				<click startTime="40340" isStartRelative="false" duration="534"/>
+				<click startTime="42340" isStartRelative="false" duration="1034"/>
+				<click startTime="45080" isStartRelative="false" duration="1034"/>
+				<click startTime="79480" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 100510">
+				<media url="a24x12.mp3" startMsecs="0" duration="100510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vue latérale gauche du canal anal@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="412" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="115.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="412"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_436be2d99cb5439db423e2b176607254yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="42970" isStartRelative="false" duration="167"/>
+				<click startTime="61870" isStartRelative="false" duration="167"/>
+				<click startTime="82170" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 115820">
+				<media url="a24x13.mp3" startMsecs="0" duration="115820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Appareil sphinctérien externe :  trois parties@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="275" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="234.21" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_53f93ff449e54b4cb5ab18c239a993f2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="41470" isStartRelative="false" duration="167"/>
+				<click startTime="69810" isStartRelative="false" duration="167"/>
+				<click startTime="75790" isStartRelative="false" duration="167"/>
+				<click startTime="87110" isStartRelative="false" duration="167"/>
+				<click startTime="105400" isStartRelative="false" duration="167"/>
+				<click startTime="120540" isStartRelative="false" duration="167"/>
+				<click startTime="124060" isStartRelative="false" duration="167"/>
+				<click startTime="140750" isStartRelative="false" duration="167"/>
+				<click startTime="189210" isStartRelative="false" duration="167"/>
+				<click startTime="200660" isStartRelative="false" duration="167"/>
+				<click startTime="216310" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 234210">
+				<media url="a24x14.mp3" startMsecs="0" duration="234210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Vue de face de la bifurcation de l’aorte abdominale@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="228.44" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c24f290df44b47e39385b0704d798d6eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="13450" isStartRelative="false" duration="167"/>
+				<click startTime="17550" isStartRelative="false" duration="167"/>
+				<click startTime="33350" isStartRelative="false" duration="167"/>
+				<click startTime="41350" isStartRelative="false" duration="167"/>
+				<click startTime="56850" isStartRelative="false" duration="167"/>
+				<click startTime="66250" isStartRelative="false" duration="167"/>
+				<click startTime="78450" isStartRelative="false" duration="167"/>
+				<click startTime="89150" isStartRelative="false" duration="167"/>
+				<click startTime="93850" isStartRelative="false" duration="167"/>
+				<click startTime="100850" isStartRelative="false" duration="167"/>
+				<click startTime="126850" isStartRelative="false" duration="167"/>
+				<click startTime="139250" isStartRelative="false" duration="167"/>
+				<click startTime="155150" isStartRelative="false" duration="167"/>
+				<click startTime="160550" isStartRelative="false" duration="167"/>
+				<click startTime="165650" isStartRelative="false" duration="167"/>
+				<click startTime="179450" isStartRelative="false" duration="167"/>
+				<click startTime="186450" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 228440">
+				<media url="a24x15.mp3" startMsecs="0" duration="228440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Circulation veineuse du rectum@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="277" showInTOC="" inSequence="" frameRate="30" totalFrames="420" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="250.903" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="277"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9496d00e96854518b8e0a2a510eb5281yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="13380" isStartRelative="false" duration="1034"/>
+				<click startTime="26480" isStartRelative="false" duration="534"/>
+				<click startTime="41320" isStartRelative="false" duration="1034"/>
+				<click startTime="45040" isStartRelative="false" duration="534"/>
+				<click startTime="65920" isStartRelative="false" duration="167"/>
+				<click startTime="69020" isStartRelative="false" duration="1034"/>
+				<click startTime="128790" isStartRelative="false" duration="1034"/>
+				<click startTime="140580" isStartRelative="false" duration="167"/>
+				<click startTime="141760" isStartRelative="false" duration="1034"/>
+				<click startTime="157550" isStartRelative="false" duration="167"/>
+				<click startTime="162820" isStartRelative="false" duration="1034"/>
+				<click startTime="167020" isStartRelative="false" duration="1034"/>
+				<click startTime="169420" isStartRelative="false" duration="167"/>
+				<click startTime="176920" isStartRelative="false" duration="167"/>
+				<click startTime="201290" isStartRelative="false" duration="1034"/>
+				<click startTime="209960" isStartRelative="false" duration="1034"/>
+				<click startTime="227860" isStartRelative="false" duration="1000"/>
+				<click startTime="237160" isStartRelative="false" duration="167"/>
+				<click startTime="238360" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 243120">
+				<media url="a24x16.mp3" startMsecs="0" duration="243120" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La circulation lymphatique@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="278" showInTOC="" inSequence="" frameRate="30" totalFrames="240" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="232.43" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="278"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4cc2d818c17c41fa93d597b6a591d4dbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="10580" isStartRelative="false" duration="167"/>
+				<click startTime="23880" isStartRelative="false" duration="534"/>
+				<click startTime="38880" isStartRelative="false" duration="1034"/>
+				<click startTime="72880" isStartRelative="false" duration="1034"/>
+				<click startTime="77280" isStartRelative="false" duration="167"/>
+				<click startTime="94580" isStartRelative="false" duration="534"/>
+				<click startTime="102180" isStartRelative="false" duration="1034"/>
+				<click startTime="152380" isStartRelative="false" duration="534"/>
+				<click startTime="156880" isStartRelative="false" duration="133"/>
+				<click startTime="163280" isStartRelative="false" duration="534"/>
+				<click startTime="177380" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 232430">
+				<media url="a24x17.mp3" startMsecs="0" duration="232430" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L’innervation volontaire et involontaire du rectum et du canal anal@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="413" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide17.swf" id="413"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c5ef31fe0a8f46018984119358544497yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>
