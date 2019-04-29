@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 3 : Ventilation pulmonaire : partie 2</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Sam Bayat</name>
+			<speakerTitle>Professeur CHU Grenoble (UGA)</speakerTitle>
+			<image>spk17356.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_219bccb6ea6b4705a493a169e0981b2fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_b8f6cb5996e74720a08e408302b2962eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_8ab8256412014100b3cc73698263c3f0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_d6eb2239207c4d78a39d338a89af40b8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_4c887d49251c472cbec49be1dada2118yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_b47e4ee4ae204aff84b1d8a6e589149dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_86a5b43608ee4012937438d85d36f13dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout5.swf" id="6" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_cbac3b0f1e4442849930c31d8aa1d861yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout6.swf" id="7" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_7eed98b5f5b445e98d03384876991003yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout7.swf" id="8" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_d2f64b50b6104aae82b8b0d848be0d4cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout8.swf" id="9" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_b7519835ccf74d319e121b787314936fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="452" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5.6" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="452"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_947a37c242454f59abfc010b817d5fd2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 5600">
+				<media url="a24x1.mp3" startMsecs="0" duration="5600" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 3 : Ventilation pulmonaire: Partie 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons&lt;/span&gt;&lt;span &gt; maintenant voir la seconde partie du cours sur la ventilation alvéolaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9addd247eebd405ab61eb2ed30f83466yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="3000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="342" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="9.81" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="342"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_944884edfd5e4184be9494dec9be670dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 9810">
+				<media url="a24x3.mp3" startMsecs="0" duration="9810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons d’abord passer en revue les volumes et capacités pulmonaires, et nous allons voir par quelles méthodes on peut mesurer ces volumes. Ensuite, nous allons voir la ventilation alvéolaire proprement dit, et définir la ventilation totale été la ventilation alvéolaire, autrement dit combien de gaz frais entre dans les alvéoles à chaque cycle respiratoire. Ensuite nous allons définir l’espace mort alvéolaire et l’espace mort physiologique, qui sont les parties du poumon qui ne participent pas aux échanges gazeux. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="325" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.62" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="325"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c2a353acbcb94893a7981dffd2031707yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 43620">
+				<media url="a24x4.mp3" startMsecs="0" duration="43620" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure des volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour mesurer les volumes pulmonaires, plusieurs méthodes existent. Une des techniques utilisée est la spirométrie. Ce schéma montre un spiromètre à cloche, qui n’est plus vraiment utilisé en routine, mais qui est un bon exemple didactique. A l’aide de cet appareil, on peut mesurer les volumes d’air qui entrent et sortent du système respiratoire, autrement le volume mobilisé par le poumon. Le principe est que lorsque le sujet inspire l’air sous la cloche, au travers d’un embout buccal et d’un circuit, la cloche descend, ce qui entraine un stylet qui trace une courbe sur une bande en papier. On peut donc enregistrer une courbe représentant le volume mobilisé par le sujet en fonction du temps. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="51.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d5e1a3f3920d4acea3ac9b52a5289de4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 51820">
+				<media url="a24x5.mp3" startMsecs="0" duration="51820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Au cours d’une respiration normale, on voit qu’un certain volume d’air est inspiré et expiré à chaque cycle respiratoire : c’est le volume courant. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cet enregistrement représente les variations de volume en fonction du temps ; le sujet respire calmement au cours de 4 cycles, puis on lui demande de faire une expiration maximale, suivie d’une inspiration maximale, après de nouveau une respiration calme. Chez un adulte en ventilation de repos, le volume courant est de l’ordre de 500 ml, mais sa valeur varie en fonction de l’âge, la taille et le &lt;/span&gt;&lt;span &gt;sex&lt;/span&gt;&lt;span &gt;. Il augmente lorsque  la ventilation alvéolaire doit augmenter pour répondre à une demande métabolique plus élevée, par exemple à l’exercice. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="22.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9f1279607e0b4231a43d07abc56133a0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 22290">
+				<media url="a24x6.mp3" startMsecs="0" duration="22290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le volume maximal que l’on peut inspirer au-delà du volume courant est appelé « volume de réserve inspiratoire ».  Chez l’adulte au repos il est de l’ordre de 3 litres. Remarquez que si le VT augmente par exemple à l’effort, le VRI diminue d’autant. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_821affd588224df39d8a0ae3d53da0fbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 12500">
+				<media url="a24x7.mp3" startMsecs="0" duration="12500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le volume maximal qui peut être expiré au-delà du VT, s’appelle le volume de réserve expiratoire. Chez un adulte il est de l’ordre d’un litre. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="51.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1864fcff08de41f599dda34fd07bb502yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 51220">
+				<media url="a24x8.mp3" startMsecs="0" duration="51220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;On ne peut pas, même après une expiration maximale, vider tout l’air qui est contenu dans le poumon. Le volume d’air qui reste dans le poumon à a toute fin d’une expiration maximale, c’est e &lt;/span&gt;&lt;span  fontWeight="bold"&gt;volume résiduel&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De ce fait, on dit que c’est un volume non-mobilisable. Il est de l’ordre d’un litre chez un adulte normal. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une remarque importante est que, puisque ce volume ne peut pas être mobilisé, il ne peut pas être mesuré par spirométrie. Je vous rappelle que la spirométrie ne permet de mesurer que le volume de gaz qui est échangé entre le poumon et l’air extérieur. D’autre méthodes sont utilisés pour mesurer es volumes pulmonaires que l’on appelle non mobilisables, qu’on verra plus loin dans ce chapitre. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="21.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a75f8bcc5dee47dcbf990317f4c35e5ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 21290">
+				<media url="a24x9.mp3" startMsecs="0" duration="21290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Capacités pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les capacités pulmonaires sont des sommes de volumes pulmonaires. On appelle capacité inspiratoire, la somme du volume courant et du VRI : autrement dit, c’est le volume maximal d’air qui peut être inspiré, après une expiration de repos. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="62.73" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dd39314cf1d04901963acf2b52e2f4d7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 62730">
+				<media url="a24x10.mp3" startMsecs="0" duration="62730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Capacités pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La capacité résiduelle fonctionnelle, est la somme du volume résiduel et du VRE. C’est le volume d’air que contient le système respiratoire, dans sa position de repos (c’est-à-dire quand les muscles respiratoires sont au repos) à la fin d’une expiration normale. Chez un adulte il est de l’ordre de 2.2 à 2.5 litres. Sa valeur est modifiée dans beaucoup de situations pathologiques, mais aussi dans des conditions physiologiques. Par exemple, lorsque le volume courant augmente à l’exercice, la CRF diminue, parce que le VRE diminue. OU lorsque a fréquence respiratoire augmente au repos la CRF peut augmenter&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;en raison d’une diminution du volume courant. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Puisque la CRF inclut le VR, il ne peut pas être mesuré directement par spirométrie et sa mesure nécessite des méthodes spécifiques que nous verrons plus loin. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="25.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_161a31d3a1224d349577fdc9c9705f9dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 25830">
+				<media url="a24x11.mp3" startMsecs="0" duration="25830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Capacités pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La capacité vitale représente e volume total d’air mobilisable. C’est la somme du VT, VRE et du VRI. Elle est mesurable par la spirométrie, puisqu’il s’agit de volumes mobilisables. Elle est de l’ordre de 4.5 litres chez l’adulte. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="25.57" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8d9f08abe2654f03893e11ce5971e361yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 25570">
+				<media url="a24x12.mp3" startMsecs="0" duration="25570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Capacités pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La CPT est la somme de la capacité vitale (volumes mobilisables) et du volume résiduel (non mobilisable) : donc c’est le volume maximal d’air que le système respiratoire peut contenir à la fin d’une inspiration maximale. Pour connaitre sa valeur, on doit connaitre le volume résiduel, donc il ne peut pas être mesuré directement par spirométrie. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0719c7fbf497403eb6160d8f2c5f40edyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 5310">
+				<media url="a24x13.mp3" startMsecs="0" duration="5310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Capacités pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour résumer: CV &lt;/span&gt;&lt;span &gt;inclut tous les volumes &amp;quot;mobilisables&amp;quot;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="272" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="272"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_af82f08a6938440aad4d1391cb1fcaa6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 5100">
+				<media url="a24x14.mp3" startMsecs="0" duration="5100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;VR: volume &amp;quot;non mobilisable&amp;quot;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="344" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="344"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_190eb991036d46a3acc8ea577a411790yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="3000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="345" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5.03" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="345"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8544887f2924460faf9bcacc7e5becfcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 5030">
+				<media url="a24x16.mp3" startMsecs="0" duration="5030" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons maintenant voir par quels moyens on peut mesurer les volumes pulmonaires. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="348" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="29.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="348"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_618ac46f4e1e49eaa261675eb82401f7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 29520">
+				<media url="a24x17.mp3" startMsecs="0" duration="29520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure des volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Avant de parler des méthodes de mesure des volumes et capacités pulmonaires à proprement parler, il est important de dire que ces volumes sont variables : sont mesurés dans un laboratoire qu’on appelle laboratoire d’exploration fonctionnelle respiratoire. Un second remarque est que, leur valeur varie d’un sujet à l’autre en fonction de l’âge, la taille, le sexe et l’origine ethnique. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="274" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="7.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_62582982408c4ccbaa9df92b24a24375yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 7310">
+				<media url="a24x18.mp3" startMsecs="0" duration="7310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure des volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous avons déjà parlé de la spirométrie à cloche. En réalité cette méthode est maintenant de moins en moins utilisée.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="275" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="56.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_43650691ec0049578d63ba0488cb04f5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8810" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 56610">
+				<media url="a24x19.mp3" startMsecs="0" duration="56610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure des volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le plus souvent la spirométrie utilise un dispositif qui s’appelle un &lt;/span&gt;&lt;span &gt;pneumotachographe&lt;/span&gt;&lt;span &gt;. Un &lt;/span&gt;&lt;span &gt;pneumotachographe&lt;/span&gt;&lt;span &gt; permet de mesurer le début de l’air mobilisé. Le principe est que le PNT &lt;/span&gt;&lt;span &gt;comprte&lt;/span&gt;&lt;span &gt; une résistance de valeur connue, par exemple une fine grille métallique. Lors du passage de l’air au travers de cette grille, une différence de pression est créée, qui est proportionnel au débit. D’après la loi de Poiseuille, que vous connaissez, on peut calculer le débit en divisant la différence de pression de part et d’autre, par la résistance. Un &lt;/span&gt;&lt;span &gt;pneumotachographe&lt;/span&gt;&lt;span &gt; mesure le débit, mais on peut connaitre le volume en multipliant le débit par le temps, enregistré simultanément. Les appareils modernes font cette manœuvre d’intégration numérique, automatiquement. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="210" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="29.5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_12d5f435b38d473ea9adc81033711ad4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="11890" isStartRelative="false" duration="2166"/>
+				<click startTime="14590" isStartRelative="false" duration="2034"/>
+				<click startTime="21590" isStartRelative="false" duration="2034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 29500">
+				<media url="a24x20.mp3" startMsecs="0" duration="29500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure des volumes pulmonaires@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="278" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="117.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="278"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4a104afaa7384fc08e01d4f31866f266yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 117220">
+				<media url="a24x21.mp3" startMsecs="0" duration="117220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure des volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La spirométrie ne permet pas de mesurer les volumes non-mobilisables. Pour mesurer la CRF et le VR, on peut utiliser une technique de dilution de gaz inerte, par&lt;/span&gt;&lt;span &gt; exemple &lt;/span&gt;&lt;span &gt; l’hélium. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour cela, le sujet est raccordé à un sac de volume connu (V1) contenant un mélange d’He d’N2 et d’O2. L’hélium est pratiquement insoluble dans le sang. En ouvrant la vanne à la fin d’une expiration normale, le sujet respire le mélange dans le sac, et peu à peu la concentration d’He s’équilibre entre le sac et le poumon. Comme la quantité d’He est le même entre le début et la fin de la manouvre, on peut calculer le volume final : C1V1 = C2 V2 où V2 est la somme du volume du sac (V1) et la CRF. Vous n’êtes pas obligés de mémoriser l’équation mais vous devez savoir que cette méthode permet de mesurer la CRF et le VR, en connaissant le VRE par spirométrie. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="349" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="62.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="349"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6eebead0930f4ba5a93a5100d9b3a2fdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 62190">
+				<media url="a24x22.mp3" startMsecs="0" duration="62190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure des volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Une autre méthode qui permet de mesurer tout le volume de gaz contenu dans le thorax, c’est la pléthysmographie corporelle. C’est une grande boite étanche qui ressemble à une cabine téléphonique. A la fin d’une expiration normale, un clapet se ferme et on demande au sujet de faire un mouvement expiratoire. En tentant d’expirer il comprime le gaz dans le thorax, donc la pression dans le poumon et les voies aériennes, qui est mesurée à la bouche, augmente, alors que le volume pulmonaire diminue. Dans la boite il se produit les mêmes variations mais en sens opposé : le volume augmente, et la pression du &lt;/span&gt;&lt;span &gt;pléthysmographe&lt;/span&gt;&lt;span &gt; notée &lt;/span&gt;&lt;span &gt;Ppleth&lt;/span&gt;&lt;span &gt;, diminue. En appliquant la loi de Boyle que nous avons revu dans le chapitre d’introduction, on peut en déduire la capacité résiduelle fonctionnelle. D’abord dans la boite on peut noter que la pression avant le début de la manouvre d’expiration contre le clapet fermé (Ppleth1), multipliée par le volume de a boite, notée &lt;/span&gt;&lt;span &gt;Vpleth&lt;/span&gt;&lt;span &gt;, est égale à la pression au cours de l’expiration (Ppleth2)  x &lt;/span&gt;&lt;span &gt;Vpleth&lt;/span&gt;&lt;span &gt; + une variation de volume notée &lt;/span&gt;&lt;span &gt;deltaV&lt;/span&gt;&lt;span &gt;. En réarrangeant, on peut calculer &lt;/span&gt;&lt;span &gt;deltaV&lt;/span&gt;&lt;span &gt;. Mais ce &lt;/span&gt;&lt;span &gt;deltaV&lt;/span&gt;&lt;span &gt; est la même variation de volume qui a eu lieu dans le poumon. Donc si nous regardons du côté du poumon, on peut noter que la pression avant la manouvre (notée Paw1, &lt;/span&gt;&lt;span &gt;aw&lt;/span&gt;&lt;span &gt;=&lt;/span&gt;&lt;span &gt;airway&lt;/span&gt;&lt;span &gt;) x CRF (car le clapet s’est fermé en fin d’expiration) ; est bien ce produit est égal à Paw2 pendant a manœuvre x CRF moins &lt;/span&gt;&lt;span &gt;dV&lt;/span&gt;&lt;span &gt;. Or &lt;/span&gt;&lt;span &gt;dV&lt;/span&gt;&lt;span &gt; est maintenant connu. En &lt;/span&gt;&lt;span &gt;remplacant&lt;/span&gt;&lt;span &gt; et réarrangeant, je peux connaitre la CRF, qu’on appelle ici la CRF &lt;/span&gt;&lt;span &gt;pléthysmographique&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="281" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="174.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="281"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8713836c0baa44baa9684bcdd63452ecyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1700" isStartRelative="false" duration="167"/>
+				<click startTime="30830" isStartRelative="false" duration="167"/>
+				<click startTime="41240" isStartRelative="false" duration="167"/>
+				<click startTime="93320" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 174830">
+				<media url="a24x23.mp3" startMsecs="0" duration="174830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mesure des volumes pulmonaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Si on réalise en même temps une spirométrie, on peut connaitre en plus le volume résiduel et la capacité pulmonaire totale. Une remarque : la pléthysmographie mesure tout le gaz qui est dans le thorax. Ceci est une différence par rapport à la dilution de l’hélium qui ne mesure que les zones pulmonaires bien ventilées où l’hélium diffuse. Dans le poumon normal, il y a peu de zones mal ventilées, donc les deux méthodes donnent des valeurs proches. En revanche, la dilution de l’hélium peut sous-estimer le volumes de zones mal-ventilées. Donc ce qu’il faut retenir est que les volumes non-mobilisables peuvent être mesurés soit par la dilution d’hélium, soit par pléthysmographie corporelle, et il faut avoir compris les différences entre ces méthodes. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Alors, qu’est-ce qu’il faut retenir de ces 2 diapositives sur la pléthysmographie&lt;/span&gt;&lt;span &gt; corporelle: &lt;/span&gt;&lt;span &gt;il ne s’agit pas de retenir&lt;/span&gt;&lt;span &gt; ces équations. 2 informations sont à retenir: 1- la pléthysmographie corporelle permet de mesurer les volumes non mobilisables; 2- Le principe de mesure est l’application de la loi de Boyle-Mariotte. Cette technique mesure tout le volume de gaz qui est dans le thorax, et à la différence de la dilution de l’He, même le volume des zones pulmonaires mal-ventilées. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="346" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="8.17" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="346"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f0ad1a358ac74e48afd06f9d7e2c1841yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 8170">
+				<media url="a24x24.mp3" startMsecs="0" duration="8170" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="347" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="347"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_31d97205176a4ef488c686eb3bf66bceyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="3000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons maintenant nous intéresser à la ventilation pulmonaire à proprement parler.  Dans un premier temps, nous allons voir les débits ventilatoires. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="571" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="89.37" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="571"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d7c4e961dbad4fd5b4cd9148c5d57492yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="25690" isStartRelative="false" duration="167"/>
+				<click startTime="37990" isStartRelative="false" duration="368"/>
+				<click startTime="56290" isStartRelative="false" duration="368"/>
+				<click startTime="66490" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="47" duration=" 89370">
+				<media url="a24x47.mp3" startMsecs="0" duration="89370" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Débits ventilatoires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous avez ici un schéma représentant de manière très simplifié le système respiratoire. L’ensemble de bronches de conduction constituant l’arbre bronchique sont représentés par un seul conduit qui relie une alvéole unique à l’air ambiant. Vous savez que l’ensemble des bronches de conduction ne participe pas aux échanges gazeux. Pour cette raison elles constituent l’espace mort anatomique. //&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le volume des voies aériennes de conduction autrement dit l’espace mort anatomique que l’on note VD (D pour &lt;/span&gt;&lt;span &gt;dead&lt;/span&gt;&lt;span &gt; ou mort en anglais) est d’environ 150 ml chez un adulte. On l’a représenté ici en bleu. //&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La respiration est un phénomène cyclique : un adulte au repos respire environ (ordre de grandeur) 15 fois par minute.// &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si on suppose un volume courant de 500 ml // //: le débit ventilatoire total sera de 500 x 15 ; c’est-à-dire 7500 ml/min. // &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce débit ventilatoire total est appelé « ventilation minute », et s’exprime en L ou ml/min. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="572" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="79.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="572"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d98cd8d72f1f41b3a181728385eb250dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8810" isStartRelative="false" duration="167"/>
+				<click startTime="49340" isStartRelative="false" duration="167"/>
+				<click startTime="55610" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="68" duration=" 79910">
+				<media url="a24x68.mp3" startMsecs="0" duration="79910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Débits ventilatoires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous pouvez voir tout de suite que tout le volume courant n’entre pas dans les alvéoles. Une partie du volume courant (150 ml) reste dans l’espace mort anatomique, et ne participe pas aux échanges gazeux. C’est VD. //&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le reste du volume courant pénètre dans les alvéoles : c’est VTA. De la même façon une partie de la ventilation minute ne sert qu’à ventiler l’espace mort : c’est 150 ml x fréquence &lt;/span&gt;&lt;span &gt;respi&lt;/span&gt;&lt;span &gt; 15 = 2250 ml est la ventilation alvéolaire // : c’est cette ventilation alvéolaire qui sert in fine aux échanges gazeux. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Donc // la ventilation totale ou ventilation minute que l’on note VE (V avec un petit point signifie que c’est un débit) est égale à la ventilation de l’espace mort (VD) plus la ventilation alvéolaire (VA). Ici 7500 = 2250 VD + 5250&lt;/span&gt;&lt;span &gt; VA &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="573" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="68.4" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="573"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b978b578bd6343f793ac0052d4e8a06byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="34460" isStartRelative="false" duration="167"/>
+				<click startTime="39860" isStartRelative="false" duration="167"/>
+				<click startTime="45660" isStartRelative="false" duration="167"/>
+				<click startTime="53500" isStartRelative="false" duration="167"/>
+				<click startTime="62710" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="69" duration=" 68400">
+				<media url="a24x69.mp3" startMsecs="0" duration="68400" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Débits ventilatoires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;D’après ce que nous venons de voir, on peut déduire&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;qu’il y a 2 façons d’augmenter la ventilation minute, ou débit ventilatoire total // : soit en augmentant la fréquence respiratoire, soit en augmentant le volume courant. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Mais il faut noter que Ces deux manières d’augmenter la ventilation minute n’ont pas le même impact sur la ventilation alvéolaire. Dans un premier exemple : nous allons augmenter la fréquence respiratoire. Si la fréquence respiratoire augmente à 18 cycles par minute // par exemple, avec un VT toujours égal à 500 ml //, on a une ventilation minute qui est augmentée à 9000 ml/min, // ou 9 L/min. Mais dans ce cas la ventilation de l’espace mort est également augmentée&lt;/span&gt;&lt;span &gt; //&lt;/span&gt;&lt;span &gt; puisqu’elle est de 150 ml x 18 : soit 2700 ml. // Ce qui donne une ventilation alvéolaire égale à 6300&lt;/span&gt;&lt;span &gt; ml&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="574" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.32" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="574"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9087bf27a8ec42d293f2c5ac26360a1byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="4460" isStartRelative="false" duration="167"/>
+				<click startTime="8360" isStartRelative="false" duration="167"/>
+				<click startTime="15730" isStartRelative="false" duration="167"/>
+				<click startTime="24230" isStartRelative="false" duration="167"/>
+				<click startTime="35730" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="70" duration=" 57320">
+				<media url="a24x70.mp3" startMsecs="0" duration="57320" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Débits ventilatoires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Maintenant, si au lieu d’augmenter la FR /1/, on augmente le VT à 600 ml /2/, la ventilation minute s’élève d’autant qu’avant, /3/ c’est-à-dire 9 L/min, en revanche, ici la ventilation de l’espace mort est le même qu’au repos : /4/ 2250 ml, alors que la ventilation alvéolaire augmente plus /5/ 6750 ml/min. La conclusion qu’on peut en tirer est qu’une augmentation du VT est plus efficace pour augmenter la ventilation alvéolaire que celle de la FR. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="575" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="575"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c4150c72d62f4ae683ec55baf9f08a08yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="3000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="576" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="22.43" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="576"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fdffe355383f45b7bac95e0617f3ba50yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="72" duration=" 22430">
+				<media url="a24x72.mp3" startMsecs="0" duration="22430" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Jusque là nous avons vu comment&lt;/span&gt;&lt;span &gt; l’air est déplacé entre es alvéoles et l’air ambiant. &lt;/span&gt;&lt;span &gt;Nous allons maintenant voir la composition de l’air inspiré, de l’air alvéolaire et de l’air expiré. L’objectif est de comprendre comment la ventilation alvéolaire,&lt;/span&gt;&lt;span &gt; en renouvelant l’air dans les alvéoles, détermine les concentrations d’O2 et de CO2 dans l’air alvéolaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="577" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.6" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="577"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9e12d999a3664633a517c425c070ca45yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="73" duration=" 52600">
+				<media url="a24x73.mp3" startMsecs="0" duration="52600" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Rappel: pression d’un gaz@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Avant d’aborder le sujet, il est nécessaire de faire quelques rappels. Le premier est a notion de pression. Une pression est une force qui s’exerce sur une certaine surface. Dans le cas des gaz, il s’agit de molécules qui sont en agitation permanente, et la force est exercée par la collision des molécules de gaz contre la surface du contenant. Elle dépend de la quantité (&lt;/span&gt;&lt;span &gt;càd&lt;/span&gt;&lt;span &gt; le nombre de mole) de gaz, la température et le volume du contenant. Cette relation est décrite par la loi des gaz parfaits que vous connaissez. R est la constante des gaz parfaits. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="578" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="44.39" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="578"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c69aa60f131548b29ec775d83c31f657yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="74" duration=" 44390">
+				<media url="a24x74.mp3" startMsecs="0" duration="44390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Rappel: pression partielle des gaz @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le second rappel concerne la notion de pression partielle. Cette notion est décrite par la loi de Dalton, qui dit que dans un mélange de gaz, la pression exercée par chaque gaz est indépendant des autres, et égale à la pression que ce gaz devrait exercer s’il occupait tout le volume, seul, &lt;/span&gt;&lt;span &gt;càd&lt;/span&gt;&lt;span &gt; en absence des autres gaz. Dans ce cas la pression &lt;/span&gt;&lt;span &gt;partiele&lt;/span&gt;&lt;span &gt; qu’n note Px, est égale à la concentration fractionnaire du gaz (notée Fx) multipliée par la pression totale. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="579" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="85.12" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="579"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_53acfa1985a14692946cadefb36936c8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="36210" isStartRelative="false" duration="167"/>
+				<click startTime="44910" isStartRelative="false" duration="167"/>
+				<click startTime="67640" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="75" duration=" 85120">
+				<media url="a24x75.mp3" startMsecs="0" duration="85120" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Rappel: pression partielle des gaz @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Selon la loi de Dalton, &lt;/span&gt;&lt;span &gt;La pression totale est égale à la somme des pressions partielles de chaque gaz&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;chaque gaz &lt;/span&gt;&lt;span &gt;contribue à la Pression totale proportionnellement à sa concentration&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour illustrer a loi de Dalton avec un exemple, on peut supposer deux gaz X et Y, d’un concentration de 8 moles/litre chacun, et d’une pression de 10 kPa, seul dans un cylindre. Eh bien si on mélange ces deux gaz dans le même volume, la pression totale dans le mélange sera la somme des pressions partielles de tous le gaz //. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans ce cas, chaque gaz compose 50% du mélange //, la concentration fractionnaire est donc de 50%. On note F indice x ou y pour indiquer le gaz. Donc on peut écrire que // la pression totale est égale la somme&lt;/span&gt;&lt;span &gt; des P partielles de &lt;/span&gt;&lt;span &gt;tous les gaz qui composent le mélange. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="580" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="90.12" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide34.swf" id="580"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c01dbae285294d1a9911e7abd089a9deyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="76" duration=" 90120">
+				<media url="a24x76.mp3" startMsecs="0" duration="90120" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Air inspiré@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’air inspiré autrement dit l’atmosphère qui  nous entoure est un mélange de gaz. Ce mélange contient différents gaz à des concentrations très diverses. Le principal composant est l’azote, puis l’oxygène. Il y a ensuite le CO2, la vapeur d’eau qui est aussi un gaz, et enfin un certain nombre de gaz rares. La concentration fractionnaire de l’azote est de 79%. Noter que FI ici veut dire la concentration fractionnaire inspirée, pour distinguer cette concentration de celle du gaz alvéolaire ou expiré que nous verrons plus loin. Ensuite la FIO2 = 20.93% ou presque 21%, enfin le CO2 a une concentration beaucoup plus faible, qu’on considère comme négligeable d’un point de vue physiologique, de même que les gaz rares. Noter que nous allons voir beaucoup de chiffres de &lt;/span&gt;&lt;span &gt;conentration&lt;/span&gt;&lt;span &gt; fractionnaire et de pression partielle de gaz dans l’air inspiré, alvéolaire et expiré. Ces chiffres ne sont pas à retenir par cœur. En revanche, la composition de l’air inspiré est à connaitre, de même que la valeur relative, &lt;/span&gt;&lt;span &gt;càd&lt;/span&gt;&lt;span &gt; plus élevée ou plus basse d’une pression dans l’air alvéolaire par rapport à l’air inspiré ou expiré. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="581" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="83.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide35.swf" id="581"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_789a676cd85b4608ac4ba093148896d9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="27570" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="77" duration=" 83220">
+				<media url="a24x77.mp3" startMsecs="0" duration="83220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Air inspiré@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;On peut calculer la pression partielle de chacun des gaz qui composent l’atmosphère : en multipliant la pression totale, autrement dit la pression barométrique, par la concentration fractionnaire du gaz. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La pression barométrique, vous vous rappelez, est égale à 760 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt; ou 101 kPa au niveau de la mer. Donc, par exemple, si je multiplie la concentration fractionnaire de l’O2 20.93 % par 760, j’obtiens 159 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt; // qui est la pression partielle de l’O2 dans l’air ambiant. De la même manière, la pression partielle du CO2, peut être calculée à 0.3 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt;, donc vous voyez qu’elle est très faible, et pour cette raison on considère qu’elle est négligeable. Le reste du gaz atmosphérique est composée d’azote, dont on peut calculer la pression partielle à environ 600 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt;. Remarque importante : ici nous avons considéré qu’il n’y a pas d’autres &lt;/span&gt;&lt;span &gt;gza&lt;/span&gt;&lt;span &gt; dans l’atmosphère et en particulier qu’il n’y a pas de vapeur d’eau. Or la vapeur d’eau est aussi un gaz qui lorsqu’il est présent, occupe une certaine part de la pression totale.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="582" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="71.4" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide36.swf" id="582"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_acfd687a3aaf4a63a493a5bf19be9285yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="78" duration=" 71400">
+				<media url="a24x78.mp3" startMsecs="0" duration="71400" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Air inspiré@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Au contact des voies aériennes supérieures puis de l’arbre &lt;/span&gt;&lt;span &gt;bronchiuqe&lt;/span&gt;&lt;span &gt;, l’air inspiré se réchauffe et se charge en eau, si bien qu’on considère qu’il est normalement saturé en vapeur d’eau et à la même température que la température corporelle c’est-à-dire environ 37°C. Dans ces conditions, la pression partielle de vapeur d’eau est de 47 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt;. Cette pression diminue la contribution des autres gaz à la pression totale. Donc dans un air saturé en vapeur d’eau il faut retrancher la pression de a vapeur d’eau pour calculer la pression partielle des autres gaz. Donc si la pression partielle est la pression totale fois la concentration fractionnaire, ici, la concentration fractionnaire doit être multipliée par la PB – PH2O. Par exemple pour l’O2 on obtient une pression partielle dans l’air humide d’environ 150 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt;, ce qui légèrement inférieur à la valeur qu’on avait dans l’air sec. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="583" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="20.72" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide37.swf" id="583"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_87a856f469d04c26a2f1dc9964244ba2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="79" duration=" 20720">
+				<media url="a24x79.mp3" startMsecs="0" duration="20720" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Air inspiré@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La pression partielle de la vapeur d’eau dans l’air est très dépendante de la température : comme vous le voyez sur ce graphique, la pression de vapeur d’eau augmente avec la température.  A 37 °C, &lt;/span&gt;&lt;span &gt;càd&lt;/span&gt;&lt;span &gt; la température corporelle interne, elle est de 47 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="584" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="69.47" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide38.swf" id="584"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7c345c2d03d24a2d962a3c2d583675ebyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="80" duration=" 69470">
+				<media url="a24x80.mp3" startMsecs="0" duration="69470" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Air inspiré@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La pression barométrique diminue exponentiellement avec l’altitude. C’est ce qui est montré sur ce graphique où vous voyez l’altitude en m sur l’ordonnée à droite, et PO2 inspirée ou PIO2 sur l’abscisse en haut. Un point important est que, la composition de l’air atmosphérique reste identique, que l’on soit au bord de la mer, au sommet du Mont Blanc, ou celui de l’Everest. SI on calcule la pression partielle de l’O2, qui est indispensable à la survie, on constate que d’environ 150 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt; au bord de la mer pour un gaz saturée en vapeur d’eau, la PIO2 diminue à 72 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt; au sommet du mont blanc, et à seulement 44 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt; au sommet de l’Everest ! &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="585" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="132.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide39.swf" id="585"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_27bcdd5c2dae457cadb79722e331c750yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8870" isStartRelative="false" duration="167"/>
+				<click startTime="26070" isStartRelative="false" duration="167"/>
+				<click startTime="35270" isStartRelative="false" duration="167"/>
+				<click startTime="39970" isStartRelative="false" duration="167"/>
+				<click startTime="57070" isStartRelative="false" duration="167"/>
+				<click startTime="100030" isStartRelative="false" duration="167"/>
+				<click startTime="107090" isStartRelative="false" duration="167"/>
+				<click startTime="115540" isStartRelative="false" duration="167"/>
+				<click startTime="119630" isStartRelative="false" duration="167"/>
+				<click startTime="127870" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="81" duration=" 132680">
+				<media url="a24x81.mp3" startMsecs="0" duration="132680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Air alvéolaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voyons maintenant la composition de l’air alvéolaire. Le volume de gaz alvéolaire est d’environ 2200 ml. // Ce gaz est renouvelé à chaque cycle respiratoire par l’air frais apporté par le volume courant, qui apporte de l’O2 et enlève du CO2. Un autre point important est que // l’O2 est continuellement prélevé des alvéoles par le sang qui perfuse les capillaires alvéolaires, // et le CO2 est continuellement rejeté dans l’air alvéolaire. //&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;Le résultat est que les pressions partielles d’O2 et de CO2 dans l’air alvéolaire, que l’on note PAO2 et PACO2, sont bien différentes de l’air inspiré. /5/&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La PAO2 est plus basse, environ 104 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt; ou 13.9 kPa entre parenthèses. La PACO2est en revanche largement supérieure à l’air atmosphérique puisqu’elle est de 40 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt; ou 5.3 kPa. La pression partielle de la vapeur d’eau est identique à l’air inspiré humidifié dans les voies aériennes, et le reste du gaz alvéolaire est composé d’azote. En réalité les pressions partielles de gaz dans l’air alvéolaire sont déterminées par un équilibre dynamique. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cet équilibre dynamique dépend du niveau de ventilation alvéolaire //, de la perfusion sanguine alvéolaire //, qui apporte e CO2 et enlève l’O2 en permanence, mais aussi de la production // de CO2 et de la consommation d’O2 //. /10/Ces deux derniers dépendent du niveau de métabolisme énergétique, et augmentent par exemple à l’exercice.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="586" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="151.51" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide40.swf" id="586"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a494f9c534a4428199411715c3cf48a9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="19350" isStartRelative="false" duration="167"/>
+				<click startTime="46850" isStartRelative="false" duration="167"/>
+				<click startTime="57150" isStartRelative="false" duration="167"/>
+				<click startTime="82470" isStartRelative="false" duration="167"/>
+				<click startTime="104450" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="82" duration=" 151510">
+				<media url="a24x82.mp3" startMsecs="0" duration="151510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Espace mort anatomique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Avant de voir la composition de l’air expiré, il est important de voir l’effet de l’ espace mort anatomique sur a composition de l’air alvéolaire mais au aussi de l’air expiré. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous savez que l’ensemble des bronches de conduction qui sont représentées ici par un seul conduit&lt;/span&gt;&lt;span &gt; ont un volume &lt;/span&gt;&lt;span &gt;de l’ordre de 150 ml chez un adulte //. Le volume de l’espace mort anatomique varie très peu dans les conditions physiologiques. Ce volume est appelé  espace mort anatomique parce qu’il n’y a pas d’échanges gazeux, &lt;/span&gt;&lt;span &gt;càd&lt;/span&gt;&lt;span &gt; : pas de prélèvement d’O2 ni de rejet de CO2 dans ces voies aériennes. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En fin d’expiration, l’air contenu dans cet espace mort anatomique a la même composition que l’air alvéolaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;// Vous savez que lors d’une inspiration de repos un sujet adulte inhale environ 500 ml. De ces 500 ml qui sont inhalés //, 150 restes dans l’espace mort anatomique, donc en fin d’inspiration, l’air dans cet espace mort anatomique a la même composition que l’air inhalé. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;// 350 ml d’air frais entre dans les alvéoles et se mélange avec l’air alvéolaire.&lt;/span&gt;&lt;span &gt; Donc en fin d’inspiration tous le gaz inhalé s’est mélangé avec le gaz alvéolaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En plus des 350 ml de gaz frais, &lt;/span&gt;&lt;span &gt;les 150 ml d’air alvéolaire &lt;/span&gt;&lt;span  fontWeight="bold"&gt;qui était dans l’espace mort anatomique au début de l’inspiration &lt;/span&gt;&lt;span &gt;sont réintroduit dans les alvéoles,&lt;/span&gt;&lt;span &gt; et se mélangent aussi avec l’air alvéolaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;// Alors, à a fin de l’expiration suivante, 500 ml d’air sort des alvéoles. Ces 500 ml, est un mélange de 150 ml d’air inspiré, qui restait dans l’espace mort anatomique, et 350 ml d’air alvéolaire proprement dit. Les 150 ml d’espace mort anatomique sont maintenant remplis d’air alvéolaire, comme tout à fait au départ du cycle respiratoire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce mélange de gaz alvéolaire et de gaz inhalé contenu dans l’espace mort anatomique a une conséquence à la fois sur la composition de l’air alvéolaire et sur celle de l’air expiré. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="587" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="50.37" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide41.swf" id="587"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e02a44a979bc4f61b2a4b1008e087968yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="5000" isStartRelative="false" duration="167"/>
+				<click startTime="13600" isStartRelative="false" duration="167"/>
+				<click startTime="34800" isStartRelative="false" duration="167"/>
+				<click startTime="36920" isStartRelative="false" duration="167"/>
+				<click startTime="44420" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="83" duration=" 50370">
+				<media url="a24x83.mp3" startMsecs="0" duration="50370" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Air expiré@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voyons maintenant la composition de l’air expiré //. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;//Vous voyez que la pression partielle d’O2 dans l’air expiré, que l’on note &lt;/span&gt;&lt;span &gt;PgrandE&lt;/span&gt;&lt;span &gt; O2, // est plus élevé que celle de l’air alvéolaire du fait que ce gaz expiré et un mélange du gaz contenu dans l’espace mort (qui a une composition d’air inspiré donc riche en O2 et quasiment dépourvu de CO2), et de l’air alvéolaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour la même raison, la PECO2 // est plus basse que la PACO2, &lt;/span&gt;&lt;span &gt;càd&lt;/span&gt;&lt;span &gt; celle de l’air alvéolaire. Enfin l’air expiré est toujours saturée en vapeur d’eau. //&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="42"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="592" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="124.4" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide42.swf" id="592"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ef48224c508e4227a73d1ecc049e283ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="88" duration=" 124400">
+				<media url="a24x88.mp3" startMsecs="0" duration="124400" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous comprenez maintenant, qu’il y a une relation inverse entre la ventilation alvéolaire et la pression partielle de CO2 dans ‘air alvéolaire &lt;/span&gt;&lt;span &gt;càd&lt;/span&gt;&lt;span &gt; PACO2. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette PACO2, dépend de 2 facteurs //: d’abord le débit expiré de CO2, que l’on note ici VECO2 en ml/min. Il peut être calculé en multipliant la concentration fractionnaire du CO2 dans l’air alvéolaire (FACO2) par la ventilation alvéolaire en ml/min. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il faut noter qu’il n’y a pas de CO2 provenant de l’espace mort anatomique et que tout le CO2 vient de l’air alvéolaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;// Le second facteur dont dépend la PACO2 est la production de CO2 par le métabolisme tissulaire. Plus&lt;/span&gt;&lt;span &gt; le métabolisme tissulaire augmente, et plus le débit de CO2 //: autrement dit le nombre de ml de CO2 apporté par min par la circulation sanguine aux alvéoles (que l’on note ici VpointCO2) sera plus grande. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ça veut dire que la concentration fractionnaire de CO2 dans l’air alvéolaire est directement proportionnel au VpointCO2 et inversement proportionnel à a ventilation alvéolaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Puisque vous vous souvenez, la pression partielle c’est la concentration fractionnaire multipliée par la pression totale, on // peut dire que la PACO2 dépend de la même façon de VCO2 et de VA. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, il est important de noter que la ventilation alvéolaire, // c’est la ventilation minute moins la ventilation de l’espace mort. Cela implique que plus l’espace mort anatomique n’est grand, pour un même niveau de ventilation minute, la PACO2 sera plus grand. Autrement dit, l’air alvéolaire est renouvelé par une part plus faible de la ventilation minute. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="43"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="589" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="73.48" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide43.swf" id="589"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_19ecef9156e648bb89a39c6e47a92eebyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="85" duration=" 73480">
+				<media url="a24x85.mp3" startMsecs="0" duration="73480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Ventilation Alvéolaire et PACO2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Une conséquence importante de cette relation qu’on vient de décrire entre la ventilation alvéolaire et la PACO2 est que si a ventilation alvéolaire est doublée par exemple, pour une même production de CO2 (VpointCO2), la PACO2 sera divisée par 2. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce graphique vous montre la relation entre la PACO2 en ordonnée et la ventilation alvéolaire en abscisse. La signification est que, puisque dans des conditions normales, la pression partielle des gaz alvéolaire s’équilibre quasiment avec le sang&lt;/span&gt;&lt;span &gt; capillaire, et par conséquent &lt;/span&gt;&lt;span &gt;artériel,  (on note pas pression &lt;/span&gt;&lt;span &gt;Ppetite&lt;/span&gt;&lt;span &gt; a CO2), une augmentation de la ventilation alvéolaire (ou&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;hyperventilation alvéolaire)&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;entraîne une baisse de la pression partielle de CO2 dans le sang artérielle. // &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’inverse, une hypoventilation alvéolaire entraîne une élévation de la PaCO2, ce que l‘on appelle une hypercapnie. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="44"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="590" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.36" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide44.swf" id="590"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="8" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7ce7a2ea8904425fb78860c7ce43ee64yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="86" duration=" 47360">
+				<media url="a24x86.mp3" startMsecs="0" duration="47360" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Ventilation Alvéolaire et PACO2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’espace mort anatomique peut être augmenté artificiellement, par exemple lorsque l’on porte un embout buccal un tuba par exemple chez le plongeur ou un masque. Dans ce cas, l’espace mort est appelé espace mort instrumental (puisqu’il ne s’agit pas de VD anatomique proprement dit). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le point important à retenir est que // le fait d’ajouter un espace mort supplémentaire à l’espace mort anatomique aura comme conséquence d’augmenter la PCO2 alvéolaire.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="45"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="591" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="122.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide45.swf" id="591"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_794240ae508c4610ad2d4dd24ff68436yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="87" duration=" 122290">
+				<media url="a24x87.mp3" startMsecs="0" duration="122290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Ventilation Alvéolaire et PAO2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;De la même façon que pour le CO2, il existe&lt;/span&gt;&lt;span &gt; une relation entre la ventilation alvéolaire et la PAO2. &lt;/span&gt;&lt;span &gt;Pour un même&lt;/span&gt;&lt;span &gt; niveau de demande métabolique la PAO2 dépend : &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;D’une part de La vitesse de réapprovisionnement de l’O&lt;/span&gt;&lt;span &gt;2&lt;/span&gt;&lt;span &gt; : la ventilation alvéolaire &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et par ailleurs de La vitesse de prélèvement de l’O&lt;/span&gt;&lt;span &gt;2&lt;/span&gt;&lt;span &gt; : la perfusion sanguine&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’hyperventilation alvéolaire augmente la P&lt;/span&gt;&lt;span &gt;A&lt;/span&gt;&lt;span &gt;O&lt;/span&gt;&lt;span &gt;2 .&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;La P&lt;/span&gt;&lt;span &gt;A&lt;/span&gt;&lt;span &gt;O&lt;/span&gt;&lt;span &gt;2 &lt;/span&gt;&lt;span &gt;se rapproche alors de la &lt;/span&gt;&lt;span &gt;P&lt;/span&gt;&lt;span &gt;I&lt;/span&gt;&lt;span &gt;O&lt;/span&gt;&lt;span &gt;2 &lt;/span&gt;&lt;span &gt;(air inspiré).&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La P&lt;/span&gt;&lt;span &gt;A&lt;/span&gt;&lt;span &gt;O&lt;/span&gt;&lt;span &gt;2 &lt;/span&gt;&lt;span &gt;augmente peut&lt;/span&gt;&lt;span &gt; augmenter également &lt;/span&gt;&lt;span &gt;si l’air inspiré est enrichi en O&lt;/span&gt;&lt;span &gt;2&lt;/span&gt;&lt;span &gt; : &lt;/span&gt;&lt;span &gt;dans&lt;/span&gt;&lt;span &gt; ce cas c’est la concentration &lt;/span&gt;&lt;span &gt;fractionaire&lt;/span&gt;&lt;span &gt; de l’O2 dans l’air inspiré ou &lt;/span&gt;&lt;span &gt; F&lt;/span&gt;&lt;span &gt;I&lt;/span&gt;&lt;span &gt;O&lt;/span&gt;&lt;span &gt;2 &lt;/span&gt;&lt;span &gt;qui augmente. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’hypoventilation alvéolaire diminue la P&lt;/span&gt;&lt;span &gt;A&lt;/span&gt;&lt;span &gt;O&lt;/span&gt;&lt;span &gt;2 &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La baisse de P&lt;/span&gt;&lt;span &gt;A&lt;/span&gt;&lt;span &gt;O&lt;/span&gt;&lt;span &gt;2 &lt;/span&gt;&lt;span &gt;est proportionnelle au degré d’hypoventilation: &lt;/span&gt;&lt;span &gt;  &lt;/span&gt;&lt;span &gt;P&lt;/span&gt;&lt;span &gt;A&lt;/span&gt;&lt;span &gt;CO&lt;/span&gt;&lt;span &gt;2 &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle peut être corrigée par&lt;/span&gt;&lt;span &gt;&lt;/span&gt;&lt;span &gt; F&lt;/span&gt;&lt;span &gt;I&lt;/span&gt;&lt;span &gt;O&lt;/span&gt;&lt;span &gt;2 &lt;/span&gt;&lt;span &gt;: principe de l’oxygénothérapie&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="46"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="570" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide46.swf" id="570"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="9" frameNum="0"/>
+			<slidexml><AS3Class className="TL_aecc0eccb9ec473a8c5fc76ece3acca8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="47"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

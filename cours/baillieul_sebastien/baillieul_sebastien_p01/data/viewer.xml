@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 1 :  Physiologie du muscle strié</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Joel LUNARDI</name>
+			<speakerTitle>Professeur de Biochimie (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10037.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Julien FAURÉ</name>
+			<speakerTitle>Maitre de conference-CHU de Grenoble</speakerTitle>
+			<image>spk13724.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean-Paul STAHL</name>
+			<speakerTitle>CHU de Grenoble</speakerTitle>
+			<image>spk14447.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Prénom NOM</name>
+			<speakerTitle>Enseignant de la Faculté</speakerTitle>
+			<image>spk130656.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Anne-Sophie JOB-CHAPRON</name>
+			<speakerTitle>Docteur en médecine CHU Grenoble (UGA)</speakerTitle>
+			<image>spk131647.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_d3b7e9f5c0364b138bda0b3f6342cae6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_b60e1556b3cb4e8684c494ef3d1bb127yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_d8b75352dbb54d59a588a0523d280c38yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_07dafce6fbfa47ab80fd7b4eb793defayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_91860c2c4e404d2f806a023e6cc85100yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="391" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="20.15" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="391"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3dc243692f1d4023aa9a042f2323a594yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 20150">
+				<media url="a24x1.mp3" startMsecs="0" duration="20150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 1   Physiologie du muscle strié@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ce premier cours de neurophysiologie porte sur la physiologie du muscle strié, véritable organe moteur sous la contrôle du système moteur&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous allons détailler dans ce cours les éléments indispensables à la compréhension de la physiologie du muscle strié&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces notions sont nécessaires pour comprendre le cours suivant, portant sur la motricité somatique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="413" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.05" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide1.swf" id="413"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f869fb7bb835423387dd765cb45687deyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 43050">
+				<media url="a24x2.mp3" startMsecs="0" duration="43050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs pédagogiques du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La physiologie du muscle fait intervenir, à l’étage cellulaire, un phénomène appelé couplage excitation/contraction; ce phénomène permet de transformer un signal électrique (c’est à dire un PA qui chemine le long de l’axone du neurone moteur) en une contraction musculaire, entrainant donc un déplacement de fibres musculaires&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Différents facteurs vont alors influencer la force musculaire produite, facteurs qui seront détaillés dans ce cours.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, les informations intéressant la contraction musculaire vont faire l’objet d’un contrôle par le système nerveux (notamment le SN central). Nous aborderons donc également le mode de codage de l’information sensitive concernant le muscle,  transmise au SN;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="412" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="48.7" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="412"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2356a5eb1ee842258ee4ab58b8241b29yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 48700">
+				<media url="a24x3.mp3" startMsecs="0" duration="48700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@I INTRODUCTION@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le muscle strié squelettique se distingue d’abord, d’un point de vue histologique, du muscle lisse par son caractère strié. Il se différencie du muscle cardiaque, qui est également strié, par sa fixation au squelette par l’intermédiaire de tendons&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’ensemble de la musculature striée squelettique remplit de ce fait plusieurs fonctions :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle permet le maintien du tonus musculaire, lors des contractions &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ISOMETRIQUES&lt;/span&gt;&lt;span &gt;, ce qui correspond à une fonction de motricité statique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;2. Elle est à l’origine du mouvement, lors de contractions que l’on appelle &lt;/span&gt;&lt;span  fontWeight="bold"&gt;ISOTONIQUES&lt;/span&gt;&lt;span &gt;. Ceci correspond à la motricité dynamique, autrement dit le mouvement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;3. Enfin, par la production et l’utilisation importante d’ATP lors de la contraction musculaire, elle participe à la thermorégulation et au maintien à la balance énergétique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="416" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="35.65" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="416"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5cbb6462a5ec465bab149c13677a2f55yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 35650">
+				<media url="a24x4.mp3" startMsecs="0" duration="35650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@II CONSTITUANTS ANATOMIQUES DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le muscle strié est composé de différents tissus.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il comporte du tissu musculaire, sur lequel nous allons revenir, mais aussi du tissu conjonctif. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le tissu conjonctif a un rôle de soutien anatomique du tissu musculaire, permettant de solidariser les fibres musculaires entre elle. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il contient également les structures vasculo-nerveuses à destination du muscle. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, lorsqu’il est étiré, le tissu conjonctif oppose une résistance à son étirement, ce qui engendre une tension. De ce fait, on dit que le tissu conjonctif est à l’origine des propriétés &lt;/span&gt;&lt;span  fontWeight="bold"&gt;élastiques &lt;/span&gt;&lt;span &gt;du muscle&lt;/span&gt;&lt;span  fontWeight="bold"&gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="417" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="25.37" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="417"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1bb5da84d1804e75a80af7a34cd3fca9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="5510" isStartRelative="false" duration="167"/>
+				<click startTime="9310" isStartRelative="false" duration="167"/>
+				<click startTime="13910" isStartRelative="false" duration="167"/>
+				<click startTime="24010" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 25370">
+				<media url="a24x5.mp3" startMsecs="0" duration="25370" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@II CONSTITUANTS ANATOMIQUES DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le tissu musculaire à proprement parler est composé de nombreux faisceaux C musculaires, regroupant chacun un grand nombre de fibres C musculaires &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au sein de chaque fibre musculaire se succèdent des sarcomères C,  véritables unités contractiles de base du muscle. Chaque sarcomère contient des myofibrilles C de deux types, appelés filaments d’actine et de myosine.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="420" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="38.35" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="420"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_819535d1b997459eb8f6a817ad4aaa86yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 38350">
+				<media url="a24x6.mp3" startMsecs="0" duration="38350" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@II CONSTITUANTS ANATOMIQUES DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ces faisceaux musculaires vont pouvoir comporter des fibres musculaires de différents types ; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;on distingue les fibres de type I,&lt;/span&gt;&lt;span &gt; ou fibres oxydatives lentes, appelées encore fibres rouges. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce sont des fibres de petit diamètre, riches en mitochondries, bien vascularisées. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces fibres de type I se caractérisent par leur potentiel de contraction modéré,  leur vitesse de contraction modérée, et leurs grandes capacités oxydatives. Ce sont ces fibres qui seront mises en jeu au cours d’efforts prolongés d’intensité modérée. A titre d’exemple, ce sont ces fibres qui seront présentes en grande quantité chez un sujet qui pratique le marathon.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="418" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="29.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="418"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_516d774d7d0b4c25a583602b4fd56619yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 29290">
+				<media url="a24x7.mp3" startMsecs="0" duration="29290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@II CONSTITUANTS ANATOMIQUES DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;2.  &lt;/span&gt;&lt;span  fontWeight="bold"&gt;A l’inverse, les fibres de type IIb&lt;/span&gt;&lt;span &gt;, ou fibres glycolytiques rapides sont des fibres de large diamètre, pauvres en mitochondries, peu vascularisées.  Elles utilisent la transformation du glucose en ATP pour permettre le mouvement. Elles permettront donc une contraction rapide (on parle de débit intense), mais de faible rendement, produisant des molécules de lactate en grande quantité. Elle seront typiquement mises en jeu pour des efforts intenses de courte durée &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="421" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="16.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="421"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0a340c9a1a7d4d28a626c61bb77f0e49yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 16920">
+				<media url="a24x8.mp3" startMsecs="0" duration="16920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@II CONSTITUANTS ANATOMIQUES DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;3. Une troisième catégorie , intermédiaire entre les I et IIB peut être décrite ; il s’agit des fibres de type IIA, dites fibres oxydatives rapides, qui ont un diamètre intermédiaire, un métabolisme mixte, et une contraction assez puissante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="422" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="21.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="422"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8f4e00eeb279440cba8dca0e422e7487yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 21830">
+				<media url="a24x9.mp3" startMsecs="0" duration="21830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@II CONSTITUANTS ANATOMIQUES DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ces trois types de fibres se distribuent dans l’ensemble des faisceaux musculaires , leur permettant d’avoir un profil de contraction homogène pour un même muscle, mettant en jeu ces différents faisceaux musculaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La proportion de chaque type de fibre varie en revanche, en fonction du type de muscle, et de sa fonction principale (motricité statique, ou dynamique) ;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="423" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="26.18" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="423"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a70aeecade304692a00b3e1d4df6f4f4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 26180">
+				<media url="a24x10.mp3" startMsecs="0" duration="26180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@III PHYSIOLOGIE DE LA CONTRACTION MUSCULAIRE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ces fibres musculaires vont se contracter,  sous l’influence du système nerveux. En effet, la contraction du muscle strié est sous la dépendance des motoneurones, également appelés motoneurones alpha. Ces derniers se projettent sur un ensemble de fibres musculaires, par l’intermédiaire d’une synapse cholinergique. L’association d’une terminaison nerveuse avec une fibre musculaire donnée est appelée jonction neuromusculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="426" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="50.54" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="426"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9e6ffebacc1d457d9fb3f33b7715174ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 50540">
+				<media url="a24x11.mp3" startMsecs="0" duration="50540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@III PHYSIOLOGIE DE LA CONTRACTION MUSCULAIRE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Chaque fibre nerveuse projette en fait sur plusieurs fibres musculaires ; l’ensemble des fibres musculaires dépendant d’une fibre nerveuse est appelée unité motrice.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La taille des unités motrices est très variable. On la détermine en fonction du nombre de fibres musculaire qu’elle contient. Une unité motrice peut contenir de 3 ou 4 fibres, à près de 200 fibres. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour un muscle donné, plus les unités motrices seront de grande taille, plus la puissance dégagée sera importante, comme dans le cas du quadriceps.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’inverse, un muscle contenant des unités motrices de petite taille pour engendrer un mouvement plus précis, comme dans le cas des muscles occulomoteurs&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les fibres d’une unité motrice sont dispersées dans le muscle, permettant d’obtenir un recrutement spatial harmonieux&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="424" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="25.77" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="424"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0cb1153b08534143b3758c3383b5c976yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 25770">
+				<media url="a24x12.mp3" startMsecs="0" duration="25770" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@III PHYSIOLOGIE DE LA CONTRACTION MUSCULAIRE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les unités motrices sont donc le lieu de la jonction d’un neurone avec plusieurs fibres musculaires, sous forme de jonction neuro-musculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est au sein de ces jonctions neuromusculaires qu’a lieu le phénomène de couplage excitation/contraction; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le phénomène de couplage excitation-contration inclut en effet l’ensemble de phénomènes permettant la transformation d’un signal électrique (PA du motoneurone) en une contraction musculaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="427" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="91.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="427"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_84dd23050a464123ba6630327e6a0fd7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="3240" isStartRelative="false" duration="167"/>
+				<click startTime="8340" isStartRelative="false" duration="167"/>
+				<click startTime="27140" isStartRelative="false" duration="167"/>
+				<click startTime="42140" isStartRelative="false" duration="167"/>
+				<click startTime="54490" isStartRelative="false" duration="167"/>
+				<click startTime="71290" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 91380">
+				<media url="a24x13.mp3" startMsecs="0" duration="91380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Couplage excitation-contraction@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;1.Ce couplage est initié par un potentiel d’action nerveux, C qui se propage le long de l’axone du motoneurone, et déclenche une libération d’acétylcholine C dans la synapse entre terminaison nerveuse et fibre musculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;2. La libération d’acétylcholine modifie la configuration du récepteur de l’acétylcholine sur la fibre musculaire. De ce fait, l’ouverture de canaux ioniques entraine une entrée massive de sodium et une sortie de potassium.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;3. Ces modifications ioniques génèrent un potentiel d’action musculaire, entrainant une dépolarisation de la membrane de la cellule musculaire, comme de la membrane du réticulum sarcoplasmique, qui contient des réserves calciques. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;4. Du fait de la dépolarisation du réticulum sarcoplasmique,  une grande quantité de calcium est libérée au sein des sarcomères. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;5. Ces molécules de calcium se fixent alors sur le complexe active/myosine, sur la troponine C, ce qui va permettre de créer des ponts entre molécules d’actine et de myosine. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;6. Les fibres d’actine et myosine, vont se rapprocher (au prix d’une consommation d’ATP en ADP), ce qui engendrera une contraction musculaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Après le potentiel d’action, le calcium est finalement re-capté dans le réticulum sarcoplasmique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On appelle donc couplage excitation/contraction, la génération d’un mouvement des myofibrilles, déclenchées par l’excitation nerveuse que constitue le Potentiel d’action (PA) au niveau de la jonction neuro-musculaire (JNM).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="428" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="37.46" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="428"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2efe3846a425437cbe3c24bcf3845527yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 37460">
+				<media url="a24x14.mp3" startMsecs="0" duration="37460" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@III PHYSIOLOGIE DE LA CONTRACTION MUSCULAIRE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les mouvements d’actine/myosine sont à l’origine d’une contraction musculaire, dégageant une force musculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Mais cette contraction peut engendrer différents mouvements, à l’échelle du muscle dans son ensemble:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-Elle peut être isométrique, c’est à dire dégager une force, sans modification de la longueur du muscle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-Elle peut être isotonique, c’est à dire à force de déplacement constante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- Selon le type de mouvement provoqué, on parle de contraction excentrique (le muscle s'allonge alors qu'il se contracte), ou, à l’inverse, de contraction concentrique, à l’origine d’un raccourcissement du muscle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="429" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="78.56" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="429"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b4498a6276594aa78d76c05c7d12ea6byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="28940" isStartRelative="false" duration="167"/>
+				<click startTime="46740" isStartRelative="false" duration="167"/>
+				<click startTime="66340" isStartRelative="false" duration="167"/>
+				<click startTime="71140" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 78560">
+				<media url="a24x15.mp3" startMsecs="0" duration="78560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@III PHYSIOLOGIE DE LA CONTRACTION MUSCULAIRE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La physiologie de la contraction musculaire s’explique donc bien par le couplage excitation/contraction, mais d’autres facteurs, dépendant de la commande motrice du motoneurone, vont être également impliqués.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est notamment le cas de la sommation temporelle, qui influence le degré et la stabilité de la contraction musculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet, Lorsque les PA sont suffisamment espacés dans le temps, chacun arrive après la fin de la secousse musculaire qui avait été déclenchée par le PA précédent. Dans ce cas, la secousse évoquée ne représente pas une force plus grande que celle de la précédente et la contraction de la fibre se fait de manière discontinue, par à coups;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque les PA se succèdent à une fréquence plus élevée, le Ca n’a en quelque sorte pas le temps d’être recapté par le RS. On parle alors de fusion des secousses. De ce fait, la contraction des filaments d’actine et de myosine persiste, et se majore, augmentant donc la force de contraction du muscle. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette fusion n’est que partielle tant que la fréquence des PA n’est pas maximale. A l’extrême, le muscle atteindra une contraction intense, d’intensité presque constante (et donc sans à-coups), appelée contraction tétanique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="430" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="75.88" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="430"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e3c48e3a55a04b2ab8b0d3c679005313yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 75880">
+				<media url="a24x16.mp3" startMsecs="0" duration="75880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@III PHYSIOLOGIE DE LA CONTRACTION MUSCULAIRE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;De la même façon, la sommation de l’activité de différentes UM va permettre d’augmenter la force musculaire dégagée: cette majoration de la force musculaire selon le nombre de fibres recrutées est  appelée sommation spatiale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Effectivement, au cours de la commande motrice à l’origine de la contraction musculaire, les différentes fibres nerveuses qui composent le nerf moteur  seront mises en jeu de façon graduelle. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les terminaisons nerveuses génèreront des PA, et recruteront chacune les fibres musculaires de leur UM. Ce recrutement obéit au principe de taille : les petites UM, ou UM faibles sont recrutées en premier. Puis, l’effort augmentant d’intensité,  les UM sont recrutées dans l’ordre croissant des forces qu’elles produisent. Ainsi, les UM les plus puissantes, qui sont aussi les plus grosses, sont en recrutées en dernier. Ce principe de taille contribue à la fluidité des mouvements en évitant les à coups qui surviendraient si de fortes um étaient recrutées précocement; la précision et l’harmonie du geste, ainsi que son contrôle, en sont facilités. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De la même façon, à l’échelle de la fibre musculaire, les fibres musculaires lentes (plus résistantes et générant une faible contraction) seront recrutées en premier, suivies des fibres IIa et IIb.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="431" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="72.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="431"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_353bc9ed7b934a17b210f79cec330bc6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 72080">
+				<media url="a24x17.mp3" startMsecs="0" duration="72080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@IV PROPRIETES MECANIQUES DU MUSCLE ET COURBES TENSION-LONGUEUR@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous venez de voir que la sommation spatiale et la sommation temporelle vont influer la force dégagée par le muscle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Mais il est également vrai qu’au cours du travail musculaire, la force produite par un muscle donné va dépendre en premier lieu des caractéristiques intrinsèques du muscle, qui sont aussi appelées « caractéristiques mécaniques ».&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces caractéristiques intrinsèques dépendent de différents composants du muscle:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Les composants qui présentent des propriétés élastiques (&lt;/span&gt;&lt;span &gt;tendons, tissu conjonctif), qui ne se contractent pas , et qui, lors de l’&lt;/span&gt;&lt;span &gt;étiement opposent une résistance à l&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;allongement du muscle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Les composants qui présentent des propriétés contractiles &lt;/span&gt;&lt;span &gt;(fibres musculaires en tant que telle) qui dégagent une force lors de la contraction des complexes actine/myosine.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour comprendre ces propriétés, il faut également comprendre la notion de longueur de repos du muscle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La longueur de repos du muscle est la longueur à laquelle celui-ci se trouve en position de référence, lorsqu’il n’est pas soumis à une contraction. Pour simplifier la suite du cours, on assimilera la longueur de repos à la longueur d’équilibre du muscle, qui correspond en fait à un repos total, lorsque le muscle est libéré de toute contrainte articulaire. La longueur d’&lt;/span&gt;&lt;span &gt;équlibre n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;existe donc qu&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;in vivo, lorsque le muscle n&lt;/span&gt;&lt;span &gt;’&lt;/span&gt;&lt;span &gt;est plus inséré par son tendon sur un composant osseux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="433" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="77.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="433"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b8bf5262adec40e5b51130976a1f9f61yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 77250">
+				<media url="a24x18.mp3" startMsecs="0" duration="77250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@IV PROPRIETES MECANIQUES DU MUSCLE ET COURBES TENSION-LONGUEUR@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La relation tension-longueur passive  (que l’on peut aussi appeler relation force-longueur passive) s’explique par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;les propriétés élastiques &lt;/span&gt;&lt;span &gt;du muscle (dues au tissu conjonctif)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsqu’on applique un étirement à un muscle, indépendamment d’une stimulation neuronale, cet étirement du muscle génère une force de résistance que l’on appelle tension passive (puisqu’elle survient sans stimulation neuronale). Cette  tension passive dépend de la longueur d'allongement du sarcomère.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour bien comprendre cette relation tension-longueur passive, il faut assimiler les composants conjonctifs du muscle à un élastique, qui s’oppose à l’étirement, et libère donc une force d’autant plus importante qu’il a été fortement étiré. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette force de résistance augmente donc de façon exponentielle avec le degré d’étirement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’inverse, lorsque le muscle est à sa longueur de repos, donc non soumis à un étirement, la force passive dégagée est nulle. Lorsque le muscle est à une longueur encore inférieure à sa longueur de repos (donc contracté), de la même manière, la force passive dégagée est nulle puisqu’il n’y a pas d’étirement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En d’autres termes, plus le muscle est étiré, plus la longueur passive du muscle augmente, plus la tension passive du muscle est importante. &lt;/span&gt;&lt;span &gt;Ce rapport exponentiel définit la relation tension-longueur passive. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="434" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="59.89" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="434"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d20f047826fc4a0d9ffd3356cd171327yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 59890">
+				<media url="a24x19.mp3" startMsecs="0" duration="59890" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@IV PROPRIETES MECANIQUES DU MUSCLE ET COURBES TENSION-LONGUEUR@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La relation tension-longueur active s’explique à l’inverse par les propriétés contractiles du muscle, donc par sa capacité à générer des ponts d’actine/myosine. Elle est dite active car dépend de la contraction du muscle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette relation tension-longueur active suit une courbe bi-phasique, qui dépend encore une fois de la longueur de repos du muscle. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  textDecoration="underline"&gt;Lorsque le muscle est à sa longueur de repos, les &lt;/span&gt;&lt;span &gt;interactions entre les filaments d’actine et de myosine sont optimales, puisque les filaments d’actine et de myosine sont situés à proximité les uns des autres; la force dégagée par la contraction musculaire active sera optimale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  textDecoration="underline"&gt;Lorsque le muscle est très rétréci, &lt;/span&gt;&lt;span &gt;les ponts d’actine/myosine sont en quelque sorte saturés, puisque les fibres d’actine/myosine sont déjà très proches les unes des autres. Il n’est alors pas possible d’en créer d’autres qui généreraient une augmentation de force.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’extrême inverse, &lt;/span&gt;&lt;span  textDecoration="underline"&gt;lorsque le muscle atteint une longueur maximale&lt;/span&gt;&lt;span &gt;, les filaments d’actine et de myosine se retrouvent à distance les uns des autres, et de ce fait incapables d’interagir pour produire une force musculaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="435" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.56" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="435"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1b08233e4c664c4d829ef3a865a5188eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 47560">
+				<media url="a24x20.mp3" startMsecs="0" duration="47560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@IV PROPRIETES MECANIQUES DU MUSCLE ET COURBES TENSION-LONGUEUR@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La somme des courbes de tension active et passive, donne la courbe de tension totale que peut produire le muscle en fonction de la longueur à laquelle il est stimulé . &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On remarque donc que selon la longueur à laquelle le muscle se trouve, la force générée impliquera la composante contractile et/ou la composante élastique. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour un muscle à l’état concentrique, la tension totale dépendra en fait surtout de la tension active, liée aux liaisions actine/myosine, puisque la tension active est nulle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A la longueur de repos, la tension totale sera plus importante puisque les complexes actine/myosine sont en position optimale. La tension totale dépendra encore principalement des propriétés contractiles du muscle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-Au delà de la longueur d’équilibre,  alors que les lésions actines/myosines sont dilacérées, les propriétés élastiques expliqueront la force dégagée. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="436" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="58.09" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="436"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9927148ee43a483ab8f31c5b33916354yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 58090">
+				<media url="a24x21.mp3" startMsecs="0" duration="58090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@V FACTEURS INFLUANT SUR LA PUISSANCE DE CONTRACTION@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour un muscle donné, différents facteurs extrinsèques vont influer sur la force qui sera générée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;La force du muscle évolue de façon inversement proportionnelle à la&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;vitesse du&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;mouvement. &lt;/span&gt;&lt;span  fontStyle="italic"&gt;Cette vitesse du mouvement doit être envisagée comme la vitesse de déplacement du muscle dans son ensemble, et se différencie donc de la vitesse de contraction des fibres musculaires évoquée sur les diapositives 6 à 8.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet, le rapport entre la puissance dégagée et la vitesse du mouvement, à l’échelle d’un muscle et pour un mouvement donné, résulte d’une forme de compromis. Plus la vitesse de contraction sera intense, moins les interactions entre les myofibrilles d’actine et de myosine pourront être effectives, et moins la puissance dégagée sera importante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’inverse, quand le muscle est soumis à une contraction intense, son mouvement, qui résultera de la séparation des ponts d’actine/myosine, demandera la rupture de nombreux ponts, et nécessitera un certain délai. Le mouvement d’un muscle très contracté se fait donc à vitesse plus faible.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="438" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="438"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d725aed51e73488e8319a28753100166yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 43750">
+				<media url="a24x22.mp3" startMsecs="0" duration="43750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@V FACTEURS INFLUANT SUR LA PUISSANCE DE CONTRACTION@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span  fontWeight="bold"&gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Des facteurs énergétiques&lt;/span&gt;&lt;span &gt; vont également modifier la force de contraction. En effet, la synthèse d’ATP nécessaire à la contraction musculaire peut survenir de différentes voies métaboliques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lors d’efforts très intenses et transitoires (sprint),  les réserves en ATP comme en phospho-créatine de la cellule vont être mobilisées. Elles sont peu importantes, et seront donc vites épuisées. En revanche, elles sont disponibles très rapidement car peuvent être utilisées sous la forme stockée (pour l’ATP) ou après une transformation simple pour la phospho-créatine: elles ont donc un très bon débit, mais qui n’est que transitoire. Leur mise en jeu ne nécessite pas d’oxygène (elles sont donc anaérobies) et ne produit pas d’acide lactique : elles constituent, de ce fait, la voie anaérobie alactique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="439" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="27.51" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="439"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a4dcf4015f1a4d32ad8257e52090fc54yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 27510">
+				<media url="a24x23.mp3" startMsecs="0" duration="27510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@V FACTEURS INFLUANT SUR LA PUISSANCE DE CONTRACTION@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans la plupart des cas, l’ATP proviendra en fait du métabolisme aérobie, issue de la transformation du glucose, du glycogène ou d’acides gras en présence d’O2. Cette voie de production a un bon rendement, ce qui signifie qu’elle est efficace : elle génère un nombre satisfaisant de molécules d’ATP pour une molécule de glucose. Mais cette voie aérobie a un débit faible, ce qui signifie que la vitesse de production de l’ATP est très faible et nécessite un délai.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="440" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="42.01" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="440"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_af4d75dcddc54ad6925422ecf6a319a0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 42010">
+				<media url="a24x24.mp3" startMsecs="0" duration="42010" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@V FACTEURS INFLUANT SUR LA PUISSANCE DE CONTRACTION@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Lors d’efforts plus intenses mais plus prolongés que lors de la mise en jeu de la voie anaérobie alactique, lorsque ses capacités en O2 sont limitées, la cellule musculaire aura recours au métabolisme anaérobie lactique. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette chaine est initialement la même que la voie aérobie : les substratums utilisés sont également le glucose et le glycogène. Son fonctionnement ne nécessite pas la disponibilité en O2 de la voie aérobie. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle permet de produire de l’ATP avec un bon débit (donc rapidement), au prix d’un mauvais rendement : elle utilise de nombreuses molécules de Glucose et de Glycogène pour aboutir à la formation d’ATP, et génère de façon parallèle des molécules d’acide lactique, qui diminuent le pH du muscle. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="437" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="46.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="437"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_39c409c81f9a4165ae78c3786b5a51cfyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 46240">
+				<media url="a24x25.mp3" startMsecs="0" duration="46240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@V FACTEURS INFLUANT SUR LA PUISSANCE DE CONTRACTION@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Parmi les facteurs qui influencent également la puissance de contraction musculaire, certains ont déjà été abordés dans ce cours.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il s’agit donc de&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;taille des UM&lt;/span&gt;&lt;span &gt; du muscle en question, comme  la proportion en &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fibres musculaires I, IIa et IIb&lt;/span&gt;&lt;span &gt; contenues dans le muscle&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- du &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nombre d’UM du muscle recrutées&lt;/span&gt;&lt;span &gt;, selon le principe de taille, qui permettront une sommation spatiale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- la fréquence de décharge des PA du motoneurone alpha, responsables de la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;sommation temporelle&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la relation tension-longueur&lt;/span&gt;&lt;span &gt; décrite dans le sous-chapitre précédent;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces différents facteurs vont modifier la force produite par le muscle. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le muscle possède également une innervation sensitive, qui va transmettre au système nerveux, les informations concernant la force et la longueur du muscle, à un instant donné.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="441" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="35.15" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="441"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a07dcda698e841478bf50077afd319e4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 35150">
+				<media url="a24x26.mp3" startMsecs="0" duration="35150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VI INNERVATION SENSITIVE DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les muscles striés sont sous le contrôle de la moelle, qui va, par l’intermédiaire de boucles réflexes, contrôler leur longueur et donc la force dégagée. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’innervation sensitive du muscle a pour fonction principale de maintenir constant le tonus musculaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette innervation sensitive dépend  notamment des récepteurs sensitifs musculaires, appelés récepteurs fusoriaux, qui font partie des fuseaux neuro-musculaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les récepteurs tendineux, qui codent plus spécifiquement pour la force du muscle, ne seront pas abordés dans le détail dans ce cours.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="442" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="51.45" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="442"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_071073e13e7a4266a2bc4db3ad01d8a4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 51450">
+				<media url="a24x27.mp3" startMsecs="0" duration="51450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VI INNERVATION SENSITIVE DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span  fontWeight="bold"&gt;Certains récepteurs sensitifs, au sein même du muscle, vont recueillir et coder des informations concernant la longueur et la vitesse de changement de longueur du muscle &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On trouve donc au sein du muscle strié, des organes sensitifs appelés fuseaux neuromusculaires (FNM). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les FNM sont insérés entre les fibres musculaires, parallèlement à celles-ci. Ils sont constitués d’une dizaine de fibres, que l’on appelle fibres intra-fusales, entourées d’une capsule.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Chacune de ces fibres intra-fusales est constituée de deux parties distinctes : une partie centrale, élastique, appelée zone équatoriale, et deux parties contractiles situées de part et d’autre de la zone équatoriale. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au sein de la zone équatoriale se trouvent les récepteurs fusoriaux en tant que tel, qui sont innervés par des fibres sensitives myélinisées de gros diamètre (de type Ia).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="443" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="32.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="443"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c477ecdb2002492e9c35f0830806c620yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 32960">
+				<media url="a24x28.mp3" startMsecs="0" duration="32960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VI INNERVATION SENSITIVE DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les fibres Ia sont enroulées autour de la zone équatoriale, et codent le signal transmis par les récepteurs fusoriaux. Les fibres Ia sont sensibles à deux paramètres :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-  le degré d’étirement du muscle&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-  et la vitesse à laquelle s’effectue cet étirement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi, pour un muscle donné, la fréquence de base de décharge des fibres Ia augmentera lorsque le muscle aura une longueur supérieure à sa longueur de repos. Lors de la phase dynamique d’étirement du muscle, la fréquence des PA sera d’autant plus importante.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="444" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="59.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="444"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2e39c0f75b37457e91af53c50e288e38yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="6000" isStartRelative="false" duration="167"/>
+				<click startTime="7200" isStartRelative="false" duration="167"/>
+				<click startTime="26000" isStartRelative="false" duration="167"/>
+				<click startTime="28600" isStartRelative="false" duration="167"/>
+				<click startTime="33700" isStartRelative="false" duration="167"/>
+				<click startTime="36000" isStartRelative="false" duration="167"/>
+				<click startTime="44800" isStartRelative="false" duration="167"/>
+				<click startTime="48400" isStartRelative="false" duration="167"/>
+				<click startTime="52300" isStartRelative="false" duration="167"/>
+				<click startTime="53400" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 59820">
+				<media url="a24x29.mp3" startMsecs="0" duration="59820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VI INNERVATION SENSITIVE DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;C’est ce qui encore représenté sur cette diapositive.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous pouvez observer dans la partie inférieure de la diapositive, la fréquence des potentiels d’action émis par les fibres sensitives Ia, en fonction de la longueur du muscle et de sa phase d’allongement ou de raccourcissement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Lorsque le muscle est à sa longueur de repos L0, en l’absence de contrainte, les fibres Ia déchargent à une fréquence minimale. Au cours de l’allongement musculaire, la fréquence des PA des fibres Ia atteindra son paroxysme, pour décroitre un peu lorsque le muscle est maintenu allongé, sans nouvelle augmentation de sa longueur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il faut bien comprendre que les fuseaux sont sensibles à l’allongement du muscle uniquement; de ce fait, lorsque le muscle se contracte pour revenir à sa longueur de repos, les fibres Ia restent théoriquement silencieuses, et déchargent de nouveau, à minima, lorsque le muscle est à sa longueur de repos et sans nouvelle phase dynamique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="445" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="20.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="445"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2969269b685e4fb6a5f98f66408dc9f2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 20220">
+				<media url="a24x30.mp3" startMsecs="0" duration="20220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VI INNERVATION SENSITIVE DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les fibres Ia étant sensibles à l’étirement musculaire et à la vitesse d’étirement, elles ne permettent pas de coder le raccourcissement du muscle pour le réguler. Ce sera le rôle des motoneurones gamma, motoneurones de plus petit diamètre, cheminant dans la corne ventrale auprès des motoneurones alpha, que de restaurer cette information.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="446" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="63.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="446"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ab1acda3a2b3418190c3d6e79646d197yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="20990" isStartRelative="false" duration="2034"/>
+				<click startTime="23490" isStartRelative="false" duration="167"/>
+				<click startTime="31590" isStartRelative="false" duration="167"/>
+				<click startTime="36390" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 63920">
+				<media url="a24x31.mp3" startMsecs="0" duration="63920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VI INNERVATION SENSITIVE DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En effet, lors de la contraction musculaire, les motoneurones alpha et gamma vont décharger en même temps ; les motoneurones alpha vont coder le raccourcissement du muscle par l’intermédiaire des complexes actine/myosine.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De façon simultanée, les motoneurones gamma, qui innervent les parties contractiles du fuseau neuromusculaire, vont entrainer le raccourcissement de ces dernières. La contraction des extrémités du fuseau neuro-musculaire va induire un étirement de la zone équatoriale, qui est élastique.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De ce fait, en provoquant un étirement de la zone équatoriale, le motoneurone gamma simule ce qui se produirait en cas d’étirement du muscle dans son ensemble. Il provoque donc de nouveaux PA au sein des fibres sensitives Ia qui innervent cette partie centrale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On peut donc dire qu’en cas de raccourcissement du muscle, la co-contraction des motoneurones alpha et gamma entraine un étirement du fuseau (et donc une décharge des fibres Ia) concomittante d’une contraction du muscle, restaurant une information à destination du système nerveux central. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="447" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="48.76" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="447"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ad57d319e52d48bd8312dc8657991341yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="32" duration=" 48760">
+				<media url="a24x32.mp3" startMsecs="0" duration="48760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@VI INNERVATION SENSITIVE DU MUSCLE@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La force, ou tension, exercée sur le muscle est codée par les organes tendineux de Golgi. Ceux-ci peuvent être considérés comme des mécanorécepteurs proprioceptifs . Situés à la jonction du tendon et du muscle squelettique, ils donnent naissance à des fibres sensorielles afférentes de type Ib (fibres myélinisées de gros diamètre à conduction rapide)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les organes tendineux de Golgi sont spécifiquement sensibles à la tension du muscle : le stimulus qui les active est la force exercée sur le tendon du muscle. L'organe tendineux de Golgi code donc la force (la tension) exercée sur le muscle, que ce soit lors d’un étirement passif du muscle ou au cours d’une contraction. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au cours d’une contraction active, les organes tendineux de Golgi sont particulièrement activés, et pourront, par l’intermédiaire d’un interneurone inhibiteur spinal projetant sur le motoneurone alpha, réguler la tension musculaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="415" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="29.77" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide32.swf" id="415"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5d61c7a1568a420488c3113fea1f711byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 29770">
+				<media url="a24x33.mp3" startMsecs="0" duration="29770" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le muscle strié peut être considéré comme un organe à part entière, sous la dépendance du système nerveux somatique. Sa modification de longueur est codée par les motoneurones alpha, et est médiée par le couplage excitation/contraction.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A chaque instant, les informations concernant les propriétés mécaniques du muscle sont transmises au système nerveux. Elles sont codées par les récepteurs fusoriaux et les organes tendineux de Golgi, et régulées par deux boucles faisant intervenir des fibres afférentes respectivement de type Ia et Ib. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="403" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="403"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d523628f1eb44025a0c8d371be83b5e4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="4"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

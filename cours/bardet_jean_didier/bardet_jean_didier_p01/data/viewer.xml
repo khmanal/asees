@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 4 : Prévention de l’iatrogénie médicamenteuse Définitions</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Joel LUNARDI</name>
+			<speakerTitle>Professeur de Biochimie (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10037.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Julien FAURÉ</name>
+			<speakerTitle>Maitre de conference-CHU de Grenoble</speakerTitle>
+			<image>spk13724.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean-Paul STAHL</name>
+			<speakerTitle>CHU de Grenoble</speakerTitle>
+			<image>spk14447.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Prénom NOM</name>
+			<speakerTitle>Enseignant de la Faculté</speakerTitle>
+			<image>spk130656.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean-Didier Bardet</name>
+			<speakerTitle>Docteur en Pharmacie Clinique CHU Grenoble ( UGA)</speakerTitle>
+			<image>spk131386.jpeg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_c72a1acf13a6414f8fc77f0a67ba9ec3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_616437c28849425ba5b2a5cda42bcff7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_cef80bf685474c3e8b174d29733dd84ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_a842877942d14b94b0bd4eea12e16ea9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="452" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="37.69" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="452"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2abe44c361e745cfa7725c17b31926cbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 37690">
+				<media url="a24x1.mp3" startMsecs="0" duration="37690" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 4 : Prévention de l’iatrogénie médicamenteuse Définitions@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Bonjour à tous,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je me présente: Jean-Didier Bardet, je suis maître de conférences associé en pharmacie clinique. Je suis plus&lt;/span&gt;&lt;span &gt; particulièrement spécialisé en pratique pharmaceutique officinale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je vais vous présenter le chapitre sur l’iatrogénie médicamenteuse. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme vous l’avez déjà vu par ailleurs, l’usage des médicaments n’est pas sans risque. La thérapeutique médicamenteuse peut en effet induire des effets, des réactions ou des événements indésirables. On parle alors d’iatrogénie médicamenteuse. Elle est non seulement liée aux effets propres des médicaments concernés mais aussi au contexte de leur utilisation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="419" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="20.16" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="419"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_87feb7988ee94226b071b61d5e710e56yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 20160">
+				<media url="a24x2.mp3" startMsecs="0" duration="20160" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Plan du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le cours&lt;/span&gt;&lt;span &gt; ICM4 comprend 3 chapitres qui sont:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les définitions en lien avec l’iatrogénie médicamenteuse&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’épidémiologie de l’iatrogénie médicamenteuse&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Partie 3: Classification des erreurs médicamenteuses&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et enfin, les&lt;/span&gt;&lt;span &gt; s&lt;/span&gt;&lt;span &gt;tratégies de prévention de l’iatrogénie médicamenteuse&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="413" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="19.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide2.swf" id="413"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_585acc6d2627478887f7e5e033138b69yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 19240">
+				<media url="a24x3.mp3" startMsecs="0" duration="19240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs pédagogiques du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ce&lt;/span&gt;&lt;span &gt; chapitre est donc &lt;/span&gt;&lt;span &gt;spécifiquement&lt;/span&gt;&lt;span &gt; dédié aux définitions. Il a pour objectifs de vous permettre de &lt;/span&gt;&lt;span &gt;connaître les termes associés à l’iatrogénie médicamenteuse et de savoir identifier les effets indésirables, les erreurs médicamenteuse et les évènements indésirables médicamenteux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="417" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="31.33" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="417"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_69d8a9f9209e42ab8cb80f44a20fe986yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 31330">
+				<media url="a24x4.mp3" startMsecs="0" duration="31330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Introduction (1)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le terme d’iatrogénie vient de deux termes grecs. Le premier est &lt;/span&gt;&lt;span  fontStyle="italic"&gt;iatros&lt;/span&gt;&lt;span &gt; qui signifie médecin et le second est &lt;/span&gt;&lt;span  fontStyle="italic"&gt;genos&lt;/span&gt;&lt;span &gt; qui signifie origine ou cause. Ainsi, iatrogénie signifie &lt;/span&gt;&lt;span  fontStyle="italic"&gt;«qui est provoqué par le médecin». &lt;/span&gt;&lt;span &gt;Par extension, l’iatrogénie médicamenteuse correspond à toute pathologie ou toute manifestation clinique indésirable pour le patient qui sont induites par l’administration d’un ou plusieurs médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="418" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="86.46" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="418"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a5ece4c878a74185b78413e1dd1bcb06yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 86460">
+				<media url="a24x5.mp3" startMsecs="0" duration="86460" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Introduction (2)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’iatrogénie médicamenteuse est un enjeu majeur de santé publique bien connu des professionnels de santé.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La lutte contre l’iatrogénie médicamenteuse est un objectif de la politique de santé publique depuis 2004. En 2006, après avoir mené avec un relatif succès la campagne pour un meilleur usage des antibiotiques, l’Assurance Maladie, s’engage dans la prévention du risque médicamenteux évitable, en sensibilisant les assurés et en accompagnant les médecins. En 2015, la lutte contre l’iatrogénie médicamenteuse figure toujours parmi les axes identifiés comme prioritaires par la loi de financement de la sécurité sociale. On peut également souligner que l’Inspection Générale des Affaires Sociales a soutenu dans deux rapports publiés en 2011 le développement des activités de pharmacie clinique dans les établissements de santé et le rôle du pharmacien d’officine dans la lutte contre l’iatrogénie médicamenteuse.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le pharmacien, qu’il soit hospitalier ou d’officine,&lt;/span&gt;&lt;span &gt; est généralement connu pour l’aspect logistique de son métier. Nous avons en effet la charge d’assurer la distribution du médicaments, que ce soit au niveau d’un établissement de santé ou d’un territoire. Néanmoins, il doit assurer la sécurisation du circuit du médicament à travers des actions qualité et sécurité des soins. C’est en ça qu’il est un majeur de la prévention de l’iatrogénie médicamenteuse.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="420" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="26.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="420"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_97cb36c149c8427a8566b91766ad8570yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 26100">
+				<media url="a24x6.mp3" startMsecs="0" duration="26100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Définitions de l’iatrogénie médicamenteuse@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les définitions que nous détaillerons dans ce chapitre sont issues du Dictionnaire français de l’erreur médicamenteuse. Ce dictionnaire a été élaboré par la Société Française de Pharmacie Clinique (SFPC) et il a été initié par l’Association pour l’Assurance Qualité en Thérapeutique et l’Evaluation. Il est diffusé librement par la SFPC. Ainsi, vous pouvez le télécharger à l’adresse indiquée sur le diaporama.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="422" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="39.67" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="422"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d658e7548fc24e3f89f0872b2f454907yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 39670">
+				<media url="a24x7.mp3" startMsecs="0" duration="39670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Evènement Indésirable (EIS)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons commencer par la&lt;/span&gt;&lt;span &gt; définition de l’évènement indésirable associé aux soins.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’&lt;/span&gt;&lt;span &gt;événement &lt;/span&gt;&lt;span &gt;indésirable associé aux soins est un évènement &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;non souhaité&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est défini&lt;/span&gt;&lt;span &gt; comme étant un &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;dommage&lt;/span&gt;&lt;span &gt;  survenant  chez  le  patient  au  cours  de  sa  prise  en charge,  qu’il soit  lié  aux  activités  de  soins  ou  aux  conditions  de  vie  en  établissement de santé.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un évènement indésirable associé aux soins est donc consécutif aux stratégies et actes de prévention, de diagnostic, de traitement ou de surveillance.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On peut préciser que l’évènement indésirable associé aux soins a pour synonyme l’expression « évènement iatrogène ».&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="423" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="19.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="423"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_78483a35fde642a3aab97dbca1a94ef5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 19830">
+				<media url="a24x8.mp3" startMsecs="0" duration="19830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Evènement Indésirable (EIS)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un événement indésirable associé aux soins peut notamment se traduire par l’aggravation de la pathologie existante, l’absence d’amélioration attendue de l’état de santé, la survenue d’une pathologie nouvelle, l’altération d’une fonction de l’organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="424" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13.15" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="424"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_969cfcf656e9479e80cd4ab817df218byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 13150">
+				<media url="a24x9.mp3" startMsecs="0" duration="13150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Evènement Indésirable (EIS)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;On peut préciser qu’on parle d’évènement indésirable médicamenteux quand un évènement indésirable associé aux soins est lié à une réaction &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;novice&lt;/span&gt;&lt;span &gt; due à la prise d’un médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="421" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="34.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="421"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d1a1fbc3e3e446d1a0449710238939c1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 34960">
+				<media url="a24x10.mp3" startMsecs="0" duration="34960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Evènement Indésirable Grave (EIGS)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un événement indésirable associé aux soins peut&lt;/span&gt;&lt;span &gt; être également qualifié de &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;grave&lt;/span&gt;&lt;span &gt;. A ce titre, il répond à une définition stricte du Code de Santé Publique. Il s’agit d’un é&lt;/span&gt;&lt;span &gt;vénement &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;inattendu&lt;/span&gt;&lt;span &gt; au regard de l'état de santé et de la pathologie de la personne.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette définition tient compte du &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;contexte&lt;/span&gt;&lt;span &gt; et des &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;conséquences&lt;/span&gt;&lt;span &gt; pour le patient.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi,&lt;/span&gt;&lt;span &gt; u&lt;/span&gt;&lt;span &gt;n événement indésirable grave associé à des soins réalisés lors d'investigations, de traitements, d'actes médicaux à visée esthétique ou d'actions de prévention.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="426" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="426"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0ae866cdda6b49fdaa93928354084c32yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 12940">
+				<media url="a24x11.mp3" startMsecs="0" duration="12940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Evènement Indésirable Grave (EIGS)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;On&lt;/span&gt;&lt;span &gt; peut dès lors préciser que lorsque un évènement indésirable grave associé aux soins est dû à un traitement médicamenteux, on parle dès lors d’é&lt;/span&gt;&lt;span &gt;vènement indésirable médicamenteux grave.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="427" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="29.65" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="427"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2e109c7140c74e369610befd1fb715b8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 29650">
+				<media url="a24x12.mp3" startMsecs="0" duration="29650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Evènement Indésirable Grave (EIGS)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Maintenant&lt;/span&gt;&lt;span &gt; que nous avons précisé le contexte de survenue des évènements indésirables graves associés aux soins, qu’en est-il des conséquences pour le patient?&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La qualification de &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;grave&lt;/span&gt;&lt;span &gt; en utilisé pour caractériser un évènement indésirable grave associé aux soins en cas de décès, de mise en jeu du pronostic vital, de survenue probable d'un déficit fonctionnel permanent y compris une anomalie ou une malformation congénitale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="428" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.16" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="428"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0821756c0170465cbfbe9f355a1e0682yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 14160">
+				<media url="a24x13.mp3" startMsecs="0" duration="14160" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Evènement Indésirable Médicamenteux (EIM)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous avons clairement posé la définition d’un évènement indésirable associé aux soins. A partir de maintenant, dans le cours d’ICM4, nous ne nous intéresserons qu’aux évènements indésirables médicamenteux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="429" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="21.74" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="429"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_afdf15626f804b7dacff73224174a32eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 21740">
+				<media url="a24x14.mp3" startMsecs="0" duration="21740" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Evènement Indésirable Médicamenteux (EIM)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un événement indésirable médicamenteux peut être issu de deux situations différentes non mutuellement exclusives:  l’erreur médicamenteuse et l’effet indésirable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous allons maintenant détailler successivement les définitions en lien avec les effets indésirables et les erreurs médicamenteuses.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="430" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="430"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_94dd61ddbf2f4ebc86efcfc04667bac9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 52290">
+				<media url="a24x15.mp3" startMsecs="0" duration="52290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effet indésirable (EI)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Commençons par celles de l’effet indésirable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Selon la définition commune à l’Organisation Mondiale de la Santé et à l’Union Européenne, l’effet indésirable est une réaction &lt;/span&gt;&lt;span  fontWeight="bold"&gt;nocive&lt;/span&gt;&lt;span &gt; et &lt;/span&gt;&lt;span  fontWeight="bold"&gt;non voulue&lt;/span&gt;&lt;span &gt; à un médicament. Cette réaction se produit aux posologies normalement utilisées chez l'homme pour la prophylaxie, le diagnostic ou le traitement d'une maladie ou pour la restauration, la correction ou la modification d'une fonction physiologique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La définition française est élargie puisqu’elle mentionne le fait que l’effet indésirable peut résulter d’un mésusage du médicament ou du produit. Le mésusage correspond au non respect &lt;/span&gt;&lt;span  fontWeight="bold"&gt;intentionnel&lt;/span&gt;&lt;span &gt; des recommandations du résumé des caractéristiques du produit par un professionnel de santé.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="431" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="86.14" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="431"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0db9219e58fc4a2c9eaf16c55bb5bfb2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 86140">
+				<media url="a24x16.mp3" startMsecs="0" duration="86140" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effet indésirable (EI)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En France, Les effets indésirables doivent être notifiés auprès des centres de pharmacovigilance. Je vous renvoie au cours dédié.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous&lt;/span&gt;&lt;span &gt; rencontrez parfois des difficultés à appréhender et à reconnaitre l’effet indésirable. Pour vous aider, illustrons &lt;/span&gt;&lt;span &gt;cette définition&lt;/span&gt;&lt;span &gt; par &lt;/span&gt;&lt;span &gt;l’exemple d’une personne traitée par antidépresseur &lt;/span&gt;&lt;span &gt;imipraminique&lt;/span&gt;&lt;span &gt; et pour qui survient une hypotension orthostatique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Qu’est-ce qu’une hypotension orthostatique?&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;C’est une chute de la pression artérielle systolique d'au moins 20 &lt;/span&gt;&lt;span &gt;mmHg&lt;/span&gt;&lt;span &gt; lors du passage de la position allongée à la position debout. Elle se traduit par une sensation de malaise.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les effets indésirables sont répertoriés dans le RCP&lt;/span&gt;&lt;span &gt; du médicament. Ils correspondent à un effet pharmacologique du produit au même titre que l’effet thérapeutique. Il est donc consubstantiel et inhérent à l’utilisation du médicament. Je veux dire par là qu’il caractérise le médicament au même titre que l’effet thérapeutique. Par contre, l’effet indésirable ne se traduit pas &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;systématiquement&lt;/span&gt;&lt;span &gt; par un évènement indésirable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si nous reprenons notre exemple avec&lt;/span&gt;&lt;span &gt; l’&lt;/span&gt;&lt;span &gt;anti-dépresseur&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;imipraminique&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span &gt;l’effet indésirable ‘hypotension&lt;/span&gt;&lt;span &gt; orthostatique’ ne se traduit par un évènement indésirable, à savoir un malaise de type vertige, que chez &lt;/span&gt;&lt;span &gt;10% des patients.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="432" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="65.45" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="432"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_30df4e0842084f2d88163f0f3ab11ce3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 65450">
+				<media url="a24x17.mp3" startMsecs="0" duration="65450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effet Indésirable Grave (EIG)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans certaines circonstances, un effet indésirable peut être qualifié de grave.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un effet indésirable grave est un effet indésirable qui entraine le décès du patient ou qui est susceptible de mettre en danger sa vie.&lt;/span&gt;&lt;span &gt; Il est également qualifié de grave s’il ent&lt;/span&gt;&lt;span &gt;raîne une invalidité ou une incapacité importantes ou durables, s’il provoque ou prolonge une hospitalisation ou s’il entraine une anomalie ou une malformation congénitale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour illustrer cette définition, prenons le cas d’une hémorragie digestive survenue chez un patient suite à la prise de &lt;/span&gt;&lt;span &gt;kétoprofène&lt;/span&gt;&lt;span &gt;, un anti-inflammatoire non stéroïdien. Cette hémorragie entraine l’hospitalisation du patient en urgence avec la réalisation d’une fibroscopie digestive.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans ce cas, l’hémorragie digestive constitue l’effet indésirable. Il est rare et décrit dans le RCP du produit. Et c’est bien le fait d’être hospitalisé qui confère le caractère dit de grave à cet effet indésirable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="433" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="61.76" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="433"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_967aab24f1b74499a4f5a8b5fafcec46yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 61760">
+				<media url="a24x18.mp3" startMsecs="0" duration="61760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effet Indésirable inattendu@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans certaines circonstances, un effet indésirable peut être qualifié d’inattendu.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un effet indésirable inattendu est un effet indésirable dont la nature, la sévérité ou l'évolution ne correspondent pas aux informations contenues dans le résumé des caractéristiques du produit.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour illustrer cette définition, imaginons que nous sommes en 2005: le &lt;/span&gt;&lt;span &gt;tripanavir&lt;/span&gt;&lt;span &gt;, un médicament destiné au traitement des personnes séropositives au VIH, vient d’être commercialisé. Dans les quelques mois suivant ce début de commercialisation, on vous signale qu’une hémorragie intracrânienne est survenue chez un patient traité par ce nouveau médicament. L’imputabilité du &lt;/span&gt;&lt;span &gt;tripanavir&lt;/span&gt;&lt;span &gt; est établie. Dans ce cas, l’hémorragie intracrânienne constitue l’effet indésirable. La caractère inattendu de cet effet indésirable réside dans le fait qu’il n’a pas été décrit dans les essais cliniques pré-AMM et que par conséquent il n’est pas mentionné dans le RCP du &lt;/span&gt;&lt;span &gt;tripanavir&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="434" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="50.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="434"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3346e67a9c7f40d387b8255180b4baf7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 50310">
+				<media url="a24x19.mp3" startMsecs="0" duration="50310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Erreur Médicamenteuse (EM)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Maintenant que nous avons vu les définitions relatives aux effets indésirables, détaillons celle de l’erreur médicamenteuse. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’erreur médicamenteuse est définie comme un écart entre ce qui aurait dû être fait au cours de la prise en charge thérapeutique médicamenteuse du patient et ce qui s’est réellement passé. L’erreur médicamenteuse représente l’omission ou la réalisation non intentionnelle d’un acte relatif à un médicament. J’insiste&lt;/span&gt;&lt;span &gt; sur le côté non-intentionnel de l’erreur médicamenteuse. C’est ce qui la distingue du mésusage.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour le patient, l’erreur médicamenteuse peut être à l’origine d’un événement indésirable médicamenteux ou d’un risque événement indésirable médicamenteux. Là encore, ce n’est pas systématique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="435" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="68.09" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="435"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2ad33e78e1fa494587063ca599b73cc3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 68090">
+				<media url="a24x20.mp3" startMsecs="0" duration="68090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Erreur Médicamenteuse (EM)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’erreur médicamenteuse est par définition &lt;/span&gt;&lt;span  fontWeight="bold" textDecoration="underline"&gt;évitable&lt;/span&gt;&lt;span &gt; car elle manifeste ce qui aurait dû être fait et qui ne l’a pas été au cours de la prise en charge médicamenteuse du patient.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’erreur médicamenteuse peut concerner une ou plusieurs étapes du circuit du médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour illustrer cette définition, prenons l’exemple d’un patient traité au long cours par de la &lt;/span&gt;&lt;span &gt;warfarine&lt;/span&gt;&lt;span &gt;. C’est un anticoagulant par voie orale. Ce médicament nécessite une surveillance au minimum tous les mois par une analyse biologique qui s’appelle l’INR. Dans le cas de notre exemple, le patient ne bénéficie pas de ce suivi et est sous-dosé en &lt;/span&gt;&lt;span &gt;warfarine&lt;/span&gt;&lt;span &gt;. Il est donc à risque de thrombose veineuse ou d’hémorragie. Le suivi par INR est obligatoire. Aussi, cet écart entre ce qui fait pour ce patient et ce qui devrait être fait constitue une erreur médicamenteuse. La thrombose veineuse et a&lt;/span&gt;&lt;span &gt; contrario l’hémorragie &lt;/span&gt;&lt;span &gt;constituent ici un risque d’évènement indésirable pour le patient.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="436" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="32.53" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="436"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1639f5cd411648e08886f5b2137d2249yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 32530">
+				<media url="a24x21.mp3" startMsecs="0" duration="32530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Erreur Médicamenteuse (EM)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Une erreur médicamenteuse peut être avérée ou potentielle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Par définition, une erreur médicamenteuse avérée est une erreur médicamenteuse qui s’est effectivement produite et qui est parvenue jusqu’au patient sans avoir été interceptée. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une erreur médicamenteuse potentielle est donc une erreur médicamenteuse qui a été détectée et interceptée par un professionnel de santé, un patient ou son entourage avant l'administration du médicament au patient.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="437" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="58.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="437"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6142795ae4504f31bef988715cee9aa7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 58380">
+				<media url="a24x22.mp3" startMsecs="0" duration="58380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Evitabilité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Au final, l’&lt;/span&gt;&lt;span &gt;évitabilité&lt;/span&gt;&lt;span &gt; d’un événement iatrogène se définit comme un «événement qui ne serait pas survenu si les soins avaient été conformes à la prise en charge considérée comme satisfaisante au moment de la survenue de cet événement.»&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’ensemble de ces définitions proposées est important à maîtriser afin de faire la part des choses entre ce qui est évitable et ce qui ne l’est pas, ce que l’on peut prévenir et ce que l’on peut atténuer, récupérer ou rattraper. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet, les différents acteurs du circuit du médicament, que ce soit le médecin, le pharmacien ou l’infirmier, doivent s’attacher à réduire les événements indésirables médicamenteux évitables.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les événements indésirables médicamenteux &lt;/span&gt;&lt;span &gt;non-évitables&lt;/span&gt;&lt;span &gt; doivent pour leur part faire l’objet d’une collaboration étroite entre les différents acteurs puisqu’ils ne sont pas dissociables de l’activité thérapeutique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="446" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.17" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="446"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5a873e9c8bd8473183cd3be6c1c3e222yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 14170">
+				<media url="a24x23.mp3" startMsecs="0" duration="14170" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Je vous propose une synthèse des notions que nous avons abordé dans ce chapitre sous la forme d’une figure.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous avons vu qu’une erreur peut être potentielle, c’est-à-dire qu’on l’a interceptée avant dommage au patient.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="440" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="10.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="440"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2f851fa8cede453fa142ed72db7d8358yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 10910">
+				<media url="a24x24.mp3" startMsecs="0" duration="10910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Une erreur médicamenteuse peut être avérée, c’est-à-dire qu’elle est parvenue jusqu’au patient et que le médicament a été administré au patient.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="447" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="22.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="447"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9be57b7067a4402c8fa603c22c55c646yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 22240">
+				<media url="a24x25.mp3" startMsecs="0" duration="22240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans ce cas, l’erreur médicamenteuse peut être avérée et sans signes clinique, biologique ou psychologique pour le patient. On peut noter que le pretium doloris lié à l’erreur médicamenteuse va jusqu’au signe psychologique. En d’autres termes, le patient a souffert d’un préjudice moral.&lt;/span&gt;&lt;span &gt; Pour ce cours, c’est anecdotique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="448" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="25.42" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="448"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_196f24f5829a470dbd56ae800176f1e3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 25420">
+				<media url="a24x26.mp3" startMsecs="0" duration="25420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Elle peut également être avérée par omission du médicament. Par exemple, le médecin oublie de renouveler le traitement anticoagulant indispensable au patient: le patient ne bénéficie pas la thérapeutique médicamenteuse prévue. C’est souvent un type d’erreur qu’on oublie d’identifier. Aussi, notez bien l’erreur médicamenteuse n’est pas forcément liée à la prise effective de médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="441" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="441"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_efbd211938f748e89fa4f0c22ac61e0ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 12310">
+				<media url="a24x27.mp3" startMsecs="0" duration="12310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Enfin, l’erreur médicamenteuse peut être avérée par prise inappropriée de médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est l’occasion pour&lt;/span&gt;&lt;span &gt; moi de vous rappeler que &lt;/span&gt;&lt;span &gt;l’erreur médicamenteuse est non intentionnelle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="442" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="15.12" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="442"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_168ed8f780924bedb4798c31de2509b9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 15120">
+				<media url="a24x28.mp3" startMsecs="0" duration="15120" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Concernant les effets indésirables, nous avons dit qu’il s’agit d’une réaction nocive et non voulue à un médicament. Elle peut survenir dans les conditions normales d’utilisation prévue par le RCP du produit.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="450" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="450"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b1d4c00999004630beb84c0eb7b682beyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 3220">
+				<media url="a24x29.mp3" startMsecs="0" duration="3220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;mais aussi en cas de mésusage. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="449" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3.71" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="449"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cb55fa4a5fa44fa8b4c64c4a9328ff2byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 3710">
+				<media url="a24x30.mp3" startMsecs="0" duration="3710" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un effet indésirable peut être inattendu&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="451" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3.17" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="451"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cab17f6d367d44e2a09601391c2d8b1ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 3170">
+				<media url="a24x31.mp3" startMsecs="0" duration="3170" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Et / ou grave.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="443" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="8.56" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="443"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3140b3f445814f50a032305687a7397dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="32" duration=" 8560">
+				<media url="a24x32.mp3" startMsecs="0" duration="8560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici récapitulées de manière schématique les notions d’erreur médicamenteuse et d’effet indésirable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="444" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="63.98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="444"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7ed996494e4b4aa385735bd9f7156e00yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 63980">
+				<media url="a24x33.mp3" startMsecs="0" duration="63980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La catégorisation de ces deux notions n’est pas manichéenne. Il ne vous échappe pas qu’il y a une zone commune sur le schéma. Dans certaines situations très précises, il peut y avoir de manière &lt;/span&gt;&lt;span  textDecoration="underline"&gt;concomitante&lt;/span&gt;&lt;span &gt; une erreur médicamenteuse et un effet indésirable. Prenons un exemple. Les médicaments antalgiques de type morphine constipent. C’est un effet indésirable connu et attendu. Aussi, les recommandations de traitement précisent qu’on peut prévenir cet effet indésirable en &lt;/span&gt;&lt;span &gt;co&lt;/span&gt;&lt;span &gt;-prescrivant au patient un laxatif. Dans le cas où cette &lt;/span&gt;&lt;span &gt;co&lt;/span&gt;&lt;span &gt;-prescription n’est pas faite, le patient connait une constipation iatrogène. Il y a un &lt;/span&gt;&lt;span  textDecoration="underline"&gt;écart&lt;/span&gt;&lt;span &gt; entre ce qui a été fait et ce que précisent les recommandations. Aussi, il y a bien eu une erreur médicamenteuse. Et cet écart résulte en un évènement indésirable médicamenteux préjudiciable pour le patient: la constipation. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="445" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.39" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="445"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e00470622e8e4efdb73a02a1cafc8eb1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="34" duration=" 12390">
+				<media url="a24x34.mp3" startMsecs="0" duration="12390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Cette évolution de la figure vous présente quels sont les erreurs médicamenteuses et les effets indésirables qui sont associés à des évènements médicamenteux indésirables. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="439" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide34.swf" id="439"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_df994168f58e48a99ceacc458b5123d4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="35" duration=" 5280">
+				<media url="a24x35.mp3" startMsecs="0" duration="5280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Et enfin, voici&lt;/span&gt;&lt;span &gt; les situations qui sont &lt;/span&gt;&lt;span &gt;évitables.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="438" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="8.85" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide35.swf" id="438"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_07695efc7b5f43d791f32b3854944e56yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="36" duration=" 8850">
+				<media url="a24x36.mp3" startMsecs="0" duration="8850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Et voici la figure au complet.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans le prochain cours, nous évoquerons l’épidémiologie des événements indésirables médicamenteux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="403" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide36.swf" id="403"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_19111a0fca6e438c9a08320c3c4c8e94yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+			<slideSpeaker index="4"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

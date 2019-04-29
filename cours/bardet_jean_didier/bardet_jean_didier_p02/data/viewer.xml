@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 4 : Prévention de l’iatrogénie médicamenteuse Epidémiologie</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Joel LUNARDI</name>
+			<speakerTitle>Professeur de Biochimie (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10037.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Julien FAURÉ</name>
+			<speakerTitle>Maitre de conference-CHU de Grenoble</speakerTitle>
+			<image>spk13724.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean-Paul STAHL</name>
+			<speakerTitle>CHU de Grenoble</speakerTitle>
+			<image>spk14447.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Prénom NOM</name>
+			<speakerTitle>Enseignant de la Faculté</speakerTitle>
+			<image>spk130656.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Jean-Didier Bardet</name>
+			<speakerTitle>Docteur en Pharmacie Clinique CHU Grenoble ( UGA)</speakerTitle>
+			<image>spk131949.jpeg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_0c9f5dd2181949a49085c6633273a3d1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_bb0f669fdb824c6485ce9c902ea4a443yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_5fd58bb4a6024f97b771cc3448eb3254yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_422359a8e4f64735a45c34893aa7773fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="391" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="391"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3bc7e9ee72a7495a946d4263f2824376yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 12520">
+				<media url="a24x1.mp3" startMsecs="0" duration="12520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 4 : Prévention de l’iatrogénie médicamenteuse Epidémiologie@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Bonjour à tous,&lt;/span&gt;&lt;span &gt; n&lt;/span&gt;&lt;span &gt;ous avons vu dans un premier temps les définitions nécessaires à la compréhension de l’iatrogénie médicamenteuse. Je&lt;/span&gt;&lt;span &gt; propose dans ce cours d’appréhender ce phénomène sous l’angle épidémiologique. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="413" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="8.65" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide1.swf" id="413"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_994adb315b924d358402c2f82d252a95yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 8650">
+				<media url="a24x2.mp3" startMsecs="0" duration="8650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs pédagogiques du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ainsi,&lt;/span&gt;&lt;span &gt; les objectifs de ce cours son de d&lt;/span&gt;&lt;span &gt;écrire le phénomène&lt;/span&gt;&lt;span &gt; et d’étudier les conséquences pour les patients et la collectivité.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="417" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="28.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="417"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c50c17b25d784fef9f97f2f1098edfb7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 28410">
+				<media url="a24x3.mp3" startMsecs="0" duration="28410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Iatrogénie médicamenteuse: quelle ampleur?@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’iatrogénie&lt;/span&gt;&lt;span &gt; médicamenteuse a fait l’objet de nombreuses études internationales depuis les années 90. Ce sont les états-uniens qui les premiers publièrent sur ce sujet.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En France, depuis les années 2000, nous disposons de plusieurs études qui nous aide à comprendre le phénomène. Ils s’agit essentiellement des études ENEIS 1 et 2, EMIR, EVISA et ESPRIT. Elles ont été conduites aussi en secteur hospitalier qu’en ville.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="418" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="34.66" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="418"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9c82739322f847f1ad833a218d8c2db2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 34660">
+				<media url="a24x4.mp3" startMsecs="0" duration="34660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Iatrogénie médicamenteuse: quelle ampleur?@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons particulièrement nous intéresser aux résultats de l’Enquête Nationale sur les Evénements Indésirables Graves liés aux Soins, aussi appelée enquête ENEIS. L’étude ENEIS de 2004 (dite ENEIS 1 par la suite) a été reconduite selon la même méthodologie entre avril et juin 2009. Cette seconde étude est dite ENEIS 2 par la suite. Ces deux études sont celles qui ont permis de préciser l’ampleur de l’iatrogénie, notamment médicamenteuse en France et son évolution.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="419" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="33.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="419"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4306127f5f7d4458b52eda478e2b52cdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 33040">
+				<media url="a24x5.mp3" startMsecs="0" duration="33040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ces deux enquêtes ont porté portant sur plus 70 établissements de santé français. Les échantillons étaient respectivement de 8754 patients pour ENEIS1 et 8269 pour ENEIS2, répartis respectivement dans 292 et 251 unités de soins. Les patients étaient suivis pendant une période maximale de 7 jours. Ainsi, au total plus de 30.000 journées d’hospitalisation observées pour chacune des deux enquêtes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="420" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.88" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="420"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5ef0028a99e647eca9b4cff5ed34d1d1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 43880">
+				<media url="a24x6.mp3" startMsecs="0" duration="43880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’objectif général de ces deux études est de mettre en évidence l’importance de l’iatrogénie en France et plus particulièrement de l’iatrogénie médicamenteuse. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elles se sont donc intéressées à étudier les évènements indésirables graves responsables d’hospitalisation, ceux survenus en cours d’hospitalisation et leur évolution entre 2004 et 2009. L’étude s’est déroulée aussi bien en service de chirurgie qu’en service de médecine. Tous les évènements indésirables graves étaient considérés dans les deux études, qu’ils soient liés à un acte de soins invasif ou non, à un produit de santé ou à une infection associée aux soins.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="421" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="21.62" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="421"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_da664e7f33cb4d36abfd1a2bd51cc685yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 21620">
+				<media url="a24x7.mp3" startMsecs="0" duration="21620" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Globalement, les études ENEIS 1 et 2, aux résultats complémentaires, distinguent les évènements indésirables graves responsables d’hospitalisation de ceux qui sont survenus en cours d’hospitalisation. En plus de cette distinction,  les deux études se sont intéressées à leur caractère évitable ou non.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="422" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="51.49" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="422"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7760fc66ee844cbcae676b27f9483871yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 51490">
+				<media url="a24x8.mp3" startMsecs="0" duration="51490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Commençons par regarder les résultats totaux et plus spécifiquement les évènements indésirables graves causes d’hospitalisation. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour l’année 2004, en moyenne, dans l’ensemble des établissements, on peut estimer que 3,9 % des séjours sont causés par un évènement indésirable grave . Si on se restreint aux évènements indésirables graves évitables, la proportion de séjours causés par des évènements indésirables graves est de 1,8 %.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour l’année 2009, en moyenne, dans l’ensemble des établissements, on peut estimer que 4,5 % des séjours sont causés par un évènement indésirable grave.  Si on se restreint aux évènements indésirables graves évitables, la proportion de séjours causés par des évènements indésirables graves est de 2,6 %.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces résultats sont similaires. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="425" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="44.89" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="425"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_28a4a67970fe4d049069c7547f942b2ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 44890">
+				<media url="a24x9.mp3" startMsecs="0" duration="44890" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Poursuivions avec les évènements indésirables graves survenus en cours d’hospitalisation. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour l’année 2004, on peut estimer que le taux d’incidence des évènements indésirables graves survenus en cours d’hospitalisation est de 6,6‰. Si on se restreint aux évènements indésirables graves évitables, le taux d’incidence est de 2,3‰.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour l’année 2009, on peut estimer que le taux d’incidence des évènements indésirables graves survenus en cours d’hospitalisation est de 6,2‰. Si on se restreint aux évènements indésirables graves évitables, le taux d’incidence est de 2,6‰.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Là encore, les résultats entre 2004 et 2009 sont similaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="423" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="11.44" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="423"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b5246e77f40740de8fedcef72cd17fb5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 11440">
+				<media url="a24x10.mp3" startMsecs="0" duration="11440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Regardons maintenant plus en détail les évènements indésirables graves liés aux produits de santé, c’est-à-dire liés aux médicaments, aux produits sanguins ou aux dispositifs médicaux.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="426" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="426"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_868c890905414064bd1caf967f6e7b6byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 53550">
+				<media url="a24x11.mp3" startMsecs="0" duration="53550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En ce qui concernent ceux qui sont cause d’hospitalisation, on peut dire qu’environ la moitié des évènements indésirables graves étaient associés à des produits de santé. De même, suivant l’étude, 37 à 42% des évènements indésirables graves ayant motivé une hospitalisation sont liés aux médicaments. On peut simplifier en disant que, quelle que soit l’année, la moitié des évènements indésirables médicamenteux graves sont évitables. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si on continue à ne s’intéresser qu’au médicament, l’étude ENEIS 2 estime que 2,1% des séjours sont causés par évènement indésirable médicamenteux grave. Pour finir, 1,3% des séjours liés à un évènement indésirable médicamenteux grave sont jugés évitable. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="424" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.65" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="424"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_effab264ccba49d4aa8439679753563ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 43650">
+				<media url="a24x12.mp3" startMsecs="0" duration="43650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Parmi les évènements indésirables graves survenus en cours d’hospitalisation, plus du tiers étaient associés à des produits de santé (respectivement 28% et 39%). Dans cette sous-catégorie, le médicament était très majoritairement impliqué. Suivant l’étude, les évènements indésirables médicamenteux graves représentent le cinquième ou le quart des évènements indésirables graves totaux. Là encore, la moitié des évènements indésirables médicamenteux graves sont jugés évitables. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si on continue à ne s’intéresser qu’au médicament, l’étude ENEIS 2 estime la densité d’incidence des évènements indésirables médicamenteux graves à 1,7‰. Et la densité d’incidence est 0,7‰ pour ceux qui sont jugés évitable. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="427" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="25.05" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="427"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6790b5ab179e43ab911d34946aa7a976yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 25050">
+				<media url="a24x13.mp3" startMsecs="0" duration="25050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour conclure sur ces chiffres, la stabilité des indicateurs entre 2004 et 2009 ne permet toutefois pas de conclure à l’absence de changements en termes de culture de sécurité et de comportements des acteurs du système de santé. La stabilité des indicateurs ne signifie pas non plus une absence de résultats des actions entreprises. ENEIS 2 confirme ENEIS 1.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="428" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="37.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="428"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_065c95d6d33e449e9bb804ab3f015ce8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 37520">
+				<media url="a24x14.mp3" startMsecs="0" duration="37520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’extrapolation des données de l’étude ENEIS 2 au nombre d’admissions national permet d’estimer le nombre d’hospitalisations liées à un évènement indésirable médicamenteux grave entre 135 000 à 205 000 par an en France, dont la moitié est évitable. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’extrapolation des données au nombre de journées d’hospitalisation montre que 70 000 à 100 .000 séjours hospitaliers sont concernés par un événement indésirable grave par an en France. Et que là encore, la moitié est évitable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Néanmoins, pour information, les étude ENEIS présentent uniquement l’incidence des événements indésirables graves. L’analyse d’autres études antérieures réalisées en France et à l’étranger laisse supposer qu’un séjour hospitalier sur 10 est marqué par un événement indésirable grave dont un tiers est qualifié de grave.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="429" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="28.05" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="429"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1f0671ac13c54745a940b01871b0af67yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 28050">
+				<media url="a24x15.mp3" startMsecs="0" duration="28050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour compléter ces chiffres, on peut retenir que plus de la moitié des indésirables graves totaux sont observés en chirurgie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Plus des 2/3 des événements indésirables graves concernent les personnes de plus de 65 ans.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le tiers des indésirables graves totaux sont liés à une omission dans l’acte de soins.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, le tiers des événements indésirables médicamenteux graves implique un anticoagulant.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="433" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="98.64" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="433"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f6cba5c5c7ad43c0a9b7d8385bb0ff59yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 98640">
+				<media url="a24x16.mp3" startMsecs="0" duration="98640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ENEIS 1 et 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La prolongation du séjour du patient est la première conséquence de la survenue d’évènements indésirables graves au cours de l’hospitalisation. L’enquête ENEIS révèle que la survenue d’un évènement indésirable grave au cours de l’hospitalisation double la durée de séjour du patient.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Au-delà des conséquences cliniques et sociales, il faut également prendre en compte le coût de l’iatrogénie médicamenteuse.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Bien que les conséquences de l’iatrogénie médicamenteuse n’aient pas encore été formellement étudiées en France, il apparaît clairement que le coût pour le système de santé français est colossal. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi, le coût moyen de chaque évènement indésirable médicamenteux survenu en France a été estimé entre 4.120€ et 5.305€, ce qui est proche des données Nord-Américaines. Le coût hospitalier direct des seuls évènement indésirable médicamenteux admis dans les Services d'Accueil et d'Urgences pour l'ensemble des établissements publics français a été estimé à 636 millions d'euros, soit environ 1,8% du budget de l'hospitalisation publique en France en 2002. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’origine des EIM est le plus souvent multifactorielle et concerne différents intervenants. Il est donc important de comprendre ces causes afin de permettre la mise en place de mesures correctives au niveau de chaque étape du circuit du médicament. L’erreur médicamenteuse se produit généralement à l’une des 4 principales étapes du circuit du médicament, à savoir : la prescription, la transcription, la délivrance ou l’administration. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="430" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="61.43" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="430"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ca26aa9c05354b0a84cf5eda812b4228yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 61430">
+				<media url="a24x17.mp3" startMsecs="0" duration="61430" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@EMIR@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’étude EMIR s’est spécifiquement intéressée&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;à la proportion d'hospitalisations en lien avec un évènement&lt;/span&gt;&lt;span &gt; indésirable grave&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt; L’étude &lt;/span&gt;&lt;span &gt;EMIR est une étude prospective réalisée en 2007 sur 63 services hospitaliers et auprès de 2 692 patients. Elle estime à 3,6 % la proportion des hospitalisations dues à un évènement&lt;/span&gt;&lt;span &gt; indésirable&lt;/span&gt;&lt;span &gt; médicamenteux, dont 30 % provoqués par une interaction médicamenteuse. Cette estimation est comparable&lt;/span&gt;&lt;span &gt; à celle de l’étude ENEIS réalisée sur la même période. &lt;/span&gt;&lt;span &gt;Ainsi, les auteurs estiment le nombre annuel d'hospitalisations dues à des EI de médicaments en France à 143 915 et le nombre annuel moyen de journées d'hospitalisation dues à un EI médicamenteux à 1 480 885.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="431" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.43" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="431"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_51bb15b4f2f345289c7e271f7e97aaedyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 52430">
+				<media url="a24x18.mp3" startMsecs="0" duration="52430" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@EVISA@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;EVISA a été conduite en 2008, en Aquitaine, auprès de 2 946 patients, suivant une méthodologie comparable à celle d'ENEIS. Elle s’intéresse aux événements indésirables&lt;/span&gt;&lt;span &gt; liés aux soins en ville. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’intérêt de&lt;/span&gt;&lt;span &gt; l’étude EVISA réside dans &lt;/span&gt;&lt;span &gt;l'analyse approfondie des causes associées aux&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;évènements indésirables évitables.&lt;/span&gt;&lt;span &gt; Ainsi, dans les trois principales causes identifiées figurent &lt;/span&gt;&lt;span &gt;l'erreur d'indication thérapeutique dans&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;30 % des cas et le manque de surveillance de l'état de santé dans&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;19 % des cas.&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;Enfin, outre ces causes principales, le défaut de communication entre soignants est un facteur contributif qui a été observé dans 28 % des cas.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="432" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.23" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="432"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cd97776a9603445788e2fc47f8e1b185yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 52230">
+				<media url="a24x19.mp3" startMsecs="0" duration="52230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ESPRIT@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L'étude ESPRIT complète ces données. Elle a été conduite en 2013 auprès de 125 médecins généralistes. Sur 649 journées observées, 475 évènements indésirables ont été identifiés, soit 3,5 % des actes explorés. Les causes analysées dans l'étude ESPRIT confirment ces résultats. Parmi les événements indésirables évitables, les trois quarts étaient dus à des défauts dans le processus de soin.&lt;/span&gt;&lt;span &gt; Ceci comprend les &lt;/span&gt;&lt;span &gt;dysfonctionnements au cabinet, les problèmes de communication avec le patient et les autres professionnels de santé&lt;/span&gt;&lt;span &gt; et les &lt;/span&gt;&lt;span &gt;erreurs dans la gestion des examens complémentaires et des traitements. Enfin, un quart était dû à un défaut de connaissance, de compétence ou de mobilisation de celles-ci de la part du médecin.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="415" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.37" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide19.swf" id="415"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_875cb8f2ace24c529bf7c932831176b7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 36370">
+				<media url="a24x20.mp3" startMsecs="0" duration="36370" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Messages essentiels du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous avons fini cette&lt;/span&gt;&lt;span &gt; séquence qui a trait à l’épidémiologie des évènements indésirables grave en France. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les 2 études ENEIS sont parmi les points essentiels de ce cours.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est bon de garder à l’esprit que le médicament est responsable du 1/3 des &lt;/span&gt;&lt;span &gt;évènements indésirables graves cause d’hospitalisations et du &lt;/span&gt;&lt;span &gt;1/5&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;des &lt;/span&gt;&lt;span &gt;évènements indésirables graves en cours d’hospitalisation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin,&lt;/span&gt;&lt;span &gt; et peut-être le plus important, la moitié de ces &lt;/span&gt;&lt;span &gt;évènements indésirables graves sont évitables.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La prochaine séquence est consacrée&lt;/span&gt;&lt;span &gt; aux erreurs médicamenteuses et à &lt;/span&gt;&lt;span &gt;leur classification.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="4"/>
+		</slide>
+		<slide id="403" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="403"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1d7111c94e644ee0b35e06bc6f978cbayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="4"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

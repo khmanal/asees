@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 10 : Fonctions non ventilatoires </presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Sandrine LAUNOIS-ROLLINAT</name>
+			<speakerTitle>Docteur (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10548.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Pierre Alexis GAUCHARD</name>
+			<speakerTitle>Agrégé de chimie, Docteur ès sciences (Université Joseph Fourier - Grenoble)</speakerTitle>
+			<image>spk10963.jpg</image>
+		</speaker>
+		<speaker>
+			<name>Sandrine LAUNOIS</name>
+			<speakerTitle>Docteur en médecine ( UGA - Grenoble )</speakerTitle>
+			<image>spk153793.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_43c18d82ed064b4a9c8041e07b73e929yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_7f0b0df3beef4e47834f2e2faf726f5ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_fcf8e3c0b4564d2197c40732e79d980eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_779cbaf5dedd408795f2cebd8115b6a6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_6814340b756a46d785c0787ade8bd0ffyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_367844a186b746d39a32efbc76945406yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="278" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="22.7" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="278"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d390b8f5c21a4a3e934f12ef126a90cayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 22700">
+				<media url="a24x1.mp3" startMsecs="0" duration="22700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 10 :   Fonctions non ventilatoires @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="311" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="27.45" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="311"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b605a415745c4c16aec15b759e8f7bc1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 27450">
+				<media url="a24x2.mp3" startMsecs="0" duration="27450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fonctions de l’appareil respiratoire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="312" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="78.47" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="312"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_278a20aca19244598f09bef8ddc2afe7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 78470">
+				<media url="a24x3.mp3" startMsecs="0" duration="78470" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fonctions de l’appareil respiratoire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Valeurs anormales acidose hypercapnie hypoxémie etc&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="335" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="116.33" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="335"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bcde6904edb24f73b61b2c6836cedc4cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="41560" isStartRelative="false" duration="167"/>
+				<click startTime="86740" isStartRelative="false" duration="167"/>
+				<click startTime="103840" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 116330">
+				<media url="a24x28.mp3" startMsecs="0" duration="116330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Equilibre acido-basique@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="336" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="84.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="336"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6bece74f34374f8da29629dd3d1cc48eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="19210" isStartRelative="false" duration="167"/>
+				<click startTime="37310" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 84610">
+				<media url="a24x29.mp3" startMsecs="0" duration="84610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Equilibre acido-basique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pourquoi réguler étroitement le pH ?&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si le pH…&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;	Les  variations de ph modifient la structure tertiaire et donc l’activité de ces protéines&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="337" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="50.78" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="337"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6b7503b55ccb47aea1c5569a11b1e01ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 50780">
+				<media url="a24x30.mp3" startMsecs="0" duration="50780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation du pH@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comment le pH est-il régulé?&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="338" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="123.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="338"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6581ba15b456487482be638d7156e232yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="55840" isStartRelative="false" duration="167"/>
+				<click startTime="94640" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 123280">
+				<media url="a24x31.mp3" startMsecs="0" duration="123280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Tampons, ventilation et excrétion rénale prennent en charge les variations de pH plasmatique pour le maintenir dans des limites très ètroites&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="339" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="86.25" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="339"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7e1d8296c8504fcb97cabfca38acaab9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="5870" isStartRelative="false" duration="167"/>
+				<click startTime="29270" isStartRelative="false" duration="167"/>
+				<click startTime="57530" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="32" duration=" 86250">
+				<media url="a24x32.mp3" startMsecs="0" duration="86250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation du pH@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="340" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="77.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="340"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b280eabf8a7a4d4ca3c62d307061bfccyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 77410">
+				<media url="a24x33.mp3" startMsecs="0" duration="77410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="341" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="78.63" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="341"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_942d237481d749ac9b28b30840dc7d1dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="34" duration=" 78630">
+				<media url="a24x34.mp3" startMsecs="0" duration="78630" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation du pH@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="342" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="60.13" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="342"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_691d77c692d94224aa5da89ca0c8ba2fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="35" duration=" 60130">
+				<media url="a24x35.mp3" startMsecs="0" duration="60130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Régulation du pH@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="313" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="104.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="313"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3fd79af1bf6b4415950b1065db41e033yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 104080">
+				<media url="a24x4.mp3" startMsecs="0" duration="104080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Fonctions de l’appareil respiratoire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="314" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.09" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="314"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e9d9e529480f45f0a5c8845e3c20533eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 47090">
+				<media url="a24x5.mp3" startMsecs="0" duration="47090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Défense de l’organisme@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Résistances: &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="315" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.18" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="315"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0d625ab5c33d4d80b7b9ac0545fc8927yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 43180">
+				<media url="a24x6.mp3" startMsecs="0" duration="43180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Clairance muco-ciliaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="316" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="19.3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="316"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a0e9c24c330642e8af19d3683b2be7dayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 19300">
+				<media url="a24x7.mp3" startMsecs="0" duration="19300" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Clairance muco-ciliaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="317" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="62.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="317"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b631348b63ed45158738460dd23d5ee8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="32490" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 62040">
+				<media url="a24x8.mp3" startMsecs="0" duration="62040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Clairance muco-ciliaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="318" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="59.5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="318"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a6f408d9cd494d7f96ec506c8035f7bcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 59500">
+				<media url="a24x9.mp3" startMsecs="0" duration="59500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Clairance muco-ciliaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="319" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.65" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="319"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4b4b5838c0d041e6bd39a5d2669adc9dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="30530" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 57650">
+				<media url="a24x10.mp3" startMsecs="0" duration="57650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Clairance muco-ciliaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="320" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="58.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="320"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c94c5d66ce7942e9b7066ca0838df005yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 58950">
+				<media url="a24x11.mp3" startMsecs="0" duration="58950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Clairance muco-ciliaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="321" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="49.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide19.swf" id="321"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_396825550c574704ba1d2112ba4b6139yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 49550">
+				<media url="a24x12.mp3" startMsecs="0" duration="49550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Clairance muco-ciliaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="322" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="64.78" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide20.swf" id="322"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_47123a0ebc034a95bf575df0695a7f2cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 64780">
+				<media url="a24x13.mp3" startMsecs="0" duration="64780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Clairance muco-ciliaire@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="323" showInTOC="" inSequence="" frameRate="30" totalFrames="270" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="98.32" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="323"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cd19994ec2304985b541c29c60559354yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="16760" isStartRelative="false" duration="167"/>
+				<click startTime="30370" isStartRelative="false" duration="667"/>
+				<click startTime="43580" isStartRelative="false" duration="167"/>
+				<click startTime="54240" isStartRelative="false" duration="2034"/>
+				<click startTime="65840" isStartRelative="false" duration="167"/>
+				<click startTime="83840" isStartRelative="false" duration="5034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 98320">
+				<media url="a24x14.mp3" startMsecs="0" duration="98320" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Facteurs mécaniques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="324" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="55.79" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide22.swf" id="324"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_41504647e8874a9e8d80736ff8b9bec6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="36950" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 55790">
+				<media url="a24x15.mp3" startMsecs="0" duration="55790" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Facteurs mécaniques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="325" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="54.67" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="325"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a77c2d35044749bfb20f97d7b619d3e5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 54670">
+				<media url="a24x16.mp3" startMsecs="0" duration="54670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Facteurs mécaniques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="326" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="84.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="326"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0bbfa7ef09a6405d8afc998a4013b152yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 84550">
+				<media url="a24x17.mp3" startMsecs="0" duration="84550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Facteurs mécaniques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="327" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="48.69" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="327"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cfe8349ceafb42dca2f909deba86f146yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 48690">
+				<media url="a24x18.mp3" startMsecs="0" duration="48690" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Facteurs mécaniques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="328" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="54.07" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="328"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d6bdc1d2fe75497fae69d5f524a907e3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="33820" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 54070">
+				<media url="a24x19.mp3" startMsecs="0" duration="54070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Conditionnement de l’air inspiré@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="329" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="46.36" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide27.swf" id="329"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6756023a9d954906a41a140100164a0byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 46360">
+				<media url="a24x20.mp3" startMsecs="0" duration="46360" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Conditionnement de l’air inspiré@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="330" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="54.02" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="330"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b698c405392240e18493b72439df33dayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 54020">
+				<media url="a24x21.mp3" startMsecs="0" duration="54020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Flore normale@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="331" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="331"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2587f972c3a84526bd8999e9dc22a868yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 36800">
+				<media url="a24x22.mp3" startMsecs="0" duration="36800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Tissus lymphoïde@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="332" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="37.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide30.swf" id="332"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8e2b883f8c7a4825b6f2579cf72d7f9cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 37190">
+				<media url="a24x23.mp3" startMsecs="0" duration="37190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Tissus lymphoïde@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="333" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="45.97" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="333"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a5de88d4a86c4a339fbfd3dd6929fff7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 45970">
+				<media url="a24x24.mp3" startMsecs="0" duration="45970" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Macrophages alvéolaires@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="334" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="42.65" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="334"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_44355a39e2c842c78561157e5815341byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 42650">
+				<media url="a24x25.mp3" startMsecs="0" duration="42650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Conclusions@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="277" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="277"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d3409be6e7c84f3cb34e4254b647c56dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Références iconographiques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="2"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide34.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_82a87ab54f3c4af4b8aefe70dbc41110yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="2"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>
