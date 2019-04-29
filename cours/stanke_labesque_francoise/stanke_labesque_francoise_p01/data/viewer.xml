@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 1 :  Aspects Pharmacodynamiques</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Françoise Stanke-Labesque</name>
+			<speakerTitle>Professeur CHU Grenoble (Université Joseph Fourier)</speakerTitle>
+			<image>spk58806.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_49f5d24b11dd4ac8b6bce8ecf40e8b6ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_57f6df76165c4adfb8c8e4766c7a3ab9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_ed58256bc7b9434e8520f23751a2742fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_98617d1cfdfb4f3a9a4523ce5b71fc37yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_7b5af17335d142d6b14b8b783c46a83byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_1051963776a443f4bea0a8ad901cb7e6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_59cfeb0455af462f92f3425f5d90c44eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout5.swf" id="6" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_9adb02b35b2f4e9a861a942c5a582efbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="256" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.6" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide0.swf" id="256"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_797d1d15eaa748fbb14c5c376ff668c1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 43600">
+				<media url="a24x1.mp3" startMsecs="0" duration="43600" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 1 :  Aspects Pharmacodynamiques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Bonjour,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je m’appelle Françoise Stanke-Labesque&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je suis maitre de conférences des universités à l’UFR de médecine et praticien hospitalier au CHU de Grenoble.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je suis pharmacologue : à ce titre, j’ai le plaisir de vous proposer une initiation à la pharmacologie, science du médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour bien comprendre ce cours, j’attire votre attention sur la nécessité d’avoir vu et acquis les notions concernant les principes actifs et leurs cibles présentés par le Pr Christophe Ribuot dans cette ue6.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans ce premier chapitre, je vais vous présenter les aspects pharmacodynamiques de l’étude d’un médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="259" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="110.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3d7427e8c6c949079070ad3bf9c1f3d8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 110190">
+				<media url="a24x2.mp3" startMsecs="0" duration="110190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Avant de rentrer dans le détail des définitions, je voudrai vous situer la pharmacodynamie et la pharmacocinétique par rapport à l’utilisation d’un médicament chez un patient.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Afin de produire un effet pharmacologique recherché, et donc un effet thérapeutique, le PA ou médicament va être administré à un sujet.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les voies d’administrations utilisées vont dépendre des propriétés PC du PA, mais également du statut physiopathologique du patient, et du contexte d’urgence.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lorsque le médicament va pénétrer dans l’organisme, l’organisme va mettre en place une série de processus, destinés à éliminer le médicament de l’organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La pharmacocinétique est donc une spécialité de la pharmacologie qui s’intéresse au devenir du médicament dans l’organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle repose donc sur l ’étude des concentrations de médicament obtenues suite à l’administration d’une dose de médicament. La pharmacocinétique permet l’étude de la relation dose de médicament-concentration (sanguine, plasmatique ..) en médicament&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une fois qu’il a atteint la circulation générale, le principe actif va ensuite diffuser vers son site d’action pour induire l’effet pharmacologique recherché.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La pharmacodynamie est une spécialité de la pharmacologie qui s’intéresse à la mesure de l’effet d’un médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle étudie en particulier les relations doses de médicament-effet pharmacologique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="257" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.53" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="257"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_edc59c5875f9420ea14cf58f4db7d136yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 57530">
+				<media url="a24x3.mp3" startMsecs="0" duration="57530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La pharmacodynamie @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme je vous l’ai indiqué en introduction, ce chapitre est une initiation à la pharmacodynamie dont voici une définition.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les objectifs principaux des études de pharmacodynamie sont, &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-d’une part, d’évaluer la relation concentration –effet ou la relation pharmacocinétique-pharmacodynamique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-d’autre part, de déterminer l’intervalle thérapeutique, cad l’intervalle des concentrations pour lequel le médicament est jugé efficace et sur d’utilisation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces deux objectifs, relation concentration-effet et « index thérapeutique » sont essentiels pour la détermination du schéma posologique optimal du médicament, ajusté ou non aux caractéristiques des malades.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="332" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="45.45" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="332"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9442b8de92ab43fb9a4fdb05c0456dd4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 45450">
+				<media url="a24x4.mp3" startMsecs="0" duration="45450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs/Plan du cours@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="325" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="60.76" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="325"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6ed3708f9e7e45a38c451d2ed23bdbbeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 60760">
+				<media url="a24x6.mp3" startMsecs="0" duration="60760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les niveaux d’étude de l’affinité et de l’activité des principes actifs@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les études de pharmacodynamie peuvent se faire à différents niveaux, dans le cadre d’étude in vitro, ou dans le cadre d’étude in vivo.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans le cadre d’étude in vitro, les études de pharmacodynamie peuvent se faire sur des préparations de récepteurs purifiés, sur des fragments membranaires, sur des cellules isolées ou des organes isolés.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les récepteurs purifiés ou les fragments membranaires sont particulièrement utilisés pour réaliser des études de liaison entre un ligand et son récepteur. Ces études de liaison spécifiques ne seront pas abordées dans ce chapitre;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En revanche, les cellules isolés et les organes isolés sont des préparations couramment utilisées pour la réalisation d’études fonctionnelles  et donc pour la détermination de courbes doses-réponse.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, les étude in vivo, réalisée sur l’organisme entier sont également d’une grande utilité pour la réalisation d’études fonctionnelles.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="333" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="29.74" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="333"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a845a741cbc94f53be68af26499430d4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="41" duration=" 29740">
+				<media url="a24x41.mp3" startMsecs="0" duration="29740" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects Pharmacologiques  Notion d’affinité d’un ligand pour son récepteur@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dipositive 5 &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous allons dans un premier temps aborder la notion d’affinité d’un ligand pour son récepteur&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La puissance de l’interaction physico chimique entre un principe actif et son récepteur correspond à l’affinité réciproque de ces 2 partenaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette affinité dépend de la structure chimique de chacun des partenaires permettant l’établissement de liaisons non covalente entre le ligand et son récepteur;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="334" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="334"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_837cbf5f99294f50af7995dd1635b68ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 98000">
+				<media url="a24x14.mp3" startMsecs="0" duration="98000" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Affinité et modèle de la loi d’action de masse@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’interprétation des courbes doses-réponses fait appel à la théorie de l’occupation des récepteurs, &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En pharmacologie, la loi d’action de masse est largement appliquée pour quantifier l’interaction d’un ligand avec son récepteur&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette théorie pose comme postulat que La liaison des ligands (agonistes ou antagoniste) à leur récepteur obéit à la loi d’action de masse&lt;/span&gt;&lt;span &gt;, &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cela signifie qu’il s’’établit un équilibre dynamique entre les formes libres et associées du ligand et du récepteur&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette théorie de l’occupation des récepteur suppose que la réponse soit directement &lt;/span&gt;&lt;span &gt;proportionelle&lt;/span&gt;&lt;span &gt; au pourcentage de récepteurs occupés.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Soit M, la concentration en médicament libre, &lt;/span&gt;&lt;span &gt;cad&lt;/span&gt;&lt;span &gt; non lié à son récepteur,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;R, la concentration en récepteur libre, &lt;/span&gt;&lt;span &gt;cad&lt;/span&gt;&lt;span &gt; non lié au médicament&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;MR, la concentration en complexe médicament –récepteur, &lt;/span&gt;&lt;span &gt;cad&lt;/span&gt;&lt;span &gt; médicament lié au récepteur,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il s’installera un équilibre entre la concentration en M et R et la concentration en médicament lié au récepteur, en fonction des constantes de cinétiques d’association K1 et de dissociation K2&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cet équilibre entre la concentration de médicament lié au récepteur et la concentration de médicament libre permet de définir la notion d’affinité d’un ligand pour son récepteur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="335" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.59" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="335"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1d8e29216f6c4c78853be98fb03479e4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="45" duration=" 36590">
+				<media url="a24x45.mp3" startMsecs="0" duration="36590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Etudes de liaisons@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Cette affinité est déterminée par les études de liaisons, réalisées très fréquemment sur des préparations membranaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si l’on représente graphiquement la relation entre la concentration en ligand (en abscisse) et le % de récepteurs occupés par ce ligand (en ordonnée), on se rend compte que le pourcentage de récepteurs occupés par le ligand augmente avec la concentration en ligand, jusqu'à l’obtention d’un plateau correspondant à la totalité des récepteurs occupés par le ligand&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="336" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="73.18" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="336"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bc3c479aaaa246c180d862e07c891ac3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 73180">
+				<media url="a24x15.mp3" startMsecs="0" duration="73180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de constante d’affinité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Si on réalise maintenant une transformation semi logarithmique de la concentration en ligand, et l’on représente de façon graphique la relation entre le logartihme de la concentration enligand ou (ici représenté en abscisse) et le pourcentage de ligand (ou de médicament) lié au récepteur (ici représenté en ordonné) , on obtient une courbe sigmoide qui suppose que dans sa partie linéaire, le pourcentage de récepteurs occupé est proportionnel au logarithme de la concentration en ligand&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-Cette courbe permet de déterminer la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;constante d’affinité  &lt;/span&gt;&lt;span &gt;ou le Kd qui représente la concentration d’agoniste nécessaire pour occuper 50 % des récepteurs.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La lecture graphique sur l’axe des x permet de déterminer le logarithme de kd&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La valeur de Kd  ainsi obtenue en prenant l’inverse du logartithme de KD.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Kd est donc une constante qui permet de caractériser l’affinité du mdct pour son récepteur&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-plus Kd est faible, plus l'affinité du PA pour le récepteur d’intérêt est élevée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="337" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13.42" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide9.swf" id="337"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_813b2d6e9aec47e89fb48a92b1fa6827yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="42" duration=" 13420">
+				<media url="a24x42.mp3" startMsecs="0" duration="13420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs/Plan du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La notion d’affinité d’un ligand pour son récepteur étant définie, nous allons maintenant aborder l’étude des réponse fonctionnelles, consécutives à la liaison d’un ligand sur son récepteur&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="338" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13.44" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="338"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f31b9a7a2ce345e0a49e622e5b592f0eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="43" duration=" 13440">
+				<media url="a24x43.mp3" startMsecs="0" duration="13440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects Pharmacologiques  Relations concentrations (ou doses) -effets@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dipositve 7&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’evaluation fonctionnelle de l’interaction d’un ligand avec son récepteur est réalisée par l’étude des relations dose ou concertation de principe actif et effet pharmacologique induit&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="275" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="41.88" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9af939b21bc1454c9f89f0e097b4f24cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 41880">
+				<media url="a24x7.mp3" startMsecs="0" duration="41880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le type de réponse étudiée@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans les relations doses-réponse, 2 types de réponses peuvent être évaluées.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- la réponse&lt;/span&gt;&lt;span  fontWeight="bold"&gt; quantitative&lt;/span&gt;&lt;span &gt; permet d’évaluer l’intensité de l’effet en fonction de la dose de principe actif : un exemple de réponse quantitative peut être la mesure de la force développée par un vaisseau en réponse à un agoniste donné, je reviendrai sur cet exemple&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La réponse &lt;/span&gt;&lt;span  fontWeight="bold"&gt;qualitative&lt;/span&gt;&lt;span &gt; permet d’évaluer le pourcentage d’individus qui  présentera la réponse étudiée .&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces réponses qualitatives sont régies par le principe du tout ou rien.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="140.1" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_743f577c17c84c57a431b9b945a8ebabyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="78550" isStartRelative="false" duration="167"/>
+				<click startTime="81920" isStartRelative="false" duration="167"/>
+				<click startTime="86820" isStartRelative="false" duration="167"/>
+				<click startTime="91580" isStartRelative="false" duration="167"/>
+				<click startTime="92980" isStartRelative="false" duration="167"/>
+				<click startTime="137420" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 140100">
+				<media url="a24x8.mp3" startMsecs="0" duration="140100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réponses quantitatives@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons , dans un premier tems, aborder les réponses &lt;/span&gt;&lt;span  fontWeight="bold"&gt;quantitatives&lt;/span&gt;&lt;span &gt;, qui sont,  je le rappelle des réponses qui mesurent l’intensité de l’effet pour une concentration donnée de principe actif.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’exemple que je vais vous présenter concerne l’étude de la réactivité d’un segment vasculaire en réponse à un agoniste, la noradrénaline.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour étudier sa réactivité, le segment vasculaire est placé dans une cuve à organe isolé thermostatée à 37 °C et remplie de solution nutritive.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le vaisseau est monté entre deux étiers dont l’étrier supérieur est relié à un capteur de force. Ce capteur permettra d’enregistrer la force développée par le vaisseau en réponse à l’agoniste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est donc possible au moyen de la préparation présentée de construire une courbe représentant la force de contraction en fonction de de la variation des concentrations de noradrénaline que l'on va progressivement augmenter au cours du temps. Il est possible de constater que la première contraction apparaît pour une concentration de 3.10 –8, et ensuite, la force de contraction va augmenter de façon proportionnelle à l'augmentation de la concentration du produit étudié. On constate d'autre part que cette contraction atteint un niveau maximum au-delà duquel, de nouveaux ajouts d'histamine sont inopérants à augmenter la force développée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Donc, on retient la nécessité d'une &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;concentration minimum&lt;/span&gt;&lt;span &gt; pour une action, une &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;progressivité de l'effet&lt;/span&gt;&lt;span &gt; proportionnelle à la Concentration et l'obtention d'un &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;effet maximum&lt;/span&gt;&lt;span &gt; à partir duquel toute augmentation de concentration n’est pas associée à une augmentation de l’effet obtenu.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="48.97" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d5869a77482e4e23b2cd1fab4d681cb2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 48970">
+				<media url="a24x9.mp3" startMsecs="0" duration="48970" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Relation concentration/effet@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici la représentation du même effet mais ici, la &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;force de contraction&lt;/span&gt;&lt;span &gt;, et donc l'effet, est représentée &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;en fonction de la concentration&lt;/span&gt;&lt;span &gt; de produit actif et la notion de temps n'est plus présente.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette relation a une allure asymptotique et on retient qu'il s'agit de &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;coordonnées cartésiennes&lt;/span&gt;&lt;span &gt; tant pour l'effet que pour la concentration,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette représentation graphique permet de mettre en évidence la notion d’effet maximum. En effet, on se rend bien compte qu’à partir d’une certaine concentration en principe actif (la noradrénaline dans notre exemple), l’effet (ici la contraction du vaisseau) a atteint son maximum, et l’organe n’est plus sensible à une stimulation par des concentrations supérieures en principe actif.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="291" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="33.07" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="291"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cf046f1173a94f0db6c036ec0c71e8f2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="10" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 33070">
+				<media url="a24x10.mp3" startMsecs="0" duration="33070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Relation concentration-effet@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Si l'on transforme maintenant les concentrations reportées en abcisse par des valeurs&lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt; logarithmiques&lt;/span&gt;&lt;span &gt;, on constate que la courbe prend une forme en S &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;sigmoïde&lt;/span&gt;&lt;span &gt;, avec une partie centrale pratiquement rectiligne qui sera d'une grande utilité pour retenir des paramètres caractéristiques à partir de données expérimentales. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette courbe présente l’avantage d’’être droite dans sa partie médiane, indiquant ainsi que l’effet est proportionnel au logarithme de la concentration&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="290" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="39.51" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="290"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e919e967cfbd4b1fb320042318438578yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 39510">
+				<media url="a24x11.mp3" startMsecs="0" duration="39510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Relation concentration-effet@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;De même, dans le cas de réponses qualitatitves, qui, je le répète sont des réponses régies par la loi du tout ou rien, la transformation logarithmique des concentrations sur l’axe des abcisses permet d’obtenir une courbes sigmoide.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans ce cas, sur l’axe des ordonnées, on mesurera plutôt &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la fréquence cumulée ou le pourcentages d’individus&lt;/span&gt;&lt;span &gt; répondant pharmacologiquement à la dose de PA&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;l’Emax sera obtenu lorsque 100 % des individus répondront au traitement (ou présenteront l’effet étudié).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="339" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="339"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_813c032842eb4747beede9023d8bf116yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="44" duration=" 6190">
+				<media url="a24x44.mp3" startMsecs="0" duration="6190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs/Plan du cours@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="313" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="9.67" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="313"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6c21297da3b14bff97db4b66ee752765yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 9670">
+				<media url="a24x13.mp3" startMsecs="0" duration="9670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects Pharmacologiques  Principaux paramètres pharmacodynamiques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Et nous allons de ce fait aborder les principaux paramètres pharmacodynamiques&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="340" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="340"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_10dd122a9f3043d48823d49d640b670fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="46" duration=" 18520">
+				<media url="a24x46.mp3" startMsecs="0" duration="18520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion d’activité intrinsèque@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous avons vu que la capacité d’un ligand à se fixer sur un récepteur caractérisait son affinité.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous allons voir maintenant que la capacité du complexe (liand-recepteur) à induire un effet pharmacologique caractérise &lt;/span&gt;&lt;span  fontWeight="bold"&gt;son activité intrinsèque&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="322" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="53.04" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="322"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_158042e938154b939f643a95afd04efayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 53040">
+				<media url="a24x17.mp3" startMsecs="0" duration="53040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Activité intrinsèque d’un agoniste@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Cette théorie de l’occupation des récepteurs a ensuite évolué par l’observation que plusieurs ligands agissant sur le même récepteur pouvaient induire des effets d’intensité variable;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme vous pouvez le voir sur cette diapositive, et si je prends l’exemple de 2 agonistes 1 et 2 se fixant sur le même récepteur,  l’amplitude de l’effet maximal n’est pas identique pour toutes les molécules se fixant sur ce récepteur : cette amplitude définit la notion d’activité intrinsèque. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="323" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="104.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="323"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1fd73946030a447bb24ebc1d76605ad1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 104680">
+				<media url="a24x18.mp3" startMsecs="0" duration="104680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les différents types de ligands@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A partir de l’effet maximum de la molécule la plus active, on peut définir &lt;/span&gt;&lt;span  fontWeight="bold"&gt;3 types d’agonistes&lt;/span&gt;&lt;span &gt; selon leur valeur de EMax&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-&lt;/span&gt;&lt;span  fontWeight="bold"&gt;agoniste entier&lt;/span&gt;&lt;span &gt; : Emax = 100 % du Emax de la molécule la plus  active . Cet agonsite à une acitivité intrinsèque égale à 1 et est considéré comme un agoniste entier.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- &lt;/span&gt;&lt;span  fontWeight="bold"&gt;Agoniste partiel&lt;/span&gt;&lt;span &gt; : Emax entre 0 et 100 % de l’EMX et dont l’activité intrinsèque est &amp;lt;1 mais est différente de zéro&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous avez vu dans un cours précédent la notion d’antagoniste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces antagonistes se lient comme les agonistes de façon spécifique aux récepteurs mais n'entraînent pas d'effet: ce qui se traduit, sur cette représentation graphique, par une courbe plate.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un PA présentant une activité intrinsèque nulle est donc un antagoniste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;En résumé, et à retenir, l’activité intrinsèque permet de  définir les agonistes entiers, les agonistes partiels, et les antagonistes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="324" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.9" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="324"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bfb13aa4351e4ea887c1b3c1f13b04e0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 52900">
+				<media url="a24x19.mp3" startMsecs="0" duration="52900" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion d’agoniste entier - agoniste partiel@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici à titre indicatif un exemple qui, je l’espère, vous permettra de mieux comprendre cette notion d’agoniste partiel.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La morphine est un principe actif utilisé comme antalgique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La morphine est un agoniste entier des récepteur mu.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La codéine est également un opiacé agoniste des récepteur mu. Cependant, l’intensité de l’effet antalgique induit par la codéine est bien moindre que celui provoqué par la morphine. De ce fait, la codéine est du reste fréquemment associé à d’autre antalgiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="287" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="48.02" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="287"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b3b8dd3f392a41d1bfcc6fc3348026b0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 48020">
+				<media url="a24x20.mp3" startMsecs="0" duration="48020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de concentration efficace 50@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;A coté de la notion d’effet maximum, une autre notion importante peut être déterminée par les courbes doses-réponse semi logarythmique : il s’agit de la concentration efficace 50 ou dose efficace 50..&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette concentration efficace 50 est définie comme la concentration de PA, ou la dose de PA qui induit 50 % de l’effet maximum.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Cette &lt;/span&gt;&lt;span  fontWeight="bold" fontStyle="italic"&gt;EC50 &lt;/span&gt;&lt;span &gt;permet de quantifier la puissance d'un principe actif et de comparer cette puissance à celle d’autres principes actifs par exemple se fixant sur le même récepteur.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="288" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.37" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="288"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9cdd6cb94c5a41f6927fca5a2c012e51yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="7340" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 14370">
+				<media url="a24x21.mp3" startMsecs="0" duration="14370" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de concentration efficace 50@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans le cas de réponse qualitative,, la CE50 est la concentration ou la dose de médicament de médicament qui induit une réponse chez 50 % des individus&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="32.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_53465362a9b84ee088c45b7eefcaf306yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 32820">
+				<media url="a24x22.mp3" startMsecs="0" duration="32820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Principaux paramètres  pharmacodynamiques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En résumé, c’est ce que je vous demanderai de retenir, &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-l’EC50 ou concentration efficace 50 permet de déterminer la puissance d’un agoniste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La puissance d’un médicament dépend de son affinité pour son site de liaison .&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-La valeur de Emax ou effet maximum permet de caractériser l’efficacité d’un médicament cad de mesurer l’efficacité avec laquelle l’interaction médicament-récepteur est couplée à l’effet.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’activité clinique d’un médicament dépend de son activité maximale et de sa capacité à atteindre les récepteurs correspondants.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="274" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="62.78" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1df0395b4bd242b69182971b2002b8e0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 62780">
+				<media url="a24x23.mp3" startMsecs="0" duration="62780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Comparaison de puissance et  d’efficacité de plusieurs ligands agonistes@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La détermination de l’EC50 et de l’Emax permet donc de comparer la puissance et l’efficacité de plusieurs agonistes se fixant sur le même site de liaison.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A titre d’exemple, si l’on considère les 4 molécules A, B,C et D, qui sont des ligands d’un même site de liaison.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour comparer la puissance de ces 4 molécules, il suffit de comparer l’EC50, et on peut en déduire que, en temre de puissance, A&amp;gt;B&amp;gt;C&amp;gt;D Pour comparer l’efficacité de ces 4 molécules, il suffit de comparer leur Emax : on peut donc en déduire que l’efficacité de la molécule D&amp;gt;A&amp;gt;B&amp;gt;C&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="331" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="26.09" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="331"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_354a0fc1a3eb43c2b89cc9b1905df05cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 26090">
+				<media url="a24x24.mp3" startMsecs="0" duration="26090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Comparaison de puissance et  d’efficacité de plusieurs ligands agonistes@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’étude systématique des relations concentrations-effet pour des analogues chimiques agonistes permet classiquement de définir les relations structure activités à l’intérieur d’une même série chimique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La comparaison des EC50 et des EMAX permet de screener et de comparer les ligands d’un même récepteur lors des phases pré-clinique de développement d’un médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="281" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="22.47" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="281"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3e701d706ea64910b232b37bcb135986yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 22470">
+				<media url="a24x25.mp3" startMsecs="0" duration="22470" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion d’antagoniste@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous allons maintenant voir comment il est possible de quantifier la puissance d’un antagoniste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je rappelle qu’il Il existe des substances à effet antagoniste pur cad qui se fixent sur les récepteurs sans les stimuler. Nous avons vu qu’en général, les antagonistes avaient une activité intrinsèque nulle.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="283" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="19.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="283"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f5d32f937ee3411c80222269a5075cd2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="1200" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 19520">
+				<media url="a24x26.mp3" startMsecs="0" duration="19520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion d’antagoniste compétitif@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un antagoniste compétitif se fixe sur le même site de liaison que l’agoniste. Cependant, son affinité pour le site de liaison est supérieure à celle de l’agoniste, il peut ainsi déplacer les molécules d’agonistes déjà fixées à leur récepteur et lever l’effet pharmacologique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="116.37" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9c7358dcf5394035bfb2aef28aa8f79cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 116370">
+				<media url="a24x27.mp3" startMsecs="0" duration="116370" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ Antagoniste compétitif@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La réalisation de courbes doses-réponse est également d’une grande utilité pour évaluer les effets des antagonistes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour cela, il est nécessaire de réaliser une courbe dose-réponse de l’agoniste comme cela est représenté en rouge, et une courbe dose réponse à l’agoniste, en présence dune concentration donnée d’antagoniste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Su le plan pratique, comment procède t-on : Si je reprend l’exemple de la préparation vasculaire placée dans une cuve à organe isolé, il suffit de réaliser une courbe dose-réponses à la noradrénaline, et en parallèle, sur une autre préparation vasculaire, la même courbe dose-réponse à la noradrénaline, mais cette fois, après l’avoir traitée par une concentration donnée d’antagoniste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La représentation graphique de cette expérience est présentée sur cette diapositive&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-en rouge est représentée la courbe dose réponse à l’agoniste&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-en noir est représentée la courbe dose-réponse à l’agoniste, en présence d’une concentration donnée d’antagoniste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;  Ce décalage vers la droite des courbes dose-réponse de l’agoniste observées en présence de l’antagoniste, sans modification de l’Emax est caractéristique d’un antagonisme compétitif : cad que l’agoniste et l’antagoniste se fixent sur le même site de liaison au niveau du récepteur. Je vous invite à revoir ces notions dans le cours précédent de Christophe Ribuot&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="297" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="297"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_273ba3537c614988906ec59839ca5f08yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 43610">
+				<media url="a24x28.mp3" startMsecs="0" duration="43610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Quantification de la puissance d’un antagoniste compétitif@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La quantification de l’affinité d’un antagoniste pour son récepteur est évalué par la valeur du PA2; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce pA2 est le logarithme, changé de signe, de la concentration d’antagoniste qui nécessite le doublement de la dose d’agoniste pour produire le même effet. Son calcul est un peu compliqué et ne vous sera pas expliqué dans cet enseignement. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Ce qu’il vous faut retenir&lt;/span&gt;&lt;span &gt;, c’est que la valeur de pA2 permet de d’apprécier et de comparer l’affinité et donc la puissance d’un antagoniste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;+ la valeur de pA2 est élevée, plus l’affinité de l’antagoniste pour le récepteur considéré est élevée. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="301" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="70.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="301"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_55f1970fa6c5465298633855d8a2400dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 70910">
+				<media url="a24x29.mp3" startMsecs="0" duration="70910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Quantification de la puissance d’un antagoniste compétitif@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Cette notion de pA2 permet de comparer entre eux différents antagonistes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Voici un exemple, qui, je l’espère, vous aidera à comprendre l’utilité de la valeur du pA2&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Soit un laboratoire pharmaceutique qui synthétise des molécules à propriétés antagonistes vis-à-vis d’un récepteur donné.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les valeurs de pA2 obtenues sont les suivantes &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;9 pour la molécule 1&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;8 pour la molécule 2&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;7 pour la molécule 3&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme nous l’avons vu sur la diapositive précédente, + la valeur de pA2 est élevée, plus l’affinité de l’antagoniste pour le récepteur considéré est élevée. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Parmi les 3 antagonistes testés, la molécule 1 est donc plus puissante que la molécule 2 q ui est plus puissante que la molécule 3.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La détermination de la valeur du pA2 est particulièrement intéressante dans les screenings pharmacologiques pré-cliniques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette détermination de la valeur de pA2 n’est applicable que dans le cas d’un antagonisme compétitif&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="341" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="24.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="341"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9fafceaa526347f7bc77f799d2fa7c74yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="48" duration=" 24240">
+				<media url="a24x48.mp3" startMsecs="0" duration="24240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Antagonisme non compétitif@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span  fontStyle="italic"&gt;Un antagoniste non compétitif est une molécule qui se lie , sur un récepteur, au niveau d’un site de liaison distinct de celui de l’agoniste.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’antagoniste se lie au niveau du récepteur sur un site distinct du site de liaison de l’agoniste (site&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;allostérique) et entraîne des modifications conformationnelles du récepteur avec diminution de&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;l’affinité du récepteur pour son agoniste ; l’association de l’antagoniste au récepteur est pratiquement&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;irréversible. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="342" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="38.26" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="342"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_806783d5e0d34166b9ee1d2d6fd111b6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="49" duration=" 38260">
+				<media url="a24x49.mp3" startMsecs="0" duration="38260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ Antagoniste non compétitif@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’antagoniste n’ayant pas d’effet propre, il faut réaliser des&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;courbes dose-réponse de l’agoniste avec des concentrations croissantes d’antagoniste pou évaluer son effet.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans ce cas on observe une diminution de l’efficacité de l’agoniste et donc une diminution de l’Emax: l’antagonisme est&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;insurmontable. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce décalage vers la droite des courbes dose-réponse de l’agoniste observées en présence de l’antagoniste, avec diminution de l’emax est caractéristique d’un antagonisme non compétitif &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="329" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide34.swf" id="329"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8d40de8ab2f940248402b979a98048a6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 5920">
+				<media url="a24x30.mp3" startMsecs="0" duration="5920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs/Plan du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Je vais maintenant vous présenter la notion de marge thérapeutique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="316" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide35.swf" id="316"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cdde9bf33b334dad9b668bc2c0529a41yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="3000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects Pharmacologiques  Notion de marge thérapeutique@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="278" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="88.6" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide36.swf" id="278"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1d0c54253f2f47c499d55414f1f1bb67yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="32" duration=" 88600">
+				<media url="a24x32.mp3" startMsecs="0" duration="88600" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de marge thérapeutique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’administration d’un médicament a pour objectif d’atteindre un effet bénéfique (efficacité). Toutefois ce médicament peut également générer des effets indésirables (toxicité) qui peuvent être graves parfois graves. Ces effets indésirables sont le plus souvent (mais pas dans tous les cas) dépendants de la quantité de médicament prescrite. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi, pour un même médicament, on peut décrire 2 courbes dosés-réponse, en fonction de l’effet étudié :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La courbe dose-effet thérapeutique (représenté en bleu)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-la courbe dose-effet toxique (représentée en rouge) obtenue pour des concentrations plus élevées en médicaments. Pour cette courbe dose-réponse, la concentration efficace 50 s’apparent à une concentration toxique 50 cad la concentration qui induit un effet toxique chez 50 % des individus.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le schéma posologique optimal choisi pour un médicament a donc pour but de prescrire une dose permettant d’obtenir un maximum d’efficacité pour un minimum de toxicité : on parle alors de rapport bénéfice - risque optimal. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="280" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="44.08" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide37.swf" id="280"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1044c25ad4cf4ef5b6c30a9623929135yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 44080">
+				<media url="a24x33.mp3" startMsecs="0" duration="44080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de marge thérapeutique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’étude de la relation concentration – effet bénéfique (ou efficacité), représentée en bleu sur la diapositive) et de la relation concentration – effet indésirables (ou toxicité, représentée en rouge sur la diapositive) est donc indispensable pour définir la zone de concentrations au dessous de laquelle le médicament est inefficace et au dessus de laquelle le médicament est toxique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’intervalle thérapeutique ou la marge thérapeutique est donc l’intervalle de concentrations pour lequel l’utilisation du médicament est associé à un bon rapport bénéfice-risque&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="319" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="70.54" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide38.swf" id="319"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_70e14ae9c33f4862b5387eb95d424b1ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="34" duration=" 70540">
+				<media url="a24x34.mp3" startMsecs="0" duration="70540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Médicaments à marge thérapeutique étroite@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour certains médicaments, les concentrations nécessaires pour induire l’effet thérapeutique, et les concentrations associées à la survenue d’effets indésirables ou de toxicité sont très proches.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces médicaments sont dits &lt;/span&gt;&lt;span  fontWeight="bold"&gt;médicaments à marge thérapeutique étroite&lt;/span&gt;&lt;span &gt;. Pour ces médicaments, les effets thérapeutiques et les effets indésirables sont obtenus pour des concentrations très proches les unes des autres.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces Médicaments doivent donc faire l’objet d’un suivi thérapeutique pharmacologique, cad d’un suivi de leurs concentrations sanguine sou plasmatique pour assurer au patient une efficacité et éviter tout problème de toxicité .Ces dosages de médicaments sont réalisés dans les laboratoires de pharmacologie-toxicologie des centres hospitaliers.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La digoxine, un médicament de l’insuffisance cardiaque, le phénobarbital ou la carbamazépine,qui sont deux médicaments anti-épileptiques, sont des exemples de médicaments à marge thérapeutique étroite et dont l’utilisation est associé à un suivi thérapeutique pharmacologique;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="330" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="7.85" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide39.swf" id="330"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9915a8d845ce4d5982260276052498c8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="35" duration=" 7850">
+				<media url="a24x35.mp3" startMsecs="0" duration="7850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs/Plan du cours@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="317" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide40.swf" id="317"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f777f32e913540b2bbedfd1d10d63af5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects Pharmacologiques  Notion de toxicité des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La dernière notion que nous allons aborder dans ce chapitre est la notion de toxicité des principes actifs.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="284" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="78.39" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide41.swf" id="284"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_72f8dc08cc03496f9fbfaffc473f03f2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="37" duration=" 78390">
+				<media url="a24x37.mp3" startMsecs="0" duration="78390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Toxicologie des principes actifs@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les molécules destinées à la thérapeutique humaine doivent  subir, avant tout essai clinique, des tests de toxicité aiguê et chronique chez l’animal.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les effets de l’exposition aigue à un PA diffèrent souvent de ceux produits par une exposition subaigue ou chronique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’exposition aigue se manifeste quand une dose est administrée en une seule fois.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’exposition chronique est provoquée par l’administration de petites doses du PA pendant une longue période, et résulte fréquement d’une lente accumulation du PA dans l’organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’évaluation des effets toxiques cumulatifs doit retenir notre attention car il y a des expositions chroniques à basse concentration de nombreuses substances chimiques naturelles ou synthétiques dans l’environnement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="42"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="295" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="29.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide42.swf" id="295"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7e94abfa01384f6c9c871b8901f3cb44yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="38" duration=" 29610">
+				<media url="a24x38.mp3" startMsecs="0" duration="29610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Relation dose-réponse en toxicologie@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’évaluation de la courbe dose-réponse est d’une importance cruciale en toxicologie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans le cadre de réponses quantitatives, des doses plus élevées de médicaments données à un individu  entrainent habituellement une réponse plus intense, et donc exposent au risque de toxicité&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="43"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="296" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.56" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide43.swf" id="296"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d3c8c3b1d2534ba7b7af86eabb6745f6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="39" duration=" 52560">
+				<media url="a24x39.mp3" startMsecs="0" duration="52560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Relation dose-réponse en toxicologie@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Dans la relation concentration-effet qualitative, le pourcentage de la population affectée augmente quand la dose croit. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce phénomène dose-réponse est très utilisé en toxicologie pré-clinique pour déterminer la dose létale 50 ou dose qui entraine la mort de 50 % des animaux.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette dose létale 50 est déterminée expérimentalement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le produit chimique a évaluer est administré à des souris ou des rats (par voie orale ou intrapéritonéale) à plusieurs doses  de façon à déterminer la dose qui induit la mort de 50 % des animaux. Ces études interviennent très tôt dans la phase de développement de médicament afin d’évaluer son potentiel toxique, et de décider ou non de la poursuite de son développement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="44"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide44.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_89c41b265aad43b3bb6781df6dcb40c9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="45"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

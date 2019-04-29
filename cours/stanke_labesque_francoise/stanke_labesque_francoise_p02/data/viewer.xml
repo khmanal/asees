@@ -1,0 +1,1525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="NaN" defaultSlideDuration="5" start="play" slideTitleFormat="%n. %s" buildNum="11.0.0.133">
+	<presentationTitle>Chapitre 2 : Aspects pharmacocinétiques</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Françoise Stanke-Labesque</name>
+			<speakerTitle>Professeur CHU Grenoble (Université Joseph Fourier)</speakerTitle>
+			<image>spk59237.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_947379affd23477e87a21bfafd207a81yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_d900740b9bcd45dda04077d8037a4f1cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_ddebebb3641a49d9850fd935dc836a24yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_bf126b2553ac464e8705b24909b50149yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_88964a4312d649ffa7e30e21be445aecyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_25bc35ae1f6e4628934a5734ff08c44byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_a2e6c828ebf6418286e58b3717951261yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout5.swf" id="6" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_92cf467d0bde41198c759540bad2529byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout6.swf" id="7" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_b96a394d278144ba8596ff907941f105yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="256" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="11.18" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="256"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f09702b4e8944cc9b661c4f1442ae81byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 11180">
+				<media url="a24x1.mp3" startMsecs="0" duration="11180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Chapitre 2 :  Aspects pharmacocinétiques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="259" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="65.33" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide1.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5f0c0554efcf4dae894939596d11d031yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 65330">
+				<media url="a24x2.mp3" startMsecs="0" duration="65330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects pharmacocinétiques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Je rappelle que la pharmacocinétique correspond à l’étude du devenir du médicament dans l’organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle repose donc sur l ’étude des concentrations de médicament obtenues suite à l’administration d’une dose de médicament. La pharmacocinétique permet l’étude de la relation dose de médicament-concentration (sanguine, plasmatique ..) en médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La connaissance de la pharmacocinétique d’un médicament permet d’en définir les modalités d’administration, à savoir &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-la voie d’administration IV, per os, sublingulae IM, SC, &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-la forme galénique: comprimé gellules&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La posologie en fonction du poids, de la fonction hépatique ou rénale du patient&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Et du rythme d’administration (1 ou 2 prise par jour, perf continue …)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="40.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide2.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4a81507bc4f94dbda532f9791e4f6a41yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 40380">
+				<media url="a24x3.mp3" startMsecs="0" duration="40380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les objectifs du cours seront&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;1- de connaitre le devenir des médicaments dans l’organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous verrons que 4 phases sont individualisées à savoir l’absorption, la distribution,  la métabolisation et l’élimination.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour chacune de ces phases, nous aborderons les notions de bases de pharmacocinétique quantitative cad que nous verrons les principaux paramètres pharmacocinétiques qui permettent des les quantifier&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Enfin, nous étudierons pourquoi les individus ne répondent pas tous de la même façon à un traitement, en abordant les principales sources de variabilité de réponse aux médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="419" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide3.swf" id="419"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a0d5eee4ece241c2be6ab9bac6b4c73eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 5950">
+				<media url="a24x4.mp3" startMsecs="0" duration="5950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects pharmacocinétiques :   l’absorption@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ce premier chapitre va donc s’intéresse à l’absorption des médicaments&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="79.72" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2cecafe83f474ca89554cc0453d33eacyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 79720">
+				<media url="a24x5.mp3" startMsecs="0" duration="79720" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Absorption  (après administration orale)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pour vous présenter la majorité des notions de pharmacocinétique, j’aborderai essentiellement la voie digestive, car:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est une voie indirecte, cad celle où les paramètres sont les plus variables, importants,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est une voie fréquente d’utilisation donc d'intérêt d'autant plus général,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’administration d’un médicament par voie digestive nécessite donc une première étape qui est celle de la libération et de la dissolution du principe actif puis son passage dans la circulation sanguine &lt;/span&gt;&lt;span  fontWeight="bold"&gt;cad sa résorption&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une petite remarque : le terme d’absorption, bien que le plus utilisé peut être ambiguê en ce sens qu’absorber veut aussi dire avaler.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La pharmacocinétique s’intéresse donc à la résorption.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Comme j’ ai essayé de le représenter sur cette diapositive, la résorption nécessite le franchissement par le principe actif de la barrière digestive cad le franchissement  de l’épithélium digestif et le franchissement de l’endothélium vasculaire. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les propriétés physico chimiques des principes actifs vont donc fortement influencer leur résorption.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="440" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="40.01" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide5.swf" id="440"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_395d7f68d3154ec89d2f39c150af3e92yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="85" duration=" 40010">
+				<media url="a24x85.mp3" startMsecs="0" duration="40010" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Absorption des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un premier mécanisme d’absorption des médicaments est leur diffusion passive à travers les phospholipides, qui représentent 80 % de la surface des membrane cellulaires.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce mécanisme de diffusion passive est le principal mécanisme impliqué dans l’absorption.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La diffusion passive s’effectue selon un gradient de concentration du milieu où la molécule est la plus concentrée vers le milieu ou la molécule est la moins concentrée.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En conséquences, en tant que phénomène passif, elle ne consomme pas d’énergie et  n’est pas saturable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="64.27" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide6.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_732e207ae5a54426a5e57be47373bfddyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 64270">
+				<media url="a24x6.mp3" startMsecs="0" duration="64270" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Absorption des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La bicouche lipidique membranaire (représentée en bleu sur cette diapositive) est perméable aux substances qui sont liposolubles&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;donc la diffusion passive concernera surtout les molécules apolaires&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En revanche, la bicouche lipidique des membranes cellulaires est imperméable aux ions Na+, K+, Cl-et aux formes moléculaires ionisées.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;En conséquences, seules les formes moléculaires des médicaments diffuseront à travers la bicouche lipidique&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cela implique que le pH du milieu jouera un rôle important dans l’absorption des médicaments par diffusion passive.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un médicament acide faible sera sous forme moléculaire à pH acide et sera donc plus facilement résorbé en milieu acide (par exemple au niveau de l’estomac). En revanche, ill sera sous forme ionisée en milieu basique et ne sera que peu résorbée en milieu basique (par exemple au niveau de l’intestin grèle).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="441" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="27.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="441"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0e36ea25703b4ff5869fd9958713045dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 27310">
+				<media url="a24x7.mp3" startMsecs="0" duration="27310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Absortion par diffusion passive@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’absorption ou la résorption des médicaments, et de façon plus générale, le passage des médicaments à travers les barrières biologiques par mécanisme passif peut se faire selon différentes modalités &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Par passage transcellulaire : lorsque les cellules sont serrées les unes contre les autres, le médicament doit traverser les cellules elles mêmes et donc traverser&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Par passage paracellulaire: lorsque les cellules sont séparées les une des autres par des jonctions plus lâches, les médicaments peuvent passer par ces jonctions appelées gap jonction (représentés très schématiquement en vert sur cette diapositive) &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="396" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="60.01" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="396"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_078e2289af49430eb014135de346f3f6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 60010">
+				<media url="a24x9.mp3" startMsecs="0" duration="60010" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Diffusion passive@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le transfert passif d’un composé se fait selon un gradient de concentration qui est déterminé par la loi de Fick où le Le flux correspondant à la diffusion passive (cas le nombre de molécule qui diffusent à travers la membrane par unité de temps) est déterminé par l’équation suivante &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C1 = est la concentration la plus élevée de part et d’autre de la membrane&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C2 la concentration la plus faible de part et d’autre de la membrane&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La surface = la surface de la membrane à travers laquelle la diffusion a lieu&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le coefficient de perméabilité = la mesure de la mobilité de la molécule dans le milieu de diffusion&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’épaisseur de la membrane = la longueur du trajet&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="81.89" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition/>
+			<content url="Slide9.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6e654f98aa52423bb5b425180d6cff45yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 81890">
+				<media url="a24x10.mp3" startMsecs="0" duration="81890" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Franchissement des barrières@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Après le passage intercellulaire et le transport passif, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l’absorption par transport actif est&lt;/span&gt;&lt;span &gt; le troisième mécanisme de transfert transmembranaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il nécessite l’existence de transporteurs protéiques, généralement spécifiques d’un composé endogène (acides aminées ou sucres) ou alimentaire, mais qui est de taille trop importante ou trop insoluble dans les lipides pour pouvoir diffuser passivement à travers les membranes. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce système de transport est le seul système de transport transmembranaire qui peut fonctionner contre un gradient de concentration et il nécessite donc de l’énergie. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce transporteur peut être emprunté par un xénobiotique possédant une certaines analogie structurale avec le ligand naturel.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Du fait du nombre restreint de protéines de transport, ce processus est saturable, et peut donner lieu à des phénomènes de compétition entre deux médicaments ou entre un médicament et un composé endogène.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De nombreuses cellules de l’organisme contiennent aussi des transporteurs de membranes qui sont spécialisés pour expulser les xénobiotiques, par exemple la P-glycoproteine ou PgP est un transporteur responsable de la résistance à certains traitements.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="437" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="116.34" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide10.swf" id="437"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0263cf5cfb854ecbad8184bb2f45d0b7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="86" duration=" 116340">
+				<media url="a24x86.mp3" startMsecs="0" duration="116340" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Résorption digestive par mécanisme actif :  rôle des transporteurs entérocytaires@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les transporteurs membranaires fonctionnent généralement de manière coordonnée, pour permettre le passage d’un médicament d’un pôle à l’autre de la cellule.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ils sont localisés soit au niveau de la membrane basolatérale permettant l’extraction du médicament présent dans le sang et son entrée dans la cellule, soit au niveau apical, permettant la sortie du médicament de la cellule vers la lumière.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ils ont principalement localisés au niveau des entérocytes, et joueront donc un rôle dans l’absorption digestive, mais on en trouve aussi au niveau de la barrière hématoencéphalique, et des tubules rénaux, et auront donc respectivement un role dans la distribution et l’élimination des médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On distingue 2 grandes familles de transporteurs : les transporteurs de la familles SLC pour solute carrier et les transporteurs de la famille ABC (ou ATP-binding cassettes)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-les transporteurs de la famille SLC qui permettent l’entrée des substances dans la cellules : on les appelle aussi les transporteurs d’efflux. Les plus importants en pharmacologie sont les AOT ou organic anion transporteurs et les OCT ou organic cation transporters.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-les transporteurs de la famille ABC fonctionnent comme des pompes d’efflux, favorisant l’extrusion des médicaments et toxiques hors de la cellule. Les plus importants en pharmacologie sont la glycoprotéine P et les multidrug resistance related Protein ou MRP.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je ne vous demande de retenir que l’existence des OCT, OAT, PGP et MRP&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="438" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="37.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide11.swf" id="438"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_786d10d2015f47a3a1af0e627a483f2fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="87" duration=" 37910">
+				<media url="a24x87.mp3" startMsecs="0" duration="37910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Franchissement des barrières@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Enfin, certaines substances sont tellement grosses ou tellement peu diffusibles qu’elles ne peuvent pénétrer dans les cellules que par phénomène d’endocytose, Ce processus est schématisé à droite de la diapositive . Il permet à un composé d(être est englobé par la membrane cellulaire et transporté dans la cellule par détachement , à l’intérieur de la membrane, de la vésicule nouvellement formée..&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La substance peut alors être libérée dans le cytosol par rupture de la membrane de la vésicule. Le système de transfert par endocytose est un système de transfert minoritaire, qui concerne surtout les cellules phagocytaires des muqueuses. Ce mécanisme semble surtout impliqué dans l’absorption de substance insolubles et de grande taille.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="432" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide12.swf" id="432"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_302fcc6ccc8f41298d63440e5007fb44yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 18930">
+				<media url="a24x11.mp3" startMsecs="0" duration="18930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L’absorption digestive peut se faire à tous les niveaux du tube digestif@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’absorption digestive peut se faire à tous les niveaux du tube digestif  en particulier au niveau de la cavité buccale, de l’estomac, &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;De l’intestin grêle, du colon ou du rectum.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="45.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide13.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4db4546861714496a850ed2ce17d3bdcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 45220">
+				<media url="a24x12.mp3" startMsecs="0" duration="45220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L’absorption digestive peut se faire à tous les niveaux du tube digestif@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Si je prends, l’exemple de l’estomac, c’est un organe qui présente une surface d’échange de 1 m2, son pH est acide, son débit sanguin de perfusion est faible, et le temps de contact des aliments ou des PA est faible.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’absorption des PA sera donc mineure et concernera surtout les molécules acides qui seront donc sous forme moléculaire au niveau de l’estomac.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous comprenez ainsi aisément que toutes modification du pH gastrique, telle que les modifications de pH induites par certains médicament anti-ulcéreux qui diminuent le pH gastrique, peuvent entrainer une diminution de la résorption gastrique de certains médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="25.27" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide14.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4487ec1752994a0d8d8cf86d3326cb15yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 25270">
+				<media url="a24x13.mp3" startMsecs="0" duration="25270" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@L’absorption digestive peut se faire à tous les niveaux du tube digestif@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Si je prends maintenant l’exemple de l’intestin grêle, sa surface d’échange est très importante,  200 à 300 m2, so pH est plutôt alcalin, le débit sanguin de perfusion est élevé 1 l/m.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous comprendrez aisément que l’absorption des médicaments, qui sont pour une majorité des bases faibles,  se fait pour une très large part au niveau de l’intestin grèle. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="273" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="31.58" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide15.swf" id="273"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_05162a32ef8c40c29468ffd04b735086yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 31580">
+				<media url="a24x14.mp3" startMsecs="0" duration="31580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Paramètres PK mesurant l’absorption @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Nous venons de voir que l’absorption était une phase éminemment variable. Il est de ce fait important de pouvoir la quantifier grâce à des paramètres pharmacocinétiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le premier paramètre est la biodisponibilité, qui est définie comme étant la &lt;/span&gt;&lt;span  fontWeight="bold"&gt;fraction de la dose de principe actif  ou de médicament qui est administrée qui atteint la circulation générale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;La biodisponibilité est intitulé par le lettre F pour fraction.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="427" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide16.swf" id="427"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cd248c5c4ec24a0698484203990da385yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 47980">
+				<media url="a24x15.mp3" startMsecs="0" duration="47980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La biodisponibilité@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Si l’on administre par voie intraveineuse une dose de médicament, &lt;/span&gt;&lt;span  fontWeight="bold"&gt;la totalité de la dose va se retrouver&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontWeight="bold"&gt;dans la circulation générale&lt;/span&gt;&lt;span  fontStyle="italic"&gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous avez représenté, sur ce graphe, l’évolution des concentrations sanguins ou plasmatiques du médicament en fonction du temps après une administration unique par voie IV.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Par définition, on considère donc que la biodisponibilité d’un médicament administré par par voie IV est de 100 %&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontStyle="italic"&gt;On distingue donc &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-la biodisponibilité absolue (F en %) qui correspond au rapport de la quantité en PA absorbée par une voie d’administration extravasculaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La biodisponibilté  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ex médicament dont la biodisponibilité est de 50 % : si on administre 1 g, 500 mg seront dans la circulation générale&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="428" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="115.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide17.swf" id="428"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6fb6e16255a34a40984519f5f4509e11yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 115200">
+				<media url="a24x16.mp3" startMsecs="0" duration="115200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La biodisponibilité absolue (F en %)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Vous avez représenté, sur ce graphe, l’évolution des concentrations sanguins ou plasmatiques du médicament en fonction du temps après une administration unique par voie IV (c’est la courbe bleu) ou après une administration par voie extravasculaire (c’est la courbe en jaune).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un moyen d’évaluer la quantité de médicament qui est passée dans la circulation générale après chacune des voies d’administration est de calculer l’aire sous la courbe ou AUC pour le terme anglo-saxon area under the curve. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si on compare les 2 aires sous la courbes (cad l’aire sous la courbe jaune, et l’aire sous la courbe bleu), on se rend bien compte qu’elle sont différentes et que l’aire sous la courbe du médicament administré par voie extra vasculaire est inférieure à l’aire sous la courbe obtenue après administration par voie IV. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi, lorsqu’un médicament est administré par une autre voie que la voie IV, sa biodisponibilité peut varier de 0 à 100 %.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On définie donc &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-la biodisponibilité absolue (F en %) qui correspond au rapport des aires sous la courbes après administration par voie extravaculaire/l’aire sous la courbe après administration par voie IV. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;Concrètement:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une biodisponibilité absolue de 0,5 pour un médicament signifie que seule la moitié de la quantité administrée est retrouvée dans la circulation générale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi, la dose contenue dans le comprimé ou la gélule ne reflète pas toujours la dose biodisponible&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;F est donc par définition compris entre 0 et 1&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ex médicament dont la biodisponibilité est de 50 % : si on administre 1 g, 500 mg seront dans la circulation générale&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="60.16" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide18.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1b7dd340db714004867e0a351be81b2cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 60160">
+				<media url="a24x17.mp3" startMsecs="0" duration="60160" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La biodisponibilité relative@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La biodisponibilité relative, permet quand à elle de comparer entre elles 2 formes du médicament administrées par la même voie : exemple : comparer la biodisponibilité d’un médicmanent administré sous forme de gelules ou sous forme de comprimés., comprimés et gélules étant administrés par la même voie, le voie orale. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans notre exemple, la biodisponibilité relative sera donc définie comme étant le rapport de l’AUC obtenue après l’administration sous forme de gélule/l’AUC obtenue après administration sous forme de cps., le tout multiplié par 100 pour exprimer le rapport sous forme de porucentage.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La démonstration que ces paramètres sont comparables permet de définir la bioéquivallence des deux formes, qui sera un critère essentiel pour la reconnaissance d’un médicament générique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="431" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="9.06" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide19.swf" id="431"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_25ad405535ef46c99abf22ef7b9fadfcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 9060">
+				<media url="a24x18.mp3" startMsecs="0" duration="9060" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Paramètres PK mesurant l’absorption @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le deuxième paramèrtre qui permettra de quantifier la phase d’absorption est le facteur vitesse d’absorption.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="275" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="73.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide20.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7f914286054146dc84f0d469b9418c5fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 73240">
+				<media url="a24x19.mp3" startMsecs="0" duration="73240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le facteur vitesse d’absorption@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ce facteur vitesse d’absorption est apprécié par &lt;/span&gt;&lt;span  fontWeight="bold"&gt;le temps&lt;/span&gt;&lt;span &gt; (que l’on appellera Tmax) nécessaire pour atteindre la concentration plasmatique ou sanguine de médicament maximale (ou Cmax)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Vous avez ici représenté, sur ces 2 graphes, l’évolution en fonction du temps des concentrations de 2 médicaments, le médicament A, et le médicament B.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="385" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="21.31" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide21.swf" id="385"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f96cc67604a641f5bd8395da8025d51byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 21310">
+				<media url="a24x20.mp3" startMsecs="0" duration="21310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Comprendre l’importance de la phase d’absorption@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En résumé, pour bien comprendre l’importance de la ,phase d’absorption, les 2 paramètres biodisponibilité et vitesse d’absorption&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="272" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="73.27" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide22.swf" id="272"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_649d4efc9adf467ebd5548a35150b629yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 73270">
+				<media url="a24x21.mp3" startMsecs="0" duration="73270" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Facteurs influençant l’absorption@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;l'absorption orale: un phénomène assez aléatoire....&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="442" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="94.84" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide23.swf" id="442"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_af0b36b3c81c4d4da03f9190df606869yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="91" duration=" 94840">
+				<media url="a24x91.mp3" startMsecs="0" duration="94840" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effets de premier passage@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un point sur lequel je souhaiterais attirer votre attention et qui peut limiter la biodisponibilité des médicaments après administration par voie orale, est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;l ’effet de premier passage&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; Cet effet de premier passage se définit comme la perte d’une proportion du médicament ingéré avant son arrivée dans la circulation&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;générale, dès son premier contact avec l’organe responsable de la biotransformation &lt;/span&gt;&lt;span &gt;(intestin, &lt;/span&gt;&lt;span &gt;foie). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En effet, au niveau des entérocytes, ou au niveau des hépatocytes on retrouve les enzymes impliqués dans la biotransformation des médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Un principe actif peut donc subir un effet de 1&lt;/span&gt;&lt;span &gt;er&lt;/span&gt;&lt;span &gt; passage, intestinal et hépatique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le foie étant un organe particulièrement riche en enzymes impliquées dans la biotransformation des médicaments, &lt;/span&gt;&lt;span &gt;l’effet de premier passage hépatique peut avoir une incidence importante sur la biodisponibilité d’un médicament après administration par voie orale.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Qu’appelle t-on effet de premier passage hépatique ? cela correspond au passage du médicament par le foie avant d’atteindre la circulation générale. En effet, un médicament administré par voie orale va traverser la barrière digestive puis arriver au foie via la veine porte. Il sortira du foie via les veines caves pour arriver au cœur et ensuite dans la circulation générale pour atteindre sa cible pharmacologique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="443" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="67.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide24.swf" id="443"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dc3d82c8e8594c1293f20662b0b8c1b9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 67680">
+				<media url="a24x23.mp3" startMsecs="0" duration="67680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Effet du 1er passage hépatique sur la biodisponibilité (administration orale)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;De ce fait, différent cas de figures peuvent se présenter&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-le premier cas de figure est celui d’un médicament administré par voie orale sous sa forme active. Son premier passage au niveau du foie peut le transformer en un produit de transformation que l’on appelle métabolite, faiblement actif  ou inactif : dans ce cas le médicament A aura donc une mauvaise biodisponibilité par voie orale&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-Le deuxième cas de figure est celui d’un médicament B administré par voie orale sous sa forme active : son premier passage hépatique peut le transformer en métabolite actif : dans ce cas l’effet de premier passage hépatique n’affectera pas l’efficacité du traitement&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-Le troisième cas de figure est le cas d’un médicament C administré sous forme inactive : on parlera alors de &lt;/span&gt;&lt;span  fontWeight="bold"&gt;pro-médicament&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lors de son premier passage hépatique, ce médicament subira une transformation chimique qui le convertira en un métabolite actif suceptible d’induire son effet thérapeutique&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="420" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6.98" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide25.swf" id="420"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e8951f0df71c4d75a39d000c31a30738yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 6980">
+				<media url="a24x24.mp3" startMsecs="0" duration="6980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects pharmacocinétiques :  la distribution@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le chapitre que nous allons voir ensemble maintenant s’interesse à la phase de distribution. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="414" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="24.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide26.swf" id="414"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3b8a0de4c220411395bb93ff84d2893ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 24550">
+				<media url="a24x25.mp3" startMsecs="0" duration="24550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Je rappelle que cette phase de distribution intervient après la phase d’absorption du médicament que nous venons de voir;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On résume sous le terme de distribution le devenir du médicament au niveau sanguin, puis sa diffusion au niveau tissulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;La phase de distribution comprend donc le transport sanguin et la distribution tissulaire&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="284" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="31.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide27.swf" id="284"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9cdb63f9b55b4ae6b76e144a0f594957yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="8140" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 31680">
+				<media url="a24x26.mp3" startMsecs="0" duration="31680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Distribution@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;pour diffuser dans les tissus de l’organisme, le médicament doit à nouveau franchir à des &amp;quot;barrières&amp;quot; biologiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Nous retrouverons les mêmes modes de de franchissement des barrières biologiques, à savoir la diffusion intercellulaire, la diffusion passive et le transport actif. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Notons que la diffusion est un phénomène réversible cad qu’elle peut s ’effectuer du sang vers les tissus et des tissus vers le sang pour son élimination&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="291" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="51.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide28.swf" id="291"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2bf551e019de478d94dfbf9774b06ae1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 51930">
+				<media url="a24x27.mp3" startMsecs="0" duration="51930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Facteurs influençant la distribution des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme pour la phase de résorption, un certain nombre de facteurs influencent la distribution des médicaments, tel que leur poids moléculaire, leur propriétés physico chimiques , telles que la lipophilie qui peut favoriser la distribution des médicaments dans les graisses et le système nerveux central;la présence de transporteurs qui vont faciliter ou limiter l’entrée des médicaments ou des toxiques dans les cellules. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A titre d’exemple, on peut citer l’existence de très nombreux transporteurs au niveau de la barrière hématoencéphalique. Leur présence au niveau de la barrière hématoencéphalique jouen un rôle important dans la protection du système nerveux central, mais peut également nuire à la bonne efficacité des médicaments en limitant leur diffusion au niveau intra-cérébral&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="439" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.62" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide29.swf" id="439"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6a1a2e63bc8d41f58b1ba00a13880e2cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="88" duration=" 47620">
+				<media url="a24x88.mp3" startMsecs="0" duration="47620" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Facteurs influençant la distribution des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un autre facteur important qui influence la distribution des médicaments est la liaison aux protéines plasmatiques, albumine essentiellement, et alpha glycoprotéine).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette liaison aux protéines plasmatiques obéit à la loi d’action de masse.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il s’instaure donc un état d’équilibre entre la concentration de médicament libre, la concentration de protéines plasmatiques et la concentration de médicaments liée aux protéines plasmatiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce phénomène de liaison est &lt;/span&gt;&lt;span  fontWeight="bold"&gt;saturable&lt;/span&gt;&lt;span &gt;, et il peut y donner lieu à un phénomène de compétition entre 2 médicaments ou entre  un médicament et une substance endogène, également liée aux protéines plasmatiques, telles que la bilirubine.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="292" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="76.74" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide30.swf" id="292"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7bf976bcfe0746c8a4b10e3800e1cc05yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 76740">
+				<media url="a24x30.mp3" startMsecs="0" duration="76740" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de fraction libre@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="294" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="71.86" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide31.swf" id="294"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8b23beec8e6f4bc1bbe8a8b5e0647cfayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 71860">
+				<media url="a24x31.mp3" startMsecs="0" duration="71860" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Paramètres affectant la liaison aux protéines plasmatiques@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un certains nombre de paramètres affectent la liaison des médicaments aux protéines plasmatiques :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-Leur affinité pour le site de liaison qui conditionnera le pourcentage de liaison d’un médicament donné. La liaison d’un médicament aux protéines plasmatiques est considérée comme forte si elle est supérieure à 95 %&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-la concentration en protéines plasmatiques , qui en fonction des situations physiopathologiques, peut varier.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si la concentration en protéines plasmatiques diminue (dans le cas d’une néphropathie par exemple), le pourcentage de médicament lié aux protéines plasmatiques diminue et donc sa fraction libre augmente, donc la quantité de médicament &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-lla cométition entre médicament et produit endogène ou 2 médicaments entre eux aux niveaux de sites de liaison des protéines plasmatique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="298" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="19.67" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide32.swf" id="298"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_28745d73df224640a9c3092ca0e12f12yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="34" duration=" 19670">
+				<media url="a24x34.mp3" startMsecs="0" duration="19670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Diffusion des médicaments et grossesse et/ou allaitement@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les mécanismes de diffusion présentés précédément expliquent pourquoi certains médicaments passent la barrière foetoplacentaire ou passent dans le lait maternel, et sont donc de ce fait contre-indiqés en cas de grossesse ou d’allaitement.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="299" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="42.5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="299"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9f190879640c474bb6e24e91d752ba16yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="35" duration=" 42500">
+				<media url="a24x35.mp3" startMsecs="0" duration="42500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Paramètre mesurant la distribution :  le  volume de distribution (Vd)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La quantification de la diffusion d’un médicament se fait par l’intermédiaire du volume de distribution&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="300" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide34.swf" id="300"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_67b918ef32724151821d2ddf696eee1byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="36" duration=" 57750">
+				<media url="a24x36.mp3" startMsecs="0" duration="57750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de volume de distribution (Vd)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Voici, à titre d’exemple, le volume de distribution de 3 molécules.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces exemples ne sont bien sur pas à retenir mais permettent d’illustrer la variabilité des volumes de distribution, et l’aspect fictif du volume de distribution.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="444" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="96.39" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide35.swf" id="444"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1c4b51c1e30f4088bb1b796fc5db5f59yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="92" duration=" 96390">
+				<media url="a24x92.mp3" startMsecs="0" duration="96390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Une expérience simple@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Cette notion de volume de distribution pose souvent des difficultés de compréhension.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour essayer de mieux la comprendre, je vous propose une expérience simple.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Prenons 2 flacons de 1 L que l’on va remplir avec 1 l d’eau.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Dans le premier flacon, je vais introduire 10 mg de principe actif. Soluble dans l’eau.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je mesure la concentration de ce principe actif, et trouve une concentration de 10 mg/. Le volume de distribution est donc de 10/10 = 1 L&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si je refais la même expérience, mais en ayant au préalable mis dans la bouteille du charbon activé qui a la capacité d’adsorber le principe actif.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span  fontStyle="italic"&gt;(&lt;/span&gt;&lt;span  fontStyle="italic"&gt;L'adsorption est un processus où un solide est employé pour enlever une substance soluble de l'eau. Dans ce &lt;/span&gt;&lt;span  fontStyle="italic"&gt;process&lt;/span&gt;&lt;span  fontStyle="italic"&gt;, le charbon actif est le solide. Le charbon actif est produit spécifiquement pour couvrir une surface interne très grande (entre 500 et 1500 m&lt;/span&gt;&lt;span  fontStyle="italic"&gt;2&lt;/span&gt;&lt;span  fontStyle="italic"&gt;/g). Cette grande surface rend le charbon actif idéal pour l'adsorption. Il existe deux formes de charbons actifs).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Si dans mon expérience, je mesure la concentration en principe actif dans l’eau et que je la trouve à 2 mg/L, alors le volume de distribution de mon principe actif selon &lt;/span&gt;&lt;span &gt;les conditions &lt;/span&gt;&lt;span &gt;expérimentales décrites est de 10/2 = 5 l. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pour transposer au corps humain, il me suffit de remplacer la solution aqueuse par le plasma et le charbon activé par les tissus : et je constate que plus un principe actif se distribue dans les tissus, plus son volume de distribution est élevé, et plus sa concentration plasmatique est faible.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="301" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="26.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide36.swf" id="301"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8421b759f8be4706938c409016f98e1dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="37" duration=" 26960">
+				<media url="a24x37.mp3" startMsecs="0" duration="26960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Volume des fluides corporels@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="302" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="41.14" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide37.swf" id="302"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5f8471c1de5843efbf768e779a135c73yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="38" duration=" 41140">
+				<media url="a24x38.mp3" startMsecs="0" duration="41140" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de volume de distribution@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="304" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="41.58" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide38.swf" id="304"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a5933cac09014a0eaffeb739cff2735dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="39" duration=" 41580">
+				<media url="a24x39.mp3" startMsecs="0" duration="41580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de volume de distribution@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="421" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6.21" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide39.swf" id="421"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e5824b9deb344043b3ffd719938ccf4dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="41" duration=" 6210">
+				<media url="a24x41.mp3" startMsecs="0" duration="6210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects pharmacocinétiques :   la métabolisation@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="415" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="10.57" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide40.swf" id="415"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a3ea664a29ca4c62b3bcc4038ede437eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="42" duration=" 10570">
+				<media url="a24x42.mp3" startMsecs="0" duration="10570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La métabolisation est la troisième étape pharmacocinétique qui caractérise le devenir du médicament dans l’organisme. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="312" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="39.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide41.swf" id="312"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2df64bcaa1d14398ad88937995f58096yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="43" duration=" 39830">
+				<media url="a24x43.mp3" startMsecs="0" duration="39830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Métabolisme@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le métabolisme est, par définition, la conversion chimique irréversible d’une espèce chimique en une autre.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On parle de métabolisme, ou métabolisation ou biotransformation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La finalité de la phase de métabolisation est la détoxification de l’organisme , cad la diminution de l’activité ou l’élimination des composés que l’organisme considère comme toxiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il existe cependant une exception importante : le cas des pro-médicaments encore appelés pro-drogues qui sont des médicaments inactifs dans leur forme initiale, et qui nécessitent une étape de biotransformation pour devenir actifs.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="42"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="410" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="32.57" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide42.swf" id="410"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ddb759ab99584f4f9cfc6d82f62cabe0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="44" duration=" 32570">
+				<media url="a24x44.mp3" startMsecs="0" duration="32570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Biotransformation des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;On peut ainsi résumer l’influence de la phase de biotransformation sur le devenir du médicament :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-un médicament actif peut être biotransformé en métabolite, lui aussi actif&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-un médicament actif peut être biotransformé en un métabolite inactif, c’est souvent le cas des médicaments à effet de premier passage hépatique important&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-un médicament inactif que l’on appelle aussi pro-médicament, peut être biotransformé en un métabolite actif.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="43"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="314" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="22.07" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide43.swf" id="314"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1cebb41eaa2a47a783aed2effa730084yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="45" duration=" 22070">
+				<media url="a24x45.mp3" startMsecs="0" duration="22070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Le foie est le lieu principal mais non exclusif de la biotransformation des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le foie est le principal organe impliqué dans la biotransformation des médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cependant, ce n’est pas l’organe exclusif de la biotransformation des médicaments puisqu’elle s’effectue aussi au niveau de la barrière hémato-encéphalique, au niveau pulmonaire, au niveau rénal ou au niveau des entérocytes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="44"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="316" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="45.34" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide44.swf" id="316"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5079bc7341fc4335a80643426b76fd03yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="46" duration=" 45340">
+				<media url="a24x46.mp3" startMsecs="0" duration="45340" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Biotransformation des medicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme je vous l’ai indiqué dans une diapositive précédente, la fonction primaire de la  biotransformation est une fonction de détoxification de l’organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’organisme va donc tout mette en jeu pour éliminer le xénobiotique et donc le modifier sur le plan chimique. Cela consistera à transformer les molécules apolaires liposolubles  en molécules polaires hydrosolubles, de façon à favoriser leur élimination. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Deux types de réactions chimiques peuvent intervenir : &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les réactions de phase 1 ou réaction de fonctionnalisation&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-les réactions de phase 2 ou réaction de conjugaison.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Je vais maintenant vous détailler ces 2 types de réactions. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="45"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="392" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="28.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide45.swf" id="392"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ad67ec00a42c46188b44fb2e7a62abe1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="47" duration=" 28960">
+				<media url="a24x47.mp3" startMsecs="0" duration="28960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les réactions de phase 1@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La phase 1 comporte des réactions d’hydroxylation dont le mécanisme réactionnel implique une oxydation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elles comportent des réactions d’hydroxylation, R pouvant être aliphatique ou aromatique, et C un carbone,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-des réactions de N-oxydation ou de S-oxydation&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-des réactions de N ou O-déalkylation&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="46"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="393" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="95.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide46.swf" id="393"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8fb91aa1a0d94816a515f4e4b29a8ae9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="48" duration=" 95190">
+				<media url="a24x48.mp3" startMsecs="0" duration="95190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les enzymes de la phase 1@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Ces réactions d’oxydation sont essentiellement réalisées par des enzymes appartenant à la superfamille des cytochrome P450.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le cytochrome P-450 constitue, en fait, non pas une enzyme unique mais une famille d'iso-enzymes à fer, métabolisant préférentiellement tel ou tel type de médicaments. Les changements du degré d'oxydoréduction du fer sont à l'origine des biotransformations catalysées par l'enzyme. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il existe un grand nombre d’iso-enzymes du cytP450, classées en familles désignées par un chiffre : 1, 2 ,3&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Chaque famille pouvant se subdivise en sous groupes désignés par les lettres, A, B …&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Chaque famille métabolise des substrats déterminés, &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il existe un grand nombre d'iso-enzymes du cytochrome P450 ou CYP, classées en familles désignées par les chiffres 1, 2, 3, chaque famille pouvant se subdiviser en sous-groupes désignés par les lettres A, B etc. Chaque famille métabolise préférentiellement des substrats déterminés, certains d'entre eux étant inducteurs de l'iso-enzyme correspondante. Certaines substances sont des inhibiteurs. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;CYP 1A2 qui métabolise, par exemple, la caféine, la théophylline, la clozapine, l'imipramine, la tacrine. Il est induit par le tabac. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;CYP 2C9 qui métabolise la phénytoïne, le tolbutamide, l'ibuprofène, la warfarine. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;CYP 2I9 qui métabolise, l'oméprazole, le moclobémide, le diazépam, l'imipramine. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;CYP 2D6 qui métabolise divers antidépresseurs, divers neuroleptiques, divers b-bloquants. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;CYP 3A, notamment le 3A4 qui métabolise la clozapine, la terfénadine, le cisapride, l'érythromycine, la ciclosporine, la nifédipine. ainsi que le cortisol, la progestérone, la testostérone. Le kétoconazole, l'érythromycine sont des inhibiteurs des CYP 3A. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;CYP 2E1 qui métabolise les petites molécules dont les anesthésiques volatils. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;On constate que le même médicament peut être métabolisé par deux ou plusieurs iso-enzymes différentes. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="47"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="321" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="37.64" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide47.swf" id="321"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e188536c029f45a5954e6468585ea4c7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="49" duration=" 37640">
+				<media url="a24x49.mp3" startMsecs="0" duration="37640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Réactions de conjugaison (phase 2)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La phase 2 comporte des réactions de conjugaison, soit par l’acide glucuronique (glucuroconjugaison), la glycine (glycoconjugaison), soit par le sulfate (sulfoconjugaison), ou encore l’acétate (N acétyl transférases).&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La glucuroconjugaison constitue le mécanisme principal. Elle est catalysée par des UDP-glucuronyl transférase qui favorisent la fixation de l’acide gllucuronique sur un atome d’oxygène ou un atome de souffre de la molécule&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="48"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="395" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="20.71" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide48.swf" id="395"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8cb5534113264fabaa5322b12b2b44d5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="50" duration=" 20710">
+				<media url="a24x50.mp3" startMsecs="0" duration="20710" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les enzymes de la phase 2@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La glucuroconjugaison constitue le mécanisme principal. Elle est catalysée par des UDP-glucuronyl transférase qui favorisent la fixation de l’acide gllucuronique sur un atome d’oxygène ou un atome de souffre de la molécule&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="49"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="390" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.81" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide49.swf" id="390"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a719cb9e2a5a46388ba5a763b09f34eayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="11660" isStartRelative="false" duration="167"/>
+				<click startTime="26660" isStartRelative="false" duration="167"/>
+				<click startTime="34760" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="51" duration=" 52810">
+				<media url="a24x51.mp3" startMsecs="0" duration="52810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Exemple@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Un médicament peut être métabolisé par diverses enzymes . Les métabolites peuvent être actifs ou inactifs&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La morphine est un exemple de molécules qui est biotransformée par de nombreuses voies&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La morphine est métabolisée au niveau du foie selon 2 types de réactions&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-réaction d’oxydation :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Morphine N-oxyde&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;N-normorphine&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-réaction de conjugaison&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Morphine 3-glucuronide (54 à 74 %, peu actif)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Morphine 6-grucuronide (&amp;lt;1 % mais puissant agoniste µ&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Morphine 3-sulfate (7.5 à  12 %)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="50"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="346" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="25.76" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide50.swf" id="346"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_73744e1c2a85477c8fd3d6f271922dcayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="52" duration=" 25760">
+				<media url="a24x52.mp3" startMsecs="0" duration="25760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Pourquoi connaître la biotransformation des médicaments ?@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pourquoi est-il important de connaitre la biotransformation des médicaments ?&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il est important de connaitre la biotransformation des médicaments d’une part afin de prévenir certaines interactions médicamenteuses, et d’autre part,  afin de comprendre &lt;/span&gt;&lt;span  fontWeight="bold"&gt;voire d’anticiper&lt;/span&gt;&lt;span &gt; la variabilité de la réponse à un traitement. Et nous allons voire qu’il existe une susceptibilité génétique à la réponse à certains médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="51"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="408" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="21.23" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide51.swf" id="408"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_df4dace7acaf48fc84d356f3c99ea39cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="53" duration=" 21230">
+				<media url="a24x53.mp3" startMsecs="0" duration="21230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Interactions médicamenteuses@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Concernant les interactions médicamenteuses, certains principes actifs sont capables d’induire la synthèse des cytochrome P450, cad qu’ils vont agir sur les gènes impliqués dans la synthèse des cytochromes P450.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’inverse, d’autres principes actifs vont inhiber l’activité des cytochromes P450.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="52"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="328" showInTOC="" inSequence="" frameRate="30" totalFrames="60" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide52.swf" id="328"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9c7b527200454f2abb2f34d7872af4ceyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="810" isStartRelative="false" duration="534"/>
+				<click startTime="2210" isStartRelative="false" duration="534"/>
+				<click startTime="16720" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="54" duration=" 43520">
+				<media url="a24x54.mp3" startMsecs="0" duration="43520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Inhibition de la biotransformation par les cytochromes P450@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’inhibition des cytochromes P450 peut se faire selon 2 mécanismes :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Une inhibition réelle cad que le médicament va se fixer sur le site catalytique du cytochrome P450 et l’inhiber&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ou, une  compétition entre 2 médicaments administrés simultanément et fixées et métabolisées par le m^me cytochrome/ Ce deuxième mécanisme, plus fréquemment impliqué, résulte d’une affinité différente des 2 molécules administrées en même temps. Dans ces conditions, certains médicaments peuvent se comporter comme des inhibiteurs du métabolisme de substance moins affine, mais avoir également leur métabolisme inhibé par d’autres médicaments moins affines&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="53"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="345" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="113.52" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide53.swf" id="345"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1c6e86497e514d4ab9a29ed6665da09fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="55" duration=" 113520">
+				<media url="a24x55.mp3" startMsecs="0" duration="113520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Interactions médicamenteuses et Cytochromes P450@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Sur le plan biologique et cliniques,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’inhibition des cytochromes P450 par un médicament aura pour conséquences :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-une diminution de l’activité enzymatique des cytochromes P450 et donc du métabolisme du médicament associé&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-une augmentation de la concentration du médicament qui est associé, ce qui peut avoir pour conséquences un renforcement de l’effet thérapeutique ou l’apparition d’une toxicité&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;A l’inverse, l’induction des cytochromes P450 par un médicament inducteur entraine une augmentation de l’activité enzymatique et donc du métabolisme, ce qui aura en général pour conséquence  une diminution de la concentration en médicament qui sera associé et donc soit une&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;perte d’efficacité thérapeutique, qui nécessite souvent une augmentation de la posologie du médicament associé&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;En revanche, si le métabolite généré est toxique, l’association d’un médicament inducteur enzymatique peut être à l’origine d’une toxiité.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="54"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="411" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide54.swf" id="411"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6b659cab323941afb6752e074a8de30dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="56" duration=" 13680">
+				<media url="a24x56.mp3" startMsecs="0" duration="13680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Pourquoi connaître la biotransformation des médicaments ?@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme je vous l’ai indiqué en préambule, il est également important de connaitre la biotransformation des médicaments car il existe une variabilité génétique interindividuelle de leur métabolisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="55"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="347" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="23.32" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide55.swf" id="347"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_38e0cb8a319e4055af38dfb20d1fae9fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="57" duration=" 23320">
+				<media url="a24x57.mp3" startMsecs="0" duration="23320" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de polymorphisme génétique@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;En effet, il existe ce que l’on appelle un polymorphisme génétique pour certains gènes codant pour des enzymes impliquées dans la biotransformation des médicaments. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il existe ainsi dans la population générale différents versions alléliques d’un même gène. Sa fréquence doit être &amp;gt;1 % dans la population générale pour que l’on parle de polymorphisme génétique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="56"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="352" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="83.14" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide56.swf" id="352"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_06afbad1a33746e3b198c80fc5176969yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="58" duration=" 83140">
+				<media url="a24x58.mp3" startMsecs="0" duration="83140" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Polymorphismes génétiques et risques associés@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les polymorphismes rencontrés, peuvent correspondre à une duplication du nombre de copies du gène codant pour l’enzyme, une délétion, ou une mutation du gène codant pour l’enzyme impliquée dans la biotransformation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ces polymorphismes génétiques vont avoir des conséquences fonctionnelles&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ainsi une duplication du gène codant pour le cytochrome, va avoir pour conséquences une augmentation de l’expression des cytochrome P450 et donc une augmentation de l’activité enzymatique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Cette augmentation de l’activité enzymatique sera associée à une augmentation de la métabolisation avec sur le plan thérapeutique, un risque d’inefficacité ou un risque de toxicité si le métabolite généré est toxique.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La délétion d’un gène codant pour peut avoir pour conséquences l’absence d’expression de l’enzyme, ce qui sera associé à une non métabolisation du médicament.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le médicament n’étant pas métabolisé; il s’accumulera dans l’organisme et expose le patient à une risque de toxicité.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-Une mutation se traduira par une diminution de l’activité enzymatique, et donc une métabolisation réduite, ce qui expose à nouveau le patient à un risque d’accumulation de principe actif et donc à un risque de toxicité.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="57"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="407" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="49.44" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide57.swf" id="407"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ee28768a386a449c99e54aa8fc7bce70yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="59" duration=" 49440">
+				<media url="a24x59.mp3" startMsecs="0" duration="49440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Ex polymophisme génétique du CYTP450 2D6@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Une illustration des conséquences cliniques de l’existence de polymorphismes génétiques sur la réponse cliniqiue à un traitement est &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;la biotransformation de la codéine en morphine;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La codéine est un opiacé biotransformé en morphione par le cytochrome P450 2D6.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Chez des patients métaboliseurs ultra rapides, cad présentant une augmentation du nombre de copies du gène codant pour le cytP450 2D6, la codéine est beaucoup plus métabolisée en morphine,que dans la population « sauvage » ce qui entraine l’apparition d’effets indésirables typiques de la morphine, comme la sédation et des douleurs abdominales importantes.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="58"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="358" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="43.99" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide58.swf" id="358"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_360fc618dc3640e98d8fa3da543f85d1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="60" duration=" 43990">
+				<media url="a24x60.mp3" startMsecs="0" duration="43990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Principaux polymorphismes génétiques impliqués dans les  réactions de phase 1 de biotransformation des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;De nombreuses isoformes des cytochromes P450 font l’objet d’un polymorphisme génétiques et ont donc des conséquences cliniques importantes s sur un grand nombre de médicaments.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les enzymes intervenant dans les réactions de phases 1 ne sont pas les seules à faire l’objet de polymophismes génétiques, en effet des transférases intervenant dans les réactions de phase 2 peuvent aussi faire l’objet de polymorphismes génétiques&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="59"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="422" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide59.swf" id="422"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_678ecb99f80941fdb050f4eacf8c5772yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="3000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects pharmacocinétiques :   l’élimination@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;L’étape finale du devenir du médicament est son élimination de l’organisme;&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce procéssus d’élimination intervient après la phase de métabolisation.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il peut concerner le médicament sous forme inchangé », le métabolite inactif, le métabolite actif, le métabolite toxicque, un métabolite conjugué, un médicament conjugué.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="60"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="416" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6.5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide60.swf" id="416"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ae0fd4e03e8e4da19a58b85191ea621cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="62" duration=" 6500">
+				<media url="a24x62.mp3" startMsecs="0" duration="6500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La dernière phase pharmacocinétique que nous présenterons est la phase d’ »éliminqtion&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="61"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="400" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="52.5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide61.swf" id="400"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2c820e66b01c48ffb8d85f925bf2a035yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="63" duration=" 52500">
+				<media url="a24x63.mp3" startMsecs="0" duration="52500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Elimination ou excrétion des médicaments@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les xénobiotiques et leurs métabolites, comme les substances endogènes, sont principalement éliminés de l’organisme par voie fécale, urinaires, et pour certains d’entre eux, par voie pulmonaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Ce phénomène d’élimination est très important car toute insuffisance de l’organe responsable de l’élimination se traduit par un ralentissement de l’élimination et un risque accru d’accumulation pouvant entrainer des effets toxiques.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Il existe également des voies accessoires d’élimination, dont certaines revêtent un intérêt particulier pour le toxicologue: la sueur, la salive et les phanères&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="62"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="402" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="35.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide62.swf" id="402"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_83c75340241d40bdbf62661952856a3ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="64" duration=" 35680">
+				<media url="a24x64.mp3" startMsecs="0" duration="35680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Elimination par voie urinaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Je me limiterai, dans ce cours, à vous présenter l’élimination par voie urinaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Trois mécanismes principaux déterminent l’excrétion urinaire des principes actifs&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-la filtration glomérulaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-la sécrétion tubulaire&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;-la réabsorption tubulaire.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="63"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="365" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="60.39" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide63.swf" id="365"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7fc3235626d8453f99b7fd2fa6456021yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="65" duration=" 60390">
+				<media url="a24x65.mp3" startMsecs="0" duration="60390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La filtration glomérulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La filtration glomérulaire est un processus de filtration du plasma. Elle conduit à la formation de l’ultra filtrat (200 l par jour) dont une grande quantité va être sécrétée et réaborbée pour conduire à la formation d’urine définitive (1 à 2 l par jour)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;La filtration glomérulaire est un phénomène passif de filtration du plasma et des solutés des masse&amp;lt;65000 daltons.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span  fontWeight="bold"&gt;L’albumine ayant une masse moléculaire de 69 000 dalton elle n’est pas filtrée;, si bien que les toxiques liés aux protéines plasmatiques ne peuvent être éliminés par cette voie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;L’ultra filtrat est ensuite modifié par sécrétion tubulaire et réabsorption tubulaire afin de conserver les substances qui ont des fonctions essentielles (eau, glucose, acides aminés, électrolytes)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="64"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="366" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="40.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide64.swf" id="366"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3169756abb2c4202b007d65254d7138eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="66" duration=" 40820">
+				<media url="a24x66.mp3" startMsecs="0" duration="40820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La sécrétion tubulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La sécrétion tubulaire consiste à transporter les substances du plasma péritubulaire vers la lumière tubulaire (phrase à réenregistrer)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;C’est le processus qui permet l’apparition de constituants non filtrés dans l’urine définitive.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle s’effectue au niveau du tube contourné proximal par un processus actif qui nécessite un apport d’énergie.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Elle se fait par l’intermédiaire de transporteur donc est un phénomène saturable, qui peut donner lieu à une compétition entre 2 médicaments ou un médicament et une substance endogène ( la choline, histamine)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="65"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="367" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="77.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide65.swf" id="367"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_52f34a6367a5428686dd03ed463f9886yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="67" duration=" 77820">
+				<media url="a24x67.mp3" startMsecs="0" duration="77820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@La réabsorption tubulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;La réabsorption tubulaire définit le passage d’une molécule de  la lumière du néphron dans le sang. C’est le processus par lequel les éléments filtrés sont réabsorbées et disparaissent de l’urine définitive .&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La réabsorption concerne surtout les substances endogènes telles que le glucose, les &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;REABSORPTION&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;ACTIVE&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;composés endogènes / transporteurs&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;molécules organiques		glucose, AA, vitamines&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;électrolytes				Na+    Ca++   K+&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;PASSIVE&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;eau		suit le Na+&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;			concentration de l'urine primitive&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="66"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="436" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.58" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide66.swf" id="436"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fb2aefbbf2b74e8194eaf5982b7c16e5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="89" duration=" 14580">
+				<media url="a24x89.mp3" startMsecs="0" duration="14580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Présence de nombreux transporteurs au niveau tubulaire@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;, au niveau tubulaire on retrouve aussi de très nombreux transporteurs qui vont soit favoriser l’excrétion urinaire de médicaments par transport actif, soit limiter leur excrétion en favorisant leur réabsorption&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="67"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="445" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14.38" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide67.swf" id="445"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ad4b7a872d0343e3ae83f31d29a3eea3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="93" duration=" 14380">
+				<media url="a24x93.mp3" startMsecs="0" duration="14380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Au total@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="68"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="373" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="33.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide68.swf" id="373"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1d0ac6b76afd4954813293fe3b709842yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="68" duration=" 33930">
+				<media url="a24x68.mp3" startMsecs="0" duration="33930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Place des reins et du foie dans le processus d’excrétion@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Comme je vous l’ai indiqué en introduction, la métabolisation et l’élimination ont une fonction de détoxification de l’organisme.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Le foie permet essentiellement une transformation chimique du principe actif destiné à le rendre plus polaire et donc plus hydrosoluble, le rein quant à lui ayant pour mission essentiellement d’éliminer ou d ’ecxcréter les molécules hydrophiles.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="69"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="401" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide69.swf" id="401"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b5af5043f0214c1dae0c65ebc5d2a8d2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="69" duration=" 18280">
+				<media url="a24x69.mp3" startMsecs="0" duration="18280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Elimination par voie fécale@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Les toxiques ayant pénétré dans l ’hépatocyte sont excrétés dans la bile, soit par diffusion passive, soit par transport actif.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="70"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="374" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="31.29" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide70.swf" id="374"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_79b44404088e482790b3acbb8dc7236ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="70" duration=" 31290">
+				<media url="a24x70.mp3" startMsecs="0" duration="31290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de clairance@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Le paramètre pharmacocinétique permettant de quantifier l’élimination d’un médicament est sa clairance.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;La clairance est définit comme étant le volume de plasma totalement épuré d’une substance par unité de temps.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="71"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="375" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="38.11" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide71.swf" id="375"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c0c5de2ccdd846919afdf32e3e9a67d5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="71" duration=" 38110">
+				<media url="a24x71.mp3" startMsecs="0" duration="38110" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de clairance@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="72"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="377" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="36.88" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide72.swf" id="377"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cd0eb64cb4ba4165b0d1424bb56e7192yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="73" duration=" 36880">
+				<media url="a24x73.mp3" startMsecs="0" duration="36880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Autres voies d’excrétion@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="73"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="378" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="42.26" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide73.swf" id="378"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e25fc9ff4aba434d8200e697376f8e62yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="74" duration=" 42260">
+				<media url="a24x74.mp3" startMsecs="0" duration="42260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Calcul de la clairance@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="74"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="379" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="31.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide74.swf" id="379"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_24e657e90dd94034b2478f12645b019eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="75" duration=" 31920">
+				<media url="a24x75.mp3" startMsecs="0" duration="31920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Notion de demi-vie d’élimination@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="75"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="413" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="38.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide75.swf" id="413"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5711cae043d241d4af00eac0c9eec0d2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="76" duration=" 38550">
+				<media url="a24x76.mp3" startMsecs="0" duration="38550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Comprendre l’importance de la T1/2@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="76"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="380" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="37.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide76.swf" id="380"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8f88ca621499418e8b80a17e4f6c164dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="77" duration=" 37950">
+				<media url="a24x77.mp3" startMsecs="0" duration="37950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Comprendre l’importance de la T1/2@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="77"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="423" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="7.68" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide77.swf" id="423"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2b0c2b988f834a359f90ec049740b337yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="78" duration=" 7680">
+				<media url="a24x78.mp3" startMsecs="0" duration="7680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Aspects pharmacocinétiques :   les sources de variabilité de la réponse à un médicament@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="78"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="418" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="9.53" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide78.swf" id="418"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_48f06d61a65e4e1b93accb98fcfcefa7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="79" duration=" 9530">
+				<media url="a24x79.mp3" startMsecs="0" duration="9530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Objectifs du cours@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;première phase: entrée du médicament dans l'organisme,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;entrée par différentes voies,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;on focalisera l'étude sur la voie digestive car:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;indirecte donc celle où les paramètres sont les plus variables, importants,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;fréquent donc d'intérêt d'autant plus général,&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="79"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="409" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="89.54" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide79.swf" id="409"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ae590f2a7f18423cbcf5e8c7d53a6dccyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="80" duration=" 89540">
+				<media url="a24x80.mp3" startMsecs="0" duration="89540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Sources de variabilité de la réponse à un traitement@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="80"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="391" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="41.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide80.swf" id="391"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c421fbecbad447e38c0148d54a93f79dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="81" duration=" 41240">
+				<media url="a24x81.mp3" startMsecs="0" duration="41240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Sources de variabilité de la réponse à un traitement@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;-le contexte physiopathologie :&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Les malades peuvent différer par la vitesse de resorption d’un médicament, par sa distribution à travers les compartiments dans l’organisme, ou par l’élimination&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="81"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="417" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="58.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide81.swf" id="417"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2f15c12df2da426d9d608a3edcffc6f2yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="82" duration=" 58200">
+				<media url="a24x82.mp3" startMsecs="0" duration="58200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Les paramètres pharmacocinétiques@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="82"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide82.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_27aa1342464945ce9dfdfc47fe390b55yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Mentions légales@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="83"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="false" showScores="true" showPassScore="false" showCurrentScore="false" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="false"></quizSettings>
+	</quizzes>
+	<attachments></attachments>
+</presentation>
